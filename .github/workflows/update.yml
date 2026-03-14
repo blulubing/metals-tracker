@@ -2,9 +2,8 @@ name: 每日更新金属数据
 
 on:
   schedule:
-    # 每天 UTC 时间 06:00 运行（北京时间 14:00）
     - cron: '0 6 * * *'
-  workflow_dispatch:  # 允许手动触发
+  workflow_dispatch:
 
 jobs:
   update-data:
@@ -29,11 +28,11 @@ jobs:
           TWITTER_BEARER: ${{ secrets.TWITTER_BEARER }}
         run: python fetch_data.py
 
-      - name: 提交更新后的 data.json
+      - name: 提交更新后的数据文件
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
           git pull --rebase origin main
-          git add data.json
+          git add data.json history.json
           git diff --quiet --cached || git commit -m "自动更新数据 $(date -u)"
           git push
