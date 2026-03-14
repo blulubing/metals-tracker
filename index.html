@@ -7,6 +7,7 @@
 
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=IBM+Plex+Sans:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.7/chart.umd.min.js"></script>
 
 <style>
 :root {
@@ -38,164 +39,87 @@ a { color: var(--accent); text-decoration: none; transition: color .2s; }
 a:hover { color: var(--gold); }
 
 /* Header */
-.header {
-  padding: 48px 0 24px;
-  text-align: center;
-  position: relative;
-}
+.header { padding: 48px 0 24px; text-align: center; }
 .header::after {
-  content: '';
-  display: block;
-  width: 60px;
-  height: 3px;
-  background: var(--gold);
-  margin: 20px auto 0;
-  border-radius: 2px;
+  content: ''; display: block; width: 60px; height: 3px;
+  background: var(--gold); margin: 20px auto 0; border-radius: 2px;
 }
-.header h1 {
-  font-family: var(--font-display);
-  font-size: 2.4rem;
-  color: var(--gold);
-  letter-spacing: 1px;
-}
-.header .brand {
-  color: var(--accent);
-  font-size: 0.9rem;
-  font-weight: 600;
-  letter-spacing: 3px;
-  text-transform: uppercase;
-  margin-bottom: 6px;
-}
-.header .subtitle {
-  color: var(--text2);
-  margin-top: 8px;
-  font-size: 0.9rem;
-}
+.header h1 { font-family: var(--font-display); font-size: 2.4rem; color: var(--gold); letter-spacing: 1px; }
+.header .brand { color: var(--accent); font-size: 0.9rem; font-weight: 600; letter-spacing: 3px; text-transform: uppercase; margin-bottom: 6px; }
+.header .subtitle { color: var(--text2); margin-top: 8px; font-size: 0.9rem; }
 .update-badge {
-  display: inline-block;
-  margin-top: 12px;
-  padding: 4px 14px;
-  border-radius: 20px;
-  background: var(--surface2);
-  border: 1px solid var(--border);
-  font-size: 0.78rem;
-  color: var(--text2);
+  display: inline-block; margin-top: 12px; padding: 4px 14px; border-radius: 20px;
+  background: var(--surface2); border: 1px solid var(--border); font-size: 0.78rem; color: var(--text2);
 }
 
 /* Sections */
 .section { margin-top: 40px; }
 .section-title {
-  font-family: var(--font-display);
-  font-size: 1.5rem;
-  margin-bottom: 18px;
-  display: flex;
-  align-items: center;
-  gap: 10px;
+  font-family: var(--font-display); font-size: 1.5rem; margin-bottom: 18px;
+  display: flex; align-items: center; gap: 10px;
 }
 .section-title .icon { font-size: 1.3rem; }
 
 /* Price Grid */
-.price-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
-  gap: 14px;
-}
+.price-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 14px; }
 .price-card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 20px;
-  transition: transform .2s, border-color .3s;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+  padding: 20px; transition: transform .2s, border-color .3s; cursor: default;
 }
-.price-card:hover {
-  transform: translateY(-3px);
-  border-color: var(--gold-dim);
+.price-card:hover { transform: translateY(-3px); border-color: var(--gold-dim); }
+.price-card .metal-name { font-size: 0.82rem; color: var(--text2); text-transform: uppercase; letter-spacing: 1.2px; margin-bottom: 6px; }
+.price-card .metal-price { font-family: var(--font-display); font-size: 1.6rem; color: var(--gold); }
+.price-card .metal-price.na { color: var(--text2); font-size: 1rem; }
+.price-card .metal-unit { font-size: 0.72rem; color: var(--text2); margin-top: 2px; }
+
+/* ===== Chart Section ===== */
+.chart-container {
+  background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+  padding: 24px; position: relative;
 }
-.price-card .metal-name {
-  font-size: 0.82rem;
-  color: var(--text2);
-  text-transform: uppercase;
-  letter-spacing: 1.2px;
-  margin-bottom: 6px;
+.chart-filters {
+  display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px;
 }
-.price-card .metal-price {
-  font-family: var(--font-display);
-  font-size: 1.6rem;
-  color: var(--gold);
+.chart-btn {
+  padding: 6px 16px; border-radius: 20px; border: 1px solid var(--border);
+  background: transparent; color: var(--text2); font-family: var(--font-body);
+  font-size: 0.8rem; cursor: pointer; transition: all .2s; user-select: none;
 }
-.price-card .metal-price.na {
-  color: var(--text2);
-  font-size: 1rem;
+.chart-btn:hover { border-color: var(--text2); color: var(--text); }
+.chart-btn.active { background: var(--gold-dim); border-color: var(--gold); color: #fff; }
+.chart-btn.all-btn { border-color: var(--accent); color: var(--accent); }
+.chart-btn.all-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
+.chart-hint {
+  text-align: center; padding: 60px 20px; color: var(--text2); font-size: 0.9rem; line-height: 1.8;
 }
-.price-card .metal-unit {
-  font-size: 0.72rem;
-  color: var(--text2);
-  margin-top: 2px;
-}
+#priceChart { max-height: 400px; }
 
 /* News / Tweet List */
 .list-card {
-  background: var(--surface);
-  border: 1px solid var(--border);
-  border-radius: 12px;
-  padding: 18px 22px;
-  margin-bottom: 12px;
-  transition: border-color .2s;
+  background: var(--surface); border: 1px solid var(--border); border-radius: 12px;
+  padding: 18px 22px; margin-bottom: 12px; transition: border-color .2s;
 }
 .list-card:hover { border-color: var(--accent); }
-.list-card .card-title {
-  font-weight: 600;
-  font-size: 0.95rem;
-  margin-bottom: 6px;
-  line-height: 1.45;
-}
-.list-card .card-meta {
-  font-size: 0.78rem;
-  color: var(--text2);
-  display: flex;
-  gap: 12px;
-  flex-wrap: wrap;
-}
-.list-card .card-desc {
-  font-size: 0.85rem;
-  color: var(--text2);
-  margin-top: 6px;
-  line-height: 1.5;
-}
+.list-card .card-title { font-weight: 600; font-size: 0.95rem; margin-bottom: 6px; line-height: 1.45; }
+.list-card .card-meta { font-size: 0.78rem; color: var(--text2); display: flex; gap: 12px; flex-wrap: wrap; }
+.list-card .card-desc { font-size: 0.85rem; color: var(--text2); margin-top: 6px; line-height: 1.5; }
 
 /* Empty / Loading */
 .empty-state {
-  text-align: center;
-  padding: 40px;
-  color: var(--text2);
-  background: var(--surface);
-  border-radius: 12px;
-  border: 1px dashed var(--border);
+  text-align: center; padding: 40px; color: var(--text2); background: var(--surface);
+  border-radius: 12px; border: 1px dashed var(--border);
 }
 .loading-spinner {
-  display: inline-block;
-  width: 28px; height: 28px;
-  border: 3px solid var(--border);
-  border-top-color: var(--gold);
-  border-radius: 50%;
-  animation: spin .8s linear infinite;
-  margin-bottom: 12px;
+  display: inline-block; width: 28px; height: 28px; border: 3px solid var(--border);
+  border-top-color: var(--gold); border-radius: 50%; animation: spin .8s linear infinite; margin-bottom: 12px;
 }
 @keyframes spin { to { transform: rotate(360deg); } }
 
 /* Footer */
-.footer {
-  text-align: center;
-  padding: 48px 0 32px;
-  color: var(--text2);
-  font-size: 0.78rem;
-}
+.footer { text-align: center; padding: 48px 0 32px; color: var(--text2); font-size: 0.78rem; }
 
 /* Animations */
-@keyframes fadeUp {
-  from { opacity: 0; transform: translateY(16px); }
-  to   { opacity: 1; transform: translateY(0); }
-}
+@keyframes fadeUp { from { opacity: 0; transform: translateY(16px); } to { opacity: 1; transform: translateY(0); } }
 .fade-up { animation: fadeUp .5s ease-out both; }
 
 /* Responsive */
@@ -204,16 +128,18 @@ a:hover { color: var(--gold); }
   .price-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
   .price-card { padding: 14px; }
   .price-card .metal-price { font-size: 1.2rem; }
+  .chart-container { padding: 16px; }
+  .chart-btn { padding: 5px 12px; font-size: 0.75rem; }
 }
 </style>
 </head>
 <body>
-
 <div class="container">
+
   <div class="header">
     <div class="brand">众智创新</div>
     <h1>金属价格实时追踪</h1>
-    <div class="subtitle">贵金属 & 有色金属 · 价格 / 新闻 / 推文</div>
+    <div class="subtitle">贵金属 & 有色金属 · 价格 / 走势 / 新闻 / 推文</div>
     <div class="update-badge" id="updateTime">加载中...</div>
   </div>
 
@@ -222,6 +148,20 @@ a:hover { color: var(--gold); }
     <div class="section-title"><span class="icon">💰</span> 实时价格</div>
     <div class="price-grid" id="priceGrid">
       <div class="empty-state"><div class="loading-spinner"></div><br>正在加载价格...</div>
+    </div>
+  </div>
+
+  <!-- Chart -->
+  <div class="section">
+    <div class="section-title"><span class="icon">📈</span> 价格走势（最近 60 天）</div>
+    <div class="chart-container">
+      <div class="chart-filters" id="chartFilters"></div>
+      <div id="chartArea">
+        <canvas id="priceChart"></canvas>
+      </div>
+      <div class="chart-hint" id="chartHint" style="display:none;">
+        数据积累中...<br>脚本每天运行一次，运行天数越多，曲线越完整。<br>目前仅有 1 天数据，至少需要 2 天才能显示走势图。
+      </div>
     </div>
   </div>
 
@@ -248,91 +188,275 @@ a:hover { color: var(--gold); }
 </div>
 
 <script>
+// ===== 金属颜色映射 =====
+const METAL_COLORS = {
+  gold:      { line: '#d4a843', bg: 'rgba(212,168,67,0.12)' },
+  silver:    { line: '#a8b4c4', bg: 'rgba(168,180,196,0.12)' },
+  platinum:  { line: '#7ec8e3', bg: 'rgba(126,200,227,0.12)' },
+  palladium: { line: '#c27ba0', bg: 'rgba(194,123,160,0.12)' },
+  copper:    { line: '#e07843', bg: 'rgba(224,120,67,0.12)' },
+  aluminum:  { line: '#6dbe8a', bg: 'rgba(109,190,138,0.12)' },
+  nickel:    { line: '#5b9bd5', bg: 'rgba(91,155,213,0.12)' },
+  zinc:      { line: '#9c85c0', bg: 'rgba(156,133,192,0.12)' },
+  lead:      { line: '#8c8c8c', bg: 'rgba(140,140,140,0.12)' },
+};
+
+const METAL_NAMES = {
+  gold: '黄金', silver: '白银', platinum: '铂', palladium: '钯',
+  copper: '铜', aluminum: '铝', nickel: '镍', zinc: '锌', lead: '铅',
+};
+
+let chartInstance = null;
+let historyData = [];
+let activeMetals = new Set(Object.keys(METAL_COLORS)); // 默认全选
+
+// ===== 加载数据 =====
 (async function () {
+  // 加载 data.json
   let data;
   try {
     const resp = await fetch('data.json');
-    if (!resp.ok) throw new Error('无法加载 data.json');
+    if (!resp.ok) throw new Error();
     data = await resp.json();
-  } catch (e) {
+  } catch {
     document.getElementById('priceGrid').innerHTML =
-      '<div class="empty-state">⚠ 无法加载 data.json<br><small>请确认文件存在且与 index.html 在同一目录</small></div>';
+      '<div class="empty-state">⚠ 无法加载 data.json</div>';
     document.getElementById('newsList').innerHTML = '';
     document.getElementById('tweetList').innerHTML = '';
     return;
   }
 
-  // 更新时间
-  document.getElementById('updateTime').textContent =
-    '🕐 数据更新于 ' + (data.updated_at || '未知');
+  // 加载 history.json
+  try {
+    const resp2 = await fetch('history.json');
+    if (resp2.ok) historyData = await resp2.json();
+  } catch { historyData = []; }
 
-  // 渲染价格卡片
-  const priceGrid = document.getElementById('priceGrid');
-  if (data.prices && data.prices.length) {
-    priceGrid.innerHTML = data.prices.map((p, i) => {
-      const hasPrice = p.price_usd != null;
-      const priceText = hasPrice
-        ? `$${Number(p.price_usd).toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2})}`
-        : 'N/A';
-      const cls = hasPrice ? '' : ' na';
-      return `
-        <div class="price-card fade-up" style="animation-delay:${i * 60}ms">
-          <div class="metal-name">${escHtml(p.name)}</div>
-          <div class="metal-price${cls}">${priceText}</div>
-          <div class="metal-unit">${escHtml(p.unit || '')}</div>
-        </div>`;
-    }).join('');
-  } else {
-    priceGrid.innerHTML = '<div class="empty-state">暂无价格数据</div>';
-  }
+  document.getElementById('updateTime').textContent = '🕐 数据更新于 ' + (data.updated_at || '未知');
 
-  // 渲染新闻
-  const newsList = document.getElementById('newsList');
-  if (data.news && data.news.length) {
-    newsList.innerHTML = data.news.map((n, i) => `
-      <div class="list-card fade-up" style="animation-delay:${i * 50}ms">
-        <div class="card-title"><a href="${escAttr(n.url)}" target="_blank" rel="noopener">${escHtml(n.title)}</a></div>
-        <div class="card-meta">
-          <span>📌 ${escHtml(n.source)}</span>
-          <span>🕐 ${formatDate(n.published)}</span>
-        </div>
-        ${n.description ? `<div class="card-desc">${escHtml(n.description)}</div>` : ''}
-      </div>`).join('');
-  } else {
-    newsList.innerHTML = '<div class="empty-state">暂无新闻</div>';
-  }
-
-  // 渲染推文
-  const tweetList = document.getElementById('tweetList');
-  if (data.tweets && data.tweets.length) {
-    tweetList.innerHTML = data.tweets.map((t, i) => `
-      <div class="list-card fade-up" style="animation-delay:${i * 50}ms">
-        <div class="card-title">${escHtml(t.text)}</div>
-        <div class="card-meta">
-          <span>🕐 ${formatDate(t.created_at)}</span>
-          <a href="${escAttr(t.url)}" target="_blank" rel="noopener">查看原文 →</a>
-        </div>
-      </div>`).join('');
-  } else {
-    tweetList.innerHTML = '<div class="empty-state">未获取到推文（可能未配置 Twitter API）</div>';
-  }
-
-  function escHtml(s) {
-    const d = document.createElement('div');
-    d.textContent = s || '';
-    return d.innerHTML;
-  }
-  function escAttr(s) {
-    return (s || '').replace(/"/g, '&quot;').replace(/</g, '&lt;');
-  }
-  function formatDate(s) {
-    if (!s) return '';
-    try {
-      const d = new Date(s);
-      return d.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
-    } catch { return s; }
-  }
+  renderPrices(data.prices);
+  renderChart();
+  renderNews(data.news);
+  renderTweets(data.tweets);
 })();
+
+// ===== 渲染价格卡片 =====
+function renderPrices(prices) {
+  const grid = document.getElementById('priceGrid');
+  if (!prices || !prices.length) { grid.innerHTML = '<div class="empty-state">暂无价格数据</div>'; return; }
+  grid.innerHTML = prices.map((p, i) => {
+    const has = p.price_usd != null;
+    const txt = has ? `$${Number(p.price_usd).toLocaleString(undefined, {minimumFractionDigits:2, maximumFractionDigits:2})}` : 'N/A';
+    return `<div class="price-card fade-up" style="animation-delay:${i*60}ms">
+      <div class="metal-name">${esc(p.name)}</div>
+      <div class="metal-price${has?'':' na'}">${txt}</div>
+      <div class="metal-unit">${esc(p.unit||'')}</div>
+    </div>`;
+  }).join('');
+}
+
+// ===== 渲染走势图 =====
+function renderChart() {
+  const filtersEl = document.getElementById('chartFilters');
+  const hintEl = document.getElementById('chartHint');
+  const chartArea = document.getElementById('chartArea');
+
+  // 生成筛选按钮
+  let btnsHtml = '<button class="chart-btn all-btn active" onclick="toggleAll(this)">全部显示</button>';
+  for (const [code, name] of Object.entries(METAL_NAMES)) {
+    const color = METAL_COLORS[code].line;
+    btnsHtml += `<button class="chart-btn active" data-metal="${code}" onclick="toggleMetal(this,'${code}')" style="border-color:${color};color:${color}">${name}</button>`;
+  }
+  filtersEl.innerHTML = btnsHtml;
+
+  // 数据不够就显示提示
+  if (historyData.length < 2) {
+    chartArea.style.display = 'none';
+    hintEl.style.display = 'block';
+    return;
+  }
+
+  hintEl.style.display = 'none';
+  chartArea.style.display = 'block';
+  buildChart();
+}
+
+function buildChart() {
+  const canvas = document.getElementById('priceChart');
+  if (chartInstance) { chartInstance.destroy(); }
+
+  const labels = historyData.map(d => d.date);
+
+  // 按单位分组：贵金属(USD/oz) vs 工业金属(USD/mt)
+  const preciousCodes = ['gold','silver','platinum','palladium'];
+  const industrialCodes = ['copper','aluminum','nickel','zinc','lead'];
+
+  // 判断当前选中的有哪些类型
+  const hasP = [...activeMetals].some(c => preciousCodes.includes(c));
+  const hasI = [...activeMetals].some(c => industrialCodes.includes(c));
+  const needDualAxis = hasP && hasI;
+
+  const datasets = [];
+  for (const code of Object.keys(METAL_COLORS)) {
+    if (!activeMetals.has(code)) continue;
+    const color = METAL_COLORS[code];
+    const values = historyData.map(d => d.prices[code] ?? null);
+    const isPrecious = preciousCodes.includes(code);
+    datasets.push({
+      label: METAL_NAMES[code],
+      data: values,
+      borderColor: color.line,
+      backgroundColor: color.bg,
+      borderWidth: 2.5,
+      pointRadius: historyData.length > 30 ? 0 : 3,
+      pointHoverRadius: 5,
+      tension: 0.3,
+      fill: false,
+      yAxisID: needDualAxis ? (isPrecious ? 'yLeft' : 'yRight') : 'yLeft',
+      spanGaps: true,
+    });
+  }
+
+  const scales = {
+    x: {
+      ticks: { color: '#8891a4', maxRotation: 45, font: { size: 11 } },
+      grid: { color: 'rgba(42,48,64,0.5)' },
+    },
+    yLeft: {
+      type: 'linear', position: 'left',
+      title: { display: true, text: hasP ? 'USD / 盎司 (贵金属)' : 'USD / 吨 (工业金属)', color: '#8891a4', font: { size: 12 } },
+      ticks: { color: '#8891a4', font: { size: 11 }, callback: v => '$' + v.toLocaleString() },
+      grid: { color: 'rgba(42,48,64,0.4)' },
+    },
+  };
+
+  if (needDualAxis) {
+    scales.yLeft.title.text = 'USD / 盎司 (贵金属)';
+    scales.yRight = {
+      type: 'linear', position: 'right',
+      title: { display: true, text: 'USD / 吨 (工业金属)', color: '#8891a4', font: { size: 12 } },
+      ticks: { color: '#8891a4', font: { size: 11 }, callback: v => '$' + v.toLocaleString() },
+      grid: { drawOnChartArea: false },
+    };
+  }
+
+  chartInstance = new Chart(canvas, {
+    type: 'line',
+    data: { labels, datasets },
+    options: {
+      responsive: true,
+      maintainAspectRatio: false,
+      interaction: { mode: 'index', intersect: false },
+      plugins: {
+        legend: { display: false },
+        tooltip: {
+          backgroundColor: '#1c2230',
+          borderColor: '#2a3040',
+          borderWidth: 1,
+          titleColor: '#e2e6ee',
+          bodyColor: '#e2e6ee',
+          padding: 12,
+          callbacks: {
+            label: ctx => {
+              const v = ctx.parsed.y;
+              if (v == null) return '';
+              return `${ctx.dataset.label}: $${v.toLocaleString(undefined, {minimumFractionDigits:2, maximumFractionDigits:2})}`;
+            }
+          }
+        },
+      },
+      scales,
+    }
+  });
+}
+
+// ===== 按钮交互 =====
+function toggleMetal(btn, code) {
+  if (activeMetals.has(code)) {
+    activeMetals.delete(code);
+    btn.classList.remove('active');
+    btn.style.background = 'transparent';
+    btn.style.color = METAL_COLORS[code].line;
+  } else {
+    activeMetals.add(code);
+    btn.classList.add('active');
+    btn.style.background = METAL_COLORS[code].line;
+    btn.style.color = '#fff';
+  }
+  syncAllBtn();
+  if (historyData.length >= 2) buildChart();
+}
+
+function toggleAll(btn) {
+  const allCodes = Object.keys(METAL_COLORS);
+  const allActive = activeMetals.size === allCodes.length;
+
+  if (allActive) {
+    activeMetals.clear();
+    btn.classList.remove('active');
+  } else {
+    allCodes.forEach(c => activeMetals.add(c));
+    btn.classList.add('active');
+  }
+
+  // 同步各个按钮的样式
+  document.querySelectorAll('.chart-btn[data-metal]').forEach(b => {
+    const c = b.dataset.metal;
+    if (activeMetals.has(c)) {
+      b.classList.add('active');
+      b.style.background = METAL_COLORS[c].line;
+      b.style.color = '#fff';
+    } else {
+      b.classList.remove('active');
+      b.style.background = 'transparent';
+      b.style.color = METAL_COLORS[c].line;
+    }
+  });
+
+  if (historyData.length >= 2) buildChart();
+}
+
+function syncAllBtn() {
+  const allBtn = document.querySelector('.all-btn');
+  if (activeMetals.size === Object.keys(METAL_COLORS).length) {
+    allBtn.classList.add('active');
+  } else {
+    allBtn.classList.remove('active');
+  }
+}
+
+// ===== 渲染新闻 =====
+function renderNews(news) {
+  const el = document.getElementById('newsList');
+  if (!news || !news.length) { el.innerHTML = '<div class="empty-state">暂无新闻</div>'; return; }
+  el.innerHTML = news.map((n, i) => `
+    <div class="list-card fade-up" style="animation-delay:${i*50}ms">
+      <div class="card-title"><a href="${escA(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a></div>
+      <div class="card-meta"><span>📌 ${esc(n.source)}</span><span>🕐 ${fmtDate(n.published)}</span></div>
+      ${n.description ? `<div class="card-desc">${esc(n.description)}</div>` : ''}
+    </div>`).join('');
+}
+
+// ===== 渲染推文 =====
+function renderTweets(tweets) {
+  const el = document.getElementById('tweetList');
+  if (!tweets || !tweets.length) { el.innerHTML = '<div class="empty-state">未获取到推文（可能未配置 Twitter API）</div>'; return; }
+  el.innerHTML = tweets.map((t, i) => `
+    <div class="list-card fade-up" style="animation-delay:${i*50}ms">
+      <div class="card-title">${esc(t.text)}</div>
+      <div class="card-meta"><span>🕐 ${fmtDate(t.created_at)}</span>
+      <a href="${escA(t.url)}" target="_blank" rel="noopener">查看原文 →</a></div>
+    </div>`).join('');
+}
+
+// ===== 工具函数 =====
+function esc(s) { const d = document.createElement('div'); d.textContent = s || ''; return d.innerHTML; }
+function escA(s) { return (s||'').replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
+function fmtDate(s) {
+  if (!s) return '';
+  try { return new Date(s).toLocaleDateString('zh-CN', { month:'short', day:'numeric', hour:'2-digit', minute:'2-digit' }); }
+  catch { return s; }
+}
 </script>
 </body>
 </html>
