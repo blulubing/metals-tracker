@@ -1,0 +1,36 @@
+name: 每日更新金属数据
+
+on:
+  schedule:
+    # 每天 UTC 时间 06:00 运行（北京时间 14:00）
+    - cron: '0 6 * * *'
+  workflow_dispatch:  # 允许手动触发
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v4
+
+      - name: 安装 Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: 运行数据抓取脚本
+        env:
+          METALPRICE_API_KEY: ${{ secrets.METALPRICE_API_KEY }}
+          NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
+          TWITTER_BEARER: ${{ secrets.TWITTER_BEARER }}
+        run: python fetch_data.py
+
+      - name: 提交更新后的 data.json
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add data.json
+          git diff --quiet --cached || git commit -m "自动更新数据 $(date -u)"
+          git push
