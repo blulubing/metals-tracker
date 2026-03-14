@@ -1,66 +1,82 @@
 {
-  "updated_at": "2026-03-14 19:13:58 UTC",
+  "updated_at": "2026-03-14 20:05:42 UTC",
   "prices": [
     {
-      "code": "XAU",
+      "code": "gold",
       "name": "黄金 Gold",
-      "price_usd_per_oz": null
+      "price_usd": 5019.18,
+      "unit": "USD/盎司 oz"
     },
     {
-      "code": "XAG",
+      "code": "silver",
       "name": "白银 Silver",
-      "price_usd_per_oz": null
+      "price_usd": 80.57,
+      "unit": "USD/盎司 oz"
     },
     {
-      "code": "XCU",
-      "name": "铜 Copper",
-      "price_usd_per_oz": null
-    },
-    {
-      "code": "ALU",
-      "name": "铝 Aluminum",
-      "price_usd_per_oz": null
-    },
-    {
-      "code": "XPT",
+      "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd_per_oz": null
+      "price_usd": 2026,
+      "unit": "USD/盎司 oz"
     },
     {
-      "code": "XPD",
+      "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd_per_oz": null
+      "price_usd": 1551,
+      "unit": "USD/盎司 oz"
     },
     {
-      "code": "XRH",
-      "name": "铑 Rhodium",
-      "price_usd_per_oz": null
+      "code": "copper",
+      "name": "铜 Copper",
+      "price_usd": 0.39,
+      "unit": "USD/吨 mt"
     },
     {
-      "code": "NI",
+      "code": "aluminum",
+      "name": "铝 Aluminum",
+      "price_usd": 0.11,
+      "unit": "USD/吨 mt"
+    },
+    {
+      "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd_per_oz": null
+      "price_usd": 0.54,
+      "unit": "USD/吨 mt"
     },
     {
-      "code": "CO",
-      "name": "钴 Cobalt",
-      "price_usd_per_oz": null
+      "code": "zinc",
+      "name": "锌 Zinc",
+      "price_usd": 0.1,
+      "unit": "USD/吨 mt"
+    },
+    {
+      "code": "lead",
+      "name": "铅 Lead",
+      "price_usd": 0.06,
+      "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Key Bitcoin price levels to watch as BTC nears new monthly highs",
-      "source": "Cointelegraph",
-      "url": "https://cointelegraph.com/markets/key-bitcoin-price-levels-to-watch-as-btc-nears-new-monthly-highs",
-      "published": "2026-03-13T19:13:03Z",
-      "description": "Bitcoin rallied toward fresh monthly highs as the BTC Coinbase Premium turned positive and spot ETF inflows topped $1.9 billion. Will bulls top $75,000 before the weekly candle close?"
+      "title": "Team USA vs. Canada prediction: WBC odds, picks, best bet Friday",
+      "source": "New York Post",
+      "url": "https://nypost.com/2026/03/13/betting/team-usa-vs-canada-prediction-world-baseball-classic-odds-picks-best-bet-friday/",
+      "published": "2026-03-13T20:00:00Z",
+      "description": "Things got quite messy for Team USA at the end of pool play, but all that matters now is that they're into the quarterfinals of the World Baseball Classic."
     },
     {
-      "title": "Crypto News: Pepeto Update $7.98M Raised And Ethereum Price Prediction Targets $4,000 While Bull Run Loads",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/03/13/3255773/0/en/Crypto-News-Pepeto-Update-7-98M-Raised-And-Ethereum-Price-Prediction-Targets-4-000-While-Bull-Run-Loads.html",
-      "published": "2026-03-13T19:07:00Z",
-      "description": "Dubai, UAE, March 13, 2026 (GLOBE NEWSWIRE) -- Pepeto announced an update to the presale total reaching $7.98 million, reflecting continuous growth from investors who see this project as the kind of e"
+      "title": "Why is silver price down by 3.3% and gold by 0.5%, and will precious metals continue to drop or rise again? Gold and silver decline, analysts insights and market outlook explained. Here's what should investors do now",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-silver-price-down-by-3-3-and-gold-by-0-5-and-will-precious-metals-continue-to-drop-or-rise-again-gold-and-silver-decline-analysts-insights-and-market-outlook-explained-heres-what-should-investors-do-now/articleshow/129564145.cms",
+      "published": "2026-03-13T19:45:16Z",
+      "description": "Why is silver price down by 3.3% and gold by 0.5%, and will precious metals continue to drop or rise again? Gold and silver prices moved lower this week as the dollar gained strength and interest rate"
+    },
+    {
+      "title": "The Latest Economic Numbers Are Brutal for Trump",
+      "source": "The New Republic",
+      "url": "https://newrepublic.com/article/207773/trump-gdp-economic-numbers-brutal",
+      "published": "2026-03-13T19:33:11Z",
+      "description": "The likelihood is growing that the economy will be in recession when voters cast their ballots in the midterm elections. Goldman, Sachs on Thursday raised its 12-month estimation of a recession’s prob"
     },
     {
       "title": "The best creatine powders for muscle and mind — personal trainers and dietitians weigh in",
@@ -84,39 +100,32 @@
       "description": "Lakers fans seem sure that a backcourt featuring Luka Dončić and Austin Reaves will set LA up for future success.﻿"
     },
     {
+      "title": "Billionaire Investor Stanley Druckenmiller Bullish on Stablecoin Growth",
+      "source": "Decrypt",
+      "url": "https://decrypt.co/361056/billionaire-investor-stanley-druckenmiller-bullish-stablecoin-growth",
+      "published": "2026-03-13T18:05:45Z",
+      "description": "Former hedge fund manager Stanley Druckenmiller expects stablecoins to take over payments systems in the next 10-15 years."
+    },
+    {
+      "title": "Dealers at TEFAF Maastricht Report Robust Sales, Offering Works Ranging from Two Inches to Room-Size",
+      "source": "ARTnews",
+      "url": "https://www.artnews.com/artnews/news/dealers-tefaf-maastricht-report-robust-sales-2026-1234777409/",
+      "published": "2026-03-13T17:51:30Z",
+      "description": "A sprawling Neapolitan crèche, a gigantic sleigh, and two-inch-high enameled gold paintings all dazzle at the latest edition of TEFAF Maastricht."
+    },
+    {
+      "title": "How to choose a gold IRA company: A consumer checklist",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/how-to-choose-a-gold-ira-company-a-consumer-checklist/",
+      "published": "2026-03-13T17:35:09Z",
+      "description": "The wrong gold IRA company can cost you more than you bargained for, so make sure you know what to look for."
+    },
+    {
       "title": "The Mechanics Powering Heritage Brand Jewelry’s Secondary Market Appeal",
       "source": "Observer",
       "url": "https://observer.com/2026/03/heritage-brand-jewelry-secondary-market-auctions/",
       "published": "2026-03-13T16:00:47Z",
       "description": "While secondary prices often sit below retail, they tend to track upward over time as primary prices rise, limiting downside volatility rather than generating speculative gains."
-    },
-    {
-      "title": "Christie’s Host First Watch and Car Event at New Miami Location",
-      "source": "Robb Report",
-      "url": "http://robbreport.com/style/watch-collector/christies-miami-location-to-host-events-for-collectors-1237673204/",
-      "published": "2026-03-13T16:00:00Z",
-      "description": "The auction house has a brand new space in the Design District where it will host events and preview auctions and private sales. It's first event kicked off with a packed house."
-    },
-    {
-      "title": "IHG One Rewards: How to earn and redeem points, elite status and more",
-      "source": "The Points Guy",
-      "url": "https://thepointsguy.com/loyalty-programs/ihg-rewards-club/",
-      "published": "2026-03-13T14:30:19Z",
-      "description": "IHG One Rewards is a valuable hotel loyalty program because of useful IHG credit cards, compelling redemption rates and the ease with which you can earn points."
-    },
-    {
-      "title": "Got a flight coming up? I use these Sony noise-cancelling headphones every time I travel, and they're available for a tempting low price right now",
-      "source": "TechRadar",
-      "url": "https://www.techradar.com/audio/wireless-headphones/got-a-flight-coming-up-i-use-these-sony-noise-cancelling-headphones-every-time-i-travel-and-theyre-available-for-a-tempting-low-price-right-now",
-      "published": "2026-03-13T12:34:50Z",
-      "description": "I've been using the Sony WH-1000XM6 for almost a year now, and they're the best noise-cancelling headphones I've ever tested."
-    },
-    {
-      "title": "Silver price crashes today: Why gold, silver, copper and platinum prices are falling — Silver drops to $83.40 while gold slides $25 to $5,100 per ounce",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/silver-price-crashes-today-why-gold-silver-copper-and-platinum-prices-are-falling-silver-drops-to-83-40-while-gold-slides-25-to-5100-per-ounce/articleshow/129551377.cms",
-      "published": "2026-03-13T12:00:56Z",
-      "description": "Silver price crashes today: Why gold, silver, copper and platinum prices are falling — Silver price crashes today. The drop is sharp. Silver price today fell to $83.40 per ounce, down 2.01%. Gold pric"
     }
   ],
   "tweets": []
