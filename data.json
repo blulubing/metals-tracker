@@ -1,0 +1,68 @@
+{
+  "updated_at": "2026-03-12 08:00:00 UTC",
+  "prices": [
+    {"code": "XAU", "name": "黄金 Gold",       "price_usd_per_oz": 3042.50},
+    {"code": "XAG", "name": "白银 Silver",      "price_usd_per_oz": 34.18},
+    {"code": "XCU", "name": "铜 Copper",         "price_usd_per_oz": 4.52},
+    {"code": "ALU", "name": "铝 Aluminum",       "price_usd_per_oz": 2.38},
+    {"code": "XPT", "name": "铂 Platinum",       "price_usd_per_oz": 998.00},
+    {"code": "XPD", "name": "钯 Palladium",      "price_usd_per_oz": 965.00},
+    {"code": "XRH", "name": "铑 Rhodium",        "price_usd_per_oz": 5125.00},
+    {"code": "NI",  "name": "镍 Nickel",         "price_usd_per_oz": 8.12},
+    {"code": "CO",  "name": "钴 Cobalt",         "price_usd_per_oz": 14.75}
+  ],
+  "news": [
+    {
+      "title": "Gold Prices Hit New Record Above $3,000 as Tariff Fears Mount",
+      "source": "Reuters",
+      "url": "https://reuters.com/example1",
+      "published": "2026-03-12T07:30:00Z",
+      "description": "Gold prices surged past $3,000 per ounce for the first time, driven by escalating trade tensions and safe-haven demand."
+    },
+    {
+      "title": "Copper Rally Continues on China Stimulus Hopes",
+      "source": "Bloomberg",
+      "url": "https://bloomberg.com/example2",
+      "published": "2026-03-12T06:15:00Z",
+      "description": "Copper futures climbed 2.3% as investors bet on fresh infrastructure spending from Beijing."
+    },
+    {
+      "title": "Silver Demand from Solar Industry Reaches All-Time High",
+      "source": "Financial Times",
+      "url": "https://ft.com/example3",
+      "published": "2026-03-11T22:00:00Z",
+      "description": "Industrial silver consumption for photovoltaic panels hit a record in Q1 2026."
+    },
+    {
+      "title": "贵金属板块走强 黄金概念股集体拉升",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/example4",
+      "published": "2026-03-12T03:45:00Z",
+      "description": "受国际金价突破3000美元影响，A股贵金属板块早盘大幅走强。"
+    },
+    {
+      "title": "Nickel Prices Stabilize After Indonesia Export Policy Shift",
+      "source": "Mining.com",
+      "url": "https://mining.com/example5",
+      "published": "2026-03-11T18:20:00Z",
+      "description": "Indonesia reversed its nickel ore export ban partially, easing supply concerns."
+    }
+  ],
+  "tweets": [
+    {
+      "text": "Gold just broke $3,000/oz! This is the hedge we've all been waiting for. #Gold #PreciousMetals",
+      "created_at": "2026-03-12T07:45:00Z",
+      "url": "https://twitter.com/i/web/status/example1"
+    },
+    {
+      "text": "Copper demand is insane right now. EVs + grid infrastructure = structural bull market for Cu. 🔥",
+      "created_at": "2026-03-12T06:30:00Z",
+      "url": "https://twitter.com/i/web/status/example2"
+    },
+    {
+      "text": "Silver is the most undervalued metal on Earth. Industrial + monetary demand. $50 target.",
+      "created_at": "2026-03-11T23:15:00Z",
+      "url": "https://twitter.com/i/web/status/example3"
+    }
+  ]
+}

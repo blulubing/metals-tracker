@@ -1,0 +1,344 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>金属追踪器 — Metals Tracker</title>
+
+<!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=IBM+Plex+Sans:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
+
+<style>
+/* ========== CSS Variables ========== */
+:root {
+  --bg:        #0c0f14;
+  --surface:   #151921;
+  --surface2:  #1c2230;
+  --border:    #2a3040;
+  --text:      #e2e6ee;
+  --text2:     #8891a4;
+  --gold:      #d4a843;
+  --gold-dim:  #a07d2e;
+  --accent:    #4fa3e3;
+  --green:     #3ddc84;
+  --red:       #f04848;
+  --font-display: 'DM Serif Display', 'Noto Sans SC', serif;
+  --font-body:    'IBM Plex Sans', 'Noto Sans SC', sans-serif;
+}
+
+/* ========== Reset & Base ========== */
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html { font-size: 15px; scroll-behavior: smooth; }
+body {
+  font-family: var(--font-body);
+  background: var(--bg);
+  color: var(--text);
+  min-height: 100vh;
+  line-height: 1.6;
+}
+
+/* ========== Utility ========== */
+.container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
+a { color: var(--accent); text-decoration: none; transition: color .2s; }
+a:hover { color: var(--gold); }
+
+/* ========== Header ========== */
+.header {
+  padding: 48px 0 24px;
+  text-align: center;
+  position: relative;
+}
+.header::after {
+  content: '';
+  display: block;
+  width: 60px;
+  height: 3px;
+  background: var(--gold);
+  margin: 20px auto 0;
+  border-radius: 2px;
+}
+.header h1 {
+  font-family: var(--font-display);
+  font-size: 2.4rem;
+  color: var(--gold);
+  letter-spacing: 1px;
+}
+.header .subtitle {
+  color: var(--text2);
+  margin-top: 8px;
+  font-size: 0.9rem;
+}
+.update-badge {
+  display: inline-block;
+  margin-top: 12px;
+  padding: 4px 14px;
+  border-radius: 20px;
+  background: var(--surface2);
+  border: 1px solid var(--border);
+  font-size: 0.78rem;
+  color: var(--text2);
+}
+
+/* ========== Section ========== */
+.section {
+  margin-top: 40px;
+}
+.section-title {
+  font-family: var(--font-display);
+  font-size: 1.5rem;
+  margin-bottom: 18px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+.section-title .icon {
+  font-size: 1.3rem;
+}
+
+/* ========== Price Grid ========== */
+.price-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+  gap: 14px;
+}
+.price-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 20px;
+  transition: transform .2s, border-color .3s;
+}
+.price-card:hover {
+  transform: translateY(-3px);
+  border-color: var(--gold-dim);
+}
+.price-card .metal-name {
+  font-size: 0.82rem;
+  color: var(--text2);
+  text-transform: uppercase;
+  letter-spacing: 1.2px;
+  margin-bottom: 6px;
+}
+.price-card .metal-price {
+  font-family: var(--font-display);
+  font-size: 1.6rem;
+  color: var(--gold);
+}
+.price-card .metal-price.na {
+  color: var(--text2);
+  font-size: 1rem;
+}
+.price-card .metal-unit {
+  font-size: 0.72rem;
+  color: var(--text2);
+  margin-top: 2px;
+}
+
+/* ========== News / Tweet List ========== */
+.list-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  padding: 18px 22px;
+  margin-bottom: 12px;
+  transition: border-color .2s;
+}
+.list-card:hover { border-color: var(--accent); }
+.list-card .card-title {
+  font-weight: 600;
+  font-size: 0.95rem;
+  margin-bottom: 6px;
+  line-height: 1.45;
+}
+.list-card .card-meta {
+  font-size: 0.78rem;
+  color: var(--text2);
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.list-card .card-desc {
+  font-size: 0.85rem;
+  color: var(--text2);
+  margin-top: 6px;
+  line-height: 1.5;
+}
+
+/* ========== Empty / Loading ========== */
+.empty-state {
+  text-align: center;
+  padding: 40px;
+  color: var(--text2);
+  background: var(--surface);
+  border-radius: 12px;
+  border: 1px dashed var(--border);
+}
+.loading-spinner {
+  display: inline-block;
+  width: 28px; height: 28px;
+  border: 3px solid var(--border);
+  border-top-color: var(--gold);
+  border-radius: 50%;
+  animation: spin .8s linear infinite;
+  margin-bottom: 12px;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+
+/* ========== Footer ========== */
+.footer {
+  text-align: center;
+  padding: 48px 0 32px;
+  color: var(--text2);
+  font-size: 0.78rem;
+}
+
+/* ========== Animations ========== */
+@keyframes fadeUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.fade-up {
+  animation: fadeUp .5s ease-out both;
+}
+
+/* ========== Responsive ========== */
+@media (max-width: 600px) {
+  .header h1 { font-size: 1.7rem; }
+  .price-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
+  .price-card { padding: 14px; }
+  .price-card .metal-price { font-size: 1.2rem; }
+}
+</style>
+</head>
+<body>
+
+<!-- ========== Header ========== -->
+<div class="container">
+  <div class="header">
+    <h1>⛏ 金属追踪器</h1>
+    <div class="subtitle">贵金属 & 有色金属 · 价格 / 新闻 / 推文</div>
+    <div class="update-badge" id="updateTime">加载中...</div>
+  </div>
+
+  <!-- Prices -->
+  <div class="section">
+    <div class="section-title"><span class="icon">💰</span> 实时价格 (USD/oz)</div>
+    <div class="price-grid" id="priceGrid">
+      <div class="empty-state"><div class="loading-spinner"></div><br>正在加载价格...</div>
+    </div>
+  </div>
+
+  <!-- News -->
+  <div class="section">
+    <div class="section-title"><span class="icon">📰</span> 最新新闻</div>
+    <div id="newsList">
+      <div class="empty-state"><div class="loading-spinner"></div><br>正在加载新闻...</div>
+    </div>
+  </div>
+
+  <!-- Tweets -->
+  <div class="section">
+    <div class="section-title"><span class="icon">🐦</span> X / Twitter 推文</div>
+    <div id="tweetList">
+      <div class="empty-state"><div class="loading-spinner"></div><br>正在加载推文...</div>
+    </div>
+  </div>
+
+  <div class="footer">
+    Metals Tracker · 数据由 MetalpriceAPI / NewsAPI / X API 提供<br>
+    页面每次打开时自动读取最新 data.json
+  </div>
+</div>
+
+<!-- ========== JavaScript ========== -->
+<script>
+(async function () {
+  // ---- 读取 data.json ----
+  let data;
+  try {
+    const resp = await fetch('data.json');
+    if (!resp.ok) throw new Error('无法加载 data.json');
+    data = await resp.json();
+  } catch (e) {
+    document.getElementById('priceGrid').innerHTML =
+      '<div class="empty-state">⚠ 无法加载 data.json<br><small>请确认文件存在且与 index.html 在同一目录</small></div>';
+    document.getElementById('newsList').innerHTML = '';
+    document.getElementById('tweetList').innerHTML = '';
+    return;
+  }
+
+  // ---- 更新时间 ----
+  document.getElementById('updateTime').textContent =
+    '🕐 数据更新于 ' + (data.updated_at || '未知');
+
+  // ---- 渲染价格卡片 ----
+  const priceGrid = document.getElementById('priceGrid');
+  if (data.prices && data.prices.length) {
+    priceGrid.innerHTML = data.prices.map((p, i) => {
+      const priceText = p.price_usd_per_oz != null
+        ? `$${Number(p.price_usd_per_oz).toLocaleString()}`
+        : 'N/A';
+      const cls = p.price_usd_per_oz != null ? '' : ' na';
+      return `
+        <div class="price-card fade-up" style="animation-delay:${i * 60}ms">
+          <div class="metal-name">${escHtml(p.name)}</div>
+          <div class="metal-price${cls}">${priceText}</div>
+          <div class="metal-unit">${p.code} · USD per troy oz</div>
+        </div>`;
+    }).join('');
+  } else {
+    priceGrid.innerHTML = '<div class="empty-state">暂无价格数据</div>';
+  }
+
+  // ---- 渲染新闻 ----
+  const newsList = document.getElementById('newsList');
+  if (data.news && data.news.length) {
+    newsList.innerHTML = data.news.map((n, i) => `
+      <div class="list-card fade-up" style="animation-delay:${i * 50}ms">
+        <div class="card-title"><a href="${escAttr(n.url)}" target="_blank" rel="noopener">${escHtml(n.title)}</a></div>
+        <div class="card-meta">
+          <span>📌 ${escHtml(n.source)}</span>
+          <span>🕐 ${formatDate(n.published)}</span>
+        </div>
+        ${n.description ? `<div class="card-desc">${escHtml(n.description)}</div>` : ''}
+      </div>`).join('');
+  } else {
+    newsList.innerHTML = '<div class="empty-state">暂无新闻</div>';
+  }
+
+  // ---- 渲染推文 ----
+  const tweetList = document.getElementById('tweetList');
+  if (data.tweets && data.tweets.length) {
+    tweetList.innerHTML = data.tweets.map((t, i) => `
+      <div class="list-card fade-up" style="animation-delay:${i * 50}ms">
+        <div class="card-title">${escHtml(t.text)}</div>
+        <div class="card-meta">
+          <span>🕐 ${formatDate(t.created_at)}</span>
+          <a href="${escAttr(t.url)}" target="_blank" rel="noopener">查看原文 →</a>
+        </div>
+      </div>`).join('');
+  } else {
+    tweetList.innerHTML = '<div class="empty-state">未获取到推文（可能未配置 Twitter API）</div>';
+  }
+
+  // ---- 工具函数 ----
+  function escHtml(s) {
+    const d = document.createElement('div');
+    d.textContent = s || '';
+    return d.innerHTML;
+  }
+  function escAttr(s) {
+    return (s || '').replace(/"/g, '&quot;').replace(/</g, '&lt;');
+  }
+  function formatDate(s) {
+    if (!s) return '';
+    try {
+      const d = new Date(s);
+      return d.toLocaleDateString('zh-CN', { month: 'short', day: 'numeric', hour: '2-digit', minute: '2-digit' });
+    } catch { return s; }
+  }
+})();
+</script>
+</body>
+</html>
