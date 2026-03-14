@@ -3,14 +3,12 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>金属追踪器 — Metals Tracker</title>
+<title>众智创新 · 金属价格实时追踪</title>
 
-<!-- Google Fonts -->
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=IBM+Plex+Sans:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;700&display=swap" rel="stylesheet">
 
 <style>
-/* ========== CSS Variables ========== */
 :root {
   --bg:        #0c0f14;
   --surface:   #151921;
@@ -26,8 +24,6 @@
   --font-display: 'DM Serif Display', 'Noto Sans SC', serif;
   --font-body:    'IBM Plex Sans', 'Noto Sans SC', sans-serif;
 }
-
-/* ========== Reset & Base ========== */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { font-size: 15px; scroll-behavior: smooth; }
 body {
@@ -37,13 +33,11 @@ body {
   min-height: 100vh;
   line-height: 1.6;
 }
-
-/* ========== Utility ========== */
 .container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
 a { color: var(--accent); text-decoration: none; transition: color .2s; }
 a:hover { color: var(--gold); }
 
-/* ========== Header ========== */
+/* Header */
 .header {
   padding: 48px 0 24px;
   text-align: center;
@@ -64,6 +58,14 @@ a:hover { color: var(--gold); }
   color: var(--gold);
   letter-spacing: 1px;
 }
+.header .brand {
+  color: var(--accent);
+  font-size: 0.9rem;
+  font-weight: 600;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  margin-bottom: 6px;
+}
 .header .subtitle {
   color: var(--text2);
   margin-top: 8px;
@@ -80,10 +82,8 @@ a:hover { color: var(--gold); }
   color: var(--text2);
 }
 
-/* ========== Section ========== */
-.section {
-  margin-top: 40px;
-}
+/* Sections */
+.section { margin-top: 40px; }
 .section-title {
   font-family: var(--font-display);
   font-size: 1.5rem;
@@ -92,11 +92,9 @@ a:hover { color: var(--gold); }
   align-items: center;
   gap: 10px;
 }
-.section-title .icon {
-  font-size: 1.3rem;
-}
+.section-title .icon { font-size: 1.3rem; }
 
-/* ========== Price Grid ========== */
+/* Price Grid */
 .price-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
@@ -135,7 +133,7 @@ a:hover { color: var(--gold); }
   margin-top: 2px;
 }
 
-/* ========== News / Tweet List ========== */
+/* News / Tweet List */
 .list-card {
   background: var(--surface);
   border: 1px solid var(--border);
@@ -165,7 +163,7 @@ a:hover { color: var(--gold); }
   line-height: 1.5;
 }
 
-/* ========== Empty / Loading ========== */
+/* Empty / Loading */
 .empty-state {
   text-align: center;
   padding: 40px;
@@ -185,7 +183,7 @@ a:hover { color: var(--gold); }
 }
 @keyframes spin { to { transform: rotate(360deg); } }
 
-/* ========== Footer ========== */
+/* Footer */
 .footer {
   text-align: center;
   padding: 48px 0 32px;
@@ -193,16 +191,14 @@ a:hover { color: var(--gold); }
   font-size: 0.78rem;
 }
 
-/* ========== Animations ========== */
+/* Animations */
 @keyframes fadeUp {
   from { opacity: 0; transform: translateY(16px); }
   to   { opacity: 1; transform: translateY(0); }
 }
-.fade-up {
-  animation: fadeUp .5s ease-out both;
-}
+.fade-up { animation: fadeUp .5s ease-out both; }
 
-/* ========== Responsive ========== */
+/* Responsive */
 @media (max-width: 600px) {
   .header h1 { font-size: 1.7rem; }
   .price-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
@@ -213,17 +209,17 @@ a:hover { color: var(--gold); }
 </head>
 <body>
 
-<!-- ========== Header ========== -->
 <div class="container">
   <div class="header">
-    <h1>⛏ 金属追踪器</h1>
+    <div class="brand">众智创新</div>
+    <h1>金属价格实时追踪</h1>
     <div class="subtitle">贵金属 & 有色金属 · 价格 / 新闻 / 推文</div>
     <div class="update-badge" id="updateTime">加载中...</div>
   </div>
 
   <!-- Prices -->
   <div class="section">
-    <div class="section-title"><span class="icon">💰</span> 实时价格 (USD/oz)</div>
+    <div class="section-title"><span class="icon">💰</span> 实时价格</div>
     <div class="price-grid" id="priceGrid">
       <div class="empty-state"><div class="loading-spinner"></div><br>正在加载价格...</div>
     </div>
@@ -231,7 +227,7 @@ a:hover { color: var(--gold); }
 
   <!-- News -->
   <div class="section">
-    <div class="section-title"><span class="icon">📰</span> 最新新闻</div>
+    <div class="section-title"><span class="icon">📰</span> 最新新闻（已过滤加密货币）</div>
     <div id="newsList">
       <div class="empty-state"><div class="loading-spinner"></div><br>正在加载新闻...</div>
     </div>
@@ -246,15 +242,13 @@ a:hover { color: var(--gold); }
   </div>
 
   <div class="footer">
-    Metals Tracker · 数据由 MetalpriceAPI / NewsAPI / X API 提供<br>
-    页面每次打开时自动读取最新 data.json
+    众智创新 · 金属价格实时追踪<br>
+    数据由 Metals.dev / NewsAPI / X API 提供
   </div>
 </div>
 
-<!-- ========== JavaScript ========== -->
 <script>
 (async function () {
-  // ---- 读取 data.json ----
   let data;
   try {
     const resp = await fetch('data.json');
@@ -268,30 +262,31 @@ a:hover { color: var(--gold); }
     return;
   }
 
-  // ---- 更新时间 ----
+  // 更新时间
   document.getElementById('updateTime').textContent =
     '🕐 数据更新于 ' + (data.updated_at || '未知');
 
-  // ---- 渲染价格卡片 ----
+  // 渲染价格卡片
   const priceGrid = document.getElementById('priceGrid');
   if (data.prices && data.prices.length) {
     priceGrid.innerHTML = data.prices.map((p, i) => {
-      const priceText = p.price_usd_per_oz != null
-        ? `$${Number(p.price_usd_per_oz).toLocaleString()}`
+      const hasPrice = p.price_usd != null;
+      const priceText = hasPrice
+        ? `$${Number(p.price_usd).toLocaleString(undefined, {minimumFractionDigits: 2, maximumFractionDigits: 2})}`
         : 'N/A';
-      const cls = p.price_usd_per_oz != null ? '' : ' na';
+      const cls = hasPrice ? '' : ' na';
       return `
         <div class="price-card fade-up" style="animation-delay:${i * 60}ms">
           <div class="metal-name">${escHtml(p.name)}</div>
           <div class="metal-price${cls}">${priceText}</div>
-          <div class="metal-unit">${p.code} · USD per troy oz</div>
+          <div class="metal-unit">${escHtml(p.unit || '')}</div>
         </div>`;
     }).join('');
   } else {
     priceGrid.innerHTML = '<div class="empty-state">暂无价格数据</div>';
   }
 
-  // ---- 渲染新闻 ----
+  // 渲染新闻
   const newsList = document.getElementById('newsList');
   if (data.news && data.news.length) {
     newsList.innerHTML = data.news.map((n, i) => `
@@ -307,7 +302,7 @@ a:hover { color: var(--gold); }
     newsList.innerHTML = '<div class="empty-state">暂无新闻</div>';
   }
 
-  // ---- 渲染推文 ----
+  // 渲染推文
   const tweetList = document.getElementById('tweetList');
   if (data.tweets && data.tweets.length) {
     tweetList.innerHTML = data.tweets.map((t, i) => `
@@ -322,7 +317,6 @@ a:hover { color: var(--gold); }
     tweetList.innerHTML = '<div class="empty-state">未获取到推文（可能未配置 Twitter API）</div>';
   }
 
-  // ---- 工具函数 ----
   function escHtml(s) {
     const d = document.createElement('div');
     d.textContent = s || '';
