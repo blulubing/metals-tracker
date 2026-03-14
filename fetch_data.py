@@ -1,11 +1,6 @@
 """
 众智创新 · 金属价格实时追踪
 每天定时运行，把数据写入 data.json，并追加历史价格到 history.json
-
-使用的 API：
-1. Metals.dev  —— 金属价格（免费，100次/月）
-2. NewsAPI     —— 新闻（过滤掉虚拟货币相关内容）
-3. Twitter Bearer Token —— 推文（可选）
 """
 
 import json
@@ -16,15 +11,14 @@ import urllib.parse
 import urllib.error
 import ssl
 
-# ============================================================
-#  在这里填入你的 API Key（或者设为环境变量）
-# ============================================================
 METALS_DEV_API_KEY = os.environ.get("METALS_DEV_API_KEY", "在这里粘贴你的Key")
 NEWS_API_KEY       = os.environ.get("NEWS_API_KEY",        "在这里粘贴你的Key")
-TWITTER_BEARER     = os.environ.get("TWITTER_BEARER",      "")  # 可选
+TWITTER_BEARER     = os.environ.get("TWITTER_BEARER",      "")
 
 # ============================================================
 #  金属列表（metals.dev 使用的代码）
+#  新增: zinc(锌), lead(铅) 已有, 再加 tin(锡) — 注意 metals.dev
+#  不支持 cobalt 和 iron ore，所以用已有的 lme 品种补充
 # ============================================================
 METALS = {
     "gold":      {"name": "黄金 Gold",       "unit": "USD/盎司 oz"},
@@ -36,10 +30,13 @@ METALS = {
     "nickel":    {"name": "镍 Nickel",        "unit": "USD/吨 mt"},
     "zinc":      {"name": "锌 Zinc",          "unit": "USD/吨 mt"},
     "lead":      {"name": "铅 Lead",          "unit": "USD/吨 mt"},
+    "lme_zinc":  {"name": "LME锌 Zinc 3M",   "unit": "USD/吨 mt"},
+    "lme_nickel":{"name": "LME镍 Nickel 3M", "unit": "USD/吨 mt"},
+    "lme_copper":{"name": "LME铜 Copper 3M", "unit": "USD/吨 mt"},
 }
 
 # ============================================================
-#  虚拟货币过滤关键词
+#  虚拟货币过滤 + 无关新闻过滤
 # ============================================================
 CRYPTO_KEYWORDS = [
     "bitcoin", "btc", "ethereum", "eth", "crypto", "cryptocurrency",
@@ -49,9 +46,20 @@ CRYPTO_KEYWORDS = [
     "币圈", "代币", "挖矿", "矿机",
 ]
 
-def is_crypto_news(title, description=""):
+# 过滤明显无关的新闻关键词
+IRRELEVANT_KEYWORDS = [
+    "creatine", "headphone", "sony", "apple watch", "lakers",
+    "nba", "nfl", "mlb", "iphone", "samsung", "netflix",
+    "disney", "marvel", "video game", "fortnite", "spotify",
+]
+
+def is_irrelevant_news(title, description=""):
     text = (title + " " + description).lower()
-    return any(kw in text for kw in CRYPTO_KEYWORDS)
+    if any(kw in text for kw in CRYPTO_KEYWORDS):
+        return True
+    if any(kw in text for kw in IRRELEVANT_KEYWORDS):
+        return True
+    return False
 
 # ============================================================
 #  辅助函数
@@ -73,7 +81,7 @@ def get_script_dir():
     return os.path.dirname(os.path.abspath(__file__))
 
 # ============================================================
-#  1. 获取金属价格（使用 metals.dev）
+#  1. 获取金属价格
 # ============================================================
 def fetch_prices():
     print("📊 正在获取金属价格...")
@@ -97,25 +105,18 @@ def fetch_prices():
             })
         print(f"  ✅ 获取到 {len(prices)} 种金属价格")
     else:
-        error_msg = ""
-        if data:
-            error_msg = data.get("error_message", str(data))
+        error_msg = data.get("error_message", str(data)) if data else "无响应"
         print(f"  ❌ 价格 API 返回失败: {error_msg}")
         for code, info in METALS.items():
-            prices.append({
-                "code": code, "name": info["name"],
-                "price_usd": None, "unit": info["unit"],
-            })
+            prices.append({"code": code, "name": info["name"], "price_usd": None, "unit": info["unit"]})
     return prices
 
 # ============================================================
-#  1b. 保存历史价格（追加到 history.json，保留最近 60 天）
+#  1b. 保存历史价格
 # ============================================================
 def save_history(prices):
     print("📈 正在更新历史价格...")
     history_path = os.path.join(get_script_dir(), "history.json")
-
-    # 读取已有历史
     history = []
     if os.path.exists(history_path):
         try:
@@ -124,16 +125,12 @@ def save_history(prices):
         except Exception:
             history = []
 
-    # 今天的日期
     today = datetime.datetime.utcnow().strftime("%Y-%m-%d")
-
-    # 构建今天的价格记录
     today_record = {"date": today, "prices": {}}
     for p in prices:
         if p["price_usd"] is not None:
             today_record["prices"][p["code"]] = p["price_usd"]
 
-    # 如果今天已经有记录就覆盖，否则追加
     found = False
     for i, rec in enumerate(history):
         if rec.get("date") == today:
@@ -143,57 +140,22 @@ def save_history(prices):
     if not found:
         history.append(today_record)
 
-    # 按日期排序，只保留最近 60 天
     history.sort(key=lambda x: x["date"])
     history = history[-60:]
 
-    # 写回文件
     with open(history_path, "w", encoding="utf-8") as f:
         json.dump(history, f, ensure_ascii=False, indent=2)
-
     print(f"  ✅ 历史记录已更新，共 {len(history)} 天数据")
 
 # ============================================================
-#  2. 获取新闻（过滤掉虚拟货币）
+#  2. 获取新闻（过滤 + 尝试获取中文标题）
 # ============================================================
 def fetch_news():
     print("📰 正在获取新闻...")
-    queries = [
-        "gold price OR silver price OR copper price",
-        "platinum price OR palladium price OR nickel price",
-        "precious metals market",
-    ]
-    seen_titles = set()
-    articles = []
 
-    for q in queries:
-        encoded = urllib.parse.quote(q)
-        url = (
-            f"https://newsapi.org/v2/everything"
-            f"?q={encoded}"
-            f"&sortBy=publishedAt&pageSize=10&language=en"
-            f"&apiKey={NEWS_API_KEY}"
-        )
-        data = safe_request(url)
-        if data and data.get("status") == "ok":
-            for a in data.get("articles", []):
-                title = a.get("title", "")
-                desc = a.get("description") or ""
-                if not title or title in seen_titles:
-                    continue
-                if is_crypto_news(title, desc):
-                    print(f"    🚫 过滤: {title[:50]}...")
-                    continue
-                seen_titles.add(title)
-                articles.append({
-                    "title": title,
-                    "source": a.get("source", {}).get("name", ""),
-                    "url": a.get("url", ""),
-                    "published": a.get("publishedAt", ""),
-                    "description": desc[:200],
-                })
-
-    for q in ["贵金属 价格", "有色金属 价格"]:
+    # 优先获取中文新闻
+    zh_articles = []
+    for q in ["黄金 价格", "白银 铜 价格", "贵金属", "有色金属 价格", "金属 市场"]:
         encoded = urllib.parse.quote(q)
         url = (
             f"https://newsapi.org/v2/everything"
@@ -206,22 +168,59 @@ def fetch_news():
             for a in data.get("articles", []):
                 title = a.get("title", "")
                 desc = a.get("description") or ""
-                if not title or title in seen_titles:
+                if not title:
                     continue
-                if is_crypto_news(title, desc):
+                if is_irrelevant_news(title, desc):
                     continue
-                seen_titles.add(title)
-                articles.append({
+                zh_articles.append({
                     "title": title,
                     "source": a.get("source", {}).get("name", ""),
                     "url": a.get("url", ""),
                     "published": a.get("publishedAt", ""),
                     "description": desc[:200],
+                    "lang": "zh",
                 })
+
+    # 也获取英文新闻
+    en_articles = []
+    for q in ["gold price", "silver price copper price", "platinum palladium nickel price", "precious metals market"]:
+        encoded = urllib.parse.quote(q)
+        url = (
+            f"https://newsapi.org/v2/everything"
+            f"?q={encoded}"
+            f"&sortBy=publishedAt&pageSize=8&language=en"
+            f"&apiKey={NEWS_API_KEY}"
+        )
+        data = safe_request(url)
+        if data and data.get("status") == "ok":
+            for a in data.get("articles", []):
+                title = a.get("title", "")
+                desc = a.get("description") or ""
+                if not title:
+                    continue
+                if is_irrelevant_news(title, desc):
+                    print(f"    🚫 过滤: {title[:50]}...")
+                    continue
+                en_articles.append({
+                    "title": title,
+                    "source": a.get("source", {}).get("name", ""),
+                    "url": a.get("url", ""),
+                    "published": a.get("publishedAt", ""),
+                    "description": desc[:200],
+                    "lang": "en",
+                })
+
+    # 合并去重，优先中文
+    seen = set()
+    articles = []
+    for a in zh_articles + en_articles:
+        if a["title"] not in seen:
+            seen.add(a["title"])
+            articles.append(a)
 
     articles.sort(key=lambda x: x.get("published", ""), reverse=True)
     articles = articles[:10]
-    print(f"  ✅ 获取到 {len(articles)} 条新闻（已过滤加密货币）")
+    print(f"  ✅ 获取到 {len(articles)} 条新闻")
     return articles
 
 # ============================================================
@@ -250,7 +249,7 @@ def fetch_tweets():
     if data and "data" in data:
         for t in data["data"]:
             tweet_text = t.get("text", "")
-            if is_crypto_news(tweet_text):
+            if is_irrelevant_news(tweet_text):
                 continue
             tweet_id = t.get("id", "")
             tweets.append({
