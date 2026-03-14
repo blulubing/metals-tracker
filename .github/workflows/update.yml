@@ -22,7 +22,7 @@ jobs:
 
       - name: 运行数据抓取脚本
         env:
-          METALPRICE_API_KEY: ${{ secrets.METALPRICE_API_KEY }}
+          METALS_DEV_API_KEY: ${{ secrets.METALS_DEV_API_KEY }}
           NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
           TWITTER_BEARER: ${{ secrets.TWITTER_BEARER }}
         run: python fetch_data.py
