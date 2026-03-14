@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-03-14 20:05:42 UTC",
+  "updated_at": "2026-03-14 20:15:14 UTC",
   "prices": [
     {
       "code": "gold",
@@ -54,78 +54,106 @@
       "name": "铅 Lead",
       "price_usd": 0.06,
       "unit": "USD/吨 mt"
+    },
+    {
+      "code": "lme_zinc",
+      "name": "LME锌 Zinc 3M",
+      "price_usd": 0.1,
+      "unit": "USD/吨 mt"
+    },
+    {
+      "code": "lme_nickel",
+      "name": "LME镍 Nickel 3M",
+      "price_usd": 0.55,
+      "unit": "USD/吨 mt"
+    },
+    {
+      "code": "lme_copper",
+      "name": "LME铜 Copper 3M",
+      "price_usd": 0.4,
+      "unit": "USD/吨 mt"
     }
   ],
   "news": [
+    {
+      "title": "Walgreens Ad & Coupons: 3/15-3/21",
+      "source": "Southernsavers.com",
+      "url": "https://www.southernsavers.com/walgreens-ad-coupons-315-321-2/",
+      "published": "2026-03-13T20:15:03Z",
+      "description": "Head to your store starting Sunday, 3/15 to find these deals from the new Walgreens ad. Get good deals on Claritin, Scott bath tissue, and more. Register Rewards - Month Long $5 RR WYB (2) select Heal",
+      "lang": "en"
+    },
     {
       "title": "Team USA vs. Canada prediction: WBC odds, picks, best bet Friday",
       "source": "New York Post",
       "url": "https://nypost.com/2026/03/13/betting/team-usa-vs-canada-prediction-world-baseball-classic-odds-picks-best-bet-friday/",
       "published": "2026-03-13T20:00:00Z",
-      "description": "Things got quite messy for Team USA at the end of pool play, but all that matters now is that they're into the quarterfinals of the World Baseball Classic."
-    },
-    {
-      "title": "Why is silver price down by 3.3% and gold by 0.5%, and will precious metals continue to drop or rise again? Gold and silver decline, analysts insights and market outlook explained. Here's what should investors do now",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-silver-price-down-by-3-3-and-gold-by-0-5-and-will-precious-metals-continue-to-drop-or-rise-again-gold-and-silver-decline-analysts-insights-and-market-outlook-explained-heres-what-should-investors-do-now/articleshow/129564145.cms",
-      "published": "2026-03-13T19:45:16Z",
-      "description": "Why is silver price down by 3.3% and gold by 0.5%, and will precious metals continue to drop or rise again? Gold and silver prices moved lower this week as the dollar gained strength and interest rate"
+      "description": "Things got quite messy for Team USA at the end of pool play, but all that matters now is that they're into the quarterfinals of the World Baseball Classic.",
+      "lang": "en"
     },
     {
       "title": "The Latest Economic Numbers Are Brutal for Trump",
       "source": "The New Republic",
       "url": "https://newrepublic.com/article/207773/trump-gdp-economic-numbers-brutal",
       "published": "2026-03-13T19:33:11Z",
-      "description": "The likelihood is growing that the economy will be in recession when voters cast their ballots in the midterm elections. Goldman, Sachs on Thursday raised its 12-month estimation of a recession’s prob"
-    },
-    {
-      "title": "The best creatine powders for muscle and mind — personal trainers and dietitians weigh in",
-      "source": "New York Post",
-      "url": "https://nypost.com/health/best-creatine-powders-per-experts/",
-      "published": "2026-03-13T18:46:52Z",
-      "description": "The creatine craze is real. Here's what you need to know."
-    },
-    {
-      "title": "Apple’s black stainless steel Milanese Loop is 20% off at Amazon today, more",
-      "source": "9to5Toys",
-      "url": "http://9to5toys.com/2026/03/13/apple-black-stainless-steel-milanese-loop-deal/",
-      "published": "2026-03-13T18:26:25Z",
-      "description": "This week has ushered in a series of notable deals on Apple Watch Ultra bands, including Ocean and Alpine Loop models. But we also just spotted Amazon knocking nearly $50 off the what is arguably the "
-    },
-    {
-      "title": "Lakers future is bright with Luka Dončić and Austin Reaves in the backcourt",
-      "source": "Silver Screen and Roll ",
-      "url": "https://www.silverscreenandroll.com/lakers-analysis/110759/lakers-reacts-luka-doncic-austin-reaves-backcourt-future-nba-offseason-free-agency-wolves",
-      "published": "2026-03-13T18:24:01Z",
-      "description": "Lakers fans seem sure that a backcourt featuring Luka Dončić and Austin Reaves will set LA up for future success.﻿"
-    },
-    {
-      "title": "Billionaire Investor Stanley Druckenmiller Bullish on Stablecoin Growth",
-      "source": "Decrypt",
-      "url": "https://decrypt.co/361056/billionaire-investor-stanley-druckenmiller-bullish-stablecoin-growth",
-      "published": "2026-03-13T18:05:45Z",
-      "description": "Former hedge fund manager Stanley Druckenmiller expects stablecoins to take over payments systems in the next 10-15 years."
+      "description": "The likelihood is growing that the economy will be in recession when voters cast their ballots in the midterm elections. Goldman, Sachs on Thursday raised its 12-month estimation of a recession’s prob",
+      "lang": "en"
     },
     {
       "title": "Dealers at TEFAF Maastricht Report Robust Sales, Offering Works Ranging from Two Inches to Room-Size",
       "source": "ARTnews",
       "url": "https://www.artnews.com/artnews/news/dealers-tefaf-maastricht-report-robust-sales-2026-1234777409/",
       "published": "2026-03-13T17:51:30Z",
-      "description": "A sprawling Neapolitan crèche, a gigantic sleigh, and two-inch-high enameled gold paintings all dazzle at the latest edition of TEFAF Maastricht."
+      "description": "A sprawling Neapolitan crèche, a gigantic sleigh, and two-inch-high enameled gold paintings all dazzle at the latest edition of TEFAF Maastricht.",
+      "lang": "en"
     },
     {
       "title": "How to choose a gold IRA company: A consumer checklist",
       "source": "CBS News",
       "url": "https://www.cbsnews.com/news/how-to-choose-a-gold-ira-company-a-consumer-checklist/",
       "published": "2026-03-13T17:35:09Z",
-      "description": "The wrong gold IRA company can cost you more than you bargained for, so make sure you know what to look for."
+      "description": "The wrong gold IRA company can cost you more than you bargained for, so make sure you know what to look for.",
+      "lang": "en"
     },
     {
       "title": "The Mechanics Powering Heritage Brand Jewelry’s Secondary Market Appeal",
       "source": "Observer",
       "url": "https://observer.com/2026/03/heritage-brand-jewelry-secondary-market-auctions/",
       "published": "2026-03-13T16:00:47Z",
-      "description": "While secondary prices often sit below retail, they tend to track upward over time as primary prices rise, limiting downside volatility rather than generating speculative gains."
+      "description": "While secondary prices often sit below retail, they tend to track upward over time as primary prices rise, limiting downside volatility rather than generating speculative gains.",
+      "lang": "en"
+    },
+    {
+      "title": "U.S. Global Investors Declares Continued Monthly Dividend, Highlights Readiness as Geopolitical Tensions Rise",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/13/3255644/0/en/U-S-Global-Investors-Declares-Continued-Monthly-Dividend-Highlights-Readiness-as-Geopolitical-Tensions-Rise.html",
+      "published": "2026-03-13T15:05:00Z",
+      "description": "San Antonio, TX, March 13, 2026 (GLOBE NEWSWIRE) -- U.S. Global Investors, Inc. (NASDAQ: GROW) (“the Company”), a registered investment advisory firm[1] with expertise in gold mining stocks and the ai",
+      "lang": "en"
+    },
+    {
+      "title": "Blue Gold Reports Successful Beta of Standard Gold Coin and ONE Wallet; Sets Q2 2026 Public Launch",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/13/3255468/0/en/Blue-Gold-Reports-Successful-Beta-of-Standard-Gold-Coin-and-ONE-Wallet-Sets-Q2-2026-Public-Launch.html",
+      "published": "2026-03-13T12:30:00Z",
+      "description": "NEW YORK, March 13, 2026 (GLOBE NEWSWIRE) -- Blue Gold Limited (Nasdaq: BGL) (“Blue Gold” or the “Company”), a next-generation gold development and technology company, today announced the successful c",
+      "lang": "en"
+    },
+    {
+      "title": "魅族手机“解体”：做车机，做AI，或者离开",
+      "source": "Cnbeta.com.tw",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1553372.htm",
+      "published": "2026-03-13T12:05:21Z",
+      "description": "AI浪潮带来了一场蝴蝶效应，“掀翻”了一家23年的老牌手机公司，以及旧秩序。年前持续发酵的“魅族手机停摆”风波，今日落下帷幕。《智能涌现》从内部人士处独家获悉，魅族近期宣布一轮大调整，超50%的员工即将离开，涉及400人左右。\r\n这部分人有三个去处——其中，一部分将获得“N+2”的赔偿。消息人士称，“大多数人将在本周五之内办完（手续）”；魅族的“PANDAER”潮牌团队将分拆，自负盈亏；魅族AR眼",
+      "lang": "zh"
+    },
+    {
+      "title": "Silver price crashes today: Why gold, silver, copper and platinum prices are falling — Silver drops to $83.40 while gold slides $25 to $5,100 per ounce",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/silver-price-crashes-today-why-gold-silver-copper-and-platinum-prices-are-falling-silver-drops-to-83-40-while-gold-slides-25-to-5100-per-ounce/articleshow/129551377.cms",
+      "published": "2026-03-13T12:00:56Z",
+      "description": "Silver price crashes today: Why gold, silver, copper and platinum prices are falling — Silver price crashes today. The drop is sharp. Silver price today fell to $83.40 per ounce, down 2.01%. Gold pric",
+      "lang": "en"
     }
   ],
   "tweets": []
