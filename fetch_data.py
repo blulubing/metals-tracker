@@ -1,6 +1,6 @@
 """
 众智创新 · 金属价格实时追踪
-每天定时运行，把数据写入 data.json
+每天定时运行，把数据写入 data.json，并追加历史价格到 history.json
 
 使用的 API：
 1. Metals.dev  —— 金属价格（免费，100次/月）
@@ -25,16 +25,12 @@ TWITTER_BEARER     = os.environ.get("TWITTER_BEARER",      "")  # 可选
 
 # ============================================================
 #  金属列表（metals.dev 使用的代码）
-#  贵金属单位: troy ounce (toz)
-#  工业金属单位: metric tonne (mt)
 # ============================================================
 METALS = {
-    # 贵金属
     "gold":      {"name": "黄金 Gold",       "unit": "USD/盎司 oz"},
     "silver":    {"name": "白银 Silver",      "unit": "USD/盎司 oz"},
     "platinum":  {"name": "铂 Platinum",      "unit": "USD/盎司 oz"},
     "palladium": {"name": "钯 Palladium",     "unit": "USD/盎司 oz"},
-    # 工业金属
     "copper":    {"name": "铜 Copper",        "unit": "USD/吨 mt"},
     "aluminum":  {"name": "铝 Aluminum",      "unit": "USD/吨 mt"},
     "nickel":    {"name": "镍 Nickel",        "unit": "USD/吨 mt"},
@@ -43,7 +39,7 @@ METALS = {
 }
 
 # ============================================================
-#  虚拟货币 / 加密货币过滤关键词
+#  虚拟货币过滤关键词
 # ============================================================
 CRYPTO_KEYWORDS = [
     "bitcoin", "btc", "ethereum", "eth", "crypto", "cryptocurrency",
@@ -54,15 +50,13 @@ CRYPTO_KEYWORDS = [
 ]
 
 def is_crypto_news(title, description=""):
-    """检查新闻是否与虚拟货币有关"""
     text = (title + " " + description).lower()
     return any(kw in text for kw in CRYPTO_KEYWORDS)
 
 # ============================================================
-#  辅助函数：安全地发送 HTTP 请求
+#  辅助函数
 # ============================================================
 def safe_request(url, headers=None, timeout=15):
-    """发送 GET 请求，返回字典或 None"""
     try:
         req = urllib.request.Request(url)
         if headers:
@@ -75,12 +69,14 @@ def safe_request(url, headers=None, timeout=15):
         print(f"  ⚠ 请求失败: {url[:80]}... -> {e}")
         return None
 
+def get_script_dir():
+    return os.path.dirname(os.path.abspath(__file__))
+
 # ============================================================
 #  1. 获取金属价格（使用 metals.dev）
 # ============================================================
 def fetch_prices():
     print("📊 正在获取金属价格...")
-
     url = (
         f"https://api.metals.dev/v1/latest"
         f"?api_key={METALS_DEV_API_KEY}"
@@ -93,9 +89,6 @@ def fetch_prices():
         metals_data = data.get("metals", {})
         for code, info in METALS.items():
             price = metals_data.get(code)
-            # metals.dev 工业金属默认单位是 metric tonne
-            # 但我们请求了 unit=toz，所以全部是盎司价格
-            # 不过工业金属的盎司价格很小，更常用吨价
             prices.append({
                 "code": code,
                 "name": info["name"],
@@ -110,13 +103,55 @@ def fetch_prices():
         print(f"  ❌ 价格 API 返回失败: {error_msg}")
         for code, info in METALS.items():
             prices.append({
-                "code": code,
-                "name": info["name"],
-                "price_usd": None,
-                "unit": info["unit"],
+                "code": code, "name": info["name"],
+                "price_usd": None, "unit": info["unit"],
             })
-
     return prices
+
+# ============================================================
+#  1b. 保存历史价格（追加到 history.json，保留最近 60 天）
+# ============================================================
+def save_history(prices):
+    print("📈 正在更新历史价格...")
+    history_path = os.path.join(get_script_dir(), "history.json")
+
+    # 读取已有历史
+    history = []
+    if os.path.exists(history_path):
+        try:
+            with open(history_path, "r", encoding="utf-8") as f:
+                history = json.load(f)
+        except Exception:
+            history = []
+
+    # 今天的日期
+    today = datetime.datetime.utcnow().strftime("%Y-%m-%d")
+
+    # 构建今天的价格记录
+    today_record = {"date": today, "prices": {}}
+    for p in prices:
+        if p["price_usd"] is not None:
+            today_record["prices"][p["code"]] = p["price_usd"]
+
+    # 如果今天已经有记录就覆盖，否则追加
+    found = False
+    for i, rec in enumerate(history):
+        if rec.get("date") == today:
+            history[i] = today_record
+            found = True
+            break
+    if not found:
+        history.append(today_record)
+
+    # 按日期排序，只保留最近 60 天
+    history.sort(key=lambda x: x["date"])
+    history = history[-60:]
+
+    # 写回文件
+    with open(history_path, "w", encoding="utf-8") as f:
+        json.dump(history, f, ensure_ascii=False, indent=2)
+
+    print(f"  ✅ 历史记录已更新，共 {len(history)} 天数据")
 
 # ============================================================
 #  2. 获取新闻（过滤掉虚拟货币）
@@ -146,9 +181,8 @@ def fetch_news():
                 desc = a.get("description") or ""
                 if not title or title in seen_titles:
                     continue
-                # 过滤虚拟货币新闻
                 if is_crypto_news(title, desc):
-                    print(f"    🚫 过滤掉加密货币新闻: {title[:50]}...")
+                    print(f"    🚫 过滤: {title[:50]}...")
                     continue
                 seen_titles.add(title)
                 articles.append({
@@ -159,7 +193,6 @@ def fetch_news():
                     "description": desc[:200],
                 })
 
-    # 也搜中文新闻（同样过滤加密货币）
     for q in ["贵金属 价格", "有色金属 价格"]:
         encoded = urllib.parse.quote(q)
         url = (
@@ -176,7 +209,6 @@ def fetch_news():
                 if not title or title in seen_titles:
                     continue
                 if is_crypto_news(title, desc):
-                    print(f"    🚫 过滤掉加密货币新闻: {title[:50]}...")
                     continue
                 seen_titles.add(title)
                 articles.append({
@@ -187,10 +219,9 @@ def fetch_news():
                     "description": desc[:200],
                 })
 
-    # 只保留最新 10 条
     articles.sort(key=lambda x: x.get("published", ""), reverse=True)
     articles = articles[:10]
-    print(f"  ✅ 获取到 {len(articles)} 条新闻（已过滤加密货币相关内容）")
+    print(f"  ✅ 获取到 {len(articles)} 条新闻（已过滤加密货币）")
     return articles
 
 # ============================================================
@@ -198,7 +229,7 @@ def fetch_news():
 # ============================================================
 def fetch_tweets():
     if not TWITTER_BEARER or TWITTER_BEARER == "":
-        print("🐦 未设置 Twitter Bearer Token，跳过推文抓取")
+        print("🐦 未设置 Twitter Bearer Token，跳过")
         return []
 
     print("🐦 正在获取推文...")
@@ -219,7 +250,6 @@ def fetch_tweets():
     if data and "data" in data:
         for t in data["data"]:
             tweet_text = t.get("text", "")
-            # 二次过滤
             if is_crypto_news(tweet_text):
                 continue
             tweet_id = t.get("id", "")
@@ -231,7 +261,6 @@ def fetch_tweets():
         print(f"  ✅ 获取到 {len(tweets)} 条推文")
     else:
         print("  ⚠ 推文获取失败或无结果")
-
     return tweets
 
 # ============================================================
@@ -240,21 +269,24 @@ def fetch_tweets():
 def main():
     print("=" * 50)
     print(f"🚀 众智创新 · 金属价格实时追踪")
-    print(f"   开始抓取数据 — {datetime.datetime.utcnow().isoformat()}Z")
+    print(f"   开始抓取 — {datetime.datetime.utcnow().isoformat()}Z")
     print("=" * 50)
+
+    prices = fetch_prices()
+    save_history(prices)
 
     result = {
         "updated_at": datetime.datetime.utcnow().strftime("%Y-%m-%d %H:%M:%S UTC"),
-        "prices": fetch_prices(),
+        "prices": prices,
         "news": fetch_news(),
         "tweets": fetch_tweets(),
     }
 
-    out_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data.json")
+    out_path = os.path.join(get_script_dir(), "data.json")
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=2)
 
-    print(f"\n✅ 数据已保存到 {out_path}")
+    print(f"\n✅ 数据已保存")
     print(f"   价格: {len(result['prices'])} 种金属")
     print(f"   新闻: {len(result['news'])} 条")
     print(f"   推文: {len(result['tweets'])} 条")
