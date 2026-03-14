@@ -32,7 +32,10 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "actions@github.com"
+          git add data.json history.json
+          git stash
           git pull --rebase origin main
+          git stash pop || true
           git add data.json history.json
           git diff --quiet --cached || git commit -m "自动更新数据 $(date -u)"
           git push
