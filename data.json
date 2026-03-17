@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-03-16 07:08:18 UTC",
+  "updated_at": "2026-03-17 06:56:23 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 5012.76,
+      "price_usd": 5010.27,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 79.88,
+      "price_usd": 80.82,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2054.66,
+      "price_usd": 2128.39,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1573.81,
+      "price_usd": 1603.36,
       "unit": "USD/盎司 oz"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.55,
+      "price_usd": 0.54,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,84 +76,84 @@
   ],
   "news": [
     {
-      "title": "Sunday Morning Showdown: Vacheron Constantin Historiques 222 Vs. Overseas Self-Winding",
-      "source": "Fratellowatches.com",
-      "url": "https://www.fratellowatches.com/sunday-morning-showdown-vacheron-constantin-historiques-222-vs-overseas-self-winding/",
-      "published": "2026-03-15T06:00:48Z",
-      "description": "It’s Sunday morning, so it’s time to sit down with a cup of coffee for another Sunday Morning Showdown. This week, Mike and Jorg go head-to-head with two gold Vacheron Constantin watches. Jorg’s pick ",
+      "title": "Iran War: Integrated Scenario Analysis March9 2026",
+      "source": "Zoso.ro",
+      "url": "https://zoso.ro/iran-integrated-scenario-analysis-march9-2026/",
+      "published": "2026-03-16T06:51:39Z",
+      "description": "Oil Markets • US Equities • Gulf Real Estate Day 10 Update — March 9, 2026 Incorporating: Trump behavioral pattern analysis, Iranian internal fragility assessment, water crisis compounding, January ma",
       "lang": "en"
     },
     {
-      "title": "Gold and silver prices fall in domestic market",
-      "source": "Khabarhub.com",
-      "url": "https://english.khabarhub.com/2026/15/539343/",
-      "published": "2026-03-15T05:40:15Z",
-      "description": "KATHMANDU: The prices of gold and silver declined in the local market today compared to last Friday. The price of gold dropped by Rs 4,800 per tola, while silver decreased by Rs 225 per tola. Accordin",
-      "lang": "en"
-    },
-    {
-      "title": "Group Eleven to treble drill at Limerick sites after €7.5m fundraise",
-      "source": "Independent.ie",
-      "url": "https://www.independent.ie/business/irish/group-eleven-to-treble-drill-at-limerick-sites-after-75m-fundraise/a1651709338.html",
-      "published": "2026-03-15T05:30:00Z",
-      "description": "Canadian mining firm Group Eleven Resources is set to treble its Limerick exploration drilling after raising new funding, even after mining giant Glencore declined to take part in the round.",
-      "lang": "en"
-    },
-    {
-      "title": "NSE to launch 10-gram gold futures contracts under commodity derivatives segment from March 16",
+      "title": "Gold futures decline ₹2,225 to ₹1.56 lakh/10g",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/nse-to-launch-10-gram-gold-futures-contracts-under-commodity-derivatives-segment-from-march-16/article70745714.ece",
-      "published": "2026-03-15T03:54:37Z",
-      "description": "NSE to launch 10-gram gold futures contracts in Commodity Derivatives segment starting March 16, 2026, approved by SEBI.",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-futures-decline-2225-to-156-lakh10g/article70748900.ece",
+      "published": "2026-03-16T06:50:32Z",
+      "description": "On the Multi Commodity Exchange, gold futures for April delivery depreciated by ₹2,225, or 1.4%, to ₹1,56,241 per 10 grams in a business turnover of 7,881 lots",
       "lang": "en"
     },
     {
-      "title": "Gold and Silver in India: Beyond Tradition, A Strategic Allocation",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-and-silver-in-india-beyond-tradition-a-strategic-allocation/article70743773.ece",
-      "published": "2026-03-15T03:28:44Z",
-      "description": "In a world where policy outcomes are less predictable and correlations rise during stress, gold and silver may be seen less as vehicles for gains",
+      "title": "Ruthenium prices hit record high as AI boom squeezes supply",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/tech/technology/ruthenium-prices-hit-record-high-as-ai-boom-squeezes-supply/articleshow/129602568.cms",
+      "published": "2026-03-16T06:50:05Z",
+      "description": "Used in electronics, ‌semiconductors, and ⁠chemical processing, ⁠ruthenium is seeing rising demand from AI-driven data storage and ​cloud computing. Expansion in data centre capacity is lifting hard ​",
       "lang": "en"
     },
     {
-      "title": "Gold Rate Today, March 15, 2026: Check 22K and 24K Gold Prices in Delhi, Mumbai, Chennai and Other Cities",
-      "source": "LatestLY",
-      "url": "https://www.latestly.com/business/gold-rate-today-march-15-2026-check-22k-and-24k-gold-prices-in-delhi-mumbai-chennai-and-other-cities-7354504.html",
-      "published": "2026-03-15T03:15:56Z",
-      "description": "Today, March 15, gold rates (gold prices) in India stabilised following a recent correction. According to GoodReturns, 24-carat gold is priced at INR 1,59,660 per 10 grams, while 22-carat gold stands ",
+      "title": "三星 MX 事业部进入“紧急状态”，最坏情况下可能出现首次亏损",
+      "source": "Ithome.com",
+      "url": "https://www.ithome.com/0/929/516.htm",
+      "published": "2026-03-16T06:48:13Z",
+      "description": "IT之家 3 月 16 日消息，据韩媒 FNNews 昨天报道，继电视（VD）、家电（DA）事业部拉响警报后，三星电子现确认移动体验（MX）事业部也进入“应急管理体制”。意味着三星上下除了半导体（DS）业务部以外，设备体验部门（DX，涵盖手机、电视和家电等）几乎全部进入紧急状态。尽管三星 Galaxy S26 系列手机预售创下历史记录，市场表现强劲，但 MX 事业部现在却出现担忧：由于“芯片通胀”",
+      "lang": "zh"
+    },
+    {
+      "title": "Transaction in Own Shares",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/16/3255986/0/en/Transaction-in-Own-Shares.html",
+      "published": "2026-03-16T06:30:00Z",
+      "description": "ENDEAVOUR ANNOUNCES TRANSACTION IN OWN SHARES  London, 16 March 2026 – Endeavour Mining plc (LSE:EDV, TSX:EDV) (“the Company”) announces it has purchased...",
       "lang": "en"
     },
     {
-      "title": "AWE首秀亮王牌：慕思，凭什么让一众科技大佬集体“躺平”？",
+      "title": "补齐AI板块核心拼图，网络基建「卖铲人」飞速创新登陆港交所",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3722669939931524",
-      "published": "2026-03-15T02:00:50Z",
-      "description": "智能家居发展十余年，各类智能单品早已走进千家万户，但一个困局却始终未能突破：单品“智能化”多流于表面，且彼此孤立，难以串联成一个真正懂生活、主动服务人真实需求的“智能之家”。\n 比如用于交流的语音助手，虽能随叫随应，但也会成为某一刻的噪音；又如守护安全的摄像头，并不能感知被褥之下人体的真实状态；即便是可掌控全屋智能的手机，却也不是24小时被人贴身操控。\n “全域协同”、“主动服务”、“无感存在”至",
+      "url": "https://36kr.com/p/3725233182062982",
+      "published": "2026-03-16T06:24:43Z",
+      "description": "继2025年港交所重现“IPO大年”（全年117家公司上市，募资总额达2869亿港元，同比大增200%）之后，2026年的港股上市潮仍在强势延续年内已有28家企业成功IPO，募资总额逼近千亿大关。\n 值得注意的是，今年港股IPO的含“AI”量极高。不仅有MiniMax、智谱等大模型独角兽接连登陆，壁仞科技、天数智芯等算力巨头也相继入局。而在3月13日，港股AI资产池再添核心资产——“面向全球市场的",
       "lang": "zh"
     },
     {
-      "title": "英伟达 GPU 缺货：微星电竞产品线拟涨价 15~30%，“今年是成立以来最严峻的一年”",
-      "source": "Ithome.com",
-      "url": "https://www.ithome.com/0/929/174.htm",
-      "published": "2026-03-15T01:02:38Z",
-      "description": "IT之家 3 月 15 日消息，据中国台湾《经济日报》报道，由于存储器涨价加英伟达 GPU 供应短缺，微星将减少低价位产品出货，专注于中高端产品线，同时显卡类产品整体均价上调，电竞产品线涨价幅度预估在 15～30% 左右。微星总经理黄金请在本周五的法说会上表示，2026 年是公司成立以来面临的最严峻一年。PC 市场正遭遇严峻挑战。他预估全年 PC 市场可能衰退 10% 至 20%，比调研机构普遍预",
-      "lang": "zh"
-    },
-    {
-      "title": "A novel planctomycetotal isolate from subsurface percolates belongs to the novel species Anatilimnocola aquadivae sp. nov. in the family Pirellulaceae",
-      "source": "Nature.com",
-      "url": "https://www.nature.com/articles/s41598-026-44018-1",
-      "published": "2026-03-15T00:00:00Z",
-      "description": "The family Pirellulaceae (phylum Planctomycetota) is known for its environmental versatility, with members isolated from marine habitats, algal surfaces, soil and lakes; yet, no member has been isolat",
+      "title": "Atal Tunnel travel update: Heavy snowfall strands 1,000+ vehicles in Himachal; 40 tourists rescued from Jalori Pass",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/life-style/travel/news/atal-tunnel-travel-update-heavy-snowfall-strands-1000-vehicles-in-himachal-40-tourists-rescued-from-jalori-pass/articleshow/129601803.cms",
+      "published": "2026-03-16T06:11:59Z",
+      "description": "Nearly 1,000 vehicles were stranded near the Atal Tunnel on March 15 due to a sudden snowfall in Himachal Pradesh. Rescue operations are underway to assist tourists and commuters affected by the heavy",
       "lang": "en"
     },
     {
-      "title": "IT早报 0315：央视曝光报废车黑色产业链；腾讯“龙虾”开启全国巡装；英特尔 13/14 代酷睿 CPU 全球库存告急；字节辟谣“武汉研发中心全部被裁”...",
-      "source": "Ithome.com",
-      "url": "https://www.ithome.com/0/929/166.htm",
-      "published": "2026-03-14T23:29:58Z",
-      "description": "“IT早报”时间，大家好，现在是 2026 年 3 月 15 日星期日，今天的重要科技资讯有：1、央视曝光报废车黑色产业链：三元催化器被翻新成假原厂件售卖，山东临沂成立联合工作组开展专项调查央视调查揭露山东临沂报废车拆解乱象：正规企业因车源短缺而停工，大量非法小作坊却在林地农田昼夜作业，将三元催化器等危险废物翻新成“假原厂件”售卖。这些翻新件性能不达标，威胁行车安全，而掏空核心的“车壳”则通过正规",
+      "title": "打假人王海剑指胖东来售卖鸡蛋添加人工色素 黄天鹅回应",
+      "source": "Cnbeta.com.tw",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1553636.htm",
+      "published": "2026-03-16T06:05:11Z",
+      "description": "近日，知名打假人王海团队称在胖东来超市购买的鸡蛋检测出角黄素9.54mg/kg，超出饲料添加剂规范中8mg/kg的添加量限值。此外，购买的黄天鹅品牌鸡蛋中检出角黄素，含量0.399 mg/kg。而黄天鹅一直宣称“饲料不使用任何人工色素”。\r\n据报道，角黄素俗称斑蝥黄，是人工合成色素。胖东来最新回应称，卖场生蛋采购手续合法齐全，正配合市场监管部门核查，暂未接到下架通知。胖东来认为，角黄素属于天然或合",
       "lang": "zh"
+    },
+    {
+      "title": "Zendaya’s ring stack at Oscars 2026 triggers secret wedding with Tom Holland",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendayas-ring-stack-at-oscars-2026-triggers-secret-wedding-with-tom-holland/articleshow/129601615.cms",
+      "published": "2026-03-16T06:03:37Z",
+      "description": "Hollywood actress Zendaya raised eyebrows at the 98th edition of the Academy Award as she flaunted a ring stack. The actress graced the Dolby Theater .",
+      "lang": "en"
+    },
+    {
+      "title": "This Knife Weighs the Same as a Dollar in Quarters",
+      "source": "The Gadgeteer",
+      "url": "https://the-gadgeteer.com/2026/03/16/this-knife-weighs-the-same-as-a-dollar-in-quarters/",
+      "published": "2026-03-16T06:00:22Z",
+      "description": "ARTICLE – The pocket knife industry has spent the last few years in an arms race over steel types, lock mechanisms, and blade shapes. Spyderco just took a different path entirely. The Charisma, design",
+      "lang": "en"
     }
   ],
   "tweets": []
