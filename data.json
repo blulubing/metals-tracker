@@ -1,28 +1,48 @@
 {
+<<<<<<< Updated upstream
   "updated_at": "2026-03-17 06:56:23 UTC",
+=======
+  "updated_at": "2026-03-17 16:02:26 UTC",
+>>>>>>> Stashed changes
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
+<<<<<<< Updated upstream
       "price_usd": 5010.27,
+=======
+      "price_usd": 4998.86,
+>>>>>>> Stashed changes
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
+<<<<<<< Updated upstream
       "price_usd": 80.82,
+=======
+      "price_usd": 79.29,
+>>>>>>> Stashed changes
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
+<<<<<<< Updated upstream
       "price_usd": 2128.39,
+=======
+      "price_usd": 2133.74,
+>>>>>>> Stashed changes
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
+<<<<<<< Updated upstream
       "price_usd": 1603.36,
+=======
+      "price_usd": 1618.85,
+>>>>>>> Stashed changes
       "unit": "USD/盎司 oz"
     },
     {
@@ -34,13 +54,13 @@
     {
       "code": "aluminum",
       "name": "铝 Aluminum",
-      "price_usd": 0.11,
+      "price_usd": 0.1,
       "unit": "USD/吨 mt"
     },
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.54,
+      "price_usd": 0.53,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,6 +96,7 @@
   ],
   "news": [
     {
+<<<<<<< Updated upstream
       "title": "Iran War: Integrated Scenario Analysis March9 2026",
       "source": "Zoso.ro",
       "url": "https://zoso.ro/iran-integrated-scenario-analysis-march9-2026/",
@@ -154,6 +175,86 @@
       "published": "2026-03-16T06:00:22Z",
       "description": "ARTICLE – The pocket knife industry has spent the last few years in an arms race over steel types, lock mechanisms, and blade shapes. Spyderco just took a different path entirely. The Charisma, design",
       "lang": "en"
+=======
+      "title": "The Global Campaign to Control Oil Prices",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/The-Global-Campaign-to-Control-Oil-Prices.html",
+      "published": "2026-03-16T16:00:00Z",
+      "description": "Governments around the world are desperate to bring down oil prices in the wake of a cutoff of about one-fifth of the world's supply due to the Iran war. Here are some of the moves we've seen so far: ",
+      "lang": "en"
+    },
+    {
+      "title": "Ranking the 10 best coaching combos in college football and basketball for the 2025-26 season",
+      "source": "CBS Sports",
+      "url": "https://www.cbssports.com/college-football/news/ranking-coaching-combos-college-football-basketball-2025-26/",
+      "published": "2026-03-16T15:58:41Z",
+      "description": "As the NCAA Tournament tips off this week, here is a look at which programs employ the best football and basketball coaching duos",
+      "lang": "en"
+    },
+    {
+      "title": "The Chicest Spectator Styles for Women to Wear to the 2026 Masters Tournament",
+      "source": "WWD",
+      "url": "http://wwd.com/shop/shop-fashion/what-to-wear-to-the-masters-golf-tournament-outfits-shop-1238647812/",
+      "published": "2026-03-16T15:34:45Z",
+      "description": "Because the prestigious sporting event is just as much a showcase of spring fashion as it is of golf.",
+      "lang": "en"
+    },
+    {
+      "title": "Iran war: Why gold prices are not soaring?",
+      "source": "DW (English)",
+      "url": "https://www.dw.com/en/iran-war-why-gold-prices-are-not-soaring/a-76381602",
+      "published": "2026-03-16T15:31:00Z",
+      "description": "Gold is typically seen as a safe haven, especially in times of war and other crises. Notwithstanding the ongoing war in Iran, the price is steady. What's driving the stability?",
+      "lang": "en"
+    },
+    {
+      "title": "“This Is Not The Computer For You”",
+      "source": "kottke.org",
+      "url": "https://kottke.org/26/03/not-the-computer-for-you",
+      "published": "2026-03-16T15:11:39Z",
+      "description": "Maybe it’s because I’m a little bit allergic to hype, but I just now got around to reading this review of the Macbook Neo by Sam Henri Gold that absolutely ever",
+      "lang": "en"
+    },
+    {
+      "title": "Yahoo CEO Jim Lanzone on reviving the web’s homepage",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web",
+      "published": "2026-03-16T14:56:09Z",
+      "description": "Today, I’m talking with Jim Lanzone, who is the CEO of Yahoo. It’s basically impossible to sum up the Yahoo story, but the short version of it is that a long time ago Yahoo paid Google to run the sear",
+      "lang": "en"
+    },
+    {
+      "title": "Why are oil prices plunging? US oil prices crash below $95 per barrel, WTI crude plunges 8% in 12 hours as geopolitics shake energy markets",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-plunging-us-oil-prices-crash-below-95-per-barrel-wti-crude-plunges-8-in-12-hours-as-geopolitics-shake-energy-markets/articleshow/129611801.cms",
+      "published": "2026-03-16T14:13:19Z",
+      "description": "Oil price today: WTI crude oil prices suddenly plunged below $95 per barrel, falling nearly 8% in just 12 hours after last week’s sharp rally in global oil markets. On Monday, WTI crude traded near $9",
+      "lang": "en"
+    },
+    {
+      "title": "NEW LOOK Inside the Grand Floridian Tea Room Opening SOON",
+      "source": "disneyfoodblog.com",
+      "url": "https://www.disneyfoodblog.com/2026/03/16/new-look-inside-the-grand-floridian-tea-room-opening-soon/",
+      "published": "2026-03-16T14:00:36Z",
+      "description": "The Grand Floridian Tea Room reopens on March 19th and we got a sneak peek at what the transformed space looks like!",
+      "lang": "en"
+    },
+    {
+      "title": "Maxus Mining Confirms Strong Polymetallic Results at the Quarry Antimony Property in British Columbia, Canada",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/16/3256185/0/en/Maxus-Mining-Confirms-Strong-Polymetallic-Results-at-the-Quarry-Antimony-Property-in-British-Columbia-Canada.html",
+      "published": "2026-03-16T12:00:00Z",
+      "description": "VANCOUVER, British Columbia, March 16, 2026 (GLOBE NEWSWIRE) -- Maxus Mining Inc. (“Maxus” or the “Company”) (CSE: MAXM | OTCQB: MXMGF | FRA: R7V), is pleased to provide a summary of analytical result",
+      "lang": "en"
+    },
+    {
+      "title": "Sensex, Nifty rebound, but war premium keeps markets on edge",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-rebound-but-war-premium-keeps-markets-on-edge/article70749819.ece",
+      "published": "2026-03-16T11:54:57Z",
+      "description": "Both indices spent much of the morning in negative territory before a sharp buying surge after 2 pm turned the tide",
+      "lang": "en"
+>>>>>>> Stashed changes
     }
   ],
   "tweets": []

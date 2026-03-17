@@ -53,6 +53,7 @@
   {
     "date": "2026-03-17",
     "prices": {
+<<<<<<< Updated upstream
       "gold": 5010.27,
       "silver": 80.82,
       "platinum": 2128.39,
@@ -60,6 +61,15 @@
       "copper": 0.4,
       "aluminum": 0.11,
       "nickel": 0.54,
+=======
+      "gold": 4998.86,
+      "silver": 79.29,
+      "platinum": 2133.74,
+      "palladium": 1618.85,
+      "copper": 0.4,
+      "aluminum": 0.1,
+      "nickel": 0.53,
+>>>>>>> Stashed changes
       "zinc": 0.1,
       "lead": 0.06,
       "lme_zinc": 0.1,
