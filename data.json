@@ -1,54 +1,34 @@
 {
-<<<<<<< Updated upstream
-  "updated_at": "2026-03-17 06:56:23 UTC",
-=======
-  "updated_at": "2026-03-17 16:02:26 UTC",
->>>>>>> Stashed changes
+  "updated_at": "2026-03-18 06:54:54 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-<<<<<<< Updated upstream
-      "price_usd": 5010.27,
-=======
-      "price_usd": 4998.86,
->>>>>>> Stashed changes
+      "price_usd": 5009.31,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-<<<<<<< Updated upstream
-      "price_usd": 80.82,
-=======
-      "price_usd": 79.29,
->>>>>>> Stashed changes
+      "price_usd": 79.67,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-<<<<<<< Updated upstream
-      "price_usd": 2128.39,
-=======
-      "price_usd": 2133.74,
->>>>>>> Stashed changes
+      "price_usd": 2115.62,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-<<<<<<< Updated upstream
-      "price_usd": 1603.36,
-=======
-      "price_usd": 1618.85,
->>>>>>> Stashed changes
+      "price_usd": 1599.44,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.4,
+      "price_usd": 0.39,
       "unit": "USD/吨 mt"
     },
     {
@@ -60,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.53,
+      "price_usd": 0.54,
       "unit": "USD/吨 mt"
     },
     {
@@ -96,165 +76,84 @@
   ],
   "news": [
     {
-<<<<<<< Updated upstream
-      "title": "Iran War: Integrated Scenario Analysis March9 2026",
-      "source": "Zoso.ro",
-      "url": "https://zoso.ro/iran-integrated-scenario-analysis-march9-2026/",
-      "published": "2026-03-16T06:51:39Z",
-      "description": "Oil Markets • US Equities • Gulf Real Estate Day 10 Update — March 9, 2026 Incorporating: Trump behavioral pattern analysis, Iranian internal fragility assessment, water crisis compounding, January ma",
-      "lang": "en"
-    },
-    {
-      "title": "Gold futures decline ₹2,225 to ₹1.56 lakh/10g",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-futures-decline-2225-to-156-lakh10g/article70748900.ece",
-      "published": "2026-03-16T06:50:32Z",
-      "description": "On the Multi Commodity Exchange, gold futures for April delivery depreciated by ₹2,225, or 1.4%, to ₹1,56,241 per 10 grams in a business turnover of 7,881 lots",
-      "lang": "en"
-    },
-    {
-      "title": "Ruthenium prices hit record high as AI boom squeezes supply",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/tech/technology/ruthenium-prices-hit-record-high-as-ai-boom-squeezes-supply/articleshow/129602568.cms",
-      "published": "2026-03-16T06:50:05Z",
-      "description": "Used in electronics, ‌semiconductors, and ⁠chemical processing, ⁠ruthenium is seeing rising demand from AI-driven data storage and ​cloud computing. Expansion in data centre capacity is lifting hard ​",
-      "lang": "en"
-    },
-    {
-      "title": "三星 MX 事业部进入“紧急状态”，最坏情况下可能出现首次亏损",
-      "source": "Ithome.com",
-      "url": "https://www.ithome.com/0/929/516.htm",
-      "published": "2026-03-16T06:48:13Z",
-      "description": "IT之家 3 月 16 日消息，据韩媒 FNNews 昨天报道，继电视（VD）、家电（DA）事业部拉响警报后，三星电子现确认移动体验（MX）事业部也进入“应急管理体制”。意味着三星上下除了半导体（DS）业务部以外，设备体验部门（DX，涵盖手机、电视和家电等）几乎全部进入紧急状态。尽管三星 Galaxy S26 系列手机预售创下历史记录，市场表现强劲，但 MX 事业部现在却出现担忧：由于“芯片通胀”",
-      "lang": "zh"
-    },
-    {
       "title": "Transaction in Own Shares",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/03/16/3255986/0/en/Transaction-in-Own-Shares.html",
-      "published": "2026-03-16T06:30:00Z",
-      "description": "ENDEAVOUR ANNOUNCES TRANSACTION IN OWN SHARES  London, 16 March 2026 – Endeavour Mining plc (LSE:EDV, TSX:EDV) (“the Company”) announces it has purchased...",
+      "url": "https://www.globenewswire.com/news-release/2026/03/17/3256866/0/en/Transaction-in-Own-Shares.html",
+      "published": "2026-03-17T06:30:00Z",
+      "description": "ENDEAVOUR ANNOUNCES TRANSACTION IN OWN SHARES  London, 17 March 2026 – Endeavour Mining plc (LSE:EDV, TSX:EDV) (“the Company”) announces it has purchased...",
       "lang": "en"
     },
     {
-      "title": "补齐AI板块核心拼图，网络基建「卖铲人」飞速创新登陆港交所",
+      "title": "Fintan O'Toole: Trump’s war on Iran could spell the end of the EU",
+      "source": "The Irish Times",
+      "url": "https://www.irishtimes.com/opinion/2026/03/17/fintan-otoole-trumps-war-on-iran-could-spell-the-end-of-the-eu/",
+      "published": "2026-03-17T06:00:01Z",
+      "description": "A deep economic crisis, shocking terrorist attacks in EU cities plus an unprecedented wave of refugees would lead to a far-right surge that the EU may not survive",
+      "lang": "en"
+    },
+    {
+      "title": "Gold, silver prices inch up",
+      "source": "Khabarhub.com",
+      "url": "https://english.khabarhub.com/2026/17/539678/",
+      "published": "2026-03-17T05:45:56Z",
+      "description": "KATHMANDU: Gold and silver prices saw a modest increase in the domestic market on Tuesday, with gold rising by Rs 400 per tola and silver gaining Rs 70. According to the Federation of Nepal Gold and S",
+      "lang": "en"
+    },
+    {
+      "title": "312% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 4.12 lakh",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/312-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-4-12-lakh/articleshow/129624333.cms",
+      "published": "2026-03-17T05:34:57Z",
+      "description": "The Reserve Bank of India has set the premature redemption price for Sovereign Gold Bond SGB 2019-20 Series-IV. This bond series, due for redemption on March 17, 2026, will be redeemed at Rs 15,814 pe",
+      "lang": "en"
+    },
+    {
+      "title": "Price of Michael Smurfit’s former Kildare home is slashed by €1 million",
+      "source": "Independent.ie",
+      "url": "https://www.independent.ie/life/home-garden/homes/price-of-michael-smurfits-former-kildare-home-is-slashed-by-1-million/a1854495887.html",
+      "published": "2026-03-17T05:30:00Z",
+      "description": "An opulent Tuscan-style villa with over-the-top, flamboyant interiors remains on the market in Kildare for €3.5m after it was originally listed for €1m more in 2024.",
+      "lang": "en"
+    },
+    {
+      "title": "马斯克用AI卖货，这家中国公司用AI管理18万个货架：无人零售进入“智能体时代”",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3725233182062982",
-      "published": "2026-03-16T06:24:43Z",
-      "description": "继2025年港交所重现“IPO大年”（全年117家公司上市，募资总额达2869亿港元，同比大增200%）之后，2026年的港股上市潮仍在强势延续年内已有28家企业成功IPO，募资总额逼近千亿大关。\n 值得注意的是，今年港股IPO的含“AI”量极高。不仅有MiniMax、智谱等大模型独角兽接连登陆，壁仞科技、天数智芯等算力巨头也相继入局。而在3月13日，港股AI资产池再添核心资产——“面向全球市场的",
+      "url": "https://36kr.com/p/3725309124786819",
+      "published": "2026-03-17T05:20:53Z",
+      "description": "2026年，AI行业正站在一个历史性的分水岭上。\n 不久前，谷歌在其《AI智能体趋势2026》报告中预言，人工智能正经历从“只会回答问题的工具”向能自主拆解任务、跨系统干活的“得力助手”的关键跃迁 。\n 而在这一轮全球AI浪潮中，一个极具象征意义的细节来自埃隆·马斯克：在2025年4月的Grok-4发布会及后续的Vending Bench测试中，马斯克用事实证明了AI不仅能聊天，更能卖货：马斯克以",
       "lang": "zh"
     },
     {
-      "title": "Atal Tunnel travel update: Heavy snowfall strands 1,000+ vehicles in Himachal; 40 tourists rescued from Jalori Pass",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/life-style/travel/news/atal-tunnel-travel-update-heavy-snowfall-strands-1000-vehicles-in-himachal-40-tourists-rescued-from-jalori-pass/articleshow/129601803.cms",
-      "published": "2026-03-16T06:11:59Z",
-      "description": "Nearly 1,000 vehicles were stranded near the Atal Tunnel on March 15 due to a sudden snowfall in Himachal Pradesh. Rescue operations are underway to assist tourists and commuters affected by the heavy",
-      "lang": "en"
-    },
-    {
-      "title": "打假人王海剑指胖东来售卖鸡蛋添加人工色素 黄天鹅回应",
+      "title": "OpenAI拟削减副业项目专注核心业务 以应对Anthropic竞争",
       "source": "Cnbeta.com.tw",
-      "url": "https://www.cnbeta.com.tw/articles/tech/1553636.htm",
-      "published": "2026-03-16T06:05:11Z",
-      "description": "近日，知名打假人王海团队称在胖东来超市购买的鸡蛋检测出角黄素9.54mg/kg，超出饲料添加剂规范中8mg/kg的添加量限值。此外，购买的黄天鹅品牌鸡蛋中检出角黄素，含量0.399 mg/kg。而黄天鹅一直宣称“饲料不使用任何人工色素”。\r\n据报道，角黄素俗称斑蝥黄，是人工合成色素。胖东来最新回应称，卖场生蛋采购手续合法齐全，正配合市场监管部门核查，暂未接到下架通知。胖东来认为，角黄素属于天然或合",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1553722.htm",
+      "published": "2026-03-17T05:05:59Z",
+      "description": "OpenAI 的高管们正在敲定一项重大战略转变计划，将公司重新聚焦于编程和商业用户，因为他们意识到“一次性包揽所有事情”的战略已经让他们处于守势。\r\nOpenAI 应用业务负责人Fidji Simo 在一次全体员工大会上预先介绍了这些变化，并表示包括首席执行官 Sam Altman 和首席研究官 Mark Chen 在内的高层领导正在积极研究哪些领域需要降低优先级。他们预计将在未来几周内通知员工这",
       "lang": "zh"
     },
     {
-      "title": "Zendaya’s ring stack at Oscars 2026 triggers secret wedding with Tom Holland",
+      "title": "固态硬盘成理财工具，价格涨幅为何比黄金还猛？",
+      "source": "Huxiu.com",
+      "url": "https://www.huxiu.com/article/4842455.html",
+      "published": "2026-03-17T05:00:00Z",
+      "description": "固态硬盘最近成了“理财神器”，价格飙涨比黄金还猛。那么存储硬盘为何成了年度最香理财产品？一天一个价的存储市场对于普通人又会有哪些影响？下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动",
+      "lang": "zh"
+    },
+    {
+      "title": "Silver rises Rs 5,000, gold up Rs 1,300 as Middle East war lifts safe haven demand. What should investors do?",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/zendayas-ring-stack-at-oscars-2026-triggers-secret-wedding-with-tom-holland/articleshow/129601615.cms",
-      "published": "2026-03-16T06:03:37Z",
-      "description": "Hollywood actress Zendaya raised eyebrows at the 98th edition of the Academy Award as she flaunted a ring stack. The actress graced the Dolby Theater .",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-17-march-2026-silver-rises-rs-5000-gold-up-rs-1300-as-middle-east-war-lifts-safe-haven-demand/articleshow/129623456.cms",
+      "published": "2026-03-17T04:16:23Z",
+      "description": "Gold and silver prices moved up on March 17, 2026, as escalating Middle East tensions boosted safe-haven demand and kept oil prices elevated. Analysts expect continued volatility driven by global cues",
       "lang": "en"
     },
     {
-      "title": "This Knife Weighs the Same as a Dollar in Quarters",
-      "source": "The Gadgeteer",
-      "url": "https://the-gadgeteer.com/2026/03/16/this-knife-weighs-the-same-as-a-dollar-in-quarters/",
-      "published": "2026-03-16T06:00:22Z",
-      "description": "ARTICLE – The pocket knife industry has spent the last few years in an arms race over steel types, lock mechanisms, and blade shapes. Spyderco just took a different path entirely. The Charisma, design",
-      "lang": "en"
-=======
-      "title": "The Global Campaign to Control Oil Prices",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/The-Global-Campaign-to-Control-Oil-Prices.html",
-      "published": "2026-03-16T16:00:00Z",
-      "description": "Governments around the world are desperate to bring down oil prices in the wake of a cutoff of about one-fifth of the world's supply due to the Iran war. Here are some of the moves we've seen so far: ",
-      "lang": "en"
-    },
-    {
-      "title": "Ranking the 10 best coaching combos in college football and basketball for the 2025-26 season",
-      "source": "CBS Sports",
-      "url": "https://www.cbssports.com/college-football/news/ranking-coaching-combos-college-football-basketball-2025-26/",
-      "published": "2026-03-16T15:58:41Z",
-      "description": "As the NCAA Tournament tips off this week, here is a look at which programs employ the best football and basketball coaching duos",
-      "lang": "en"
-    },
-    {
-      "title": "The Chicest Spectator Styles for Women to Wear to the 2026 Masters Tournament",
-      "source": "WWD",
-      "url": "http://wwd.com/shop/shop-fashion/what-to-wear-to-the-masters-golf-tournament-outfits-shop-1238647812/",
-      "published": "2026-03-16T15:34:45Z",
-      "description": "Because the prestigious sporting event is just as much a showcase of spring fashion as it is of golf.",
-      "lang": "en"
-    },
-    {
-      "title": "Iran war: Why gold prices are not soaring?",
-      "source": "DW (English)",
-      "url": "https://www.dw.com/en/iran-war-why-gold-prices-are-not-soaring/a-76381602",
-      "published": "2026-03-16T15:31:00Z",
-      "description": "Gold is typically seen as a safe haven, especially in times of war and other crises. Notwithstanding the ongoing war in Iran, the price is steady. What's driving the stability?",
-      "lang": "en"
-    },
-    {
-      "title": "“This Is Not The Computer For You”",
-      "source": "kottke.org",
-      "url": "https://kottke.org/26/03/not-the-computer-for-you",
-      "published": "2026-03-16T15:11:39Z",
-      "description": "Maybe it’s because I’m a little bit allergic to hype, but I just now got around to reading this review of the Macbook Neo by Sam Henri Gold that absolutely ever",
-      "lang": "en"
-    },
-    {
-      "title": "Yahoo CEO Jim Lanzone on reviving the web’s homepage",
-      "source": "The Verge",
-      "url": "https://www.theverge.com/podcast/895221/yahoo-jim-lanzone-scout-ai-sports-finance-open-web",
-      "published": "2026-03-16T14:56:09Z",
-      "description": "Today, I’m talking with Jim Lanzone, who is the CEO of Yahoo. It’s basically impossible to sum up the Yahoo story, but the short version of it is that a long time ago Yahoo paid Google to run the sear",
-      "lang": "en"
-    },
-    {
-      "title": "Why are oil prices plunging? US oil prices crash below $95 per barrel, WTI crude plunges 8% in 12 hours as geopolitics shake energy markets",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-oil-prices-plunging-us-oil-prices-crash-below-95-per-barrel-wti-crude-plunges-8-in-12-hours-as-geopolitics-shake-energy-markets/articleshow/129611801.cms",
-      "published": "2026-03-16T14:13:19Z",
-      "description": "Oil price today: WTI crude oil prices suddenly plunged below $95 per barrel, falling nearly 8% in just 12 hours after last week’s sharp rally in global oil markets. On Monday, WTI crude traded near $9",
-      "lang": "en"
-    },
-    {
-      "title": "NEW LOOK Inside the Grand Floridian Tea Room Opening SOON",
-      "source": "disneyfoodblog.com",
-      "url": "https://www.disneyfoodblog.com/2026/03/16/new-look-inside-the-grand-floridian-tea-room-opening-soon/",
-      "published": "2026-03-16T14:00:36Z",
-      "description": "The Grand Floridian Tea Room reopens on March 19th and we got a sneak peek at what the transformed space looks like!",
-      "lang": "en"
-    },
-    {
-      "title": "Maxus Mining Confirms Strong Polymetallic Results at the Quarry Antimony Property in British Columbia, Canada",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/03/16/3256185/0/en/Maxus-Mining-Confirms-Strong-Polymetallic-Results-at-the-Quarry-Antimony-Property-in-British-Columbia-Canada.html",
-      "published": "2026-03-16T12:00:00Z",
-      "description": "VANCOUVER, British Columbia, March 16, 2026 (GLOBE NEWSWIRE) -- Maxus Mining Inc. (“Maxus” or the “Company”) (CSE: MAXM | OTCQB: MXMGF | FRA: R7V), is pleased to provide a summary of analytical result",
-      "lang": "en"
-    },
-    {
-      "title": "Sensex, Nifty rebound, but war premium keeps markets on edge",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-rebound-but-war-premium-keeps-markets-on-edge/article70749819.ece",
-      "published": "2026-03-16T11:54:57Z",
-      "description": "Both indices spent much of the morning in negative territory before a sharp buying surge after 2 pm turned the tide",
-      "lang": "en"
->>>>>>> Stashed changes
+      "title": "OMOWAY发布全球首款量产自平衡车，获砺思资本数千万美元A轮领投｜最前线",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3726441493805444",
+      "published": "2026-03-17T02:58:20Z",
+      "description": "作者 | 张子怡\n 编辑 | 袁斯来\n 近日，智能科技公司OMOWAY（目蔚科技）在新加坡举办2026全球技术发布会，宣布旗下首款自平衡智能电动摩托车OMO X进入量产阶段，并同步展示了基于通用架构开发的未来轮式机器人Mobility One。\n 在推进产品商业化的同时，OMOWAY宣布正式开启A轮融资，目前已获得Monolith（砺思资本）数千万美元领投。资金将主要用于产品量产交付及全球渠道的拓",
+      "lang": "zh"
     }
   ],
   "tweets": []

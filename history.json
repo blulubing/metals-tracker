@@ -1,75 +1,14 @@
 [
   {
-    "date": "2026-03-14",
+    "date": "2026-03-18",
     "prices": {
-      "gold": 5019.18,
-      "silver": 80.57,
-      "platinum": 2026,
-      "palladium": 1551,
+      "gold": 5009.31,
+      "silver": 79.67,
+      "platinum": 2115.62,
+      "palladium": 1599.44,
       "copper": 0.39,
-      "aluminum": 0.11,
-      "nickel": 0.54,
-      "zinc": 0.1,
-      "lead": 0.06,
-      "lme_zinc": 0.1,
-      "lme_nickel": 0.55,
-      "lme_copper": 0.4
-    }
-  },
-  {
-    "date": "2026-03-15",
-    "prices": {
-      "gold": 5019.18,
-      "silver": 80.57,
-      "platinum": 2026,
-      "palladium": 1551,
-      "copper": 0.39,
-      "aluminum": 0.11,
-      "nickel": 0.54,
-      "zinc": 0.1,
-      "lead": 0.06,
-      "lme_zinc": 0.1,
-      "lme_nickel": 0.55,
-      "lme_copper": 0.4
-    }
-  },
-  {
-    "date": "2026-03-16",
-    "prices": {
-      "gold": 5012.76,
-      "silver": 79.88,
-      "platinum": 2054.66,
-      "palladium": 1573.81,
-      "copper": 0.4,
-      "aluminum": 0.11,
-      "nickel": 0.54,
-      "zinc": 0.1,
-      "lead": 0.06,
-      "lme_zinc": 0.1,
-      "lme_nickel": 0.55,
-      "lme_copper": 0.4
-    }
-  },
-  {
-    "date": "2026-03-17",
-    "prices": {
-<<<<<<< Updated upstream
-      "gold": 5010.27,
-      "silver": 80.82,
-      "platinum": 2128.39,
-      "palladium": 1603.36,
-      "copper": 0.4,
-      "aluminum": 0.11,
-      "nickel": 0.54,
-=======
-      "gold": 4998.86,
-      "silver": 79.29,
-      "platinum": 2133.74,
-      "palladium": 1618.85,
-      "copper": 0.4,
       "aluminum": 0.1,
-      "nickel": 0.53,
->>>>>>> Stashed changes
+      "nickel": 0.54,
       "zinc": 0.1,
       "lead": 0.06,
       "lme_zinc": 0.1,
