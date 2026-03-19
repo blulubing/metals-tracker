@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-03-19 20:23:23 UTC",
+  "updated_at": "2026-03-19 20:32:21 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4658.23,
+      "price_usd": 4658.34,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 72.81,
+      "price_usd": 72.78,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1978.26,
+      "price_usd": 1976.39,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1453.87,
+      "price_usd": 1454.05,
       "unit": "USD/盎司 oz"
     },
     {
