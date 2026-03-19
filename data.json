@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-03-19 06:50:34 UTC",
+  "updated_at": "2026-03-19 20:23:23 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4766.48,
+      "price_usd": 4658.23,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 72.24,
+      "price_usd": 72.81,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1983.09,
+      "price_usd": 1978.26,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1469.67,
+      "price_usd": 1453.87,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.37,
+      "price_usd": 0.38,
       "unit": "USD/吨 mt"
     },
     {
@@ -75,6 +75,13 @@
     }
   ],
   "news": [
+    {
+      "title": "It's not just oil: Aluminum prices have surged as Iran conflict chokes supply",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/18/why-aluminum-surged-iran-war.html",
+      "published": "2026-03-18T12:38:30Z",
+      "description": "The U.S. and Israel's war with Iran has upended the supply of aluminum in the Middle East, sending prices of the base metal skyrocketing."
+    },
     {
       "title": "固态硬盘成理财工具，价格涨幅为何比黄金还猛？",
       "source": "Huxiu.com",
