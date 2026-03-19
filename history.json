@@ -1,5 +1,6 @@
 [
   {
+<<<<<<< Updated upstream
     "date": "2026-03-18",
     "prices": {
       "gold": 5009.31,
@@ -9,11 +10,22 @@
       "copper": 0.39,
       "aluminum": 0.1,
       "nickel": 0.54,
+=======
+    "date": "2026-03-19",
+    "prices": {
+      "gold": 4845.24,
+      "silver": 75.89,
+      "platinum": 2024.01,
+      "palladium": 1492.57,
+      "copper": 0.38,
+      "aluminum": 0.11,
+      "nickel": 0.53,
+>>>>>>> Stashed changes
       "zinc": 0.1,
       "lead": 0.06,
       "lme_zinc": 0.1,
-      "lme_nickel": 0.54,
-      "lme_copper": 0.4
+      "lme_nickel": 0.53,
+      "lme_copper": 0.39
     }
   }
 ]
