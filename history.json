@@ -3,6 +3,7 @@
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "date": "2026-03-18",
     "prices": {
       "gold": 5009.31,
@@ -34,6 +35,14 @@
       "silver": 76.01,
       "platinum": 2025.37,
       "palladium": 1480,
+>>>>>>> Stashed changes
+=======
+    "date": "2026-03-19",
+    "prices": {
+      "gold": 4857.16,
+      "silver": 76.39,
+      "platinum": 2032.5,
+      "palladium": 1499.99,
 >>>>>>> Stashed changes
       "copper": 0.38,
       "aluminum": 0.11,
