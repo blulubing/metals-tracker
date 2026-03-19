@@ -23,50 +23,45 @@
   --accent:     #2e7bbf;
   --accent-lt:  #e8f1fa;
   --accent-dk:  #1a5a96;
-  --gold:       #c8993a;
-  --green:      #2e9e5a;
-  --red:        #c9433a;
   --font-title: 'Noto Serif SC', serif;
   --font-body:  'Noto Sans SC', sans-serif;
 }
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 html { font-size: 15px; scroll-behavior: smooth; }
-body {
-  font-family: var(--font-body);
-  background: var(--bg);
-  color: var(--text);
-  min-height: 100vh;
-  line-height: 1.8;
-}
+body { font-family: var(--font-body); background: var(--bg); color: var(--text); min-height: 100vh; line-height: 1.8; }
 .container { max-width: 1100px; margin: 0 auto; padding: 0 24px; }
 a { color: var(--accent); text-decoration: none; transition: color .2s; }
 a:hover { color: var(--accent-dk); }
 
 /* ===== Header ===== */
-.header { padding: 40px 0 28px; text-align: center; }
-.header-logo { width: 72px; height: 72px; margin-bottom: 12px; }
-.header h1 {
-  font-family: var(--font-title); font-size: 2.2rem; font-weight: 700;
-  color: var(--title-dk); letter-spacing: 2px; margin-bottom: 4px;
+.header { padding: 32px 0 28px; display: flex; align-items: center; gap: 20px; }
+.header-logo { width: 60px; height: 60px; flex-shrink: 0; }
+.header-text { flex: 1; }
+.header-text h1 {
+  font-family: var(--font-title); font-size: 1.9rem; font-weight: 700;
+  color: var(--title-dk); letter-spacing: 1px; line-height: 1.3;
 }
-.header .subtitle { color: var(--text2); font-size: 0.88rem; letter-spacing: 1px; }
+.header-text .subtitle {
+  color: var(--text2); font-size: 0.85rem; margin-top: 2px; letter-spacing: 0.5px;
+}
+.header-right { text-align: right; flex-shrink: 0; }
 .update-badge {
-  display: inline-block; margin-top: 14px; padding: 5px 16px; border-radius: 20px;
+  display: inline-block; padding: 5px 16px; border-radius: 20px;
   background: var(--accent-lt); border: 1px solid var(--border-lt);
-  font-size: 0.78rem; color: var(--accent-dk);
+  font-size: 0.76rem; color: var(--accent-dk);
 }
-.header-line {
-  width: 50px; height: 3px; background: var(--accent);
-  margin: 18px auto 0; border-radius: 2px;
+.header-divider {
+  width: 100%; height: 2px; background: linear-gradient(90deg, var(--accent), var(--border-lt));
+  border-radius: 1px; margin-bottom: 8px;
 }
 
 /* ===== Sections ===== */
-.section { margin-top: 44px; }
+.section { margin-top: 40px; }
 .section-title {
-  font-family: var(--font-title); font-size: 1.35rem; font-weight: 700;
-  color: var(--title); margin-bottom: 20px; display: flex; align-items: center; gap: 10px;
+  font-family: var(--font-title); font-size: 1.3rem; font-weight: 700;
+  color: var(--title); margin-bottom: 18px; display: flex; align-items: center; gap: 10px;
 }
-.section-title .icon { font-size: 1.2rem; }
+.section-title .icon { font-size: 1.15rem; }
 
 /* ===== Price Grid ===== */
 .price-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 14px; }
@@ -76,11 +71,11 @@ a:hover { color: var(--accent-dk); }
 }
 .price-card:hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(26,58,92,0.07); }
 .price-card .metal-name {
-  font-size: 0.8rem; color: var(--text2); text-transform: uppercase;
+  font-size: 0.78rem; color: var(--text2); text-transform: uppercase;
   letter-spacing: 1px; margin-bottom: 5px; font-weight: 500;
 }
 .price-card .metal-price {
-  font-family: var(--font-title); font-size: 1.5rem; font-weight: 700; color: var(--title-dk);
+  font-family: var(--font-title); font-size: 1.45rem; font-weight: 700; color: var(--title-dk);
 }
 .price-card .metal-price.na { color: var(--text2); font-size: 0.95rem; font-weight: 500; }
 .price-card .metal-unit { font-size: 0.7rem; color: var(--text2); margin-top: 3px; }
@@ -89,9 +84,9 @@ a:hover { color: var(--accent-dk); }
 .chart-container {
   background: var(--surface); border: 1px solid var(--border-lt); border-radius: 12px; padding: 24px;
 }
-.chart-filters { display: flex; flex-wrap: wrap; gap: 8px; margin-bottom: 20px; line-height: 2.2; }
+.chart-filters { display: flex; flex-wrap: wrap; gap: 10px; margin-bottom: 22px; line-height: 2.4; }
 .chart-btn {
-  padding: 5px 16px; border-radius: 6px; border: 1px solid var(--border);
+  padding: 6px 18px; border-radius: 6px; border: 1px solid var(--border);
   background: transparent; color: var(--title); font-family: var(--font-body);
   font-size: 0.82rem; cursor: pointer; transition: all .15s; user-select: none; font-weight: 500;
 }
@@ -105,14 +100,14 @@ a:hover { color: var(--accent-dk); }
 /* ===== News / Tweet ===== */
 .list-card {
   background: var(--surface); border: 1px solid var(--border-lt); border-radius: 10px;
-  padding: 18px 22px; margin-bottom: 12px; transition: border-color .2s, box-shadow .2s;
+  padding: 18px 22px; margin-bottom: 14px; transition: border-color .2s, box-shadow .2s;
 }
 .list-card:hover { border-color: var(--accent); box-shadow: 0 2px 12px rgba(46,123,191,0.06); }
-.list-card .card-title { font-weight: 600; font-size: 0.95rem; margin-bottom: 6px; line-height: 1.6; color: var(--title); }
+.list-card .card-title { font-weight: 600; font-size: 0.95rem; margin-bottom: 6px; line-height: 1.7; color: var(--title); }
 .list-card .card-title a { color: var(--title); }
 .list-card .card-title a:hover { color: var(--accent); }
-.list-card .card-meta { font-size: 0.78rem; color: var(--text2); display: flex; gap: 14px; flex-wrap: wrap; }
-.list-card .card-desc { font-size: 0.85rem; color: var(--text2); margin-top: 8px; line-height: 1.7; }
+.list-card .card-meta { font-size: 0.78rem; color: var(--text2); display: flex; gap: 14px; flex-wrap: wrap; margin-top: 4px; }
+.list-card .card-desc { font-size: 0.85rem; color: var(--text2); margin-top: 8px; line-height: 1.8; }
 
 /* ===== Empty / Loading ===== */
 .empty-state {
@@ -127,35 +122,39 @@ a:hover { color: var(--accent-dk); }
 
 /* ===== Footer ===== */
 .footer {
-  text-align: center; padding: 48px 0 32px; color: var(--text2); font-size: 0.78rem;
+  text-align: center; padding: 44px 0 28px; color: var(--text2); font-size: 0.78rem;
   border-top: 1px solid var(--border-lt); margin-top: 48px;
 }
 
-/* ===== Animations ===== */
-@keyframes fadeUp { from { opacity: 0; transform: translateY(14px); } to { opacity: 1; transform: translateY(0); } }
+@keyframes fadeUp { from { opacity:0; transform:translateY(14px); } to { opacity:1; transform:translateY(0); } }
 .fade-up { animation: fadeUp .45s ease-out both; }
 
-/* ===== Responsive ===== */
 @media (max-width: 600px) {
-  .header h1 { font-size: 1.6rem; }
+  .header { flex-wrap: wrap; gap: 12px; }
+  .header-logo { width: 48px; height: 48px; }
+  .header-text h1 { font-size: 1.4rem; }
+  .header-right { width: 100%; text-align: left; }
   .price-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; }
   .price-card { padding: 14px; }
-  .price-card .metal-price { font-size: 1.15rem; }
-  .chart-container { padding: 16px; }
-  .chart-btn { padding: 4px 12px; font-size: 0.75rem; }
+  .price-card .metal-price { font-size: 1.1rem; }
 }
 </style>
 </head>
 <body>
 <div class="container">
 
+  <!-- Header: logo left, title center-left, badge right -->
   <div class="header">
     <img src="LOGO.png" alt="众智创新" class="header-logo">
-    <h1>金属价格实时追踪</h1>
-    <div class="subtitle">贵金属 & 有色金属 · 价格 / 走势 / 新闻 / 推文</div>
-    <div class="header-line"></div>
-    <div class="update-badge" id="updateTime">加载中...</div>
+    <div class="header-text">
+      <h1>金属价格实时追踪</h1>
+      <div class="subtitle">众智创新AI技术开发</div>
+    </div>
+    <div class="header-right">
+      <div class="update-badge" id="updateTime">加载中...</div>
+    </div>
   </div>
+  <div class="header-divider"></div>
 
   <!-- Prices -->
   <div class="section">
@@ -194,13 +193,12 @@ a:hover { color: var(--accent-dk); }
   </div>
 
   <div class="footer">
-    众智创新 · 金属价格实时追踪<br>
+    众智创新AI技术开发 · 金属价格实时追踪<br>
     数据由 Metals.dev / NewsAPI / X API 提供
   </div>
 </div>
 
 <script>
-// ===== 颜色 =====
 const METAL_COLORS = {
   gold:       { line: '#c8993a' },
   silver:     { line: '#7a8b9c' },
@@ -215,210 +213,112 @@ const METAL_COLORS = {
   lme_nickel: { line: '#3a8ebd' },
   lme_copper: { line: '#d47840' },
 };
-
 const METAL_NAMES = {
-  gold: '黄金', silver: '白银', platinum: '铂', palladium: '钯',
-  copper: '铜', aluminum: '铝', nickel: '镍', zinc: '锌', lead: '铅',
-  lme_zinc: 'LME锌', lme_nickel: 'LME镍', lme_copper: 'LME铜',
+  gold:'黄金', silver:'白银', platinum:'铂', palladium:'钯',
+  copper:'铜', aluminum:'铝', nickel:'镍', zinc:'锌', lead:'铅',
+  lme_zinc:'LME锌', lme_nickel:'LME镍', lme_copper:'LME铜',
 };
 
-let chartInstance = null;
-let historyData = [];
+let chartInstance = null, historyData = [];
 let activeMetals = new Set(Object.keys(METAL_COLORS));
 
-// ===== 加载数据 =====
 (async function () {
   let data;
-  try {
-    const resp = await fetch('data.json');
-    if (!resp.ok) throw new Error();
-    data = await resp.json();
-  } catch {
-    document.getElementById('priceGrid').innerHTML = '<div class="empty-state">⚠ 无法加载 data.json</div>';
-    document.getElementById('newsList').innerHTML = '';
-    document.getElementById('tweetList').innerHTML = '';
-    return;
-  }
-
-  try {
-    const resp2 = await fetch('history.json');
-    if (resp2.ok) historyData = await resp2.json();
-  } catch { historyData = []; }
-
-  document.getElementById('updateTime').textContent = '🕐 数据更新于 ' + (data.updated_at || '未知');
-  renderPrices(data.prices);
-  renderChart();
-  renderNews(data.news);
-  renderTweets(data.tweets);
+  try { const r = await fetch('data.json'); if(!r.ok) throw 0; data = await r.json(); }
+  catch { document.getElementById('priceGrid').innerHTML='<div class="empty-state">⚠ 无法加载 data.json</div>'; return; }
+  try { const r2 = await fetch('history.json'); if(r2.ok) historyData = await r2.json(); } catch {}
+  document.getElementById('updateTime').textContent = '🕐 ' + (data.updated_at||'未知');
+  renderPrices(data.prices); renderChart(); renderNews(data.news); renderTweets(data.tweets);
 })();
 
-// ===== 价格卡片 =====
 function renderPrices(prices) {
-  const grid = document.getElementById('priceGrid');
-  if (!prices || !prices.length) { grid.innerHTML = '<div class="empty-state">暂无价格数据</div>'; return; }
-  grid.innerHTML = prices.map((p, i) => {
-    const has = p.price_usd != null;
-    const txt = has ? `$${Number(p.price_usd).toLocaleString(undefined, {minimumFractionDigits:2, maximumFractionDigits:2})}` : 'N/A';
-    return `<div class="price-card fade-up" style="animation-delay:${i*50}ms">
+  const g = document.getElementById('priceGrid');
+  if(!prices||!prices.length){g.innerHTML='<div class="empty-state">暂无价格数据</div>';return;}
+  g.innerHTML = prices.map((p,i) => {
+    const has=p.price_usd!=null;
+    const txt=has?`$${Number(p.price_usd).toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2})}`:'N/A';
+    return `<div class="price-card fade-up" style="animation-delay:${i*45}ms">
       <div class="metal-name">${esc(p.name)}</div>
       <div class="metal-price${has?'':' na'}">${txt}</div>
-      <div class="metal-unit">${esc(p.unit||'')}</div>
-    </div>`;
+      <div class="metal-unit">${esc(p.unit||'')}</div></div>`;
   }).join('');
 }
 
-// ===== 走势图 =====
 function renderChart() {
-  const filtersEl = document.getElementById('chartFilters');
-  const hintEl = document.getElementById('chartHint');
-  const chartArea = document.getElementById('chartArea');
-
-  let btns = '<button class="chart-btn all-btn active" onclick="toggleAll(this)">全部</button>';
-  for (const [code, name] of Object.entries(METAL_NAMES)) {
-    btns += `<button class="chart-btn active" data-metal="${code}" onclick="toggleMetal(this,'${code}')">${name}</button>`;
-  }
-  filtersEl.innerHTML = btns;
-
-  if (historyData.length < 2) {
-    chartArea.style.display = 'none';
-    hintEl.style.display = 'block';
-    return;
-  }
-  hintEl.style.display = 'none';
-  chartArea.style.display = 'block';
-  buildChart();
+  const f=document.getElementById('chartFilters'),h=document.getElementById('chartHint'),a=document.getElementById('chartArea');
+  let b='<button class="chart-btn all-btn active" onclick="toggleAll(this)">全部</button>';
+  for(const[c,n]of Object.entries(METAL_NAMES)) b+=`<button class="chart-btn active" data-metal="${c}" onclick="toggleMetal(this,'${c}')">${n}</button>`;
+  f.innerHTML=b;
+  if(historyData.length<2){a.style.display='none';h.style.display='block';return;}
+  h.style.display='none';a.style.display='block';buildChart();
 }
 
 function buildChart() {
-  const canvas = document.getElementById('priceChart');
-  if (chartInstance) chartInstance.destroy();
-
-  const labels = historyData.map(d => d.date);
-  const preciousCodes = ['gold','silver','platinum','palladium'];
-  const hasP = [...activeMetals].some(c => preciousCodes.includes(c));
-  const hasI = [...activeMetals].some(c => !preciousCodes.includes(c));
-  const dual = hasP && hasI;
-
-  const datasets = [];
-  for (const code of Object.keys(METAL_COLORS)) {
-    if (!activeMetals.has(code)) continue;
-    const color = METAL_COLORS[code];
-    const values = historyData.map(d => d.prices[code] ?? null);
-    const isP = preciousCodes.includes(code);
-    datasets.push({
-      label: METAL_NAMES[code],
-      data: values,
-      borderColor: color.line,
-      backgroundColor: 'transparent',
-      borderWidth: 2.5,
-      pointRadius: historyData.length > 30 ? 0 : 3,
-      pointHoverRadius: 5,
-      tension: 0.3,
-      fill: false,
-      yAxisID: dual ? (isP ? 'yLeft' : 'yRight') : 'yLeft',
-      spanGaps: true,
-    });
+  if(chartInstance)chartInstance.destroy();
+  const labels=historyData.map(d=>d.date);
+  const pCodes=['gold','silver','platinum','palladium'];
+  const hasP=[...activeMetals].some(c=>pCodes.includes(c));
+  const hasI=[...activeMetals].some(c=>!pCodes.includes(c));
+  const dual=hasP&&hasI;
+  const datasets=[];
+  for(const code of Object.keys(METAL_COLORS)){
+    if(!activeMetals.has(code))continue;
+    const vals=historyData.map(d=>d.prices[code]??null);
+    datasets.push({label:METAL_NAMES[code],data:vals,borderColor:METAL_COLORS[code].line,backgroundColor:'transparent',
+      borderWidth:2.5,pointRadius:historyData.length>30?0:3,pointHoverRadius:5,tension:0.3,fill:false,
+      yAxisID:dual?(pCodes.includes(code)?'yLeft':'yRight'):'yLeft',spanGaps:true});
   }
-
-  const scales = {
-    x: {
-      ticks: { color: '#6b7d92', maxRotation: 45, font: { size: 11 } },
-      grid: { color: 'rgba(216,221,230,0.6)' },
-    },
-    yLeft: {
-      type: 'linear', position: 'left',
-      title: { display: true, text: hasP ? 'USD / 盎司 (贵金属)' : 'USD / 吨 (工业金属)', color: '#6b7d92', font: { size: 12 } },
-      ticks: { color: '#6b7d92', font: { size: 11 }, callback: v => '$' + v.toLocaleString() },
-      grid: { color: 'rgba(216,221,230,0.5)' },
-    },
-  };
-  if (dual) {
-    scales.yLeft.title.text = 'USD / 盎司 (贵金属)';
-    scales.yRight = {
-      type: 'linear', position: 'right',
-      title: { display: true, text: 'USD / 吨 (工业金属)', color: '#6b7d92', font: { size: 12 } },
-      ticks: { color: '#6b7d92', font: { size: 11 }, callback: v => '$' + v.toLocaleString() },
-      grid: { drawOnChartArea: false },
-    };
-  }
-
-  chartInstance = new Chart(canvas, {
-    type: 'line',
-    data: { labels, datasets },
-    options: {
-      responsive: true, maintainAspectRatio: false,
-      interaction: { mode: 'index', intersect: false },
-      plugins: {
-        legend: { display: false },
-        tooltip: {
-          backgroundColor: '#fff', borderColor: '#d8dde6', borderWidth: 1,
-          titleColor: '#1a3a5c', bodyColor: '#3d4f63', padding: 12,
-          callbacks: { label: ctx => ctx.parsed.y == null ? '' : `${ctx.dataset.label}: $${ctx.parsed.y.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2})}` }
-        },
-      },
-      scales,
-    }
-  });
+  const scales={x:{ticks:{color:'#6b7d92',maxRotation:45,font:{size:11}},grid:{color:'rgba(216,221,230,0.6)'}},
+    yLeft:{type:'linear',position:'left',title:{display:true,text:hasP?'USD/盎司(贵金属)':'USD/吨(工业金属)',color:'#6b7d92',font:{size:12}},
+      ticks:{color:'#6b7d92',font:{size:11},callback:v=>'$'+v.toLocaleString()},grid:{color:'rgba(216,221,230,0.5)'}}};
+  if(dual){scales.yLeft.title.text='USD/盎司(贵金属)';
+    scales.yRight={type:'linear',position:'right',title:{display:true,text:'USD/吨(工业金属)',color:'#6b7d92',font:{size:12}},
+      ticks:{color:'#6b7d92',font:{size:11},callback:v=>'$'+v.toLocaleString()},grid:{drawOnChartArea:false}};}
+  chartInstance=new Chart(document.getElementById('priceChart'),{type:'line',data:{labels,datasets},
+    options:{responsive:true,maintainAspectRatio:false,interaction:{mode:'index',intersect:false},
+      plugins:{legend:{display:false},tooltip:{backgroundColor:'#fff',borderColor:'#d8dde6',borderWidth:1,titleColor:'#1a3a5c',bodyColor:'#3d4f63',padding:12,
+        callbacks:{label:ctx=>ctx.parsed.y==null?'':`${ctx.dataset.label}: $${ctx.parsed.y.toLocaleString(undefined,{minimumFractionDigits:2,maximumFractionDigits:2})}`}}},scales}});
 }
 
-// ===== 按钮交互 =====
-function toggleMetal(btn, code) {
-  if (activeMetals.has(code)) { activeMetals.delete(code); btn.classList.remove('active'); }
-  else { activeMetals.add(code); btn.classList.add('active'); }
-  syncAllBtn();
-  if (historyData.length >= 2) buildChart();
+function toggleMetal(btn,code){
+  if(activeMetals.has(code)){activeMetals.delete(code);btn.classList.remove('active');}
+  else{activeMetals.add(code);btn.classList.add('active');}
+  syncAllBtn();if(historyData.length>=2)buildChart();
+}
+function toggleAll(btn){
+  const all=Object.keys(METAL_COLORS);
+  if(activeMetals.size===all.length){activeMetals.clear();btn.classList.remove('active');}
+  else{all.forEach(c=>activeMetals.add(c));btn.classList.add('active');}
+  document.querySelectorAll('.chart-btn[data-metal]').forEach(b=>{
+    if(activeMetals.has(b.dataset.metal))b.classList.add('active');else b.classList.remove('active');});
+  if(historyData.length>=2)buildChart();
+}
+function syncAllBtn(){
+  const b=document.querySelector('.all-btn');
+  if(activeMetals.size===Object.keys(METAL_COLORS).length)b.classList.add('active');else b.classList.remove('active');
 }
 
-function toggleAll(btn) {
-  const all = Object.keys(METAL_COLORS);
-  const allActive = activeMetals.size === all.length;
-  if (allActive) { activeMetals.clear(); btn.classList.remove('active'); }
-  else { all.forEach(c => activeMetals.add(c)); btn.classList.add('active'); }
-  document.querySelectorAll('.chart-btn[data-metal]').forEach(b => {
-    if (activeMetals.has(b.dataset.metal)) b.classList.add('active');
-    else b.classList.remove('active');
-  });
-  if (historyData.length >= 2) buildChart();
+function renderNews(news){
+  const el=document.getElementById('newsList');
+  if(!news||!news.length){el.innerHTML='<div class="empty-state">暂无新闻</div>';return;}
+  el.innerHTML=news.map((n,i)=>`<div class="list-card fade-up" style="animation-delay:${i*50}ms">
+    <div class="card-title"><a href="${escA(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a></div>
+    <div class="card-meta"><span>📌 ${esc(n.source)}</span><span>🕐 ${fmtDate(n.published)}</span></div>
+    ${n.description?`<div class="card-desc">${esc(n.description)}</div>`:''}</div>`).join('');
 }
 
-function syncAllBtn() {
-  const btn = document.querySelector('.all-btn');
-  if (activeMetals.size === Object.keys(METAL_COLORS).length) btn.classList.add('active');
-  else btn.classList.remove('active');
+function renderTweets(tweets){
+  const el=document.getElementById('tweetList');
+  if(!tweets||!tweets.length){el.innerHTML='<div class="empty-state">未获取到推文（可能未配置 Twitter API）</div>';return;}
+  el.innerHTML=tweets.map((t,i)=>`<div class="list-card fade-up" style="animation-delay:${i*50}ms">
+    <div class="card-title">${esc(t.text)}</div>
+    <div class="card-meta"><span>🕐 ${fmtDate(t.created_at)}</span>
+    <a href="${escA(t.url)}" target="_blank" rel="noopener">查看原文 →</a></div></div>`).join('');
 }
 
-// ===== 新闻 =====
-function renderNews(news) {
-  const el = document.getElementById('newsList');
-  if (!news || !news.length) { el.innerHTML = '<div class="empty-state">暂无新闻</div>'; return; }
-  el.innerHTML = news.map((n, i) => `
-    <div class="list-card fade-up" style="animation-delay:${i*50}ms">
-      <div class="card-title"><a href="${escA(n.url)}" target="_blank" rel="noopener">${esc(n.title)}</a></div>
-      <div class="card-meta"><span>📌 ${esc(n.source)}</span><span>🕐 ${fmtDate(n.published)}</span></div>
-      ${n.description ? `<div class="card-desc">${esc(n.description)}</div>` : ''}
-    </div>`).join('');
-}
-
-// ===== 推文 =====
-function renderTweets(tweets) {
-  const el = document.getElementById('tweetList');
-  if (!tweets || !tweets.length) { el.innerHTML = '<div class="empty-state">未获取到推文（可能未配置 Twitter API）</div>'; return; }
-  el.innerHTML = tweets.map((t, i) => `
-    <div class="list-card fade-up" style="animation-delay:${i*50}ms">
-      <div class="card-title">${esc(t.text)}</div>
-      <div class="card-meta"><span>🕐 ${fmtDate(t.created_at)}</span>
-      <a href="${escA(t.url)}" target="_blank" rel="noopener">查看原文 →</a></div>
-    </div>`).join('');
-}
-
-// ===== 工具 =====
-function esc(s) { const d = document.createElement('div'); d.textContent = s||''; return d.innerHTML; }
-function escA(s) { return (s||'').replace(/"/g,'&quot;').replace(/</g,'&lt;'); }
-function fmtDate(s) {
-  if (!s) return '';
-  try { return new Date(s).toLocaleDateString('zh-CN',{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'}); }
-  catch { return s; }
-}
+function esc(s){const d=document.createElement('div');d.textContent=s||'';return d.innerHTML;}
+function escA(s){return(s||'').replace(/"/g,'&quot;').replace(/</g,'&lt;');}
+function fmtDate(s){if(!s)return'';try{return new Date(s).toLocaleDateString('zh-CN',{month:'short',day:'numeric',hour:'2-digit',minute:'2-digit'});}catch{return s;}}
 </script>
 </body>
 </html>
