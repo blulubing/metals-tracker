@@ -1,6 +1,7 @@
 """
 众智创新 · 金属价格实时追踪
 每天定时运行，把数据写入 data.json，并追加历史价格到 history.json
+使用 Claude API 翻译英文新闻标题为中文
 """
 
 import json
@@ -11,14 +12,13 @@ import urllib.parse
 import urllib.error
 import ssl
 
-METALS_DEV_API_KEY = os.environ.get("METALS_DEV_API_KEY", "在这里粘贴你的Key")
-NEWS_API_KEY       = os.environ.get("NEWS_API_KEY",        "在这里粘贴你的Key")
+METALS_DEV_API_KEY = os.environ.get("METALS_DEV_API_KEY", "")
+NEWS_API_KEY       = os.environ.get("NEWS_API_KEY",        "")
 TWITTER_BEARER     = os.environ.get("TWITTER_BEARER",      "")
+ANTHROPIC_API_KEY  = os.environ.get("ANTHROPIC_API_KEY",   "")
 
 # ============================================================
-#  金属列表（metals.dev 使用的代码）
-#  新增: zinc(锌), lead(铅) 已有, 再加 tin(锡) — 注意 metals.dev
-#  不支持 cobalt 和 iron ore，所以用已有的 lme 品种补充
+#  金属列表
 # ============================================================
 METALS = {
     "gold":      {"name": "黄金 Gold",       "unit": "USD/盎司 oz"},
@@ -36,7 +36,33 @@ METALS = {
 }
 
 # ============================================================
-#  虚拟货币过滤 + 无关新闻过滤
+#  新闻来源白名单（只接受大型金融新闻平台）
+# ============================================================
+ALLOWED_SOURCES = [
+    # 英文大型金融媒体
+    "reuters", "bloomberg", "financial times", "the wall street journal",
+    "wsj", "the new york times", "nytimes", "the economist",
+    "cnbc", "ft.com", "barron's", "barrons", "marketwatch",
+    "the guardian", "bbc", "associated press", "ap news",
+    "mining.com", "kitco", "metals daily",
+    # 中文大型金融媒体
+    "财新", "caixin", "虎嗅", "huxiu", "第一财经", "yicai",
+    "新浪财经", "sina finance", "证券时报", "21世纪经济报道",
+    "经济观察报", "界面新闻", "jiemian", "澎湃新闻", "thepaper",
+    "华尔街见闻", "wallstreetcn", "金十数据", "jin10",
+    "新华社", "xinhua", "人民日报", "中国证券报",
+    "上海有色网", "smm", "南华早报", "scmp",
+]
+
+def is_allowed_source(source_name):
+    """检查新闻来源是否在白名单中"""
+    if not source_name:
+        return False
+    src = source_name.lower().strip()
+    return any(allowed in src or src in allowed for allowed in ALLOWED_SOURCES)
+
+# ============================================================
+#  虚拟货币过滤
 # ============================================================
 CRYPTO_KEYWORDS = [
     "bitcoin", "btc", "ethereum", "eth", "crypto", "cryptocurrency",
@@ -46,32 +72,22 @@ CRYPTO_KEYWORDS = [
     "币圈", "代币", "挖矿", "矿机",
 ]
 
-# 过滤明显无关的新闻关键词
-IRRELEVANT_KEYWORDS = [
-    "creatine", "headphone", "sony", "apple watch", "lakers",
-    "nba", "nfl", "mlb", "iphone", "samsung", "netflix",
-    "disney", "marvel", "video game", "fortnite", "spotify",
-]
-
-def is_irrelevant_news(title, description=""):
-    text = (title + " " + description).lower()
-    if any(kw in text for kw in CRYPTO_KEYWORDS):
-        return True
-    if any(kw in text for kw in IRRELEVANT_KEYWORDS):
-        return True
-    return False
+def is_crypto(title, desc=""):
+    text = (title + " " + desc).lower()
+    return any(kw in text for kw in CRYPTO_KEYWORDS)
 
 # ============================================================
 #  辅助函数
 # ============================================================
-def safe_request(url, headers=None, timeout=15):
+def safe_request(url, headers=None, timeout=15, method="GET", data=None):
     try:
-        req = urllib.request.Request(url)
+        req = urllib.request.Request(url, method=method)
         if headers:
             for k, v in headers.items():
                 req.add_header(k, v)
         ctx = ssl.create_default_context()
-        with urllib.request.urlopen(req, timeout=timeout, context=ctx) as resp:
+        body = data.encode("utf-8") if data else None
+        with urllib.request.urlopen(req, body, timeout=timeout, context=ctx) as resp:
             return json.loads(resp.read().decode("utf-8"))
     except Exception as e:
         print(f"  ⚠ 请求失败: {url[:80]}... -> {e}")
@@ -79,6 +95,102 @@ def safe_request(url, headers=None, timeout=15):
 
 def get_script_dir():
     return os.path.dirname(os.path.abspath(__file__))
+
+# ============================================================
+#  翻译函数：用 Claude API 把英文标题和摘要翻译成中文
+# ============================================================
+def translate_articles(articles):
+    """批量翻译英文新闻标题和摘要为中文"""
+    if not ANTHROPIC_API_KEY:
+        print("  ⚠ 未设置 ANTHROPIC_API_KEY，跳过翻译")
+        return articles
+
+    # 筛选需要翻译的文章（非中文的）
+    to_translate = []
+    for i, a in enumerate(articles):
+        if a.get("lang") != "zh":
+            to_translate.append((i, a))
+
+    if not to_translate:
+        print("  ✅ 全部为中文新闻，无需翻译")
+        return articles
+
+    print(f"  🔄 正在翻译 {len(to_translate)} 条英文新闻...")
+
+    # 构建翻译请求的文本
+    lines = []
+    for idx, (i, a) in enumerate(to_translate):
+        lines.append(f"[{idx}] 标题: {a['title']}")
+        if a.get("description"):
+            lines.append(f"[{idx}] 摘要: {a['description']}")
+
+    prompt = (
+        "请将以下金融新闻的标题和摘要严格翻译成中文。"
+        "保持专业金融术语准确。每条翻译保持原编号格式。"
+        "只输出翻译结果，不要加任何解释。\n\n"
+        + "\n".join(lines)
+    )
+
+    payload = json.dumps({
+        "model": "claude-sonnet-4-20250514",
+        "max_tokens": 2000,
+        "messages": [{"role": "user", "content": prompt}]
+    })
+
+    result = safe_request(
+        "https://api.anthropic.com/v1/messages",
+        headers={
+            "Content-Type": "application/json",
+            "x-api-key": ANTHROPIC_API_KEY,
+            "anthropic-version": "2023-06-01",
+        },
+        method="POST",
+        data=payload,
+        timeout=30,
+    )
+
+    if not result or "content" not in result:
+        print("  ⚠ 翻译 API 调用失败，保留原文")
+        return articles
+
+    translated_text = ""
+    for block in result.get("content", []):
+        if block.get("type") == "text":
+            translated_text += block.get("text", "")
+
+    # 解析翻译结果
+    for idx, (i, a) in enumerate(to_translate):
+        # 找到对应的翻译文本
+        title_marker = f"[{idx}] 标题:"
+        desc_marker = f"[{idx}] 摘要:"
+
+        # 提取翻译后的标题
+        t_start = translated_text.find(title_marker)
+        if t_start != -1:
+            t_start += len(title_marker)
+            # 找到这行的结尾
+            t_end = translated_text.find("\n", t_start)
+            if t_end == -1:
+                t_end = len(translated_text)
+            new_title = translated_text[t_start:t_end].strip()
+            if new_title:
+                articles[i]["title"] = new_title
+
+        # 提取翻译后的摘要
+        d_start = translated_text.find(desc_marker)
+        if d_start != -1:
+            d_start += len(desc_marker)
+            d_end = translated_text.find("\n[", d_start)
+            if d_end == -1:
+                d_end = translated_text.find("\n\n", d_start)
+            if d_end == -1:
+                d_end = len(translated_text)
+            new_desc = translated_text[d_start:d_end].strip()
+            if new_desc:
+                articles[i]["description"] = new_desc
+
+    print(f"  ✅ 翻译完成")
+    return articles
 
 # ============================================================
 #  1. 获取金属价格
@@ -98,8 +210,7 @@ def fetch_prices():
         for code, info in METALS.items():
             price = metals_data.get(code)
             prices.append({
-                "code": code,
-                "name": info["name"],
+                "code": code, "name": info["name"],
                 "price_usd": round(price, 2) if price else None,
                 "unit": info["unit"],
             })
@@ -148,19 +259,19 @@ def save_history(prices):
     print(f"  ✅ 历史记录已更新，共 {len(history)} 天数据")
 
 # ============================================================
-#  2. 获取新闻（过滤 + 尝试获取中文标题）
+#  2. 获取新闻（只限大型金融媒体 + 翻译成中文）
 # ============================================================
 def fetch_news():
     print("📰 正在获取新闻...")
 
-    # 优先获取中文新闻
-    zh_articles = []
-    for q in ["黄金 价格", "白银 铜 价格", "贵金属", "有色金属 价格", "金属 市场"]:
+    all_raw = []
+
+    # 中文新闻
+    for q in ["黄金 价格", "白银 铜 价格", "贵金属", "有色金属 市场", "金属 行情"]:
         encoded = urllib.parse.quote(q)
         url = (
             f"https://newsapi.org/v2/everything"
-            f"?q={encoded}"
-            f"&sortBy=publishedAt&pageSize=5&language=zh"
+            f"?q={encoded}&sortBy=publishedAt&pageSize=10&language=zh"
             f"&apiKey={NEWS_API_KEY}"
         )
         data = safe_request(url)
@@ -168,27 +279,24 @@ def fetch_news():
             for a in data.get("articles", []):
                 title = a.get("title", "")
                 desc = a.get("description") or ""
-                if not title:
+                source = a.get("source", {}).get("name", "")
+                if not title or is_crypto(title, desc):
                     continue
-                if is_irrelevant_news(title, desc):
+                if not is_allowed_source(source):
+                    print(f"    ⏭ 跳过非白名单来源: {source} — {title[:40]}")
                     continue
-                zh_articles.append({
-                    "title": title,
-                    "source": a.get("source", {}).get("name", ""),
-                    "url": a.get("url", ""),
-                    "published": a.get("publishedAt", ""),
-                    "description": desc[:200],
-                    "lang": "zh",
+                all_raw.append({
+                    "title": title, "source": source,
+                    "url": a.get("url", ""), "published": a.get("publishedAt", ""),
+                    "description": desc[:200], "lang": "zh",
                 })
 
-    # 也获取英文新闻
-    en_articles = []
-    for q in ["gold price", "silver price copper price", "platinum palladium nickel price", "precious metals market"]:
+    # 英文新闻
+    for q in ["gold price", "silver copper price metals", "platinum palladium nickel", "precious metals market", "base metals commodity"]:
         encoded = urllib.parse.quote(q)
         url = (
             f"https://newsapi.org/v2/everything"
-            f"?q={encoded}"
-            f"&sortBy=publishedAt&pageSize=8&language=en"
+            f"?q={encoded}&sortBy=publishedAt&pageSize=10&language=en"
             f"&apiKey={NEWS_API_KEY}"
         )
         data = safe_request(url)
@@ -196,67 +304,60 @@ def fetch_news():
             for a in data.get("articles", []):
                 title = a.get("title", "")
                 desc = a.get("description") or ""
-                if not title:
+                source = a.get("source", {}).get("name", "")
+                if not title or is_crypto(title, desc):
                     continue
-                if is_irrelevant_news(title, desc):
-                    print(f"    🚫 过滤: {title[:50]}...")
+                if not is_allowed_source(source):
+                    print(f"    ⏭ 跳过非白名单来源: {source} — {title[:40]}")
                     continue
-                en_articles.append({
-                    "title": title,
-                    "source": a.get("source", {}).get("name", ""),
-                    "url": a.get("url", ""),
-                    "published": a.get("publishedAt", ""),
-                    "description": desc[:200],
-                    "lang": "en",
+                all_raw.append({
+                    "title": title, "source": source,
+                    "url": a.get("url", ""), "published": a.get("publishedAt", ""),
+                    "description": desc[:200], "lang": "en",
                 })
 
-    # 合并去重，优先中文
+    # 去重，按时间排序，取最新 10 条
     seen = set()
     articles = []
-    for a in zh_articles + en_articles:
+    for a in all_raw:
         if a["title"] not in seen:
             seen.add(a["title"])
             articles.append(a)
-
     articles.sort(key=lambda x: x.get("published", ""), reverse=True)
     articles = articles[:10]
-    print(f"  ✅ 获取到 {len(articles)} 条新闻")
+
+    # 翻译英文新闻为中文
+    articles = translate_articles(articles)
+
+    # 移除 lang 字段（前端不需要）
+    for a in articles:
+        a.pop("lang", None)
+
+    print(f"  ✅ 获取到 {len(articles)} 条新闻（仅限大型金融媒体）")
     return articles
 
 # ============================================================
 #  3. 获取推文（可选）
 # ============================================================
 def fetch_tweets():
-    if not TWITTER_BEARER or TWITTER_BEARER == "":
+    if not TWITTER_BEARER:
         print("🐦 未设置 Twitter Bearer Token，跳过")
         return []
-
     print("🐦 正在获取推文...")
     query = urllib.parse.quote(
         "(gold price OR silver price OR copper price OR platinum price) "
-        "-crypto -bitcoin -btc -eth -blockchain "
-        "-is:retweet lang:en"
+        "-crypto -bitcoin -btc -eth -blockchain -is:retweet lang:en"
     )
-    url = (
-        f"https://api.twitter.com/2/tweets/search/recent"
-        f"?query={query}&max_results=10"
-        f"&tweet.fields=created_at,author_id,text"
-    )
+    url = f"https://api.twitter.com/2/tweets/search/recent?query={query}&max_results=10&tweet.fields=created_at,author_id,text"
     headers = {"Authorization": f"Bearer {TWITTER_BEARER}"}
     data = safe_request(url, headers=headers)
     tweets = []
-
     if data and "data" in data:
         for t in data["data"]:
-            tweet_text = t.get("text", "")
-            if is_irrelevant_news(tweet_text):
+            txt = t.get("text", "")
+            if is_crypto(txt):
                 continue
-            tweet_id = t.get("id", "")
-            tweets.append({
-                "text": tweet_text,
-                "created_at": t.get("created_at", ""),
-                "url": f"https://twitter.com/i/web/status/{tweet_id}",
-            })
+            tweets.append({"text": txt, "created_at": t.get("created_at",""), "url": f"https://twitter.com/i/web/status/{t.get('id','')}"})
         print(f"  ✅ 获取到 {len(tweets)} 条推文")
     else:
         print("  ⚠ 推文获取失败或无结果")
