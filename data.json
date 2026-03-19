@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-03-19 20:32:21 UTC",
+  "updated_at": "2026-03-19 20:39:32 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4658.34,
+      "price_usd": 4658.54,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 72.78,
+      "price_usd": 72.76,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1976.39,
+      "price_usd": 1976.27,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1454.05,
+      "price_usd": 1453.7,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,18 +76,74 @@
   ],
   "news": [
     {
+      "title": "Gold vs. CDs vs. stocks: How to think about risk and safety for retirement savings",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/gold-cds-stocks-retirement-savings-safety/",
+      "published": "2026-03-18T20:00:05Z",
+      "description": "Gold, CDs and stocks each offer different levels of safety and growth. Here's how retirees should weigh the risks."
+    },
+    {
+      "title": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce",
+      "source": "PBS",
+      "url": "https://www.pbs.org/newshour/economy/u-s-stocks-sink-on-worries-about-inflation-as-gold-falls-below-5000-per-ounce",
+      "published": "2026-03-18T19:51:40Z",
+      "description": "U.S. stocks are sinking Wednesday after a report said inflation was primed to worsen even before oil prices began spiking because of the war with Iran."
+    },
+    {
+      "title": "Gold price slides below $5,000, drops to over one-month low",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-drops-below-5000-drops-to-over-one-month-low/articleshow/129665055.cms",
+      "published": "2026-03-18T19:31:10Z",
+      "description": "Spot gold dropped to a one-month low following the Federal Reserve's decision to hold interest rates steady, with expectations of higher rates for longer. A stronger dollar and ongoing Middle East con"
+    },
+    {
+      "title": "Carmanah Appoints Karim Rayani as Executive Chairman, CEO & Director",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/18/3258555/0/en/Carmanah-Appoints-Karim-Rayani-as-Executive-Chairman-CEO-Director.html",
+      "published": "2026-03-18T19:09:00Z",
+      "description": "VANCOUVER, British Columbia, March 18, 2026 (GLOBE NEWSWIRE) -- Carmanah Minerals Corp. (“Carmanah” or the “Company”) is pleased to announce the appointment of Karim Rayani as Executive Chairman, Chie"
+    },
+    {
+      "title": "Tungsten Soars 557% Amid Middle East War",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Energy-General/Tungsten-Soars-557-Amid-Middle-East-War.html",
+      "published": "2026-03-18T18:00:00Z",
+      "description": "When nations go to war, the military-industrial complex springs into action. Relatively obscure tungsten is often on the front lines.A combination of tight supply, Chinese export restrictions, and hea"
+    },
+    {
+      "title": "Gold's price is down 13% since January. Here's why you should get invested now.",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/gold-price-down-13-percent-why-invest-now/",
+      "published": "2026-03-18T17:40:14Z",
+      "description": "Gold has slipped dramatically since hitting a new record high, but this pullback could present a rare opportunity."
+    },
+    {
+      "title": "US stock crashes big today: Why S&P 500, Nasdaq have suddenly fallen - Dow down 400 points while S&P and Nasdaq slip 0.5%",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-crashes-big-today-why-sp-500-nasdaq-have-suddenly-fallen-dow-down-400-points-while-sp-and-nasdaq-slip-0-5/articleshow/129661158.cms",
+      "published": "2026-03-18T16:30:02Z",
+      "description": "US stock crashes big today as S&P 500 and Nasdaq fall 0.5%, while Dow drops over 400 points. Markets slipped after PPI inflation rose 0.7% in February. The biggest factor to watch after the US stock c"
+    },
+    {
+      "title": "SAGA Metals Reports Assays from R-0018 to R-0020 with Intercepts Including 49.51% Fe₂O₃, 6.56% TiO₂, 0.374% V₂O₅ from 2026 Drilling at Trapper South, Radar Critical Minerals Project in Labrador",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/18/3258406/0/en/SAGA-Metals-Reports-Assays-from-R-0018-to-R-0020-with-Intercepts-Including-49-51-Fe-O-6-56-TiO-0-374-V-O-from-2026-Drilling-at-Trapper-South-Radar-Critical-Minerals-Project-in-Labr.html",
+      "published": "2026-03-18T15:23:00Z",
+      "description": "SAGA Reports Assays from R-0018 to -0020 with Intercepts Including 49.51% Fe₂O₃, 6.56% TiO₂, 0.374% V₂O₅ from Drilling at Radar Critical Minerals Project..."
+    },
+    {
+      "title": "Why is gold price down by 3% and silver by 4%, and will precious metals continue to nosedive or bounce back again? Gold, silver fall, analysts insights, market outlook explained. Here's what should investors do now",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-gold-price-down-by-3-and-silver-by-4-and-will-precious-metals-continue-to-nosedive-or-bounce-back-again-gold-silver-fall-analysts-insights-market-outlook-explained-heres-what-should-investors-do-now/articleshow/129659798.cms",
+      "published": "2026-03-18T15:11:06Z",
+      "description": "Why is gold price down by 3% and silver by 4%, and will precious metals continue to nosedive or bounce back again? Gold and silver dropped due to a strong dollar, rising oil prices, and rate outlook. "
+    },
+    {
       "title": "It's not just oil: Aluminum prices have surged as Iran conflict chokes supply",
       "source": "CNBC",
       "url": "https://www.cnbc.com/2026/03/18/why-aluminum-surged-iran-war.html",
       "published": "2026-03-18T12:38:30Z",
       "description": "The U.S. and Israel's war with Iran has upended the supply of aluminum in the Middle East, sending prices of the base metal skyrocketing."
-    },
-    {
-      "title": "固态硬盘成理财工具，价格涨幅为何比黄金还猛？",
-      "source": "Huxiu.com",
-      "url": "https://www.huxiu.com/article/4842455.html",
-      "published": "2026-03-17T05:00:00Z",
-      "description": "固态硬盘最近成了“理财神器”，价格飙涨比黄金还猛。那么存储硬盘为何成了年度最香理财产品？一天一个价的存储市场对于普通人又会有哪些影响？下载虎嗅APP，第一时间获取深度独到的商业科技资讯，连接更多创新人群与线下活动"
     }
   ],
   "tweets": []
