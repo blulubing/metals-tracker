@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-03-19 20:39:32 UTC",
+  "updated_at": "2026-03-20 06:45:18 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4658.54,
+      "price_usd": 4666.74,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 72.76,
+      "price_usd": 71.43,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1976.27,
+      "price_usd": 1984.74,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1453.7,
+      "price_usd": 1459.54,
       "unit": "USD/盎司 oz"
     },
     {
@@ -58,92 +58,92 @@
     {
       "code": "lme_zinc",
       "name": "LME锌 Zinc 3M",
-      "price_usd": 0.1,
+      "price_usd": 0.09,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.53,
+      "price_usd": 0.51,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.39,
+      "price_usd": 0.37,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Gold vs. CDs vs. stocks: How to think about risk and safety for retirement savings",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/gold-cds-stocks-retirement-savings-safety/",
-      "published": "2026-03-18T20:00:05Z",
-      "description": "Gold, CDs and stocks each offer different levels of safety and growth. Here's how retirees should weigh the risks."
-    },
-    {
-      "title": "U.S. stocks sink on worries about inflation as gold falls below $5,000 per ounce",
-      "source": "PBS",
-      "url": "https://www.pbs.org/newshour/economy/u-s-stocks-sink-on-worries-about-inflation-as-gold-falls-below-5000-per-ounce",
-      "published": "2026-03-18T19:51:40Z",
-      "description": "U.S. stocks are sinking Wednesday after a report said inflation was primed to worsen even before oil prices began spiking because of the war with Iran."
-    },
-    {
-      "title": "Gold price slides below $5,000, drops to over one-month low",
+      "title": "Asia's currencies under siege: Mitul Kotecha on why the Indian rupee, Korean won, and Thai baht face prolonged pain",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-price-drops-below-5000-drops-to-over-one-month-low/articleshow/129665055.cms",
-      "published": "2026-03-18T19:31:10Z",
-      "description": "Spot gold dropped to a one-month low following the Federal Reserve's decision to hold interest rates steady, with expectations of higher rates for longer. A stronger dollar and ongoing Middle East con"
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/asias-currencies-under-siege-mitul-kotecha-on-why-the-indian-rupee-korean-won-and-thai-baht-face-prolonged-pain/articleshow/129672417.cms",
+      "published": "2026-03-19T06:32:43Z",
+      "description": "Global markets face prolonged turbulence as geopolitical conflict drives oil prices higher and weakens Asian currencies. Investors are shifting to safe haven assets like the US dollar, gold, and devel"
     },
     {
-      "title": "Carmanah Appoints Karim Rayani as Executive Chairman, CEO & Director",
+      "title": "Transaction in Own Shares",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/03/18/3258555/0/en/Carmanah-Appoints-Karim-Rayani-as-Executive-Chairman-CEO-Director.html",
-      "published": "2026-03-18T19:09:00Z",
-      "description": "VANCOUVER, British Columbia, March 18, 2026 (GLOBE NEWSWIRE) -- Carmanah Minerals Corp. (“Carmanah” or the “Company”) is pleased to announce the appointment of Karim Rayani as Executive Chairman, Chie"
+      "url": "https://www.globenewswire.com/news-release/2026/03/19/3258739/0/en/Transaction-in-Own-Shares.html",
+      "published": "2026-03-19T06:30:00Z",
+      "description": "ENDEAVOUR ANNOUNCES TRANSACTION IN OWN SHARES  London, 19 March 2026 – Endeavour Mining plc (LSE:EDV, TSX:EDV) (“the Company”) announces it has purchased..."
     },
     {
-      "title": "Tungsten Soars 557% Amid Middle East War",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Tungsten-Soars-557-Amid-Middle-East-War.html",
-      "published": "2026-03-18T18:00:00Z",
-      "description": "When nations go to war, the military-industrial complex springs into action. Relatively obscure tungsten is often on the front lines.A combination of tight supply, Chinese export restrictions, and hea"
-    },
-    {
-      "title": "Gold's price is down 13% since January. Here's why you should get invested now.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/gold-price-down-13-percent-why-invest-now/",
-      "published": "2026-03-18T17:40:14Z",
-      "description": "Gold has slipped dramatically since hitting a new record high, but this pullback could present a rare opportunity."
-    },
-    {
-      "title": "US stock crashes big today: Why S&P 500, Nasdaq have suddenly fallen - Dow down 400 points while S&P and Nasdaq slip 0.5%",
+      "title": "Navratri 2026: 10 Google Gemini prompts to turn your selfies into viral Navratri portraits",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-crashes-big-today-why-sp-500-nasdaq-have-suddenly-fallen-dow-down-400-points-while-sp-and-nasdaq-slip-0-5/articleshow/129661158.cms",
-      "published": "2026-03-18T16:30:02Z",
-      "description": "US stock crashes big today as S&P 500 and Nasdaq fall 0.5%, while Dow drops over 400 points. Markets slipped after PPI inflation rose 0.7% in February. The biggest factor to watch after the US stock c"
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/navratri-2026-10-google-gemini-prompts-to-turn-your-selfies-into-viral-navratri-portraits/articleshow/129672166.cms",
+      "published": "2026-03-19T06:22:16Z",
+      "description": "Navratri enthusiasts are transforming everyday selfies into stunning festival portraits using Google Gemini's AI. Users are employing specific prompts to generate realistic images of themselves in tra"
     },
     {
-      "title": "SAGA Metals Reports Assays from R-0018 to R-0020 with Intercepts Including 49.51% Fe₂O₃, 6.56% TiO₂, 0.374% V₂O₅ from 2026 Drilling at Trapper South, Radar Critical Minerals Project in Labrador",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/03/18/3258406/0/en/SAGA-Metals-Reports-Assays-from-R-0018-to-R-0020-with-Intercepts-Including-49-51-Fe-O-6-56-TiO-0-374-V-O-from-2026-Drilling-at-Trapper-South-Radar-Critical-Minerals-Project-in-Labr.html",
-      "published": "2026-03-18T15:23:00Z",
-      "description": "SAGA Reports Assays from R-0018 to -0020 with Intercepts Including 49.51% Fe₂O₃, 6.56% TiO₂, 0.374% V₂O₅ from Drilling at Radar Critical Minerals Project..."
-    },
-    {
-      "title": "Why is gold price down by 3% and silver by 4%, and will precious metals continue to nosedive or bounce back again? Gold, silver fall, analysts insights, market outlook explained. Here's what should investors do now",
+      "title": "Masquerade magic takes over the city party scene",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-gold-price-down-by-3-and-silver-by-4-and-will-precious-metals-continue-to-nosedive-or-bounce-back-again-gold-silver-fall-analysts-insights-market-outlook-explained-heres-what-should-investors-do-now/articleshow/129659798.cms",
-      "published": "2026-03-18T15:11:06Z",
-      "description": "Why is gold price down by 3% and silver by 4%, and will precious metals continue to nosedive or bounce back again? Gold and silver dropped due to a strong dollar, rising oil prices, and rate outlook. "
+      "url": "https://timesofindia.indiatimes.com/entertainment/events/kanpur/masquerade-magic-takes-over-the-city-party-scene/articleshow/129650753.cms",
+      "published": "2026-03-19T06:14:39Z",
+      "description": "A city-based social club hosted a captivating masquerade party, transforming the venue into a whimsical wonderland. Guests, dressed in stylish Western attire and vibrant masks, enjoyed electrifying pe"
     },
     {
-      "title": "It's not just oil: Aluminum prices have surged as Iran conflict chokes supply",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/18/why-aluminum-surged-iran-war.html",
-      "published": "2026-03-18T12:38:30Z",
-      "description": "The U.S. and Israel's war with Iran has upended the supply of aluminum in the Middle East, sending prices of the base metal skyrocketing."
+      "title": "Jana Nayagan screened for Revising Committee; certiﬁcate likely in a week",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/entertainment/tamil/movies/news/jana-nayagan-screened-for-revising-committee-certicate-likely-in-a-week/articleshow/129671789.cms",
+      "published": "2026-03-19T05:55:01Z",
+      "description": "After days of waiting, Vijay’s upcoming film Jana Nayagan was finally screened for the Central Board of Film Certification’s Revising Committee on Tue."
+    },
+    {
+      "title": "A股三大指数均跌超1%",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3729438612291204",
+      "published": "2026-03-19T05:41:08Z",
+      "description": "36氪获悉，A股三大指数均跌超1%，贵金属、锂矿、稀土板块跌幅居前；沪深京三市超4900股下跌。"
+    },
+    {
+      "title": "沪指跌幅扩大至1%，沪深京三市下跌个股近4900只",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3729238102589065",
+      "published": "2026-03-19T02:17:10Z",
+      "description": "36氪获悉，沪指跌幅扩大至1%，深成指跌1.46%，创业板指跌0.42%，贵金属、有色、培育钻石、半导体等方向跌幅居前，沪深京三市下跌个股近4900只。"
+    },
+    {
+      "title": "Abaxx Joins Singapore Bullion Market Association",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/abaxx-joins-singapore-bullion-market-association",
+      "published": "2026-03-19T02:00:42Z",
+      "description": "TORONTO and SINGAPORE, March 18, 2026 (GLOBE NEWSWIRE) — Abaxx Technologies Inc. (CBOE:ABXX)(OTCQX:ABXXF) (“Abaxx” or the “Company”), a financial software and market infrastructure company, indirect m"
+    },
+    {
+      "title": "xTool老对手回看来时路：当一个先行者站在十字路口 | 36氪专访",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3728694314090117",
+      "published": "2026-03-19T02:00:03Z",
+      "description": "文｜张子怡\n 编辑｜袁斯来\n 2025年末，硬件赛道不缺焦点。但激光雕刻领域的龙头xTool递表港交所的新闻，仍然算其中一注引人瞩目的高光。\n 人们或许不会注意到xTool身后的对手。但它们遭遇的关键抉择 、转瞬即逝的机会甚至一些巧合和偶然，共同构成当下的市场格局。\n 在消费级激光雕刻机领域里，另一家公司LaserPecker是绝对的先发者。团队推出第一款手持消费级激光雕刻机是2019年，初代产品"
+    },
+    {
+      "title": "8点1氪丨腾讯员工人均薪酬成本超百万；老牌抗生素被炒到千元一盒；网易否认“使用AI清退全部外包员工”",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3729135865281922",
+      "published": "2026-03-19T00:35:40Z",
+      "description": "今日热点导览\n 下周油价或重回“9元时代”\n 碧桂园回应大规模召回离职员工\n 多款知名中成感冒药被要求补全不良反应\n iPhone18将首次启用三星相机\n 微信能折叠发图了：三张以上可合并展示\n 杨植麟GTC 2026演讲：首次完整披露Kimi模型技术路线图\n TOP3大新闻\n 腾讯财报披露：2025年营收7517.7亿，总薪酬1307亿，人均年薪超112万\n 据第一财经日报，3月18日，腾讯控股"
     }
   ],
   "tweets": []
