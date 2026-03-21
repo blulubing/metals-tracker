@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-03-20 13:55:25 UTC",
+  "updated_at": "2026-03-21 06:34:52 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4624.67,
+      "price_usd": 4491.39,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 70.6,
+      "price_usd": 67.88,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1984.86,
+      "price_usd": 1926.83,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1440.76,
+      "price_usd": 1408.54,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.53,
+      "price_usd": 0.52,
       "unit": "USD/吨 mt"
     },
     {
@@ -58,92 +58,92 @@
     {
       "code": "lme_zinc",
       "name": "LME锌 Zinc 3M",
-      "price_usd": 0.09,
+      "price_usd": 0.1,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.51,
+      "price_usd": 0.53,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.37,
+      "price_usd": 0.38,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Sensex, Nifty crash 3.26% in biggest fall since June 2024",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-crash-326-in-biggest-fall-since-june-2024/article70761914.ece",
-      "published": "2026-03-19T13:47:07Z",
-      "description": "Markets suffered their worst single-day fall since June 2024 on Thursday, with the BSE Sensex and the Nifty50 closing 3.3 per cent lower, weighed down by HDFC Bank, spike in crude prices and the hawki"
-    },
-    {
-      "title": "A US$50,000 hockey puck is the latest U.S.-Canada Olympic flashpoint",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/news/retail-marketing/hockey-puck-latest-us-canada-olympic-flashpoint",
-      "published": "2026-03-19T13:27:13Z",
-      "description": "Jack Hughes believes he has earned the right to keep the puck the American hockey star rocketed into the net at the Winter Olympics. Read on"
-    },
-    {
-      "title": "Silver price crash today: Why is silver price down 15% and falling below $65, will silver fall further or rebound? Gold, silver, platinum, and copper plunge into deep red",
+      "title": "Rs 1 lakh crore wiped off! Bajaj Finance shares tumble 18% in March so far amid raging Iran-US war",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/silver-price-crash-today-why-is-silver-price-down-15-and-falling-below-65-will-silver-fall-further-or-rebound-gold-silver-platinum-and-copper-plunge-into-deep-red/articleshow/129680651.cms",
-      "published": "2026-03-19T13:23:53Z",
-      "description": "Silver price crash today: Why is silver price down 15% and falling below $65 as gold, platinum, and copper tumble sharply. Silver plunged over 13%, slipping near $67, while gold dropped nearly 5% and "
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rs-1-lakh-crore-wiped-off-bajaj-finance-shares-tumble-18-in-march-so-far-amid-raging-iran-us-war/articleshow/129694027.cms",
+      "published": "2026-03-20T06:30:44Z",
+      "description": "Bajaj Finance shares have plunged over 20% in a month, eroding more than Rs 1 lakh crore in market value amid escalating Iran-US tensions. Rising oil prices, inflation concerns and macroeconomic risks"
     },
     {
-      "title": "US Stock Futures Dip as Iran War, High Inflation Clouds Outlooks",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/us-stock-futures-dip-as-iran-war-high-inflation-clouds-outlooks",
-      "published": "2026-03-19T13:18:47Z",
-      "description": "US stock futures extended a decline Thursday after intensifying war in the Middle East and inflation risks leave investors jittery about what’s to come."
+      "title": "Transaction in Own Shares",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/20/3259552/0/en/Transaction-in-Own-Shares.html",
+      "published": "2026-03-20T06:30:00Z",
+      "description": "ENDEAVOUR ANNOUNCES TRANSACTION IN OWN SHARES  London, 20 March 2026 – Endeavour Mining plc (LSE:EDV, TSX:EDV) (“the Company”) announces it has purchased..."
     },
     {
-      "title": "What’s happening with gold and silver prices? Why gold and silver prices are crashing despite US–Iran war and stock market turbulence - gold now below $4,700 and silver falling under $70",
+      "title": "Bitget and SlowMist Map Emerging Security Risks as AI Agents Begin Executing Trades",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/20/3259545/0/en/Bitget-and-SlowMist-Map-Emerging-Security-Risks-as-AI-Agents-Begin-Executing-Trades.html",
+      "published": "2026-03-20T05:48:00Z",
+      "description": "Bitget and SlowMist release report on risks of autonomous AI trading, highlighting new security challenges in agent-driven financial systems...."
+    },
+    {
+      "title": "Silver soars Rs 8,500, gold up Rs 3,300 as oil fears ease slightly. Relief rally or structural reversal?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/whats-happening-with-gold-and-silver-prices-why-gold-and-silver-prices-are-crashing-despite-usiran-war-and-stock-market-turbulence-gold-now-below-4700-and-silver-falling-under-70/articleshow/129678294.cms",
-      "published": "2026-03-19T11:29:22Z",
-      "description": "Gold and silver prices are crashing despite the US–Iran war, with gold below $4,700 and silver under $70. Investors expected a safe-haven rally, but rising inflation, a stronger U.S. dollar, and fadin"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-20-march-2026-silver-soars-rs-8500-gold-up-rs-3300-as-oil-fears-ease-slightly-relief-rally-or-structural-reversal/articleshow/129691862.cms",
+      "published": "2026-03-20T04:08:28Z",
+      "description": "Gold and silver prices rebounded sharply on 20 March 2026, with silver surging Rs 8,500 and gold rising Rs 3,300. Experts view the move as a relief rally within a broader bearish trend, driven by vola"
     },
     {
-      "title": "氪星晚报｜澳大利亚就业依然强劲，支持澳央行的鹰派立场；首款国产化“龙虾云电脑”发布；法官下令恢复美国之音员工职务，推翻特朗普关停决定",
+      "title": "ETMarkets Smart Talk | Nifty’s 10% fall not a trend reversal; use dips to build portfolios: Pradeep Gupta, Anand Rathi",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-niftys-10-fall-not-a-trend-reversal-use-dips-to-build-portfolios-pradeep-gupta-anand-rathi/articleshow/129673307.cms",
+      "published": "2026-03-20T03:30:00Z",
+      "description": "Despite geopolitical tensions and rising crude prices, Indian equities' recent correction is seen as a reaction to global risks, not a structural shift. Experts advise using the dip to build long-term"
+    },
+    {
+      "title": "Geopolitical volatility makes strong case for bonds; stick to short-term funds: Devang Shah",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/geopolitical-volatility-makes-strong-case-for-bonds-stick-to-short-term-funds-devang-shah/articleshow/129675651.cms",
+      "published": "2026-03-20T03:30:00Z",
+      "description": "Geopolitical tensions and rising crude prices are reshaping investment. Fixed income offers stability. Investors should focus on high-quality, short-term debt. This strategy provides steady returns an"
+    },
+    {
+      "title": "US Stock Market | Wall Street ends down as traders see no rate cuts before 2027",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-wall-street-ends-down-as-traders-see-no-rate-cuts-before-2027/articleshow/129690449.cms",
+      "published": "2026-03-20T01:56:51Z",
+      "description": "Global markets tumbled Thursday as soaring oil prices fueled inflation fears, dimming hopes for interest rate cuts.  Federal Reserve Chair Jerome Powell's cautious outlook, coupled with central bank h"
+    },
+    {
+      "title": "创业板指涨超2%",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3729727275220613",
-      "published": "2026-03-19T10:39:47Z",
-      "description": "大公司：\n 马斯克：SpaceX AI和特斯拉预计将继续大规模订购英伟达芯片\n 马斯克发文称，非常欣赏英伟达和黄仁勋，英伟达市值实至名归，SpaceX AI和特斯拉预计将继续大规模订购英伟达芯片。\n 三星电子计划在2026年至少投入110万亿韩元用于研发与设施建设\n 三星电子计划在2026年至少投入110万亿韩元用于研发与设施建设。\n 小马智行与如祺出行共建Robotaxi车队，首批交付超百辆第七"
+      "url": "https://36kr.com/newsflashes/3730616342364418",
+      "published": "2026-03-20T01:39:11Z",
+      "description": "36氪获悉，创业板指涨超2%，沪指涨0.15%，深成指涨1.13%，光伏设备、电力、贵金属、CPO等方向涨幅居前，沪深京三市上涨个股超4200只。"
     },
     {
-      "title": "Stock Market Highlights: Sensex plunges 2,496.89 points to settle at 74,207.24; Nifty tanks 775.65 points to 23,002.15",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-market-highlights-march-19-2026/article70757921.ece",
-      "published": "2026-03-19T10:34:22Z",
-      "description": "Sensex, Nifty Highlights on 19 March 2026: The Nifty 50 fell 3.26% to 23,002.15 points, while the BSE ‌Sensex also lost as much to settle at 74,207.24. The Indian rupee is expected to ‌fall past the 9"
-    },
-    {
-      "title": "超级创业者时代：如何让个人拥有组织级能力",
+      "title": "港中文95后博士、OPPO员工做了款AI可穿戴硬件，要成为用户全天候情感导师｜硬氪首发",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3729545296559749",
-      "published": "2026-03-19T07:45:41Z",
-      "description": "序章｜一个人，就是一家公司：第四次个体经济浪潮正在爆发\n 历史上每一次生产关系的重构，都诞生于旧有组织形态的瓶颈与新技术力量的碰撞。从1980年代的街头个体户，到1999年《个人独资企业法》确立的法人主体，再到2014年“大众创业、万众创新”的移动互联网浪潮——中国个体经济政策的每一次跃升，都是时代的一次集体答卷。\n 而今天，随着Agent、OpenClaw等基础设施普及，为超级创业者提供了以AI"
+      "url": "https://36kr.com/p/3729647028960903",
+      "published": "2026-03-20T01:20:00Z",
+      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，深圳十镜科技有限公司（以下简称“十镜科技”）近日完成数千万元天使轮融资，本轮由元禾原点投资，融资资金将主要用于核心技术研发、产品结构迭代优化及小批量量产落地。首款产品Spiro计划于 2026年4月在北美独立站上线、6月量产。\n 十镜科技成立于2025年7月，创始人兼CEO赵之赫是一名95后连续创业者，博士毕业于香港中文大学，他曾出任智能穿戴硬件企业物启科技"
     },
     {
-      "title": "Buying gold on Gudi Padwa, Ugadi? Don’t skip these purity checks to safeguard your festive purchase",
+      "title": "Titan leans on silver as gold rally prices out entry-level buyers",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/buying-gold-on-gudi-padwa-ugadi-don-t-skip-these-purity-checks-to-safeguard-your-festive-purchase-11773903461773.html",
-      "published": "2026-03-19T07:12:11Z",
-      "description": "Even though mandatory gold hallmarking has been in place for five years, recent BIS raids on traders - who displayed hallmarking certificates and the BIS logo—have still uncovered lapses in purity."
-    },
-    {
-      "title": "A股三大指数均跌超1%",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3729438612291204",
-      "published": "2026-03-19T05:41:08Z",
-      "description": "36氪获悉，A股三大指数均跌超1%，贵金属、锂矿、稀土板块跌幅居前；沪深京三市超4900股下跌。"
+      "url": "https://www.livemint.com/companies/news/titan-gold-silver-jewellery-india-jewellery-market-tanishq-mia-shaya-11773894750337.html",
+      "published": "2026-03-20T00:30:22Z",
+      "description": "Titan is expanding design-led silver offerings to retain entry-level buyers, rather than relying only on lower-carat gold or pricing tweaks."
     }
   ],
   "tweets": []
