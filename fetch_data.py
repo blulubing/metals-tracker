@@ -135,7 +135,7 @@ def translate_articles(articles):
         prompt = f"请将以下金融新闻标题和摘要翻译成中文，保持专业金融术语准确。只输出翻译结果，格式为：\n标题：翻译后的标题\n摘要：翻译后的摘要\n\n原文标题：{title}\n原文摘要：{desc}"
 
         payload = json.dumps({
-            "model": "claude-sonnet-4-20250514",
+            "model": "claude-sonnet-4-5",
             "max_tokens": 500,
             "messages": [{"role": "user", "content": prompt}]
         })
@@ -284,9 +284,8 @@ def fetch_news():
 #  3. 获取推文
 # ============================================================
 def fetch_tweets():
-    if not TWITTER_BEARER:
-        print("🐦 未设置 Twitter Bearer Token，跳过")
-        return []
+    print("🐦 Twitter API 需付费，已停用")
+    return []
     print("🐦 正在获取推文...")
     query = urllib.parse.quote("(gold price OR silver price OR copper price) -crypto -bitcoin -is:retweet lang:en")
     url = f"https://api.twitter.com/2/tweets/search/recent?query={query}&max_results=10&tweet.fields=created_at,author_id,text"
