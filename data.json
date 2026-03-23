@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-03-22 06:42:11 UTC",
+  "updated_at": "2026-03-23 07:01:55 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4491.39,
+      "price_usd": 4208.26,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 67.88,
+      "price_usd": 62.67,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1926.83,
+      "price_usd": 1786.88,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1408.54,
+      "price_usd": 1357,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.37,
+      "price_usd": 0.36,
       "unit": "USD/吨 mt"
     },
     {
@@ -46,7 +46,7 @@
     {
       "code": "zinc",
       "name": "锌 Zinc",
-      "price_usd": 0.1,
+      "price_usd": 0.09,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,25 +76,39 @@
   ],
   "news": [
     {
-      "title": "IDBI, SpiceJet among 10 stocks that saw sharpest fall, down up to 21% this week. Do you own any?",
+      "title": "UTI AMC CEO says safety margin in smallcaps limited, backs financials and manufacturing",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/uti-amc-ceo-says-safety-margin-in-smallcaps-limited-backs-financials-and-manufacturing/articleshow/129728750.cms",
+      "published": "2026-03-22T05:30:01Z",
+      "description": "UTI Asset Management Company CEO Vetri Subramaniam warns of limited margin of safety in small caps despite corrections. He favours financials, manufacturing and capital goods, urging disciplined inves"
+    },
+    {
+      "title": "上手体验价值5万的MacBook Pro后 我动起了下单的念头",
+      "source": "Cnbeta.com.tw",
+      "url": "https://www.cnbeta.com.tw/articles/tech/1554410.htm",
+      "published": "2026-03-22T05:06:33Z",
+      "description": "花一辆比亚迪秦的钱，买一套高端“苹果全家桶”，苹果标真就那么值钱嘛？在体验完这台 5 万的 MacBook Pro 和 3 万的 Studio Display XDR 之后，我觉得这俩玩意确实小众，但也难寻平替……\r\n前阵子聊完果果的\"冲低\"平价产品 MacBook Neo 后，再回头看 MacBook Pro 这类高端货，只能说果果用它独有的硬件架构和极致的工艺追求，给所谓的高端生产力，提供了独"
+    },
+    {
+      "title": "Why is gold price down by 2.36% and silver by 4.52%, and will gold fall below $4,494 and silver slip beyond $68 or finally move upwards? Analysts insights, market outlook",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-gold-price-down-by-2-36-and-silver-by-4-52-and-will-gold-fall-below-4494-and-silver-slip-beyond-68-or-finally-move-upwards-analysts-insights-market-outlook-gold-and-silver-price-prediction-what-should-investors-do-now/articleshow/129717182.cms",
+      "published": "2026-03-21T10:51:45Z",
+      "description": "Why is gold price down by 2.36% and silver by 4.52%, and will gold fall below $4,494 and silver slip beyond $68 or finally move upwards remains a key question as prices drop due to dollar strength, ri"
+    },
+    {
+      "title": "Silver tops decade-long returns, outperforming gold, stocks and bonds. Check details",
       "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/idbi-spicejet-among-10-stocks-that-saw-sharpest-fall-down-up-to-21-this-week-do-you-own-any/war-jitters/slideshow/129714131.cms",
-      "published": "2026-03-21T05:46:49Z",
-      "description": "Markets remained under pressure this week as escalating tensions in the Middle East triggered a broad-based sell-off. The situation worsened after Israel struck Iran’s South Pars facility, prompting r"
+      "url": "https://m.economictimes.com/mf/analysis/silver-tops-decade-long-returns-outperforming-gold-stocks-and-bonds-check-details/performance-tracker/slideshow/129714982.cms",
+      "published": "2026-03-21T07:18:10Z",
+      "description": "Silver has emerged as the top-performing asset class over the past decade, outperforming gold, equities and bonds. While mid- and small-cap stocks delivered strong returns, precious metals led the cha"
     },
     {
-      "title": "Geopolitical tensions rising; diversify globally and rebalance toward defensives, says LGT Wealth’s Nikhil Advani",
+      "title": "Explained: Why gold prices remain subdued despite West Asia tensions",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/geopolitical-tensions-rising-diversify-globally-and-rebalance-toward-defensives-says-lgt-wealths-nikhil-advani/articleshow/129713541.cms",
-      "published": "2026-03-21T05:21:38Z",
-      "description": "Nikhil Advani of LGT Wealth India advises investors to prioritise resilience amid rising geopolitical risks and market volatility. He recommends global diversification, defensive sector allocation, an"
-    },
-    {
-      "title": "Don’t panic on geopolitics; use bonds as dry powder to buy equities on dips: Jiraaf’s Saurav Ghosh",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/dont-panic-on-geopolitics-use-bonds-as-dry-powder-to-buy-equities-on-dips-jiraafs-saurav-ghosh/articleshow/129713417.cms",
-      "published": "2026-03-21T05:08:41Z",
-      "description": "Saurav Ghosh of Jiraaf advises investors to stay calm amid geopolitical volatility and use bonds as a strategic buffer. He highlights short-duration fixed income as a stable allocation and suggests de"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/explained-why-gold-prices-remain-subdued-despite-west-asia-tensions/articleshow/129714910.cms",
+      "published": "2026-03-21T07:14:44Z",
+      "description": "Gold prices have unexpectedly fallen despite escalating geopolitical tensions, a departure from their safe-haven status. A strong U.S. dollar, rising Treasury yields, and profit-taking after a prior r"
     },
     {
       "title": "一台吹风机，吹开全球最大英伟达芯片走私案",
@@ -130,20 +144,6 @@
       "url": "https://www.globenewswire.com/news-release/2026/03/20/3259870/625/en/Enviri-Announces-Filing-of-Form-10-Registration-Statement-and-Anticipated-Board-of-Directors-in-Connection-with-Planned-Spin-off-of-Harsco-Environmental-and-Rail-Businesses-New-Env.html",
       "published": "2026-03-20T16:15:00Z",
       "description": "PHILADELPHIA, March 20, 2026 (GLOBE NEWSWIRE) -- Enviri Corporation (NYSE: NVRI) (“Enviri,” or the “Company) today announced that an initial Form 10 registration statement (the “Form 10”) has been fil"
-    },
-    {
-      "title": "Why US stock market Dow, S&P 500, Nasdaq fall sharply today: Dow, S&P 500, Nasdaq crash again — here’s what triggered Wall Street meltdown",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-us-stock-market-dow-sp-500-nasdaq-fall-sharply-today-dow-sp-500-nasdaq-crash-again-heres-what-triggered-wall-street-meltdown/articleshow/129704162.cms",
-      "published": "2026-03-20T15:36:38Z",
-      "description": "US stock market crash today hits Dow, S&P 500, Nasdaq sharply. Dow falls 234 points, Nasdaq drops over 1.2%. Geopolitical tensions between US, Iran, Israel shake investor confidence fast. Energy asset"
-    },
-    {
-      "title": "Lessons from market moves in previous wars",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/opinion/lessons-from-market-moves-in-previous-wars/article70766634.ece",
-      "published": "2026-03-20T15:23:59Z",
-      "description": "An analysis of Indian stock market during previous wars shows that the volatility does not last long"
     }
   ],
   "tweets": []
