@@ -70,13 +70,13 @@
   {
     "date": "2026-03-23",
     "prices": {
-      "gold": 4491.06,
-      "silver": 70.18,
-      "platinum": 1911.95,
-      "palladium": 1466.07,
+      "gold": 4466.3,
+      "silver": 69.89,
+      "platinum": 1897.45,
+      "palladium": 1456.5,
       "copper": 0.38,
       "aluminum": 0.1,
-      "nickel": 0.54,
+      "nickel": 0.53,
       "zinc": 0.1,
       "lead": 0.06,
       "lme_zinc": 0.1,
