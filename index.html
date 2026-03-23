@@ -224,9 +224,9 @@ let activeMetals = new Set(Object.keys(METAL_COLORS));
 
 (async function () {
   let data;
-  try { const r = await fetch('data.json'); if(!r.ok) throw 0; data = await r.json(); }
+  try { const r = await fetch('data.json?v=' + Date.now()); if(!r.ok) throw 0; data = await r.json(); }
   catch { document.getElementById('priceGrid').innerHTML='<div class="empty-state">⚠ 无法加载 data.json</div>'; return; }
-  try { const r2 = await fetch('history.json'); if(r2.ok) historyData = await r2.json(); } catch {}
+  try { const r2 = await fetch('history.json?v=' + Date.now()); if(r2.ok) historyData = await r2.json(); } catch {}
   document.getElementById('updateTime').textContent = '🕐 ' + (data.updated_at||'未知');
   renderPrices(data.prices); renderChart(); renderNews(data.news); renderTweets(data.tweets);
 })();
