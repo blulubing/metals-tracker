@@ -51,7 +51,7 @@ ALLOWED_SOURCE_KEYWORDS = [
     "华尔街见闻", "wallstreetcn", "金十", "jin10",
     "新华", "xinhua", "人民日报", "中国证券报",
     "上海有色", "smm", "南华早报", "scmp",
-    "36kr", "36氪", "cnbeta",
+    "36kr", "36氪",
     # 全球通讯社 & 商业新闻
     "globenewswire", "prnewswire", "business wire",
     "financial post", "seeking alpha", "investing.com",
