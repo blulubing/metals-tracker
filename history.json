@@ -83,5 +83,22 @@
       "lme_nickel": 0.53,
       "lme_copper": 0.38
     }
+  },
+  {
+    "date": "2026-03-24",
+    "prices": {
+      "gold": 4390.89,
+      "silver": 69.04,
+      "platinum": 1881,
+      "palladium": 1424.4,
+      "copper": 0.37,
+      "aluminum": 0.1,
+      "nickel": 0.53,
+      "zinc": 0.1,
+      "lead": 0.06,
+      "lme_zinc": 0.1,
+      "lme_nickel": 0.53,
+      "lme_copper": 0.37
+    }
   }
 ]
