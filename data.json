@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-03-24 06:56:41 UTC",
+  "updated_at": "2026-03-24 14:22:15 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4390.89,
+      "price_usd": 4400.4,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 69.04,
+      "price_usd": 68.73,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1881,
+      "price_usd": 1889.76,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1424.4,
+      "price_usd": 1393.08,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Silver hits lower circuit in futures trade, plunges 9% to ₹2.06 lakh/kg amid weak global cues",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/silver-hits-lower-circuit-in-futures-trade-plunges-9-to-206-lakhkg-amid-weak-global-cues/article70774619.ece",
-      "published": "2026-03-23T06:44:11Z",
-      "description": "On the Multi Commodity Exchange, silver for May delivery slumped ₹20,409, or 9%, to ₹2,06,363 per kilogram, its lower circuit limit"
+      "title": "Jamie Dimon’s shock pivot: JPMorgan CEO says this asset could hit $10,000 this year",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/jamie-dimons-shock-pivot-jpmorgan-ceo-says-this-asset-could-hit-10000-this-year/articleshow/129753859.cms",
+      "published": "2026-03-23T13:21:49Z",
+      "description": "Jamie Dimon surprised markets by saying gold may reach $10,000. He pointed to economic worries, inflation, and high asset prices. Investors often buy gold during uncertainty. Experts also say gold can"
     },
     {
-      "title": "Transaction in Own Shares",
+      "title": "Why are US stock market indexes futures up, and will Dow Jones, S&P 500 and Nasdaq stay in green or turn red again? Wall Street futures, analysts insights and market outlook explained. Here's what should investors do now",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-us-stock-market-indexes-futures-up-and-will-dow-jones-sp-500-and-nasdaq-stay-in-green-or-turn-red-again-wall-street-futures-analysts-insights-and-market-outlook-explained-heres-what-should-investors-do-now/articleshow/129752396.cms",
+      "published": "2026-03-23T12:55:05Z",
+      "description": "Why are US stock market indexes futures up, and will Dow Jones, S&P 500 and Nasdaq stay in green or turn red again? US stock futures rose after a policy update on Iran. Dow Jones, S&P 500, and Nasdaq "
+    },
+    {
+      "title": "氪星晚报 ｜阿里明日或将发布重要芯片产品；全球首个脑机接口创新产品获得医保编码；LG电子称今年将全力推进机器人业务",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3735459789242375",
+      "published": "2026-03-23T11:52:21Z",
+      "description": "大公司：\n 双林股份港股上市获中国证监会备案\n 36氪获悉，中国证监会国际合作司发布关于双林股份有限公司境外发行上市备案通知书，公司拟发行不超过89,697,300股境外上市普通股并在香港联合交易所上市。\n 宝盖新材料港股IPO获中国证监会备案\n 36氪获悉，中国证监会国际合作司发布关于山东宝盖新材料科技股份有限公司境外发行上市备案通知书，公司拟发行不超过16,640,500股境外上市普通股并在香"
+    },
+    {
+      "title": "OR Royalties Appoints Mr. Patrick Godin to Its Board of Directors",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/or-royalties-appoints-mr-patrick-godin-to-its-board-of-directors",
+      "published": "2026-03-23T11:05:50Z",
+      "description": "MONTRÉAL, March 23, 2026 (GLOBE NEWSWIRE) — OR Royalties Inc. (“OR Royalties” or the “Company”) (OR: TSX & NYSE) is pleased to announce the appointment of Mr. Patrick Godin as an Independent Director "
+    },
+    {
+      "title": "Gold miners' bull run squeezed as prices plummet and energy costs soar",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/23/gold-prices-fall-miners-equities-mining.html",
+      "published": "2026-03-23T10:47:51Z",
+      "description": "Gold's recent move lower has second-order effects for the prospects of the firms that dig the metal out of the ground."
+    },
+    {
+      "title": "Rupee hits record low of 93.98 vs USD on worries of escalating Middle East war",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-record-low-of-93-98-vs-usd-on-worries-of-escalating-middle-east-war/articleshow/129749711.cms",
+      "published": "2026-03-23T10:39:04Z",
+      "description": "The Indian rupee fell to a record low on Monday ​as Indian assets dropped on ​worries that the Middle East conflict could keep energy supplies disrupted ​for longer, raising risks for Asia's third-lar"
+    },
+    {
+      "title": "Coeur Provides Company Update Post-New Gold Closing",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/coeur-provides-company-update-post-new-gold-closing",
+      "published": "2026-03-23T10:30:35Z",
+      "description": "Provides Consolidated 2026 Guidance and Announces Updated Capital Return Program Issues Updated Year-End Reserves and Resources for Rainy River and New Afton, Including Maiden K-Zone Resource at New A"
+    },
+    {
+      "title": "EnviroGold Global Appoints Karina Nott as Chief Financial Officer",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/03/23/3260125/0/en/Transaction-in-Own-Shares.html",
-      "published": "2026-03-23T06:30:00Z",
-      "description": "ENDEAVOUR ANNOUNCES TRANSACTION IN OWN SHARES  London, 23 March 2026 – Endeavour Mining plc (LSE:EDV, TSX:EDV) (“the Company”) announces it has purchased..."
+      "url": "https://www.globenewswire.com/news-release/2026/03/23/3260199/0/en/EnviroGold-Global-Appoints-Karina-Nott-as-Chief-Financial-Officer.html",
+      "published": "2026-03-23T10:30:00Z",
+      "description": "EnviroGold appoints Karina Nott CFO, adding capital markets and growth-stage finance expertise as it advances commercial deployment of NVRO Process™...."
     },
     {
-      "title": "Gold futures plunge ₹8,089 to ₹1.36 lakh/10g on global selloff, inflation fears",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-futures-plunge-8089-to-136-lakh10g-on-global-selloff-inflation-fears/article70774575.ece",
-      "published": "2026-03-23T06:28:31Z",
-      "description": "Gold prices plunged sharply by ₹8,089 to ₹1.36 lakh per 10 grams in futures trade on Monday, tracking a global selloff amid rising inflation fears and a firm US dollar."
-    },
-    {
-      "title": "Oil supply crunch to keep global markets under pressure: Arvind Sanger",
+      "title": "Why is gold price down by 8% to reach $4,098 and silver by 6.1% to $63.66, and what led gold to slip to 4-month low level in four months? Here's if precious metals will rise to dream levels in near future",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/oil-supply-crunch-to-keep-global-markets-under-pressure-arvind-sanger/articleshow/129744644.cms",
-      "published": "2026-03-23T06:26:16Z",
-      "description": "Geopolitical tensions and surging energy prices are forcing investors to prioritize liquidity and cash over traditional safe havens like gold. Oil prices are now the central market driver, with a stru"
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-gold-price-down-by-8-to-reach-4098-and-silver-by-6-1-to-63-66-and-what-led-gold-to-slip-to-4-month-low-level-in-four-months-heres-if-precious-metals-will-rise-to-dream-levels-in-near-future-analysts-insights-and-market-outlook-what-should-investors-do-now/articleshow/129749088.cms",
+      "published": "2026-03-23T10:23:29Z",
+      "description": "Why is gold price down by 8% to reach $4,098 and silver by 6.1% to $63.66, and what led gold to slip to 4-month low level in four months? Gold prices fell due to rising inflation fears, rate hike expe"
     },
     {
-      "title": "India’s limited oil buffers, reliance on subsidies heighten risks from Middle East conflict, Moody’s warns",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-limited-oil-buffers-reliance-on-subsidies-heighten-risks-from-middle-east-conflict-moodys-warns/articleshow/129744499.cms",
-      "published": "2026-03-23T06:24:06Z",
-      "description": "India faces risks from Middle East conflict due to its reliance on fuel subsidies. A prolonged conflict could raise oil prices, impacting India's economy. This may lead to higher inflation and slower "
-    },
-    {
-      "title": "Gold extends fall after worst week in 43 years. More pain or time to buy the dip?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-extends-fall-after-worst-week-in-43-years-more-pain-or-time-to-buy-the-dip/articleshow/129743775.cms",
-      "published": "2026-03-23T05:29:33Z",
-      "description": "Gold extended its steep decline after its worst week in 43 years, pressured by surging oil prices and rising rate-hike bets. Geopolitical tensions and warnings from Donald Trump added to volatility, w"
-    },
-    {
-      "title": "Global Market | Cash is King: Investors flee stocks, park billions in cash Aamid oil shock and inflation fears",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/global-market-cash-is-king-investors-flee-stocks-park-billions-in-cash-aamid-oil-shock-and-inflation-fears/articleshow/129743680.cms",
-      "published": "2026-03-23T05:25:18Z",
-      "description": "Global markets see investors moving to cash. Rising oil prices and inflation fears are causing this shift. Money market funds are attracting record amounts of money. Traditional safe havens like gold "
-    },
-    {
-      "title": "恒指午间休盘跌1.93%，恒生科技指数跌3.1%",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3735004595159296",
-      "published": "2026-03-23T04:03:09Z",
-      "description": "36氪获悉，恒指午间休盘跌1.93%，恒生科技指数跌3.1%；GEO、科技领跌，哔哩哔哩跌超6%，百度集体跌超5%，京东集团、智谱、MINIMAX-WP跌超4%；贵金属持续下挫，赤峰黄金跌近25%，灵宝黄金跌超14%，紫金矿业跌超5%；汽车股逆势走强，吉利汽车涨超4%，北京汽车涨超1%；南向资金净买入145.6亿港元。"
-    },
-    {
-      "title": "Silver crashes Rs 14,000/kg, gold tanks Rs 7,000 as rising oil prices fuel inflation worries. What should investors do?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-crashes-rs-14000/kg-gold-tanks-rs-7000-as-rising-oil-prices-fuel-inflation-worries-what-should-investors-do/articleshow/129742660.cms",
-      "published": "2026-03-23T04:00:52Z",
-      "description": "Gold and silver prices saw a sharp decline on India's MCX on Monday. This drop followed global trends where gold hit a four-month low. Rising Middle East tensions and inflation concerns are influencin"
-    },
-    {
-      "title": "A股三大指数午间休盘集体下跌，赤峰黄金跌停",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3734975380226311",
-      "published": "2026-03-23T03:33:25Z",
-      "description": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌2.5%，深成指跌2.53%，创业板指跌2.44%；贵金属板块大跌，赤峰黄金跌停，四川黄金跌超9%，山金国际跌超8%；煤炭板块逆势走强，云煤能源、辽宁能源、山西焦煤等涨停；个股呈现普跌态势，沪深京三市近5000股飘绿"
+      "title": "Bunker Hill Announces Graduation to the Toronto Stock Exchange and on Track for Restart of Operations in June 2026",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/23/3260195/0/en/Bunker-Hill-Announces-Graduation-to-the-Toronto-Stock-Exchange-and-on-Track-for-Restart-of-Operations-in-June-2026.html",
+      "published": "2026-03-23T10:15:00Z",
+      "description": "KELLOGG, Idaho and VANCOUVER, British Columbia, March 23, 2026 (GLOBE NEWSWIRE) -- Bunker Hill Mining Corp. (“Bunker Hill” or the “Company”) (TSX-V: BNKR | OTCQB: BHLL) announced today that it has rec"
     }
   ],
   "tweets": []
