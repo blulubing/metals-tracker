@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-03-24 14:22:15 UTC",
+  "updated_at": "2026-03-25 06:55:06 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4400.4,
+      "price_usd": 4548.68,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 68.73,
+      "price_usd": 73.34,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1889.76,
+      "price_usd": 1964.8,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1393.08,
+      "price_usd": 1464.81,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.37,
+      "price_usd": 0.38,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Jamie Dimon’s shock pivot: JPMorgan CEO says this asset could hit $10,000 this year",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/jamie-dimons-shock-pivot-jpmorgan-ceo-says-this-asset-could-hit-10000-this-year/articleshow/129753859.cms",
-      "published": "2026-03-23T13:21:49Z",
-      "description": "Jamie Dimon surprised markets by saying gold may reach $10,000. He pointed to economic worries, inflation, and high asset prices. Investors often buy gold during uncertainty. Experts also say gold can"
-    },
-    {
-      "title": "Why are US stock market indexes futures up, and will Dow Jones, S&P 500 and Nasdaq stay in green or turn red again? Wall Street futures, analysts insights and market outlook explained. Here's what should investors do now",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-us-stock-market-indexes-futures-up-and-will-dow-jones-sp-500-and-nasdaq-stay-in-green-or-turn-red-again-wall-street-futures-analysts-insights-and-market-outlook-explained-heres-what-should-investors-do-now/articleshow/129752396.cms",
-      "published": "2026-03-23T12:55:05Z",
-      "description": "Why are US stock market indexes futures up, and will Dow Jones, S&P 500 and Nasdaq stay in green or turn red again? US stock futures rose after a policy update on Iran. Dow Jones, S&P 500, and Nasdaq "
-    },
-    {
-      "title": "氪星晚报 ｜阿里明日或将发布重要芯片产品；全球首个脑机接口创新产品获得医保编码；LG电子称今年将全力推进机器人业务",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3735459789242375",
-      "published": "2026-03-23T11:52:21Z",
-      "description": "大公司：\n 双林股份港股上市获中国证监会备案\n 36氪获悉，中国证监会国际合作司发布关于双林股份有限公司境外发行上市备案通知书，公司拟发行不超过89,697,300股境外上市普通股并在香港联合交易所上市。\n 宝盖新材料港股IPO获中国证监会备案\n 36氪获悉，中国证监会国际合作司发布关于山东宝盖新材料科技股份有限公司境外发行上市备案通知书，公司拟发行不超过16,640,500股境外上市普通股并在香"
-    },
-    {
-      "title": "OR Royalties Appoints Mr. Patrick Godin to Its Board of Directors",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/or-royalties-appoints-mr-patrick-godin-to-its-board-of-directors",
-      "published": "2026-03-23T11:05:50Z",
-      "description": "MONTRÉAL, March 23, 2026 (GLOBE NEWSWIRE) — OR Royalties Inc. (“OR Royalties” or the “Company”) (OR: TSX & NYSE) is pleased to announce the appointment of Mr. Patrick Godin as an Independent Director "
-    },
-    {
-      "title": "Gold miners' bull run squeezed as prices plummet and energy costs soar",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/03/23/gold-prices-fall-miners-equities-mining.html",
-      "published": "2026-03-23T10:47:51Z",
-      "description": "Gold's recent move lower has second-order effects for the prospects of the firms that dig the metal out of the ground."
-    },
-    {
-      "title": "Rupee hits record low of 93.98 vs USD on worries of escalating Middle East war",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-hits-record-low-of-93-98-vs-usd-on-worries-of-escalating-middle-east-war/articleshow/129749711.cms",
-      "published": "2026-03-23T10:39:04Z",
-      "description": "The Indian rupee fell to a record low on Monday ​as Indian assets dropped on ​worries that the Middle East conflict could keep energy supplies disrupted ​for longer, raising risks for Asia's third-lar"
-    },
-    {
-      "title": "Coeur Provides Company Update Post-New Gold Closing",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/coeur-provides-company-update-post-new-gold-closing",
-      "published": "2026-03-23T10:30:35Z",
-      "description": "Provides Consolidated 2026 Guidance and Announces Updated Capital Return Program Issues Updated Year-End Reserves and Resources for Rainy River and New Afton, Including Maiden K-Zone Resource at New A"
-    },
-    {
-      "title": "EnviroGold Global Appoints Karina Nott as Chief Financial Officer",
+      "title": "Transaction in Own Shares",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/03/23/3260199/0/en/EnviroGold-Global-Appoints-Karina-Nott-as-Chief-Financial-Officer.html",
-      "published": "2026-03-23T10:30:00Z",
-      "description": "EnviroGold appoints Karina Nott CFO, adding capital markets and growth-stage finance expertise as it advances commercial deployment of NVRO Process™...."
+      "url": "https://www.globenewswire.com/news-release/2026/03/24/3260958/0/en/Transaction-in-Own-Shares.html",
+      "published": "2026-03-24T06:30:00Z",
+      "description": "ENDEAVOUR ANNOUNCES TRANSACTION IN OWN SHARES  London, 24 March 2026 – Endeavour Mining plc (LSE:EDV, TSX:EDV) (“the Company”) announces it has purchased..."
     },
     {
-      "title": "Why is gold price down by 8% to reach $4,098 and silver by 6.1% to $63.66, and what led gold to slip to 4-month low level in four months? Here's if precious metals will rise to dream levels in near future",
+      "title": "Prolonged conflict could send crude prices soaring to $125: Peter McGuire",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-is-gold-price-down-by-8-to-reach-4098-and-silver-by-6-1-to-63-66-and-what-led-gold-to-slip-to-4-month-low-level-in-four-months-heres-if-precious-metals-will-rise-to-dream-levels-in-near-future-analysts-insights-and-market-outlook-what-should-investors-do-now/articleshow/129749088.cms",
-      "published": "2026-03-23T10:23:29Z",
-      "description": "Why is gold price down by 8% to reach $4,098 and silver by 6.1% to $63.66, and what led gold to slip to 4-month low level in four months? Gold prices fell due to rising inflation fears, rate hike expe"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/prolonged-conflict-could-send-crude-prices-soaring-to-125-peter-mcguire/articleshow/129768581.cms",
+      "published": "2026-03-24T06:13:30Z",
+      "description": "Geopolitical developments are causing market volatility. Traders are reacting to political signals, influencing price discovery. Supply disruptions could impact Asia and India for weeks. Future oil pr"
     },
     {
-      "title": "Bunker Hill Announces Graduation to the Toronto Stock Exchange and on Track for Restart of Operations in June 2026",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/03/23/3260195/0/en/Bunker-Hill-Announces-Graduation-to-the-Toronto-Stock-Exchange-and-on-Track-for-Restart-of-Operations-in-June-2026.html",
-      "published": "2026-03-23T10:15:00Z",
-      "description": "KELLOGG, Idaho and VANCOUVER, British Columbia, March 23, 2026 (GLOBE NEWSWIRE) -- Bunker Hill Mining Corp. (“Bunker Hill” or the “Company”) (TSX-V: BNKR | OTCQB: BHLL) announced today that it has rec"
+      "title": "Gold on Pace for Record Losing Run as War Hurts Longtime Haven",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/gold-on-pace-for-record-losing-run-as-war-hurts-longtime-haven",
+      "published": "2026-03-24T06:08:20Z",
+      "description": "Gold was headed for a record 10th successive daily loss as concerns deepened over the war in the Middle East and its impact on inflation and global growth."
+    },
+    {
+      "title": "Pune eatery’s sign blaming ‘orange-haired man’ for LPG price hike goes viral",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/pune-eaterys-sign-blaming-orange-haired-man-for-lpg-price-hike-goes-viral/articleshow/129768154.cms",
+      "published": "2026-03-24T05:49:24Z",
+      "description": "A Pune restaurant's witty signboard blaming an \"orange-haired man\" for rising LPG prices due to global tensions has gone viral. The notice humorously links international conflicts to increased costs f"
+    },
+    {
+      "title": "Sanya Malhotra starrer 'Sunder Poonam' goes on floors",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanya-malhotra-starrer-sunder-poonam-goes-on-floors/articleshow/129768049.cms",
+      "published": "2026-03-24T05:45:37Z",
+      "description": "Sanya Malhotra has commenced shooting for her upcoming film, 'Sundar Poonam', marking the start of a challenging new role. The actress shared glimpses from the muhurat puja, posing with co-stars Adity"
+    },
+    {
+      "title": "Mahershala Ali joins ‘Task’ season 2 alongside Mark Ruffalo as DEA Agent Eddie Barnes",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mahershala-ali-joins-task-season-2-alongside-mark-ruffalo-as-dea-agent-eddie-barnes/articleshow/129768014.cms",
+      "published": "2026-03-24T05:44:41Z",
+      "description": "Oscar-winner Mahershala Ali is set to join Mark Ruffalo in the second season of HBO's crime drama 'Task'. Ali will portray Eddie Barnes, a respected DEA agent whose team clashes with Ruffalo's unit. T"
+    },
+    {
+      "title": "Hyundai Exter Facelift vs Tata Punch Facelift: Key details compared",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/auto/cars/hyundai-exter-facelift-vs-tata-punch-facelift-key-details-compared/articleshow/129767880.cms",
+      "published": "2026-03-24T05:34:09Z",
+      "description": "The Indian micro-SUV segment sees a heated contest with the Hyundai Exter Facelift challenging the updated Tata Punch Facelift. Both models receive significant upgrades, with the Exter offering more v"
+    },
+    {
+      "title": "'Girl, I'm already tired': Miley Cyrus on Hannah Montana reboot after 20th anniversary special",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/girl-im-already-tired-miley-cyrus-on-hannah-montana-reboot-after-20th-anniversary-special/articleshow/129767813.cms",
+      "published": "2026-03-24T05:30:52Z",
+      "description": "Grammy winner Miley Cyrus celebrated the \"Hannah Montana 20th Anniversary Special\" with a blowout red carpet premiere, and before the screening, she credited an interview with planting the seeds of wh"
+    },
+    {
+      "title": "No quick end to conflict, global markets to stay on edge: Adrian Mowat",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/no-quick-end-to-conflict-global-markets-to-stay-on-edge-adrian-mowat/articleshow/129767610.cms",
+      "published": "2026-03-24T05:11:14Z",
+      "description": "Global markets are experiencing volatility due to shifting geopolitical developments, particularly concerning the US and Iran. Oil prices have surged, reflecting supply disruption fears, while India f"
+    },
+    {
+      "title": "Silver price crashes 51%, plunges Rs 2.24 lakh from record peak! Should you catch this falling knife?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/silver-price-crashes-51-plunges-rs-2-24-lakh-from-record-peak-should-you-catch-this-falling-knife/articleshow/129767366.cms",
+      "published": "2026-03-24T04:52:54Z",
+      "description": "Silver’s massive rally has sharply reversed, turning from a top-performing asset to a laggard in 2026, now down 4% for the year. Prices have plunged 51% in just two months from record highs, triggerin"
     }
   ],
   "tweets": []
