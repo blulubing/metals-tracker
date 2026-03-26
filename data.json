@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-03-25 06:55:06 UTC",
+  "updated_at": "2026-03-26 07:00:47 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4548.68,
+      "price_usd": 4457.01,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 73.34,
+      "price_usd": 70.04,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1964.8,
+      "price_usd": 1894.07,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1464.81,
+      "price_usd": 1402.39,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.53,
+      "price_usd": 0.54,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.53,
+      "price_usd": 0.55,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.37,
+      "price_usd": 0.38,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Transaction in Own Shares",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/03/24/3260958/0/en/Transaction-in-Own-Shares.html",
-      "published": "2026-03-24T06:30:00Z",
-      "description": "ENDEAVOUR ANNOUNCES TRANSACTION IN OWN SHARES  London, 24 March 2026 – Endeavour Mining plc (LSE:EDV, TSX:EDV) (“the Company”) announces it has purchased..."
+      "title": "Devina Mehra: Are you driving your investment portfolio by looking at the rearview mirror?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/online-views/devina-mehra-investment-portfolio-rearview-mirror-top-rated-funds-investing-tops-nifty50-11774357753910.html",
+      "published": "2026-03-25T06:52:08Z",
+      "description": "Success in investing lies in focusing on the pitfalls and opportunities ahead, not what has already passed. Yet investors keep chasing yesterday’s winners—from gold to top-rated funds—often entering a"
     },
     {
-      "title": "Prolonged conflict could send crude prices soaring to $125: Peter McGuire",
+      "title": "Muthoot Exim opens 100th gold point centre in Mumbai, eyes expansion",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/muthoot-exim-opens-100th-gold-point-centre-in-mumbai-eyes-expansion/article70782947.ece",
+      "published": "2026-03-25T06:49:31Z",
+      "description": "Muthoot Exim opens its 100th gold point centre in Mumbai, expanding gold recycling network to reduce import dependence and strengthen India’s gold supply chain."
+    },
+    {
+      "title": "NFO Insight: Will JioBlackRock Large Cap Fund’s combination of human insight & AI help manage market risk?",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/mf/analysis/nfo-insight-will-jioblackrock-large-cap-funds-combination-of-human-insight-ai-help-manage-market-risk/articleshow/129792664.cms",
+      "published": "2026-03-25T06:07:34Z",
+      "description": "JioBlackRock Mutual Fund has launched its Large Cap Fund, aiming to generate long-term capital appreciation by investing predominantly in large-cap companies. The fund employs an active strategy combi"
+    },
+    {
+      "title": "287 and beyond: The night Sunrisers Hyderabad smashed an IPL record in a run-fest for the ages",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/prolonged-conflict-could-send-crude-prices-soaring-to-125-peter-mcguire/articleshow/129768581.cms",
-      "published": "2026-03-24T06:13:30Z",
-      "description": "Geopolitical developments are causing market volatility. Traders are reacting to political signals, influencing price discovery. Supply disruptions could impact Asia and India for weeks. Future oil pr"
+      "url": "https://economictimes.indiatimes.com/news/sports/ipl-2026-most-runs-in-an-innings-in-ipl-complete-list-of-teams-srh-sunrisers/articleshow/129792205.cms",
+      "published": "2026-03-25T05:58:03Z",
+      "description": "Sunrisers Hyderabad achieved a record-breaking 287/3 in the 2024 IPL. This total shattered previous benchmarks for T20 cricket. Batters Travis Head, Abhishek Sharma, and Heinrich Klaasen displayed rel"
     },
     {
-      "title": "Gold on Pace for Record Losing Run as War Hurts Longtime Haven",
+      "title": "Gold, silver price crash: If you have Rs 1 lakh to invest, should you invest now or wait for further rate correction?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-silver-crash-if-you-have-rs-1-lakh-to-invest-should-you-invest-now-or-wait-for-further-correction/articleshow/129791791.cms",
+      "published": "2026-03-25T05:14:32Z",
+      "description": "Precious metals are experiencing a significant downturn, with gold down 16.02% and silver 22.54% on the MCX. Experts attribute this to shifting macroeconomic expectations, elevated US Treasury yields,"
+    },
+    {
+      "title": "Next 3 months a window to deploy money aggressively; why George Joseph is buying bank & IT stocks",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/next-3-months-a-window-to-deploy-money-aggressively-why-george-joseph-is-buying-bank-it-stocks/articleshow/129776817.cms",
+      "published": "2026-03-25T03:30:00Z",
+      "description": "George Joseph of ASK Investment Managers sees a prime opportunity in Indian equities, urging aggressive deployment of funds. He highlights significant market corrections, particularly in construction,"
+    },
+    {
+      "title": "拓竹和泡泡玛特和解，免费打印大牌IP的日子正在倒计时",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3737724614213639",
+      "published": "2026-03-25T02:13:38Z",
+      "description": "作者 | 张子怡\n 编辑 | 袁斯来\n 在野蛮增长几年后，3D打印赛道玩家们一直没有直面的“灰犀牛”，终于冲入大门。\n 3月中旬，3D打印企业拓竹科技（Bambu Lab）发布声明，就旗下MakerWorld平台存在的IP侵权问题向潮玩巨头泡泡玛特致歉，双方达成和解，相关未经授权的LABUBU等模型被全面下架。\n 这场原定于4月对簿公堂的诉讼以“闪电和解”告终，不过，它为整个消费级3D打印行业敲响"
+    },
+    {
+      "title": "从高中社团起步，三个00后天才研发网络勒索病毒“疫苗”，帮企业从黑客手中“抢”数据 | 水下项目",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3737704073428992",
+      "published": "2026-03-25T01:54:16Z",
+      "description": "“你的文件已被加密，72小时内支付赎金，否则数据将永久销毁”——这是许多人都曾遭遇过的网络勒索（Cyberextortion）的典型场景。\n 网络勒索是一种常见的网络犯罪，黑客通过向企业或个人的电脑系统植入勒索病毒，使其无法正常打开或运行，从而勒索赎金。Orange Cyberdefense报告显示，网络勒索犯罪在全球呈爆炸式增长，2020年以来受害者数量增至三倍，受影响组织超过1.9万个。\n 作"
+    },
+    {
+      "title": "Erdene Announces 2025 Results – Provides Bayan Khundii Gold Mine and Exploration Update",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/gold-on-pace-for-record-losing-run-as-war-hurts-longtime-haven",
-      "published": "2026-03-24T06:08:20Z",
-      "description": "Gold was headed for a record 10th successive daily loss as concerns deepened over the war in the Middle East and its impact on inflation and global growth."
+      "url": "https://financialpost.com/globe-newswire/erdene-announces-2025-results-provides-bayan-khundii-gold-mine-and-exploration-update",
+      "published": "2026-03-24T21:38:26Z",
+      "description": "HALIFAX, Nova Scotia, March 24, 2026 (GLOBE NEWSWIRE) — Highlights: Completed construction at the high-grade Bayan Khundii Gold Mine in Q3 2025 Produced first gold in September 2025 and sold 7,434 oun"
     },
     {
-      "title": "Pune eatery’s sign blaming ‘orange-haired man’ for LPG price hike goes viral",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/etimes/trending/pune-eaterys-sign-blaming-orange-haired-man-for-lpg-price-hike-goes-viral/articleshow/129768154.cms",
-      "published": "2026-03-24T05:49:24Z",
-      "description": "A Pune restaurant's witty signboard blaming an \"orange-haired man\" for rising LPG prices due to global tensions has gone viral. The notice humorously links international conflicts to increased costs f"
-    },
-    {
-      "title": "Sanya Malhotra starrer 'Sunder Poonam' goes on floors",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sanya-malhotra-starrer-sunder-poonam-goes-on-floors/articleshow/129768049.cms",
-      "published": "2026-03-24T05:45:37Z",
-      "description": "Sanya Malhotra has commenced shooting for her upcoming film, 'Sundar Poonam', marking the start of a challenging new role. The actress shared glimpses from the muhurat puja, posing with co-stars Adity"
-    },
-    {
-      "title": "Mahershala Ali joins ‘Task’ season 2 alongside Mark Ruffalo as DEA Agent Eddie Barnes",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/mahershala-ali-joins-task-season-2-alongside-mark-ruffalo-as-dea-agent-eddie-barnes/articleshow/129768014.cms",
-      "published": "2026-03-24T05:44:41Z",
-      "description": "Oscar-winner Mahershala Ali is set to join Mark Ruffalo in the second season of HBO's crime drama 'Task'. Ali will portray Eddie Barnes, a respected DEA agent whose team clashes with Ruffalo's unit. T"
-    },
-    {
-      "title": "Hyundai Exter Facelift vs Tata Punch Facelift: Key details compared",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/auto/cars/hyundai-exter-facelift-vs-tata-punch-facelift-key-details-compared/articleshow/129767880.cms",
-      "published": "2026-03-24T05:34:09Z",
-      "description": "The Indian micro-SUV segment sees a heated contest with the Hyundai Exter Facelift challenging the updated Tata Punch Facelift. Both models receive significant upgrades, with the Exter offering more v"
-    },
-    {
-      "title": "'Girl, I'm already tired': Miley Cyrus on Hannah Montana reboot after 20th anniversary special",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/girl-im-already-tired-miley-cyrus-on-hannah-montana-reboot-after-20th-anniversary-special/articleshow/129767813.cms",
-      "published": "2026-03-24T05:30:52Z",
-      "description": "Grammy winner Miley Cyrus celebrated the \"Hannah Montana 20th Anniversary Special\" with a blowout red carpet premiere, and before the screening, she credited an interview with planting the seeds of wh"
-    },
-    {
-      "title": "No quick end to conflict, global markets to stay on edge: Adrian Mowat",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/no-quick-end-to-conflict-global-markets-to-stay-on-edge-adrian-mowat/articleshow/129767610.cms",
-      "published": "2026-03-24T05:11:14Z",
-      "description": "Global markets are experiencing volatility due to shifting geopolitical developments, particularly concerning the US and Iran. Oil prices have surged, reflecting supply disruption fears, while India f"
-    },
-    {
-      "title": "Silver price crashes 51%, plunges Rs 2.24 lakh from record peak! Should you catch this falling knife?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/silver-price-crashes-51-plunges-rs-2-24-lakh-from-record-peak-should-you-catch-this-falling-knife/articleshow/129767366.cms",
-      "published": "2026-03-24T04:52:54Z",
-      "description": "Silver’s massive rally has sharply reversed, turning from a top-performing asset to a laggard in 2026, now down 4% for the year. Prices have plunged 51% in just two months from record highs, triggerin"
+      "title": "Erdene Announces 2025 Results - Provides Bayan Khundii Gold Mine and Exploration Update",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/24/3261853/0/en/Erdene-Announces-2025-Results-Provides-Bayan-Khundii-Gold-Mine-and-Exploration-Update.html",
+      "published": "2026-03-24T21:36:00Z",
+      "description": "HALIFAX, Nova Scotia, March  24, 2026  (GLOBE NEWSWIRE) --   Highlights:  Completed construction at the high-grade Bayan Khundii Gold Mine in Q3..."
     }
   ],
   "tweets": []
