@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-03-26 07:00:47 UTC",
+  "updated_at": "2026-03-27 06:59:32 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4457.01,
+      "price_usd": 4459.31,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 70.04,
+      "price_usd": 69.77,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1894.07,
+      "price_usd": 1896.21,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1402.39,
+      "price_usd": 1403.75,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.54,
+      "price_usd": 0.53,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.55,
+      "price_usd": 0.54,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Devina Mehra: Are you driving your investment portfolio by looking at the rearview mirror?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/opinion/online-views/devina-mehra-investment-portfolio-rearview-mirror-top-rated-funds-investing-tops-nifty50-11774357753910.html",
-      "published": "2026-03-25T06:52:08Z",
-      "description": "Success in investing lies in focusing on the pitfalls and opportunities ahead, not what has already passed. Yet investors keep chasing yesterday’s winners—from gold to top-rated funds—often entering a"
-    },
-    {
-      "title": "Muthoot Exim opens 100th gold point centre in Mumbai, eyes expansion",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/muthoot-exim-opens-100th-gold-point-centre-in-mumbai-eyes-expansion/article70782947.ece",
-      "published": "2026-03-25T06:49:31Z",
-      "description": "Muthoot Exim opens its 100th gold point centre in Mumbai, expanding gold recycling network to reduce import dependence and strengthen India’s gold supply chain."
-    },
-    {
-      "title": "NFO Insight: Will JioBlackRock Large Cap Fund’s combination of human insight & AI help manage market risk?",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/mf/analysis/nfo-insight-will-jioblackrock-large-cap-funds-combination-of-human-insight-ai-help-manage-market-risk/articleshow/129792664.cms",
-      "published": "2026-03-25T06:07:34Z",
-      "description": "JioBlackRock Mutual Fund has launched its Large Cap Fund, aiming to generate long-term capital appreciation by investing predominantly in large-cap companies. The fund employs an active strategy combi"
-    },
-    {
-      "title": "287 and beyond: The night Sunrisers Hyderabad smashed an IPL record in a run-fest for the ages",
+      "title": "Reducing import dependence through refining and recycling the way to navigate India Gold sector: Report",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/sports/ipl-2026-most-runs-in-an-innings-in-ipl-complete-list-of-teams-srh-sunrisers/articleshow/129792205.cms",
-      "published": "2026-03-25T05:58:03Z",
-      "description": "Sunrisers Hyderabad achieved a record-breaking 287/3 in the 2024 IPL. This total shattered previous benchmarks for T20 cricket. Batters Travis Head, Abhishek Sharma, and Heinrich Klaasen displayed rel"
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/reducing-import-dependence-through-refining-and-recycling-the-way-to-navigate-india-gold-sector-report/articleshow/129817846.cms",
+      "published": "2026-03-26T06:55:36Z",
+      "description": "India's gold industry is shifting focus from buying to investing. The nation aims to reduce its reliance on imported gold by boosting local refining and recycling efforts.  Plans are underway to make "
     },
     {
-      "title": "Gold, silver price crash: If you have Rs 1 lakh to invest, should you invest now or wait for further rate correction?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-silver-crash-if-you-have-rs-1-lakh-to-invest-should-you-invest-now-or-wait-for-further-correction/articleshow/129791791.cms",
-      "published": "2026-03-25T05:14:32Z",
-      "description": "Precious metals are experiencing a significant downturn, with gold down 16.02% and silver 22.54% on the MCX. Experts attribute this to shifting macroeconomic expectations, elevated US Treasury yields,"
-    },
-    {
-      "title": "Next 3 months a window to deploy money aggressively; why George Joseph is buying bank & IT stocks",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/next-3-months-a-window-to-deploy-money-aggressively-why-george-joseph-is-buying-bank-it-stocks/articleshow/129776817.cms",
-      "published": "2026-03-25T03:30:00Z",
-      "description": "George Joseph of ASK Investment Managers sees a prime opportunity in Indian equities, urging aggressive deployment of funds. He highlights significant market corrections, particularly in construction,"
-    },
-    {
-      "title": "拓竹和泡泡玛特和解，免费打印大牌IP的日子正在倒计时",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3737724614213639",
-      "published": "2026-03-25T02:13:38Z",
-      "description": "作者 | 张子怡\n 编辑 | 袁斯来\n 在野蛮增长几年后，3D打印赛道玩家们一直没有直面的“灰犀牛”，终于冲入大门。\n 3月中旬，3D打印企业拓竹科技（Bambu Lab）发布声明，就旗下MakerWorld平台存在的IP侵权问题向潮玩巨头泡泡玛特致歉，双方达成和解，相关未经授权的LABUBU等模型被全面下架。\n 这场原定于4月对簿公堂的诉讼以“闪电和解”告终，不过，它为整个消费级3D打印行业敲响"
-    },
-    {
-      "title": "从高中社团起步，三个00后天才研发网络勒索病毒“疫苗”，帮企业从黑客手中“抢”数据 | 水下项目",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3737704073428992",
-      "published": "2026-03-25T01:54:16Z",
-      "description": "“你的文件已被加密，72小时内支付赎金，否则数据将永久销毁”——这是许多人都曾遭遇过的网络勒索（Cyberextortion）的典型场景。\n 网络勒索是一种常见的网络犯罪，黑客通过向企业或个人的电脑系统植入勒索病毒，使其无法正常打开或运行，从而勒索赎金。Orange Cyberdefense报告显示，网络勒索犯罪在全球呈爆炸式增长，2020年以来受害者数量增至三倍，受影响组织超过1.9万个。\n 作"
-    },
-    {
-      "title": "Erdene Announces 2025 Results – Provides Bayan Khundii Gold Mine and Exploration Update",
+      "title": "Gold Steadies as US and Iran Offer Divergent Routes to End War",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/erdene-announces-2025-results-provides-bayan-khundii-gold-mine-and-exploration-update",
-      "published": "2026-03-24T21:38:26Z",
-      "description": "HALIFAX, Nova Scotia, March 24, 2026 (GLOBE NEWSWIRE) — Highlights: Completed construction at the high-grade Bayan Khundii Gold Mine in Q3 2025 Produced first gold in September 2025 and sold 7,434 oun"
+      "url": "https://financialpost.com/pmn/business-pmn/gold-steadies-as-us-and-iran-offer-divergent-routes-to-end-war",
+      "published": "2026-03-26T05:42:34Z",
+      "description": "Gold steadied after a modest two-day recovery, as traders weighed conflicting statements from the US and Iran about negotiations to end the war in the Middle East."
     },
     {
-      "title": "Erdene Announces 2025 Results - Provides Bayan Khundii Gold Mine and Exploration Update",
+      "title": "US Stock Market | Gold no longer a safe haven? What’s dragging the yellow metal down",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/us-stock-market-gold-no-longer-a-safe-haven-whats-dragging-the-yellow-metal-down/articleshow/129815739.cms",
+      "published": "2026-03-26T04:33:01Z",
+      "description": "Gold prices have declined sharply in 2026 despite rising geopolitical tensions, driven by a liquidity crunch, shifting interest rate expectations, and supply disruptions. While the sell-off reflects s"
+    },
+    {
+      "title": "A股三大指数午间休盘集体下跌，能源股走强",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3739220604239877",
+      "published": "2026-03-26T03:31:53Z",
+      "description": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.58%，深成指跌0.38%，创业板指跌0.07%。保险、贵金属、互联网板块领跌，中国人寿跌超5%，晓程科技、青云科技、天地在线跌超4%；能源、银行、化工板块走强，天际股份涨超7%，中信银行、中国石油涨超1%。"
+    },
+    {
+      "title": "Stuck with market crash near your retirement? What should you do to make your Rs 2 crore portfolio crash-proof?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/stuck-with-market-crash-near-your-retirement-what-should-you-do-to-make-your-rs-2-crore-portfolio-crash-proof/articleshow/129800709.cms",
+      "published": "2026-03-26T02:30:00Z",
+      "description": "Vinayak Magotra, product head & founding team, Centricity WealthTech, says for someone eyeing a retirement in a few years from now, they can start rebalancing their retirement portfolio at least 24 mo"
+    },
+    {
+      "title": "36氪首发 | 前九号产品副总裁创业全地形车，获高瓴、云时、云沐千万美元融资",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3738426692567046",
+      "published": "2026-03-26T01:00:54Z",
+      "description": "作者 | 张子怡\n 编辑 | 袁斯来\n 硬氪获悉，智能电动全地形车研发商「ModMax（以下简称：魔迈）」，已于近日连续完成千万美元级种子轮及天使轮融资，融资由高瓴资本、云时资本、云沐资本投资。据悉，本轮融资资金将主要用于首款产品的研发生产，成建制团队搭建以及海外市场的品牌初步拓展。\n 全地形车在欧美市场是一门长盛不衰的生意。它既是北美约100万个农场和牧场必不可少的生产力工具，也是每年数百万越野"
+    },
+    {
+      "title": "Gold, silver rally on weaker dollar, fall in crude prices",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-rally-on-weaker-dollar-fall-in-crude-prices/articleshow/129814033.cms",
+      "published": "2026-03-26T00:41:20Z",
+      "description": "Gold and silver prices surged on Wednesday, reversing recent declines, driven by a weaker dollar and lower oil prices. Easing inflation concerns and a softer interest rate outlook also boosted sentime"
+    },
+    {
+      "title": "8点1氪丨张雪峰医疗文件疑似泄露，苏州卫生健康委回应；黄仁勋谈死亡：希望在工作中突然离世；OpenAI将停止Sora视频生成服务，精简产品线",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3739006287216903",
+      "published": "2026-03-25T23:59:56Z",
+      "description": "今日热点导览\n 于东来：超市总裁峰会门票有点高，每人退3000元\n 品牌金饰克价一夜大涨近70元，克价重回1400元\n 央行25日开展785亿元7天期逆回购操作\n 泡泡玛特将在今年下半年推出LABUBU 4.0系列\n “中园石化”加油站被查\n TOP3大新闻\n 张雪峰医疗文件疑似泄露，苏州卫生健康委回应\n 3月24日晚，江苏苏州峰学蔚来教育科技有限公司发布讣告，知名考研老师张雪峰（本名张子彪）因突"
+    },
+    {
+      "title": "Eldorado Gold Enters into Project Alliance with G Mining Services",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/03/24/3261853/0/en/Erdene-Announces-2025-Results-Provides-Bayan-Khundii-Gold-Mine-and-Exploration-Update.html",
-      "published": "2026-03-24T21:36:00Z",
-      "description": "HALIFAX, Nova Scotia, March  24, 2026  (GLOBE NEWSWIRE) --   Highlights:  Completed construction at the high-grade Bayan Khundii Gold Mine in Q3..."
+      "url": "https://www.globenewswire.com/news-release/2026/03/25/3262627/0/en/Eldorado-Gold-Enters-into-Project-Alliance-with-G-Mining-Services.html",
+      "published": "2026-03-25T21:00:00Z",
+      "description": "Strengthens Project Execution Through a Preferred Engineering and Construction Partnership Strengthens Project Execution Through a Preferred Engineering and Construction Partnership"
+    },
+    {
+      "title": "Eldorado Gold Announces Leading, Independent Proxy Advisory Firm, ISS, Recommends Eldorado Shareholders Vote “FOR” the Proposed Arrangement with Foran Mining; Shareholders Reminded to Vote",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/03/25/3262532/0/en/Eldorado-Gold-Announces-Leading-Independent-Proxy-Advisory-Firm-ISS-Recommends-Eldorado-Shareholders-Vote-FOR-the-Proposed-Arrangement-with-Foran-Mining-Shareholders-Reminded-to-Vo.html",
+      "published": "2026-03-25T19:13:00Z",
+      "description": "VANCOUVER, British Columbia, March 25, 2026 (GLOBE NEWSWIRE) -- Eldorado Gold Corporation (TSX: ELD, NYSE American: EGO) (“Eldorado” or the “Company”) is pleased to announce that Institutional Shareho"
     }
   ],
   "tweets": []
