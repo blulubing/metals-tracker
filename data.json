@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-03-30 07:19:06 UTC",
+  "updated_at": "2026-03-31 07:05:19 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4529,
+      "price_usd": 4560.24,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 70.27,
+      "price_usd": 72.32,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1918.95,
+      "price_usd": 1921.69,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1420.57,
+      "price_usd": 1440.49,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.54,
+      "price_usd": 0.53,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Crude oil shock deepens market jitters as Hormuz crisis hits India’s macro outlook",
+      "title": "World gold prices steady",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/crude-oil-shock-deepens-market-jitters-as-hormuz-crisis-hits-indias-macro-outlook/article70798845.ece",
-      "published": "2026-03-29T05:55:16Z",
-      "description": "Bernstein warned that escalating West Asia tensions and a sustained crude price spike are increasing risks to India’s macro outlook"
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-price-update-march-2026-volatility-inflation/article70801924.ece",
+      "published": "2026-03-30T06:35:57Z",
+      "description": "Gold prices steady at $4,488.46 as energy prices surge. Read our latest update on how the US-Iran conflict and Fed rate expectations are moving the precious metals market in 2026"
     },
     {
-      "title": "Before you buy an ETF, check these 5 things",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/before-you-buy-an-etf/article70715084.ece",
-      "published": "2026-03-28T16:56:04Z",
-      "description": "Discover essential factors to consider when selecting ETFs, including liquidity, costs, NAV deviations, and tracking errors for smart investing."
-    },
-    {
-      "title": "Dip-Buyers Arrive to Pull Gold Back From Brink of a Bear Market",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/dip-buyers-arrive-to-pull-gold-back-from-brink-of-a-bear-market",
-      "published": "2026-03-28T09:30:42Z",
-      "description": "Opportunistic buyers are starting to emerge in the gold market after the biggest selloff in years, helping to keep bullion’s record-breaking three-year bull run intact."
-    },
-    {
-      "title": "9点1氪｜“华人神探”李昌钰去世；罗技为“一降价你像狗一样跑来”广告语道歉；寿司郎就餐需出示手机SIM卡尾号",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3741924007461128",
-      "published": "2026-03-28T01:24:38Z",
-      "description": "今日热点导览\n <ul>\n <li>前阿里千问负责人林俊旸离职后首发长文：从训练模型转向训练智能体</li>\n <li>九号公司：与泡泡玛特达成合作，联名电动车将于4月推出</li>\n <li>苹果公司或将改变战略，向外部人工智能助手开放Siri</li>\n <li>多位即将卸任的CEO将人工智能列为决定离职的原因之一</li>\n <li>英国将对限制青少年使用社交媒体展开试点</li>\n </u"
-    },
-    {
-      "title": "Why are gold and silver prices rising sharply today and why is silver outperforming gold – Gold and silver add $1.3 trillion in market cap today",
+      "title": "Luxury carmakers' gold-leafed Gulf profits are under threat from Iran war",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-gold-and-silver-prices-rising-sharply-today-and-why-is-silver-outperforming-gold-gold-and-silver-add-1-3-trillion-in-market-cap-today/articleshow/129851153.cms",
-      "published": "2026-03-27T16:33:42Z",
-      "description": "Gold and silver prices are exploding today. The precious metals surge has already added over $1.3 trillion in market value in just one session. Gold is trading above $4,550 per ounce, while silver has"
+      "url": "https://economictimes.indiatimes.com/news/international/business/luxury-carmakers-gold-leafed-gulf-profits-are-under-threat-from-iran-war/articleshow/129893066.cms",
+      "published": "2026-03-30T06:33:34Z",
+      "description": "Luxury carmakers face a significant challenge as the Middle East market, vital for high profits, is under threat. Regional conflict has led to temporary showroom closures and a slump in demand. This c"
     },
     {
-      "title": "US stock market crash Dow S&P 500 Nasdaq big fall today: What’s driving Dow Jones, S&P 500 and Nasdaq crash today?",
+      "title": "First Great Indian Bustard chick born via AI at Rajasthan's Ramdevra breeding centre",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-crash-dow-sp-500-nasdaq-big-fall-today-whats-driving-dow-jones-sp-500-and-nasdaq-crash-today/articleshow/129850617.cms",
-      "published": "2026-03-27T15:35:44Z",
-      "description": "US stock market crash Dow S&P 500 Nasdaq big fall today deepened as the Nasdaq dropped over 1.4% and the Dow Jones Industrial Average lost more than 400 points in early trade. Markets are reacting fas"
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/first-great-indian-bustard-chick-born-via-ai-at-rajasthans-ramdevra-breeding-centre/articleshow/129892760.cms",
+      "published": "2026-03-30T06:15:10Z",
+      "description": "A significant breakthrough in Great Indian Bustard conservation has been achieved with the birth of the first chick of the year at Jaisalmer's Ramdevra Breeding Centre, utilizing advanced artificial i"
     },
     {
-      "title": "What is the price of gold today: March 27, 2026?",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/price-of-gold-today-march-27-2026/",
-      "published": "2026-03-27T15:11:42Z",
-      "description": "The price of gold has changed significantly this month. Here's where it sits as of March 27, 2026."
+      "title": "Why are Chinese flights to N. Korea resuming now?",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/china/why-are-chinese-flights-to-n-korea-resuming-now/articleshow/129892442.cms",
+      "published": "2026-03-30T06:12:42Z",
+      "description": "Air China resumed direct flights between Beijing and Pyongyang on Monday, the first time since the pandemic. For now, North Korea is only allowing in travellers with official or other special purposes"
     },
     {
-      "title": "Hudbay Provides Annual Reserve and Resource Update with Mine Life Extensions and Improved Three-Year Production Outlook",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/hudbay-provides-annual-reserve-and-resource-update-with-mine-life-extensions-and-improved-three-year-production-outlook",
-      "published": "2026-03-27T11:06:12Z",
-      "description": "TORONTO, March 27, 2026 (GLOBE NEWSWIRE) — Hudbay Minerals Inc. (“Hudbay” or the “Company”) (TSX, NYSE: HBM) today released its annual mineral reserve and resource update and issued new three-year pro"
+      "title": "Did Akbar look South Asian or Mongolian? Internet debates Mughal Emperor's features through historical portraits",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/etimes/trending/did-akbar-look-south-asian-or-mongolian-internet-debates-mughal-emperors-features-through-historical-portraits/articleshow/129892697.cms",
+      "published": "2026-03-30T06:12:37Z",
+      "description": "Trending News: Abu'l-Fath Jalal-ud-din Muhammad Akbar, arguably India's most famous Mughal emperor, has made an indelible mark on the country's history. His expansio."
     },
     {
-      "title": "Premier American Uranium Announces 2026 New Mexico Work Program Targeting Optimization of Cebolleta Preliminary Economic Assessment",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/03/27/3263669/0/en/Premier-American-Uranium-Announces-2026-New-Mexico-Work-Program-Targeting-Optimization-of-Cebolleta-Preliminary-Economic-Assessment.html",
-      "published": "2026-03-27T11:00:00Z",
-      "description": "TORONTO, March 27, 2026 (GLOBE NEWSWIRE) -- Premier American Uranium Inc. (“PUR” or “Premier American Uranium” or the “Company”) (TSXV: PUR, OTCQB: PAUIF) is pleased to announce details of the 2026 wo"
+      "title": "Exclusive: Manisha Koirala opens up about her new look that grabbed eyeballs",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manisha-koirala-embraces-natural-beauty-with-salt-and-pepper-hair/articleshow/129892419.cms",
+      "published": "2026-03-30T06:08:46Z",
+      "description": "Manisha Koirala discusses her journey towards authenticity, embracing her natural salt-and-pepper hair in an industry focused on perfection. She shares insights on beauty, resilience, and acceptance."
     },
     {
-      "title": "Zirconium Market Size to Hit USD 4.15 Billion by 2035, Driven by Demand from Ceramics and Nuclear Applications | Report by SNS Insider",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/03/27/3263653/0/en/Zirconium-Market-Size-to-Hit-USD-4-15-Billion-by-2035-Driven-by-Demand-from-Ceramics-and-Nuclear-Applications-Report-by-SNS-Insider.html",
-      "published": "2026-03-27T10:30:00Z",
-      "description": "The Zirconium Market is expanding due to its critical role in high-temperature, corrosion-resistant applications, with the U.S. segment growing from USD 0.38 billion in 2025 to USD 0.64 billion by 203"
+      "title": "Fresh SoPs: Hostels, govt canteens to get LPG refills on priority",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/fresh-sops-hostels-govt-canteens-to-get-lpg-refills-on-priority/articleshow/129892698.cms",
+      "published": "2026-03-30T06:07:53Z",
+      "description": "BENGALURU: In line with Union govt directives to regulate commercial use of LPG amid the West Asia crisis, the state govt Sunday issued a set of stand."
+    },
+    {
+      "title": "Indian Army holds Maru Sangram in Jaisalmer, showcases combat readiness",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/indian-army-holds-maru-sangram-in-jaisalmer-showcases-combat-readiness/articleshow/129892677.cms",
+      "published": "2026-03-30T06:06:30Z",
+      "description": "The Konark Corps GOC reviewed combat preparedness during the high-intensity military exercise Maru Sangram in Jaisalmer. The drill validated integrated battle strategies and enhanced coordination amon"
+    },
+    {
+      "title": "Tyre shop owner’s daughter Shabreen Parveen becomes BSEB Class 10 joint topper, plans NEET next",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/tyre-shop-owners-daughter-shabreen-parveen-becomes-bseb-class-10-joint-topper-plans-neet-next/articleshow/129892090.cms",
+      "published": "2026-03-30T06:06:12Z",
+      "description": "Shabreen Parveen achieved joint top rank in the BSEB Class 10 examination 2026. She scored 98.4 percent marks. Shabreen prepared using school classes and YouTube lectures. She aims to become a doctor "
+    },
+    {
+      "title": "Gold drops Rs 1,000/10 gms; silver falls 0.5% as Iran-US tensions boost dollar strength: What lies ahead?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-rs-1000/10-gms-silver-falls-0-5-as-iran-us-tensions-boost-dollar-strength-what-lies-ahead/articleshow/129890990.cms",
+      "published": "2026-03-30T03:56:04Z",
+      "description": "Gold and silver prices edged lower on MCX on Monday as a stronger US dollar, driven by escalating Middle East tensions, weighed on precious metals. Gold futures fell 0.68% while silver declined around"
     }
   ],
   "tweets": []
