@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-03-31 07:05:19 UTC",
+  "updated_at": "2026-04-01 07:11:52 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4560.24,
+      "price_usd": 4720.69,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 72.32,
+      "price_usd": 75.08,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1921.69,
+      "price_usd": 1978.3,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1440.49,
+      "price_usd": 1491.92,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.38,
+      "price_usd": 0.39,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.54,
+      "price_usd": 0.53,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "World gold prices steady",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-price-update-march-2026-volatility-inflation/article70801924.ece",
-      "published": "2026-03-30T06:35:57Z",
-      "description": "Gold prices steady at $4,488.46 as energy prices surge. Read our latest update on how the US-Iran conflict and Fed rate expectations are moving the precious metals market in 2026"
+      "title": "Britons Enter Iran Energy Shock With High Savings Buffer",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/britons-enter-iran-energy-shock-with-high-savings-buffer",
+      "published": "2026-03-31T06:54:30Z",
+      "description": "The amount put away by British households remained historically high at the end of 2025, suggesting consumers have a buffer to absorb any hit from a resurgence in inflation caused by the Iran war."
     },
     {
-      "title": "Luxury carmakers' gold-leafed Gulf profits are under threat from Iran war",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/business/luxury-carmakers-gold-leafed-gulf-profits-are-under-threat-from-iran-war/articleshow/129893066.cms",
-      "published": "2026-03-30T06:33:34Z",
-      "description": "Luxury carmakers face a significant challenge as the Middle East market, vital for high profits, is under threat. Regional conflict has led to temporary showroom closures and a slump in demand. This c"
+      "title": "The dollar’s global reign: The Iran war has strengthened the greenback but the story is far from over",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/online-views/dollar-global-reign-iran-war-value-strengthened-greenback-oil-prices-top-currency-yuan-rupee-11774881043777.html",
+      "published": "2026-03-31T06:30:10Z",
+      "description": "The US currency gained in March against others as global oil prices soared. Its reign as the world’s top currency looks secure. But various other scenarios could also unfold—leaving the US with more c"
     },
     {
-      "title": "First Great Indian Bustard chick born via AI at Rajasthan's Ramdevra breeding centre",
+      "title": "Gold, silver prices rise 1% but analysts cautious after 15% March drop; here's why",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/first-great-indian-bustard-chick-born-via-ai-at-rajasthans-ramdevra-breeding-centre/articleshow/129892760.cms",
-      "published": "2026-03-30T06:15:10Z",
-      "description": "A significant breakthrough in Great Indian Bustard conservation has been achieved with the birth of the first chick of the year at Jaisalmer's Ramdevra Breeding Centre, utilizing advanced artificial i"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-rise-1-but-analysts-cautious-after-15-march-drop-heres-why/articleshow/129916547.cms",
+      "published": "2026-03-31T05:04:33Z",
+      "description": "Gold and silver prices rebounded in global markets after a sharp March sell-off, supported by a weaker dollar and easing bond yields. However, sentiment remains cautious as inflation risks, elevated e"
     },
     {
-      "title": "Why are Chinese flights to N. Korea resuming now?",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/china/why-are-chinese-flights-to-n-korea-resuming-now/articleshow/129892442.cms",
-      "published": "2026-03-30T06:12:42Z",
-      "description": "Air China resumed direct flights between Beijing and Pyongyang on Monday, the first time since the pandemic. For now, North Korea is only allowing in travellers with official or other special purposes"
+      "title": "Gold Rises on Fed Comments, Report of Trump Weighing War Exit",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/gold-rises-on-fed-comments-report-of-trump-weighing-war-exit",
+      "published": "2026-03-31T04:36:33Z",
+      "description": "Gold extended two days of gains on Federal Reserve comments that eased rate-hike bets and a report that US President Donald Trump is willing to end the Iran war without reopening the Strait of Hormuz."
     },
     {
-      "title": "Did Akbar look South Asian or Mongolian? Internet debates Mughal Emperor's features through historical portraits",
+      "title": "Global Market Today | Brent crude set for record monthly gain; Asia shares falter as Iran war rages",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/etimes/trending/did-akbar-look-south-asian-or-mongolian-internet-debates-mughal-emperors-features-through-historical-portraits/articleshow/129892697.cms",
-      "published": "2026-03-30T06:12:37Z",
-      "description": "Trending News: Abu'l-Fath Jalal-ud-din Muhammad Akbar, arguably India's most famous Mughal emperor, has made an indelible mark on the country's history. His expansio."
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-brent-crude-set-for-record-monthly-gain-asia-shares-falter-as-iran-war-rages/articleshow/129914293.cms",
+      "published": "2026-03-31T01:44:07Z",
+      "description": "Global markets faced a tumultuous month as Middle East tensions fueled fears of rising inflation and slower growth. Oil prices surged to record highs, while Asian shares plunged. Bonds declined signif"
     },
     {
-      "title": "Exclusive: Manisha Koirala opens up about her new look that grabbed eyeballs",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/manisha-koirala-embraces-natural-beauty-with-salt-and-pepper-hair/articleshow/129892419.cms",
-      "published": "2026-03-30T06:08:46Z",
-      "description": "Manisha Koirala discusses her journey towards authenticity, embracing her natural salt-and-pepper hair in an industry focused on perfection. She shares insights on beauty, resilience, and acceptance."
+      "title": "高端纯电，车企苦寻破局「命门」",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3712239685382280",
+      "published": "2026-03-31T00:24:33Z",
+      "description": "30万元以上的高端纯电车，显然成了新能源车市的那块硬骨头。\n 除了有换电加持的蔚来新ES8，大量被车企寄予厚望的高端明星纯电车都难逃疲软命运，典型如理想MEGA和i8，一次起火事故，直接造成销量断崖式下滑。\n 特斯拉Model S/X已经停产，传统高端品牌BBA至今也还未打造出畅销的高端纯电车型。\n 而即便问界已经是中国新能源车豪华车的代表，纯电版问界M8也只在上市初期卖到单月8000多辆，两个月"
     },
     {
-      "title": "Fresh SoPs: Hostels, govt canteens to get LPG refills on priority",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/fresh-sops-hostels-govt-canteens-to-get-lpg-refills-on-priority/articleshow/129892698.cms",
-      "published": "2026-03-30T06:07:53Z",
-      "description": "BENGALURU: In line with Union govt directives to regulate commercial use of LPG amid the West Asia crisis, the state govt Sunday issued a set of stand."
+      "title": "8点1氪丨伊朗议会批准对海峡征收通行费；多品牌电动车将涨价；名创优品回应买盲盒需要会员",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3746104816943617",
+      "published": "2026-03-31T00:17:24Z",
+      "description": "今日热点导览\n 曝iPhoneFold将成史上最大改款，有媒体称其设计革新超iPhone X  \n 泡泡玛特乐园迎来新区域开放，门票将涨价\n 蚂蚁集团安全团队发现OpenClaw多个高危漏洞并协助快速修复\n DeepSeek公告服务出现重大中断，12小时未修复引发热议\n 俞敏洪：东方甄选首家线下门店将于4月在北京中关村开业\n TOP3大新闻\n 伊朗议会批准对海峡征收通行费，需以伊朗本币支付 \n 当"
     },
     {
-      "title": "Indian Army holds Maru Sangram in Jaisalmer, showcases combat readiness",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/jaipur/indian-army-holds-maru-sangram-in-jaisalmer-showcases-combat-readiness/articleshow/129892677.cms",
-      "published": "2026-03-30T06:06:30Z",
-      "description": "The Konark Corps GOC reviewed combat preparedness during the high-intensity military exercise Maru Sangram in Jaisalmer. The drill validated integrated battle strategies and enhanced coordination amon"
+      "title": "Ecuador Loses $100 Million a Year to Fuel Theft, and It's Getting Worse",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Energy/Crude-Oil/Ecuador-Loses-100-Million-a-Year-to-Fuel-Theft-and-Its-Getting-Worse.html",
+      "published": "2026-03-30T19:00:00Z",
+      "description": "A little-recognized consequence of soaring cocaine related lawlessness and bloodshed in the tiny South American country of Ecuador is a massive surge in hydrocarbon theft. This serious problem, long a"
     },
     {
-      "title": "Tyre shop owner’s daughter Shabreen Parveen becomes BSEB Class 10 joint topper, plans NEET next",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/tyre-shop-owners-daughter-shabreen-parveen-becomes-bseb-class-10-joint-topper-plans-neet-next/articleshow/129892090.cms",
-      "published": "2026-03-30T06:06:12Z",
-      "description": "Shabreen Parveen achieved joint top rank in the BSEB Class 10 examination 2026. She scored 98.4 percent marks. Shabreen prepared using school classes and YouTube lectures. She aims to become a doctor "
+      "title": "乱世，为何要“卖”黄金？",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001109306",
+      "published": "2026-03-30T16:00:00Z",
+      "description": "更新于2026年3月31日 07:26\n\n\n\n咋一看题目，读者可能认为是出了错别字了！咱们的古训不是“乱世买黄金吗”？一直以来，大家普遍认为，战争带来的不确定性，都会让大家舍弃股票、债券等大类资产而奋力拥抱被认为是传统避险资产的黄金。然而，这一次投资人依照惯性思维而做出的惯性动作，却让自己左右各挨了一巴掌。下面，我写了个段子来描述这一窘境：\r\n\n国内投资人问：中东战争打了几个星期，该消停了吧；美国"
     },
     {
-      "title": "Gold drops Rs 1,000/10 gms; silver falls 0.5% as Iran-US tensions boost dollar strength: What lies ahead?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-drops-rs-1000/10-gms-silver-falls-0-5-as-iran-us-tensions-boost-dollar-strength-what-lies-ahead/articleshow/129890990.cms",
-      "published": "2026-03-30T03:56:04Z",
-      "description": "Gold and silver prices edged lower on MCX on Monday as a stronger US dollar, driven by escalating Middle East tensions, weighed on precious metals. Gold futures fell 0.68% while silver declined around"
+      "title": "Iran's attacks on aluminum producers are sending 'shockwaves' through the metals market",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/03/30/iran-attacks-aluminum-producers-shockwaves-market-metals.html",
+      "published": "2026-03-30T14:40:19Z",
+      "description": "Aluminum hit prices not seen since 2022 after Iranian attacks on two Middle Eastern producers over the weekend, amid fears of a supply crisis."
     }
   ],
   "tweets": []
