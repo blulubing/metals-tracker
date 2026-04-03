@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-04-02 07:04:10 UTC",
+  "updated_at": "2026-04-03 07:00:38 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4601.32,
+      "price_usd": 4676.49,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 70.69,
+      "price_usd": 73.0,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1893,
+      "price_usd": 1978,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1447.7,
+      "price_usd": 1501.5,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.38,
+      "price_usd": 0.39,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.54,
+      "price_usd": 0.53,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "OneTwoMarkets Expands Multi-Asset Access as Demand Surges From Asian Retail Traders",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/01/3266296/0/en/OneTwoMarkets-Expands-Multi-Asset-Access-as-Demand-Surges-From-Asian-Retail-Traders.html",
-      "published": "2026-04-01T05:47:00Z",
-      "description": "JOHANNESBURG, April 01, 2026 (GLOBE NEWSWIRE) -- OneTwoMarkets has broadened its instrument coverage, giving traders across Asia direct access to forex pairs, commodities and global indices through a "
-    },
-    {
-      "title": "Gold prices rise above Rs 1.51 lakh/10 grams, silver drops around 1% amid hopes of Iran-US war de-escalation",
+      "title": "More missiles or no war? How markets are reading Trump's latest signals",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-above-rs-1-51-lakh/10-grams-silver-drops-around-1-amid-hopes-of-iran-us-war-de-escalation/articleshow/129942678.cms",
-      "published": "2026-04-01T05:40:12Z",
-      "description": "Gold prices edged up while silver declined as the dollar weakened on hopes of an end to the Iran-US-Israel conflict. Both US and Iranian leaders expressed optimism about de-escalation, with Washington"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/more-missiles-or-no-war-how-markets-are-reading-trumps-latest-signals/articleshow/129969754.cms",
+      "published": "2026-04-02T06:41:03Z",
+      "description": "Indian markets plunged Thursday as President Trump's threats of escalating strikes on Iran spooked investors. The Sensex dropped significantly, mirroring a broader selloff across emerging Asian market"
     },
     {
-      "title": "Stock market investors, take note of these 6 key changes that come into effect from April 1",
+      "title": "Ramayana teaser reviews: Ranbir Kapoor's Lord Rama glimpse gets mixed reactions, fans say 'disappointing, slightly better than Adipurush'",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/stock-market-investors-take-note-of-these-6-key-changes-that-come-into-effect-from-april-1/articleshow/129942619.cms",
-      "published": "2026-04-01T05:37:21Z",
-      "description": "From April 1, investors face key regulatory and tax changes including higher STT on derivatives, removal of interest deduction on dividend income, revised buyback taxation, new ETF valuation norms, ti"
+      "url": "https://economictimes.indiatimes.com/news/new-updates/ramayana-teaser-reviews-ranbir-kapoors-lord-rama-glimpse-gets-mixed-reactions-fans-say-disappointing-slightly-better-than-adipurush/articleshow/129968763.cms",
+      "published": "2026-04-02T05:58:56Z",
+      "description": "Ramayana teaser reviews: The teaser of Ramayana movie was unveiled today in which Ranbir Kapoor's portrayal of Lord Rama has taken the internet by storm. Many netizens found the Ramayana teaser disapp"
     },
     {
-      "title": "IG ASIA Drilling Intersects Medium-To High-Grade Cu–Mo Intervals in 6 of 10 Drill Holes at the Uzhnaya Ploshchad Prospect, Pribrezhniy Project, Kazakhstan",
+      "title": "Recyclekaro plans Rs 240 crore fundraise, weighs IPO amid expansion push",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/recyclekaro-plans-rs-240-crore-fundraise-weighs-ipo-amid-expansion-push/articleshow/129967306.cms",
+      "published": "2026-04-02T04:26:53Z",
+      "description": "Recyclekaro plans to raise Rs 240 crore and explore an IPO as it expands e-waste and lithium-ion recycling capacity. The company is scaling operations and moving towards high-purity material recovery "
+    },
+    {
+      "title": "Cerrado Gold Announces Q4 and Annual 2025 Financial Results",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/01/3266294/0/en/IG-ASIA-Drilling-Intersects-Medium-To-High-Grade-Cu-Mo-Intervals-in-6-of-10-Drill-Holes-at-the-Uzhnaya-Ploshchad-Prospect-Pribrezhniy-Project-Kazakhstan.html",
-      "published": "2026-04-01T05:37:00Z",
-      "description": "IG Asia confirms a new Cu-Mo discovery at Uzhnaya Ploshchad within Pribrezhniy's 4.17Mt copper license — 6 of 10 holes hit, led by 1% CuEq over 77m...."
+      "url": "https://www.globenewswire.com/news-release/2026/04/02/3267111/0/en/Cerrado-Gold-Announces-Q4-and-Annual-2025-Financial-Results.html",
+      "published": "2026-04-02T04:26:00Z",
+      "description": "Cerrado Gold Announces Q4 and Annual 2025 Financial Results..."
     },
     {
-      "title": "GlobalVentures365 Enters the Brokerage Space with a Unified Trading and Investment Offering",
+      "title": "抖音生活服务组织架构大调整，中小商家更重要了｜独家",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3748296456143362",
+      "published": "2026-04-02T01:00:00Z",
+      "description": "文｜李小霞\n 编辑｜乔芊 杨轩\n 36氪独家获悉，近期抖音生活服务完成了浦燕子接任后的第二次大的组织架构调整。\n 此次调整根据商户规模重新分为线上部门和线下部门。\n 月GMV5万以上的客户被放到线上部门，分为KA（月GMV10万以上）、自助（月GMV在5-10万）、酒旅三个版块。其中前二者又分别按行业细分为餐饮、到店综合。\n 月GMV5万以下的客户被放到线下部门。线下则按照区域划分为北区、南区、东"
+    },
+    {
+      "title": "8点1氪丨甲骨文凌晨突发邮件裁员3万人；市监局回应张雪机车禁止新手购买；SpaceX据悉秘密提交IPO文件，估值或超过1.75万亿美元",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3748927500387072",
+      "published": "2026-04-02T00:09:25Z",
+      "description": "今日热点导览\n 宇树科技被抽中首发企业现场检查 \n 国家税务总局：2025年个税汇算已超7000万人申请退税 \n 原特斯拉中国区高管孔艳双入职小米 \n 特斯拉正式停产Model S和Model X两款车型 \n 美国纽约市宣布撤销政府设备使用TikTok禁令\n TOP 3大新闻\n 甲骨文凌晨6点突发邮件裁员3万人，约占全球员工总数的18%\n 全球软件巨头甲骨文（Oracle）于当地时间3月31日凌晨"
+    },
+    {
+      "title": "Abaxx Submits Comments to the National Institute of Standards and Technology on AI Agent Identity Standards",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/01/3266291/0/en/GlobalVentures365-Enters-the-Brokerage-Space-with-a-Unified-Trading-and-Investment-Offering.html",
-      "published": "2026-04-01T05:26:00Z",
-      "description": "AARAU, Switzerland , April 01, 2026 (GLOBE NEWSWIRE) -- GlobalVentures365\r\n has officially launched as an online broker, introducing a platform designed to deliver consistent execution, secure account"
+      "url": "https://www.globenewswire.com/news-release/2026/04/01/3267082/0/en/Abaxx-Submits-Comments-to-the-National-Institute-of-Standards-and-Technology-on-AI-Agent-Identity-Standards.html",
+      "published": "2026-04-01T22:51:00Z",
+      "description": "Abaxx submits comments to NIST NCCoE proposed project on AI agent identity standards, focused on auditable, authorized agent actions in financial services..."
     },
     {
-      "title": "Asian stocks jump after Wall Street soars on renewed hopes of Iran war end",
-      "source": "Associated Press",
-      "url": "https://apnews.com/article/stock-markets-war-oil-trump-iran-80a8391c0729872ae2a486526dbc8abd",
-      "published": "2026-04-01T03:11:24Z",
-      "description": "Asian shares are sharply higher after U.S. stocks soared to their best day in almost a year over renewed hopes that the Iran war could soon end. South Korea's Kospi was up 6.4% and Tokyo's Nikkei 225 "
-    },
-    {
-      "title": "宾大00后团队创业做高尔夫AI Agent硬件，获锦秋基金数千万天使轮投资｜硬氪首发",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3746252355535622",
-      "published": "2026-04-01T01:33:24Z",
-      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，运动AI Agent智能硬件品牌PathFinder Ltd.（以下简称“PathFinder”）近日完成数千万元天使轮融资，本轮由锦秋基金独家投资，资金将主要用于产品研发迭代、生产交付落地及早期渠道铺设，为后续众筹上线做好全面筹备。\n PathFinder成立于2024年，聚焦运动领域AI Agent及智能终端的研发，以高尔夫场景为切口，为用户提供适配专业"
-    },
-    {
-      "title": "8点1氪丨Patagonia客服回应收取“地球使用费”；美国佛罗里达州一机场更名为“唐纳德·特朗普国际机场”；清明节有商家推出AI大模型纸扎",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3747503534899976",
-      "published": "2026-04-01T00:01:06Z",
-      "description": "今日热点导览\n 苹果官方称“锁定模式”至今无人攻破 \n 红果回应普通人形象被AI短剧盗脸，涉事角色部分画面已替换 \n 国内航线燃油附加费上涨通知被撤回 \n 达美乐比萨任命Nicola Frampton为CEO \n 美国太空探索技术公司一颗“星链”卫星失联 \n 澳洲联储宣布10月起取消银行卡支付的附加费\n TOP3大新闻\n Patagonia客服回应收取“地球使用费”：属实，计划试行一个月\n 近日，"
-    },
-    {
-      "title": "TSX rises by most in a year on hopes war almost over",
+      "title": "Regenx Announces Non-Brokered Financing for Gross Proceeds of $230,833",
       "source": "Financial Post",
-      "url": "https://financialpost.com/news/tsx-rises-most-year-hopes-war-over",
-      "published": "2026-03-31T21:29:48Z",
-      "description": "The TSX jumped as 2.6 per cent, led by a rally in precious metals producers on signs an end could be in sight to the war in Iran. Read on."
+      "url": "https://financialpost.com/globe-newswire/regenx-announces-non-brokered-financing-for-gross-proceeds-of-230833",
+      "published": "2026-04-01T18:29:11Z",
+      "description": "EDMONTON, Alberta, April 01, 2026 (GLOBE NEWSWIRE) — Regenx Tech Corp., (the “Company” or “Regenx“) (CSE: RGX) (OTCQB: RGXTF) (FSE: YRS WKN: A2DSW3) announces that it has received unsecured and non-br"
     },
     {
-      "title": "Allied Gold Reports Record Q4 Production, Advances Growth Strategy and Completes Key Step Toward Transaction with Zijin Gold",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/allied-gold-reports-record-q4-production-advances-growth-strategy-and-completes-key-step-toward-transaction-with-zijin-gold",
-      "published": "2026-03-31T21:14:11Z",
-      "description": "TORONTO, March 31, 2026 (GLOBE NEWSWIRE) — Allied Gold Corporation (TSX: AAUC) (NYSE: AAUC) (“Allied” or the “Company”) herein provides its audited financial and operational results for the fourth qua"
+      "title": "Bitget Expands Agent Hub Ecosystem Through MuleRun Partnership to Advance Agentic Trading",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/04/01/3266761/0/en/Bitget-Expands-Agent-Hub-Ecosystem-Through-MuleRun-Partnership-to-Advance-Agentic-Trading.html",
+      "published": "2026-04-01T14:00:00Z",
+      "description": "Bitget teams with MuleRun to launch a natural-language AI trading assistant, bringing Agent Hub signals and 19 data tools to users...."
+    },
+    {
+      "title": "Glitter Bug Gold Buyers Announces Expansion into Anaheim Hills Ahead of Grand Opening, Extending Highest Gold Payouts Across Orange County",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/04/01/3266765/0/en/Glitter-Bug-Gold-Buyers-Announces-Expansion-into-Anaheim-Hills-Ahead-of-Grand-Opening-Extending-Highest-Gold-Payouts-Across-Orange-County.html",
+      "published": "2026-04-01T14:00:00Z",
+      "description": "Laguna Hills, CA, April 01, 2026 (GLOBE NEWSWIRE) -- Glitter Bug Gold Buyers, a family-owned precious metals buyer known for offering the highest payouts to customers for over 22 years, has announced "
     }
   ],
   "tweets": []
