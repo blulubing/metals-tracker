@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-04-05 06:57:40 UTC",
+  "updated_at": "2026-04-06 07:21:10 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4676.49,
+      "price_usd": 4649.68,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 73.0,
+      "price_usd": 72.0,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1978,
+      "price_usd": 1974.72,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1501.5,
+      "price_usd": 1507.03,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,6 +76,27 @@
   ],
   "news": [
     {
+      "title": "Senco Gold shines in Q4 with wedding-led business surge",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/companies/senco-gold-shines-in-q4-with-wedding-led-business-surge/article70825834.ece",
+      "published": "2026-04-05T04:53:10Z",
+      "description": "The company achieved impressive standalone revenue growth of 46% year-on-year in Q4, leading to an annual increase of about 35% for FY26, up from 21% in FY25"
+    },
+    {
+      "title": "From myth to masterpiece: Raja Ravi Varma’s legacy shines in landmark auction milestone",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/magazines/panache/from-myth-to-masterpiece-raja-ravi-varmas-legacy-shines-in-landmark-auction-milestone/articleshow/130033356.cms",
+      "published": "2026-04-05T04:18:27Z",
+      "description": "One hundred and twenty years after his passing, Raja Ravi Varma continues to cast his spell on India’s art world with ‘Yashoda and Krishna’ setting a new auction record at ₹167.20 crore, reports Glynd"
+    },
+    {
+      "title": "高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3752260051616512",
+      "published": "2026-04-05T01:10:00Z",
+      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应链协同，并引入顶尖人才以夯实全球化运营基础。\n AWOL Vision成立于2020年，长期专注RGB激光投影与家庭"
+    },
+    {
       "title": "View: Rupee at 100 will be a harsh check on India’s ambitions",
       "source": "The Times of India",
       "url": "https://economictimes.indiatimes.com/news/economy/finance/rupee-at-100-will-be-a-harsh-check-on-indias-ambitions/articleshow/130011662.cms",
@@ -111,20 +132,6 @@
       "description": "VICTORIA, Seychelles, April 03, 2026 (GLOBE NEWSWIRE) — Bitget, the world’s largest Universal Exchange (UEX), today launched the VIP Fast Track Program, a new campaign designed to help users reach hig"
     },
     {
-      "title": "What is gold and silver price prediction for Monday, and will precious metals continue to drop or rise again? Analysts insights, market outlook and what should investors do now",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/what-is-gold-and-silver-price-prediction-for-monday-and-will-precious-metals-continue-to-drop-or-rise-again-analysts-insights-market-outlook-and-what-should-investors-do-now/articleshow/129999639.cms",
-      "published": "2026-04-03T11:24:38Z",
-      "description": "What is gold and silver price prediction for Monday, and will precious metals continue to drop or rise again? Gold and silver prices dropped after the U.S. dollar gained strength and interest rate exp"
-    },
-    {
-      "title": "Silver slumps ₹9,000, gold declines ₹3,500 on weak global trends",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/silver-slumps-9000-gold-declines-3500-on-weak-global-trends/article70819256.ece",
-      "published": "2026-04-03T09:19:55Z",
-      "description": "In the international market, spot silver plummets by $5.49, or 7.32%, to $69.57 per ounce, while gold declines $166.79, or 3.51%, to $4,591.52 per ounce"
-    },
-    {
       "title": "8点1氪丨张雪回应陈光标赠1300万元劳斯莱斯；与辉同行曾带货优思益，销售额超千万；马斯克回应OpenAI股票在二级市场遇冷",
       "source": "36kr.com",
       "url": "https://36kr.com/p/3750345334292999",
@@ -137,13 +144,6 @@
       "url": "https://www.ftchinese.com/story/001109353",
       "published": "2026-04-02T16:00:00Z",
       "description": "张璐诗：在Isaac McHale眼中，厨房是一个压力重重的环境，在这里工作的本质是不断纠错。至于如何看待后厨霸凌事件的发生，这需要分清层次和底线。\r\n\n\r\n\n\r\n\n\n\n\n\n\n\n更新于2026年4月3日 08:12\nFT中文网专栏作家张璐诗 Lucy Cheung\n\r\n\n\n\n英伦好餐厅不少，但以茶配餐的精细料理则极少见。东伦敦的肖尔迪奇市政厅里开有一家The Clove Club餐厅，从2022年"
-    },
-    {
-      "title": "老挝：一场“被遗忘的战争”与绵延不散的伤痕",
-      "source": "Ftchinese.com",
-      "url": "https://www.ftchinese.com/story/001109355",
-      "published": "2026-04-02T16:00:00Z",
-      "description": "崔莹：万象的这个小小访客中心，讲述着一场“仍未结束”的战争：轰炸早已停止，但埋在土地里的炸弹、留在身体上的残缺，以及刻在一代人记忆中的创痛，至今仍在延续。\r\n\n\r\n\n\r\n\n\n\n\n\n\n\n图片：gettyimages\r\n\n\r\n\n\n更新于2026年4月3日 08:09\n崔莹为FT中文网撰稿\n\r\n\n\n\n我从老挝的COPE访客中心（Cooperative Orthotic and Prosthetic En"
     }
   ],
   "tweets": []
