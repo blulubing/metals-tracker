@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-04-06 07:21:10 UTC",
+  "updated_at": "2026-04-07 07:07:12 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4649.68,
+      "price_usd": 4651.72,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 72.0,
+      "price_usd": 72.33,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1974.72,
+      "price_usd": 1968.13,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1507.03,
+      "price_usd": 1488.2,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Senco Gold shines in Q4 with wedding-led business surge",
+      "title": "Senco Gold shares rise 11% on strong Q4 business; demand boost expected from festive, wedding season",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/senco-gold-shares-rise-11-on-strong-q4-business-demand-boost-expected-from-festive-wedding-season/articleshow/130051930.cms",
+      "published": "2026-04-06T05:29:55Z",
+      "description": "Senco Gold shares surged following a strong business update. The company reported significant revenue growth in the fourth quarter and full fiscal year. This performance was fueled by wedding season d"
+    },
+    {
+      "title": "Nearing retirement? How to protect your savings amid market volatility and rising inflation",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/nearing-retirement-how-to-protect-your-savings-amid-market-volatility-and-rising-inflation-11775450489221.html",
+      "published": "2026-04-06T05:26:57Z",
+      "description": "Inching closer to retirement means gradually shifting investments from an aggressive phase of higher equity exposure to a conservative yet wealth preserving phase and providing enough stability to the"
+    },
+    {
+      "title": "Gold, Silver Rate Today Live Updates: How much precious metals cost today and where are prices headed this week?",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-silver-cost-per-kg-mcx-comex-etf-precious-metal-gold-prediction-city-wise-cost-latest-news/liveblog/130051849.cms",
+      "published": "2026-04-06T05:26:29Z",
+      "description": "Precious metals are expected to move cautiously this week, with gold and silver likely to remain range-bound but showing a slight upward bias, accord"
+    },
+    {
+      "title": "Keep buying gold on dips; 4 sectors to put your money now: Jitendra Gohil",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/keep-buying-gold-on-dips-4-sectors-to-put-your-money-now-jitendra-gohil/articleshow/130051305.cms",
+      "published": "2026-04-06T05:02:43Z",
+      "description": "Amidst geopolitical fears, India's market faces a 'buy the dip or wait' dilemma. Expert Jitendra Gohil highlights India's underperformance due to its limited role in global AI and defence booms. He ad"
+    },
+    {
+      "title": "'Is development of current govt in Keralam, Puducherry visible to anyone?': Karnataka's DK Shivkumar",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/is-development-of-current-govt-in-keralam-puducherry-visible-to-anyone-karnatakas-dk-shivkumar/articleshow/130050748.cms",
+      "published": "2026-04-06T04:13:55Z",
+      "description": "Karnataka Deputy Chief Minister DK Shivakumar asserted that the Congress-led United Democratic Front is the sole solution for unemployment and price rise in Kerala and Puducherry. He urged South India"
+    },
+    {
+      "title": "众筹300万美元的Agent盒子，想彻底解决你的算力焦虑",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3754812277998083",
+      "published": "2026-04-06T03:53:43Z",
+      "description": "作者 | 张子怡\n 编辑 | 袁斯来\n AI硬件赛道，似乎一夜之间跨入新世界。\n 上一个月，投资人还在打听硬件大厂高P创始人，这一个月，他们已经开始寻觅“下一个Mac mini”。\n 狂欢的起点，来自开源智能体框架OpenClaw（圈子里称为：龙虾）。从抢购大内存的Mac mini到各类软硬大厂的联名主机，FOMO恐惧症席卷着所有人。承载AI的硬件，如今成了不可错失的入口。\n 此前更多在极客圈子里"
+    },
+    {
+      "title": "Gold below Rs 1.5 lakh, silver down Rs 2,000 on dollar strength, Trump’s power plant threat to Iran. What should investors do?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-below-rs-1-5-lakh-silver-down-rs-2000-on-dollar-strength-trumps-power-plant-threat-to-iran-what-should-investors-do/articleshow/130050503.cms",
+      "published": "2026-04-06T03:48:17Z",
+      "description": "Gold and silver prices dipped on Monday amid a stronger dollar and escalating Middle East tensions, dampening hopes for U.S. Federal Reserve rate cuts.  Traders are now largely discounting any rate re"
+    },
+    {
+      "title": "Gold, silver may remain range-bound on West Asia tensions, US data in focus: Analysts",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/companies/senco-gold-shines-in-q4-with-wedding-led-business-surge/article70825834.ece",
-      "published": "2026-04-05T04:53:10Z",
-      "description": "The company achieved impressive standalone revenue growth of 46% year-on-year in Q4, leading to an annual increase of about 35% for FY26, up from 21% in FY25"
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-may-remain-range-bound-on-west-asia-tensions-us-data-in-focus-analysts/article70828779.ece",
+      "published": "2026-04-06T03:25:18Z",
+      "description": "In the holiday-shortened past week, gold futures for the June contract increased ₹2,425, or 1.65 per cent, while silver for the May delivery appreciated ₹4,541, or 2 per cent on the Multi Commodity Ex"
     },
     {
-      "title": "From myth to masterpiece: Raja Ravi Varma’s legacy shines in landmark auction milestone",
+      "title": "Gold Silver Rate Today Live Updates: Gold loses shine as dollar strengthens; silver declines",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/markets/stocks/live-blog/gold-rate-silver-price-today-live-updates-mcx-gold-18k-22k-24k-rate-iran-isreal-us-war-latest-news/liveblog/130050211.cms",
+      "published": "2026-04-06T03:22:51Z",
+      "description": "Gold Silver Rate Today Live Updates: Gold prices dropped as strong U.S. jobs data and a firmer dollar reduced hopes of rate cuts, while rising oil prices amid Iran tensions fuelled inflation concerns."
+    },
+    {
+      "title": "Cancer drug makers seek 50% price hike as platinum surge hits production viability",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/from-myth-to-masterpiece-raja-ravi-varmas-legacy-shines-in-landmark-auction-milestone/articleshow/130033356.cms",
-      "published": "2026-04-05T04:18:27Z",
-      "description": "One hundred and twenty years after his passing, Raja Ravi Varma continues to cast his spell on India’s art world with ‘Yashoda and Krishna’ setting a new auction record at ₹167.20 crore, reports Glynd"
-    },
-    {
-      "title": "高端智能投影品牌AWOL Vision获近亿元B轮融资，新品拿下近2000万美金众筹｜硬氪首发",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3752260051616512",
-      "published": "2026-04-05T01:10:00Z",
-      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，高端智能投影品牌AWOL Vision近日完成近亿元B轮融资，投资方包括天堂硅谷、会畅科技及金鹏佳等机构。资金将主要用于核心技术研发，持续迭代超短焦与长焦激光显示能力，并推进“家庭AI智能娱乐平台”生态构建；同时加快全球渠道与品牌拓展，强化供应链协同，并引入顶尖人才以夯实全球化运营基础。\n AWOL Vision成立于2020年，长期专注RGB激光投影与家庭"
-    },
-    {
-      "title": "View: Rupee at 100 will be a harsh check on India’s ambitions",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/finance/rupee-at-100-will-be-a-harsh-check-on-indias-ambitions/articleshow/130011662.cms",
-      "published": "2026-04-04T01:54:37Z",
-      "description": "Rupee fall: In a serious twist, India's currency is on a steep decline, echoing previous economic upheavals. A mix of global influences and local policies has resulted in a weakened rupee, affecting e"
-    },
-    {
-      "title": "中金：黄金投资需求和价格或均存向上修复空间",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3751806625628929",
-      "published": "2026-04-04T01:04:48Z",
-      "description": "36氪获悉，中金公司研报认为，美伊冲突导致油价大涨，“胀”的风险先入为主，市场预期美联储降息路径生变，为在去年增持较多的黄金ETF带来抛售压力，同时流动性冲击也通过期货期权市场为短期回调推波助澜。当前中东地缘局势或正行至关键窗口期，油价面临上下抉择，黄金市场定价重心或将转向评估供应冲击对“滞”的影响，已经初步定价的加息预期或有待修正。"
-    },
-    {
-      "title": "The Man Who Predicted Gold Would Reach $10,000 Says the AI Crash Will Send It Even Higher — and the Biggest Move Is Still Ahead",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/03/3268158/0/en/The-Man-Who-Predicted-Gold-Would-Reach-10-000-Says-the-AI-Crash-Will-Send-It-Even-Higher-and-the-Biggest-Move-Is-Still-Ahead.html",
-      "published": "2026-04-03T23:04:00Z",
-      "description": "Jim Rickards Has Released a New Video Presentation Arguing That the Coming AI Meltdown Will Supercharge the Gold Bull Market He Predicted Years Before Wall Street Believed It Jim Rickards Has Released"
-    },
-    {
-      "title": "Here's how silver's price has changed in 2026 (and what investors should consider now)",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/how-silvers-price-changed-2026/",
-      "published": "2026-04-03T15:42:03Z",
-      "description": "The price of silver saw major swings in the first quarter of 2026. Here's everything investors need to know now."
-    },
-    {
-      "title": "Bitget Launches VIP Fast Track Program Across Futures, Spot and Asset Holdings",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/bitget-launches-vip-fast-track-program-across-futures-spot-and-asset-holdings",
-      "published": "2026-04-03T13:04:40Z",
-      "description": "VICTORIA, Seychelles, April 03, 2026 (GLOBE NEWSWIRE) — Bitget, the world’s largest Universal Exchange (UEX), today launched the VIP Fast Track Program, a new campaign designed to help users reach hig"
-    },
-    {
-      "title": "8点1氪丨张雪回应陈光标赠1300万元劳斯莱斯；与辉同行曾带货优思益，销售额超千万；马斯克回应OpenAI股票在二级市场遇冷",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3750345334292999",
-      "published": "2026-04-03T00:12:22Z",
-      "description": "今日热点导览\n 抖音生活服务组织架构大调整\n 杭州市场监管部门对索象等公司立案调查\n 伊朗：霍尔木兹海峡对敌人将永远关闭\n 飞天茅台原箱批价涨至1730元/瓶\n 礼来口服GLP-1药物在美获批用于减肥\n TOP3大新闻\n 张雪回应陈光标赠1300万元劳斯莱斯\n 4月1日，陈光标在社交平台发布视频称，将赠予张雪机车创始人张雪一台价值1300万元的劳斯莱斯。4月2日凌晨，张雪回应称：“那我收了，顺便招"
-    },
-    {
-      "title": "一位英国名厨的自白：关于风味的理想与高压",
-      "source": "Ftchinese.com",
-      "url": "https://www.ftchinese.com/story/001109353",
-      "published": "2026-04-02T16:00:00Z",
-      "description": "张璐诗：在Isaac McHale眼中，厨房是一个压力重重的环境，在这里工作的本质是不断纠错。至于如何看待后厨霸凌事件的发生，这需要分清层次和底线。\r\n\n\r\n\n\r\n\n\n\n\n\n\n\n更新于2026年4月3日 08:12\nFT中文网专栏作家张璐诗 Lucy Cheung\n\r\n\n\n\n英伦好餐厅不少，但以茶配餐的精细料理则极少见。东伦敦的肖尔迪奇市政厅里开有一家The Clove Club餐厅，从2022年"
+      "url": "https://economictimes.indiatimes.com/industry/healthcare/biotech/pharmaceuticals/cancer-drug-makers-seek-50-price-hike-as-platinum-surge-hits-production-viability/articleshow/130046021.cms",
+      "published": "2026-04-05T19:27:38Z",
+      "description": "Local drug manufacturers are struggling to produce essential cancer medicines like carboplatin and cisplatin due to a significant surge in platinum prices. They are urging the National Pharmaceutical "
     }
   ],
   "tweets": []
