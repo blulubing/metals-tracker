@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-04-09 07:13:38 UTC",
+  "updated_at": "2026-04-10 07:18:30 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4727.66,
+      "price_usd": 4750.59,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 74.25,
+      "price_usd": 75.5,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2012.56,
+      "price_usd": 2054.81,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1561.52,
+      "price_usd": 1548.5,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.54,
+      "price_usd": 0.53,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "RBI holds repo rate, warns of impact of West Asia conflict on economy",
+      "title": "Big update in gold ETFs: What Sebi’s new rule means for your investment",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/wealth/invest/big-update-in-gold-etfs-what-sebis-new-rule-means-for-your-investment/gold-etfs-in-india-big-change-you-need-to-know/slideshow/130133245.cms",
+      "published": "2026-04-09T07:16:57Z",
+      "description": "Gold ETFs in India are seeing a subtle yet significant shift. Traditionally, these funds invest almost entirely in physical gold. Now, with Sebi’s approval, they can also invest in gold futures—financ"
+    },
+    {
+      "title": "Avoid the Yogi Berra trap: Don’t make predictions about the future in a topsy-turvy world",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/online-views/yogi-berra-trap-prediction-market-jp-morgan-jamie-dimon-ceasefire-iran-gulf-war-private-credit-dollar-zhou-enlai-11775675891210.html",
+      "published": "2026-04-09T04:36:37Z",
+      "description": "Amid wars of choice, dicey ceasefires, wild currency swings and looming risks in private credit, economic forecasting looks like a fool’s errand. It’s time to take a step back and take a long view. Re"
+    },
+    {
+      "title": "Silver drops Rs 5,000/kg, gold slides marginally as rising crude prices and rate hike fears dent mood. What should you do?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-holds-repo-rate-warns-of-impact-of-west-asia-conflict-on-economy/articleshow/130105728.cms",
-      "published": "2026-04-08T07:11:51Z",
-      "description": "The Reserve Bank of India maintained its key interest rate and neutral stance, citing geopolitical risks from the West Asian conflict. While growth forecasts for FY27 were lowered and inflation projec"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-drops-rs-5000/kg-gold-slides-marginally-as-rising-crude-prices-and-rate-hike-fears-dent-mood-what-should-you-do/articleshow/130129123.cms",
+      "published": "2026-04-09T04:08:54Z",
+      "description": "Gold and silver prices fell on the MCX on Thursday. This followed minutes from the US Federal Reserve's meeting indicating a preference for further rate hikes. Investors also watched developments in t"
     },
     {
-      "title": "A股三大指数集体收涨，全市场超5100股飘红",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3757829787632393",
-      "published": "2026-04-08T07:02:08Z",
-      "description": "36氪获悉，A股三大指数集体收涨，沪指涨2.69%逼近4000点，深成指涨4.79%，创业板指涨5.91%；AI算力、半导体集体爆发，香农芯创、剑桥科技、东山精密涨停，中际旭创涨超10%；贵金属走强，湖南黄金、四川黄金、西部黄金；油气股调整，贝肯能源、中曼石油跌停；全市场超5100股飘红。"
-    },
-    {
-      "title": "硅业分会：本周多晶硅市场延续弱势，价格继续承压下行",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3757815739073282",
-      "published": "2026-04-08T06:47:50Z",
-      "description": "36氪获悉，据中国有色金属工业协会硅业分会消息，据安泰科统计，本周多晶硅n型复投料成交价格区间为3.5—3.7万元/吨，成交均价为3.60万元/吨，环比下滑1.37%；n型颗粒硅成交价格区间为3.4—3.6万元/吨，成交均价为3.50万元/吨，环比下滑4.11%。本周多晶硅市场延续弱势，价格继续承压下行，尽管跌速较前期略有收窄，但市场整体下行走势尚未扭转。本周市场博弈加剧，下游压价心态强烈，而供应"
-    },
-    {
-      "title": "Titan shares jump 6% on strong jewellery growth in Q4FY26",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/titan-shares-jump-6-on-strong-jewellery-growth-in-q4fy26/article70837303.ece",
-      "published": "2026-04-08T06:38:50Z",
-      "description": "Shares of Titan Company rallied more than 6 per cent on Wednesday, hitting a fresh record high of ₹4,495, after the company reported a robust business update for the fourth quarter of FY26, driven by "
-    },
-    {
-      "title": "Crude oil, remittances & exports: RBI spells out where the Iran war bites India",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-mpc-meeting-2026-war-impact-measures-strategy-india-inflation-economy-west-asia-oil-exports-remittances/articleshow/130102207.cms",
-      "published": "2026-04-08T06:16:54Z",
-      "description": "The Reserve Bank of India emphasises the ramifications of the West Asia conflict on the nation's economy. Fluctuating energy prices, uncertainties in trade, and market volatility present emerging risk"
-    },
-    {
-      "title": "Sensex surges 2,550 points, Nifty crosses 23,800 as US-Iran ceasefire sparks risk-on rally",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-surges-2550-points-nifty-crosses-23800-as-us-iran-ceasefire-sparks-risk-on-rally/article70836989.ece",
-      "published": "2026-04-08T04:04:05Z",
-      "description": "Sensex jumps 2,550 points and Nifty crosses 23,800 as US-Iran ceasefire triggers a significant market rally."
-    },
-    {
-      "title": "Silver rockets Rs 13,500/kg, gold gains Rs 3,700/10 gms as Iran war ceasefire lifts inflation worries. Right time to buy?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-rockets-rs-13500/kg-gold-gains-rs-3700/10-gms-as-iran-war-ceasefire-lifts-inflation-worries-right-time-to-buy/articleshow/130101632.cms",
-      "published": "2026-04-08T03:49:03Z",
-      "description": "Gold and silver prices surged on Wednesday, mirroring global gains as U.S. President Trump's ceasefire with Iran eased inflation fears. MCX silver futures jumped 6%, while gold futures rose 2.4%. Inte"
-    },
-    {
-      "title": "Drilling establishes continuity of high-grade core, bolstering scope for strong early cashflow",
+      "title": "MegaWatt Announces Shares for Debt Settlement",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/drilling-establishes-continuity-of-high-grade-core-bolstering-scope-for-strong-early-cashflow",
-      "published": "2026-04-08T00:00:10Z",
-      "description": "Green Bay Copper-Gold Project, Canada Latest assays include 70.8m @ 4.0% CuEq including 19.2m @ 7.5% CuEq ; These exceptional results will help underpin a further increase to M&I Resource estimate and"
+      "url": "https://financialpost.com/globe-newswire/megawatt-announces-shares-for-debt-settlement",
+      "published": "2026-04-09T02:53:14Z",
+      "description": "– NOT FOR DISSEMINATION IN THE UNITED STATES OR THROUGH U.S. NEWSWIRE SERVICES – Vancouver, British Columbia, April 08, 2026 (GLOBE NEWSWIRE) — MegaWatt Lithium and Battery Metals Corp. (CSE:MEGA) (FS"
     },
     {
-      "title": "8点1氪丨马斯克在对OpenAI的诉讼中寻求罢免奥特曼职位；宁德时代聘请紫金矿业创始人陈景河；产业链人士：苹果首款折叠屏手机项目正常推进，产品下半年发布",
+      "title": "对话前阿里高管、天猫设计家CEO：这些年烧掉千亿，家装行业还能怎么做？",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3757404054930182",
-      "published": "2026-04-07T23:53:58Z",
-      "description": "今日热点导览\n <ul>\n <li>海康威视回应辟谣“监控系统出现漏洞，300多人被带走”</li>\n <li>郭艾伦否认被骗千万</li>\n <li>日本餐饮巨头食其家创始人心梗去世</li>\n <li>产业链人士：苹果首款折叠屏手机项目正常推进</li>\n <li>宇树科技移动机器人新专利获授权</li>\n </ul>\n TOP 3大新闻\n 嫣然天使儿童医院发文感谢陈光标捐赠1000万\n 4月"
+      "url": "https://36kr.com/p/3758979573121538",
+      "published": "2026-04-09T02:32:44Z",
+      "description": "文丨彭倩\n 编辑丨乔芊\n “苦大仇深”是马学军对自己的形容。\n 他曾在传统行业和互联网创业十几年，任职阿里时期花名\"郭大路\"，操盘的都是实体行业互联网化的项目，从天猫超市、天猫医药、天猫家装、天猫预售、喵鲜生到喵街，无一例外。这些从0到1的创新型业务，都不是单靠淘宝流量能长出来的。\n 搞家装对他而言更是一场迟迟未决出胜负的赌局。2010年，马学军就在天猫掌管家装业务——从北京3万多方的“天猫爱蜂巢"
     },
     {
-      "title": "Eldorado Gold Reports Voting Results from Special Meeting of Shareholders",
+      "title": "Paloma Acquisition Corp I Announces the Separate Trading of Its Class A Ordinary Shares and Warrants, Commencing on April 13, 2026",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/07/3269568/0/en/Eldorado-Gold-Reports-Voting-Results-from-Special-Meeting-of-Shareholders.html",
-      "published": "2026-04-07T18:39:00Z",
-      "description": "Strong Shareholder Support for Transaction with Foran, with Over 84% Approval Strong Shareholder Support for Transaction with Foran, with Over 84% Approval"
+      "url": "https://www.globenewswire.com/news-release/2026/04/09/3270621/0/en/Paloma-Acquisition-Corp-I-Announces-the-Separate-Trading-of-Its-Class-A-Ordinary-Shares-and-Warrants-Commencing-on-April-13-2026.html",
+      "published": "2026-04-09T00:44:00Z",
+      "description": "NEW YORK, April 08, 2026 (GLOBE NEWSWIRE) -- Paloma Acquisition Corp I (Nasdaq: PALOU) (the “Company\r\n”) today announced that, commencing on April 13, 2026, holders of the units (the “Units\r\n”) sold i"
+    },
+    {
+      "title": "8点1氪丨张雪机车LOGO被指抄袭；水贝商户称白银销量暴跌90%；GoPro将全球裁员23%",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3758836635730432",
+      "published": "2026-04-09T00:10:15Z",
+      "description": "今日热点导览\n 国资委成立境外国资工作局\n 李飞飞出任阿里云CTO\n B站“按暂停弹出广告”功能将于4月10日上线\n 多款印度原料药被暂停进口\n 德勤：一季度香港新股集资1099亿港元，全球居首\n TOP3大新闻\n 张雪机车LOGO被指抄袭，设计公司回应\n 4月8日，有网友在社交平台上指出，张雪机车的LOGO涉嫌抄袭，与ZETA、中乐国际等多家公司LOGO极为相似，“几何造型、线条走向都很像”。新"
+    },
+    {
+      "title": "Fortune Minerals Announces Process Waste Disposal Agreement With SECURE for Planned Alberta Refinery",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/fortune-minerals-announces-process-waste-disposal-agreement-with-secure-for-planned-alberta-refinery",
+      "published": "2026-04-08T16:14:47Z",
+      "description": "Backstop agreement is evaluating injection well site options, pumping and piping infrastructure, preliminary engineering and cost estimates for liquid and solid waste disposal LONDON, Ontario — Fortun"
+    },
+    {
+      "title": "Critical Minerals Race Heats Up as Antimony Demand Accelerates Worldwide",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/04/08/3270239/0/en/Critical-Minerals-Race-Heats-Up-as-Antimony-Demand-Accelerates-Worldwide.html",
+      "published": "2026-04-08T13:32:00Z",
+      "description": "Market projections point to multi-billion-dollar growth amid supply constraints and geopolitical pressure Market projections point to multi-billion-dollar growth amid supply constraints and geopolitic"
+    },
+    {
+      "title": "DPM Metals Announces First Quarter 2026 Preliminary Production Results; Ramp-up of Vareš Proceeding Well",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/04/08/3270021/0/en/DPM-Metals-Announces-First-Quarter-2026-Preliminary-Production-Results-Ramp-up-of-Vare%C5%A1-Proceeding-Well.html",
+      "published": "2026-04-08T11:51:00Z",
+      "description": "TORONTO, April 08, 2026 (GLOBE NEWSWIRE) -- DPM Metals Inc. (TSX: DPM, ASX: DPM) (ARBN: 689370894) (“DPM” or “the Company”) is pleased to announce preliminary production results for the quarter ended "
     }
   ],
   "tweets": []
