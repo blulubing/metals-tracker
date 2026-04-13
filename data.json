@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-04-12 07:06:04 UTC",
+  "updated_at": "2026-04-13 07:52:04 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4749.44,
+      "price_usd": 4738.91,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 75.93,
+      "price_usd": 74.82,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2045.96,
+      "price_usd": 2053.75,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1521.28,
+      "price_usd": 1537.13,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,18 +76,60 @@
   ],
   "news": [
     {
-      "title": "MFs gain during market pain: Net flows zip 56% in march",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/mf/mf-news/mfs-gain-during-market-pain-net-flows-zip-56-in-march/articleshow/130184231.cms",
-      "published": "2026-04-11T04:14:11Z",
-      "description": "In March, equity mutual fund inflows soared to their highest level in eight months, showcasing a resilient commitment from domestic investors even amid market turbulence. Their increased investments p"
+      "title": "Gold surges as US–Iran ceasefire weakens US dollar and fuels safe haven demand",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-surges-as-usiran-ceasefire-weakens-us-dollar-and-fuels-safe-haven-demand/articleshow/130202696.cms",
+      "published": "2026-04-12T04:55:21Z",
+      "description": "Gold prices surged as US-Iran ceasefire talks weakened the dollar and heightened safe-haven demand. Ongoing geopolitical uncertainty, central bank buying, and inflation concerns support bullish sentim"
     },
     {
-      "title": "Sameera Reddy reveals why she splurged Rs 4 lakh on luxury bags: ‘I bought them so people would think I….’",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/sameera-reddy-reveals-why-she-splurged-rs-4-lakh-on-luxury-bags-i-bought-them-so-people-would-think-i-/articleshow/130184140.cms",
-      "published": "2026-04-11T04:01:42Z",
-      "description": "Reflecting on her career peak, Sameera Reddy revealed spending lakhs on designer items like a Chanel jacket and luxury handbags to maintain an industry image. She now regrets these impulsive purchases"
+      "title": "The new gold rush: Why investors are moving from jewellery to digital",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/the-new-gold-rush-why-investors-are-moving-from-jewellery-to-digital/article70852015.ece",
+      "published": "2026-04-12T03:24:51Z",
+      "description": "Discover why investors are favoring digital gold over traditional jewelry, driven by cost-efficiency, accessibility, and security."
+    },
+    {
+      "title": "Why gold has not played its safe-haven role amid West Asia war",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-west-asia-war-gold-etf-us-fed-rate-cuts-treasury-yields-crude-oil-prices-inflation-dollar-11775831305545.html",
+      "published": "2026-04-12T01:30:12Z",
+      "description": "Gold was expected to thrive on war and uncertainty in 2026. Instead, rising oil, higher yields and a stronger dollar knocked it off course. Here’s why the hedge faltered — and what lies ahead."
+    },
+    {
+      "title": "Safe Money Report Claims Evaluated: Health Bomb Analysis by Weiss Ratings Examines Healthcare Cost Pressures, Defensive Investment Strategies, and Economic Risk Factors for 2026",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/04/11/3272122/0/en/Safe-Money-Report-Claims-Evaluated-Health-Bomb-Analysis-by-Weiss-Ratings-Examines-Healthcare-Cost-Pressures-Defensive-Investment-Strategies-and-Economic-Risk-Factors-for-2026.html",
+      "published": "2026-04-11T19:54:00Z",
+      "description": "Weiss Ratings' Bomb in the Basement thesis, the Financial Bomb Shelter bundle & the Safe Money Report subscription framework examined for investors in 2026"
+    },
+    {
+      "title": "Wealth Megatrends Under Investigation: Gold's Hidden 5x Paradox — Weiss Ratings' 2026 Report Identifies End of Nine-Year Silver Mining Suppression as Precious Metals Cycle Enters a New Phase",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/04/11/3272121/0/en/Wealth-Megatrends-Under-Investigation-Gold-s-Hidden-5x-Paradox-Weiss-Ratings-2026-Report-Identifies-End-of-Nine-Year-Silver-Mining-Suppression-as-Precious-Metals-Cycle-Enters-a-New.html",
+      "published": "2026-04-11T19:13:00Z",
+      "description": "Weiss Ratings publishes the 2026 Wealth Megatrends Golden Paradox report as Sean Brodrick identifies Silver Cross signal in current precious metals markets"
+    },
+    {
+      "title": "Wealth Megatrends Claims Evaluated: Latest Report Highlights Shifting Gold Market Conditions, $6,900 Price Outlook, and Mining Stock Trends Drawing Increased Attention in 2026",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/04/11/3272118/0/en/Wealth-Megatrends-Claims-Evaluated-Latest-Report-Highlights-Shifting-Gold-Market-Conditions-6-900-Price-Outlook-and-Mining-Stock-Trends-Drawing-Increased-Attention-in-2026.html",
+      "published": "2026-04-11T18:43:00Z",
+      "description": "Sean Brodrick's gold cycle thesis, $6,900 price outlook, mining stock leverage analysis, and Wealth Megatrends subscription terms summarized for investors..."
+    },
+    {
+      "title": "Bullion Cues: Gold and silver futures face barrier",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-gold-and-silver-futures-face-barrier/article70851061.ece",
+      "published": "2026-04-11T15:11:10Z",
+      "description": "Gold and silver futures face resistance; traders with high risk can consider short positions amid fluctuating market sentiment."
+    },
+    {
+      "title": "知名AI创业公司Yupp将停止服务，只存活了22个月",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3762088319484419",
+      "published": "2026-04-11T07:20:09Z",
+      "description": "作者/吴琼\n 报道/投资界PEdaily\n 唏嘘一幕。\n 近日，知名AI创业公司Yupp宣布：将停止服务，于4月15日正式关闭。要知道，这距离Yupp产品上线才不到一年时间。\n 曾经，Yupp的故事颇具前景：瞄准AI模型评测赛道——通过免费模型服务吸引用户评测，再将测评数据卖给模型厂商。犹记得2024年，公司拿下3300万美元（约合2.2亿元）的豪华种子轮，身后聚集a16z合伙人、Google首席"
     },
     {
       "title": "雷军投的\"红娘\"要去IPO了",
@@ -102,48 +144,6 @@
       "url": "https://36kr.com/p/3761718611624707",
       "published": "2026-04-11T01:02:01Z",
       "description": "今日热点导览\n <ul>\n <li>香港最严控烟令来了，携带电子烟上街就罚3000港元，游客也不会豁免</li>\n <li>小米食堂推出小米冰激凌</li>\n <li>微信3月更新9项功能，微信、企微支持连接自己的龙虾</li>\n <li>SpaceX去年因AI投入亏损近50亿美元</li>\n <li>保时捷在华销量再降20%，较三年前缩水6成</li>\n <li>《OpenClaw类智能体部署风"
-    },
-    {
-      "title": "Brixton Metals Announces Closing of Non-Brokered Private Placement for Gross Proceeds of $4 Million",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/brixton-metals-announces-closing-of-non-brokered-private-placement-for-gross-proceeds-of-4-million",
-      "published": "2026-04-10T21:59:56Z",
-      "description": "Not for distribution to United States Newswire Services or for dissemination in the United States VANCOUVER, British Columbia, April 10, 2026 (GLOBE NEWSWIRE) — Brixton Metals Corporation (TSX- V: BBB"
-    },
-    {
-      "title": "Skull Ridge Gold Commences Trading on the CSE Under Symbol “SKUL” and Advances Flagship Skull Island Project",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/10/3271992/0/en/Skull-Ridge-Gold-Commences-Trading-on-the-CSE-Under-Symbol-SKUL-and-Advances-Flagship-Skull-Island-Project.html",
-      "published": "2026-04-10T18:35:00Z",
-      "description": "VANCOUVER, British Columbia, April 10, 2026 (GLOBE NEWSWIRE) -- Skull Ridge Gold Corp\r\n.\r\n (CSE: SKUL) (“Skull Ridge” or the “Company”), formerly Carmanah Minerals Corp.\r\n, is pleased to announce that"
-    },
-    {
-      "title": "Gold price down today while silver rising: what’s shaping gold vs silver trend today - Key reasons behind divergence, and is this the best buying opportunity?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-down-today-while-silver-rising-whats-shaping-gold-vs-silver-trend-today-key-reasons-behind-divergence-and-is-this-the-best-buying-opportunity/articleshow/130173884.cms",
-      "published": "2026-04-10T15:31:15Z",
-      "description": "Gold price down today while silver rising is the biggest market signal right now. Gold slipped below $4,800 and lost momentum after a strong rally. Silver, however, stayed firm near $75, showing resil"
-    },
-    {
-      "title": "Inflation just spiked. Here are 3 reasons why a gold investment makes sense right now.",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/inflation-spiked-gold-investing-april-2026/",
-      "published": "2026-04-10T14:45:12Z",
-      "description": "Inflation just hit a nearly two-year high. That could make gold investing one of the smartest moves to make now."
-    },
-    {
-      "title": "Record Gold, Shrinking Supply: Funded Developers at the Threshold",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/record-gold-shrinking-supply-funded-developers-at-the-threshold",
-      "published": "2026-04-10T14:31:45Z",
-      "description": "Issued on behalf of Lake Victoria Gold Ltd. VANCOUVER, British Columbia, April 10, 2026 (GLOBE NEWSWIRE) — USANewsGroup.com News Commentary — Central banks bought gold again in early 2026, and they sh"
-    },
-    {
-      "title": "Skeena Gold & Silver Completes US$750 Million Senior Secured Notes Offering & Optimizes Capital Structure",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/skeena-gold-silver-completes-us750-million-senior-secured-notes-offering-optimizes-capital-structure",
-      "published": "2026-04-10T14:06:18Z",
-      "description": "VANCOUVER, British Columbia, April 10, 2026 (GLOBE NEWSWIRE) — Skeena Resources Limited (TSX: SKE, NYSE: SKE) (“Skeena Gold & Silver”, “Skeena” or the “Company”) announces that it has completed its pr"
     }
   ],
   "tweets": []
