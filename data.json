@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-04-17 07:23:20 UTC",
+  "updated_at": "2026-04-18 06:59:34 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4787.31,
+      "price_usd": 4829.31,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 78.71,
+      "price_usd": 80.78,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2079.7,
+      "price_usd": 2100.6,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1546.11,
+      "price_usd": 1558,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.57,
+      "price_usd": 0.56,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.57,
+      "price_usd": 0.58,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Skull Ridge Announces Private Placement-Revised",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/skull-ridge-announces-private-placement-revised",
-      "published": "2026-04-16T04:48:59Z",
-      "description": "VANCOUVER, British Columbia, April 16, 2026 (GLOBE NEWSWIRE) — Skull Ridge Gold Corp. (CSE: SKUL) (“Skull Ridge” or the “Company”), further to its news release dated April 10, 2026, announces that it "
+      "title": "Jefferies says gold enters consolidation phase after retail-driven frenzy buying this year",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/jefferies-says-gold-enters-consolidation-phase-after-retail-driven-frenzy-buying-this-year/article70872505.ece",
+      "published": "2026-04-17T06:27:45Z",
+      "description": "The report noted that the earlier rally in gold demand, particularly from retail investors, has started to moderate, indicating a stabilisation in prices after a period of heightened activity"
     },
     {
-      "title": "Silver rises Rs 4,000, gold up Rs 800 on Iran peace talk hopes, soft dollar spurs demand. Should you buy?",
+      "title": "A golden opening awaits Indians this Akshaya Tritiya in the middle of global gloom",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-rises-rs-4000-gold-up-rs-800-on-iran-peace-talk-hopes-soft-dollar-spurs-demand-should-you-buy/articleshow/130297825.cms",
-      "published": "2026-04-16T04:42:11Z",
-      "description": "Gold and silver prices surged on the MCX as hopes for U.S.-Iran negotiations grew, potentially easing Middle East supply concerns. The weakening U.S. dollar further supported dollar-denominated commod"
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/akshaya-tritiya-2026-gold-prices-india-senco-kalyan-jewellers-titan-company-offers-gold-rate-today-auspicious-time-gold-buying-tips-india/articleshow/130323866.cms",
+      "published": "2026-04-17T06:19:44Z",
+      "description": "Gold demand in India is expected to rise ahead of Akshaya Tritiya as recent price corrections and easing global tensions improve buying sentiment. Retailers report early bookings and interest in light"
     },
     {
-      "title": "要做电商Agent OS，前钉钉最年轻副总裁创立的「攀峰智能」再次完成数千万天使轮融资",
+      "title": "Jefferies says Gold enters consolidation phase after retail-driven frenzy buying this year",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/jefferies-says-gold-enters-consolidation-phase-after-retail-driven-frenzy-buying-this-year/articleshow/130324359.cms",
+      "published": "2026-04-17T06:01:48Z",
+      "description": "Global investment firm Jefferies in its latest report said that gold has entered a consolidation phase following a strong retail-driven buying surge seen late last year and early this year across key "
+    },
+    {
+      "title": "Gold ETFs deliver up to 61% return since last Akshaya Tritiya. Should you hold or book profits after the rally?",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/mf/analysis/gold-etfs-deliver-up-to-61-return-since-last-akshaya-tritiya-should-you-hold-or-book-profits-after-the-rally/articleshow/130323576.cms",
+      "published": "2026-04-17T05:18:39Z",
+      "description": "Gold ETFs have rallied up to 61% since last Akshaya Tritiya, driven by geopolitical tensions, central bank buying, and safe-haven demand. Experts advise sticking to asset-allocation discipline—booking"
+    },
+    {
+      "title": "Mongolian Mining Corporation Operational Update for the Quarter Ended 31 March 2026",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/04/17/3275917/0/en/Mongolian-Mining-Corporation-Operational-Update-for-the-Quarter-Ended-31-March-2026.html",
+      "published": "2026-04-17T00:28:00Z",
+      "description": "The Mongolian Mining Corporation wishes to announce the unaudited operational update for the quarter ended 31 March 2026..."
+    },
+    {
+      "title": "8点1氪丨全季大连某酒店账号公开多名客人特殊订单备注；金立手机创始人被曝在印尼卖家具；雷军将连播15小时测试新SU7续航",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3768320373441281",
-      "published": "2026-04-16T02:00:26Z",
-      "description": "文｜王欣逸\n 编辑｜邓咏仪\n 36氪获悉，近日，攀峰智能已完成数千万元天使轮融资，本轮融资由华控资本领投、云时资本跟投，将用于模型研发、团队增长以及市场扩张。\n 攀峰智能（K2 Lab）成立于2025年10月，成立仅一个月，便拿到了来自云时资本的数千万元融资。其三位联合创始人均来自阿里钉钉团队。CEO王铭曾是钉钉最年轻的副总裁，在钉钉近五年间负责AI创新产品、SaaS生态、大模型与AI生态、产业生"
+      "url": "https://36kr.com/p/3770155029398018",
+      "published": "2026-04-17T00:02:44Z",
+      "description": "今日热点导览\n 丝芭传媒：创始人王子杰去世，享年63岁\n 国家统计局：日均词元调用量突破140万亿，较上年末增长40%\n 京东发布机器人产业服务全景图\n 为加速重塑Siri，苹果安排近200名工程师培训AI编程\n 特朗普签发多项输油管道许可，以促进美加之间的石油运输\n TOP3大新闻\n 全季大连某酒店账号公开多名客人特殊订单备注，华住集团客服回应\n 近日，一则题为“全季客人备注大赏”的帖文在社交平"
     },
     {
-      "title": "8点1氪丨美国将退还超1万亿元关税；多家银行密集停发信用卡；滴露回应使用宠物消毒液后5只幼猫死亡",
+      "title": "Silver vs gold 2026: after a 150% silver rally, is silver still set to outperform gold or nearing a peak now?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/silver-vs-gold-2026-after-a-150-silver-rally-is-silver-still-set-to-outperform-gold-or-nearing-a-peak-now/articleshow/130315907.cms",
+      "published": "2026-04-16T23:44:16Z",
+      "description": "Silver vs gold 2026 is now trending across global markets. Silver touched near $80 while gold crossed $4,800 recently. This sharp rally shows strong investor demand and rising inflation fears. Silver "
+    },
+    {
+      "title": "The Supply Gap No One's Talking About Is Repricing Copper Developers",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/04/16/3275639/0/en/The-Supply-Gap-No-One-s-Talking-About-Is-Repricing-Copper-Developers.html",
+      "published": "2026-04-16T15:30:00Z",
+      "description": "Issued on behalf of Salazar Resources Ltd. Issued on behalf of Salazar Resources Ltd."
+    },
+    {
+      "title": "Green Mining Market Report 2026: Insights and Forecasts 2021-2031 with Analyst Recommendations - Invest in Advanced Green Technologies & Strengthen Circular Economy Initiatives",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/04/16/3275628/28124/en/Green-Mining-Market-Report-2026-Insights-and-Forecasts-2021-2031-with-Analyst-Recommendations-Invest-in-Advanced-Green-Technologies-Strengthen-Circular-Economy-Initiatives.html",
+      "published": "2026-04-16T15:21:00Z",
+      "description": "The Green Mining industry presents opportunities as environmental concerns and regulations drive tech adoption. Innovations include energy efficiency, automation, and renewable integration, spurred by"
+    },
+    {
+      "title": "贵州茅台：2025年实现营业收入1688.38亿元，同比下降1.21%",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3768734631527176",
-      "published": "2026-04-16T00:00:35Z",
-      "description": "今日热点导览\n 京东宣布推出“机器人救护车”\n 抖音集团将投入5亿专项资金扶持真人短剧\n 永辉超市38亿追款获胜，王健林等承担连带保证责任\n 张雪机车LOGO抄袭？设计公司发声明回应\n 小米汽车公布降噪处理新专利\n TOP 3大新闻\n 美国将退还超1万亿元关税\n 据路透社报道，美国特朗普政府计划于当地时间4月20日正式启动一个关税退款系统，用于向进口商退还1660亿美元（约合人民币1.13万亿元）"
-    },
-    {
-      "title": "Positive assay results at Golden Eye point to growth in Indicated Resources",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/15/3274972/0/en/Positive-assay-results-at-Golden-Eye-point-to-growth-in-Indicated-Resources.html",
-      "published": "2026-04-15T23:22:00Z",
-      "description": "Latest assays from Golden Eye deposit within the Chibougamau Project include intervals of up to 105.5g/t AuEq over 1.0m Latest assays from Golden Eye deposit within the Chibougamau Project include int"
-    },
-    {
-      "title": "Giga Metals Announces Non-Brokered Private Placement",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/giga-metals-announces-non-brokered-private-placement-4",
-      "published": "2026-04-15T21:00:52Z",
-      "description": "NOT FOR DISTRIBUTION TO U.S. NEWSWIRES OR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, April 15, 2026 (GLOBE NEWSWIRE) — Giga Metals Corp. (“Giga Metals” or the “Company”) (TSX-V: G"
-    },
-    {
-      "title": "K92 Mining Announces 2026 First Quarter Financial Results Conference Call Details",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/k92-mining-announces-2026-first-quarter-financial-results-conference-call-details",
-      "published": "2026-04-15T20:19:59Z",
-      "description": "VANCOUVER, British Columbia, April 15, 2026 (GLOBE NEWSWIRE) — K92 Mining Inc. (“K92” or the “Company”) (TSX: KNT; OTCQX: KNTNF) announces that it will release its 2026 first quarter financial results"
-    },
-    {
-      "title": "Ex White House Advisor: Trump Is About to Unlock the Largest Undeveloped Gold Deposit in the World",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/15/3274907/0/en/Ex-White-House-Advisor-Trump-Is-About-to-Unlock-the-Largest-Undeveloped-Gold-Deposit-in-the-World.html",
-      "published": "2026-04-15T20:15:00Z",
-      "description": "Economist and Former CIA Advisor Jim Rickards Has Released a New Free Presentation Examining the Trump Administration's Alaskan Resource Policy Shift and Its Implications for America's Critical Minera"
-    },
-    {
-      "title": "Gold.com Sets Fiscal Third Quarter Earnings Call for Wednesday, May 6th at 4:30 p.m. ET",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/15/3274869/31746/en/Gold-com-Sets-Fiscal-Third-Quarter-Earnings-Call-for-Wednesday-May-6th-at-4-30-p-m-ET.html",
-      "published": "2026-04-15T20:05:00Z",
-      "description": "COSTA MESA, Calif., April 15, 2026 (GLOBE NEWSWIRE) -- Gold.com, Inc. (NYSE: GOLD) (“Gold.com” or the “Company”), a fully integrated alternative assets platform that offers an extensive range of preci"
-    },
-    {
-      "title": "Altius Provides 1st Quarter 2026 Project Generation Update",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/altius-provides-1st-quarter-2026-project-generation-update",
-      "published": "2026-04-15T16:48:35Z",
-      "description": "ST. JOHN’S, Newfoundland — Altius Minerals Corporation (ALS:TSX) (ATUSF: OTCQX) (“Altius”) is pleased to update its Project Generation (“PG”) business activities and its junior equities portfolio. The"
+      "url": "https://36kr.com/newsflashes/3769616036627203",
+      "published": "2026-04-16T14:51:43Z",
+      "description": "36氪获悉，贵州茅台发布2025年业绩报告。报告显示，2025年实现营业收入1688.38亿元，同比下降1.21%；归属于上市公司股东的净利润为823.20亿元，同比下降4.53%。拟向全体股东每股派发现金红利27.993元（含税）。"
     }
   ],
   "tweets": []
