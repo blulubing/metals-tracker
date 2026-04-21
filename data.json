@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-04-20 07:55:39 UTC",
+  "updated_at": "2026-04-21 07:25:25 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4791.14,
+      "price_usd": 4783.44,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 79.34,
+      "price_usd": 78.98,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2067.3,
+      "price_usd": 2070.31,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1534.96,
+      "price_usd": 1553.2,
       "unit": "USD/盎司 oz"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.58,
+      "price_usd": 0.57,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Andhra’s new gold mine could change India’s import story",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/andhras-new-gold-mine-could-change-indias-import-story/articleshow/130366102.cms",
-      "published": "2026-04-19T06:49:32Z",
-      "description": "India is set to launch its first large-scale private gold mine, the Jonnagiri project in Andhra Pradesh, aiming to boost domestic production and reduce reliance on imports. Developed by Geomysore, the"
-    },
-    {
-      "title": "Sovereign Gold Bonds: Investors can avail early redemption for this SGB series tomorrow; here's how much you gain",
+      "title": "How gold turned $609 billion of imports into a $1.9 trillion stockpile?",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/sovereign-gold-bonds-investors-avail-early-redemption-sgb-2020-series-20-april-gain-200-pc-price-15254-what-taxes-status-11776574932760.html",
-      "published": "2026-04-19T06:31:11Z",
-      "description": "The RBI has announced premature redemption for Sovereign Gold Bonds on 20 April 2026. Investors stand to gain over 200% from their initial investment, benefiting from both capital appreciation and 2.5"
+      "url": "https://www.livemint.com/money/personal-finance/gold-turned-609-billion-imports-1-9-trillion-stockpile-11776627193211.html",
+      "published": "2026-04-20T07:22:23Z",
+      "description": "Between 2011 and 2025, India imported $609 billion worth of gold. At today’s prices, that holding is worth $1.9 trillion—making gold one of the greatest household wealth creators in modern India."
     },
     {
-      "title": "22k gold rate today on Akshaya Tritiya 2026: Check 24k, 22k, 18k gold prices (April 19, 2026) in New Delhi, Mumbai, Chennai and other cities",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-on-akshaya-tritiya-2026-check-24k-22k-18k-gold-prices-april-19-2026-in-new-delhi-mumbai-chennai-and-other-cities/articleshow/130365427.cms",
-      "published": "2026-04-19T05:48:35Z",
-      "description": "Akshaya Tritiya, April 19, 2026, is here. This auspicious day is ideal for gold purchases and new beginnings. Families traditionally invest in gold and start ventures. Check the latest gold rates from"
-    },
-    {
-      "title": "Gold demand weakens in March as price volatility triggers buying wariness",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-demand-weakens-in-march-as-price-volatility-triggers-buying-wariness/articleshow/130365050.cms",
-      "published": "2026-04-19T04:34:53Z",
-      "description": "Indian gold demand showed strength in early 2026. Retailers saw significant revenue growth, boosted by weddings and festivals. Gold ETFs experienced substantial inflows, extending a positive trend. De"
-    },
-    {
-      "title": "Akshaya Tritiya 2026: Gold, silver trade seen topping Rs 20,000 cr despite record prices and decline in volumes",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/akshaya-tritiya-2026-gold-silver-trade-seen-topping-rs-20000-cr-despite-record-prices-and-decline-in-volumes/articleshow/130364994.cms",
-      "published": "2026-04-19T04:25:07Z",
-      "description": "Akshaya Tritiya 2026 is set for record precious metal sales in India.  Despite soaring gold and silver prices, trade is expected to exceed Rs 20,000 crore.  Consumers are opting for lightweight jewelr"
-    },
-    {
-      "title": "Akshaya Tritiya 2026: Gold, silver trade seen topping ₹20,000 cr despite record prices and decline in volumes",
+      "title": "Markets reverse early losses, Sensex climbs 377 points by midday; SBI, Trent lead gains",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/akshaya-tritiya-2026-gold-silver-trade-seen-topping-20000-cr-despite-record-prices-and-decline-in-volumes/article70880015.ece",
-      "published": "2026-04-19T04:21:57Z",
-      "description": "Gold has surged from around ₹1,00,000 per 10 grams last year to nearly ₹1.58 lakh this year, while silver has leapt from ₹85,000 per kg to an unprecedented ₹2.55 lakh per kg"
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/markets-reverse-early-losses-sensex-climbs-377-points-by-midday-sbi-trent-lead-gains/article70883550.ece",
+      "published": "2026-04-20T07:11:26Z",
+      "description": "Markets rebound from early losses as Sensex rises 377 points, with SBI and Trent leading the gains amid global uncertainty."
     },
     {
-      "title": "Strovemont Capital Claims Evaluated: Is Strovemont Capital Trading Platform Legit? Hidden Features, Trust Facts & Real User Results",
+      "title": "Akshaya Tritiya witnessed buoyant sales across gems & jewellery despite high gold prices",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/akshaya-tritiya-witnessed-buoyant-sales-across-gems-jewellery-despite-high-gold-prices/article70883511.ece",
+      "published": "2026-04-20T07:03:55Z",
+      "description": "On April 19, the auspicious occasion drew large crowds at jewellery showrooms nationwide, with estimates indicating significant gold purchases despite a sharp price increase over the past year"
+    },
+    {
+      "title": "Silver tanks nearly Rs 4,000, gold slips Rs 1,600 as Strait of Hormuz tensions reignite inflation fears. Time to sell?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-20-april-2026-silver-tanks-nearly-rs-4000-gold-slips-rs-1600-as-strait-of-hormuz-tensions-reignite-inflation-fears-time-to-sell/articleshow/130382170.cms",
+      "published": "2026-04-20T04:09:35Z",
+      "description": "Gold and silver prices declined on MCX amid a stronger U.S. dollar and escalating tensions around the Strait of Hormuz, which pushed oil prices higher and revived inflation concerns. Analysts advise a"
+    },
+    {
+      "title": "BSE vs IEX vs MCX: Which exchange's shares should you buy now?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/bse-vs-iex-vs-mcx-which-exchanges-shares-should-you-buy-now/articleshow/130382012.cms",
+      "published": "2026-04-20T03:59:40Z",
+      "description": "Amidst a market rebound, shares of BSE, MCX, and IEX have surged. Analysts favor MCX and BSE for their strong operating momentum and growth potential in India's deepening capital market participation."
+    },
+    {
+      "title": "CCUS Hub Study identifies five Asia-Pacific hub sites and welcomes new consortium partners",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/19/3276628/0/en/Strovemont-Capital-Claims-Evaluated-Is-Strovemont-Capital-Trading-Platform-Legit-Hidden-Features-Trust-Facts-Real-User-Results.html",
-      "published": "2026-04-19T03:10:00Z",
-      "description": "Discover Strovemont Capital platform—AI-driven trading, real-time analytics, secure system, and Performance multi-asset support. Learn how it works today Discover Strovemont Capital platform—AI-driven"
+      "url": "https://www.globenewswire.com/news-release/2026/04/20/3276685/0/en/CCUS-Hub-Study-identifies-five-Asia-Pacific-hub-sites-and-welcomes-new-consortium-partners.html",
+      "published": "2026-04-20T02:00:00Z",
+      "description": "SINGAPORE, April 20, 2026 (GLOBE NEWSWIRE) -- An industry Consortium developing a first-of-its-kind Carbon Capture, Utilisation and Storage (CCUS) Hub Study for Asia has identified five hubs as potent"
     },
     {
-      "title": "Bramridge Trust Unveiled: Should You Join Bramridge Trust? Features, Performance, Fees & Real User Insights!",
+      "title": "CCUS Hub Study identiﬁes ﬁve Asia-Paciﬁc hub sites and welcomes new consortium partners",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/19/3276625/0/en/Bramridge-Trust-Unveiled-Should-You-Join-Bramridge-Trust-Features-Performance-Fees-Real-User-Insights.html",
-      "published": "2026-04-19T02:30:00Z",
-      "description": "Toronto City, Canada, April  18, 2026  (GLOBE NEWSWIRE) -- Introduction – What Is Bramridge Trust?  Bramridge Trust is presented as a modern digital..."
+      "url": "https://www.globenewswire.com/news-release/2026/04/20/3276684/0/en/CCUS-Hub-Study-identi%EF%AC%81es-%EF%AC%81ve-Asia-Paci%EF%AC%81c-hub-sites-and-welcomes-new-consortium-partners.html",
+      "published": "2026-04-20T02:00:00Z",
+      "description": "Singapore, April 19, 2026 (GLOBE NEWSWIRE) -- An industry Consortium developing a first-of-its-kind Carbon Capture, Utilisation and Storage (CCUS) Hub Study for Asia has identified five hubs as potent"
     },
     {
-      "title": "Bullion Cues: Gold futures, silver futures have hurdles ahead",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-hurdle-ahead/article70877242.ece",
-      "published": "2026-04-18T16:25:40Z",
-      "description": "Precious metals show bullish potential; gold and silver face key resistance levels—strategies for trading outlined."
+      "title": "8点1氪丨12306五一已拒绝抢票软件105.6万张票；万达电影宣布更名；DeepSeek被曝首次启动外部融资，估值超680亿",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3774401650656001",
+      "published": "2026-04-20T00:02:52Z",
+      "description": "今日热点导览\n 张雪坦言流量已成为甜蜜负担\n 泰坦尼克号救生衣拍出90.6万美元\n 涉案金额2.6亿元，中国摧毁山西特大假酒网络\n 小米集团人事调整，首次任命汽车部CTO\n 国产光纤全球爆单，光纤价格暴涨650% \n TOP3大新闻\n 12306五一已拒绝抢票软件105.6万张票 \n 据中国铁路消息，五一假期火车票开售以来，铁路12306精准识别频繁大量为非本人购票的铁路12306注册账号和频繁大"
     },
     {
-      "title": "Nifty 50, Nifty 500: Dissecting the potential winners and losers amid war and volatility",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/big-story/nifty-50-nifty-500-dissecting-the-potential-winners-and-losers-amid-war-and-volatility/article70873290.ece",
-      "published": "2026-04-18T16:24:12Z",
-      "description": "Given that structural shifts are playing out – inflation entrenched in global economies and their bond yields much higher than in the previous decade, geopolitical situation flaring up, ongoing trade "
+      "title": "Gold, silver price prediction: What will be likely rates after April 22?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-silver-price-prediction-what-will-be-likely-rates-after-april-22/articleshow/130377905.cms",
+      "published": "2026-04-19T21:31:56Z",
+      "description": "Gold rate, silver price: Ceasefire between the US and Iran is set to expire on April 22, which may further influence market sentiment."
+    },
+    {
+      "title": "Where’s the Indian mutual fund sector going ahead? 6 big trends to watch out for",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/wheres-the-indian-mutual-fund-sector-going-ahead-6-big-trends-to-watch-out-for/articleshow/130366880.cms",
+      "published": "2026-04-19T08:11:41Z",
+      "description": "Mutual fund trends highlight a structural shift in investor preference towards mid and small caps, sectoral themes, and multi-asset funds, while large caps lose share. SIP inflows hit record highs, re"
     }
   ],
   "tweets": []
