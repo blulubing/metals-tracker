@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-04-22 07:23:18 UTC",
+  "updated_at": "2026-04-23 07:25:59 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4765.68,
+      "price_usd": 4705.01,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 78.47,
+      "price_usd": 75.88,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2081.71,
+      "price_usd": 2036.49,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1566.78,
+      "price_usd": 1518.36,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Transaction in Own Shares",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/21/3277580/0/en/Transaction-in-Own-Shares.html",
-      "published": "2026-04-21T05:30:00Z",
-      "description": "ENDEAVOUR ANNOUNCES TRANSACTION IN OWN SHARES  London, 21 April 2026 – Endeavour Mining plc (LSE:EDV, TSX:EDV) (“the Company”) announces it has purchased..."
+      "title": "Hajj can cost up to ₹10 lakh, Umrah starts at ₹1.5 lakh: What drives the huge price difference in Mecca pilgrimages?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/hajj-can-cost-up-to-rs-10-lakh-umrah-starts-at-rs-1-5-lakh-what-drives-the-huge-price-difference-in-mecca-pilgrimages-11776837475110.html",
+      "published": "2026-04-22T07:10:50Z",
+      "description": "Cost is a key factor for pilgrims deciding between Hajj and Umrah. Hajj is a mandatory religious duty and significantly more expensive than Umrah, which is a recommended practice and more flexible in "
     },
     {
-      "title": "Silver slips Rs 2,300, Gold at Rs 1.53 lakh as investors await U.S.-Iran peace talks this weekend; key levels to watch",
+      "title": "Devina Mehra: Investors beware—Part-truths could be more misleading than complete lies",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/online-views/devina-mehra-investors-blue-chip-multibagger-stocks-tesla-apple-nifty50-sensex-bse-nse-11776772600106.html",
+      "published": "2026-04-22T05:07:04Z",
+      "description": "Part-truths create the sort of over-confidence that often leads people to delude themselves. Tales about compounding, blue chips or market winners that don’t offer the full picture can let investors d"
+    },
+    {
+      "title": "China silver and gold demand surges as imports hit record highs in March amid solar boom and investment buying",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-21-april-2026-silver-slips-rs-2300-gold-at-rs-1-53-lakh-as-investors-await-u-s-iran-peace-talks-this-weekend-key-levels-to-watch/articleshow/130407153.cms",
-      "published": "2026-04-21T04:15:20Z",
-      "description": "Gold and silver prices edged lower on MCX amid a stronger dollar, with investors tracking potential U.S.-Iran talks. Analysts expect continued volatility driven by oil prices and currency moves. Key s"
+      "url": "https://economictimes.indiatimes.com/news/international/us/china-silver-and-gold-demand-surges-as-imports-hit-record-highs-in-march-amid-solar-boom-and-investment-buying/articleshow/130429711.cms",
+      "published": "2026-04-22T01:12:04Z",
+      "description": "China is buying more silver and gold in big amounts. Silver demand is rising because of solar industry use and cheap investment buying. Gold imports are also increasing due to strong central bank purc"
     },
     {
-      "title": "ETMarkets Smart Talk | Financials, industrials, healthcare top picks for FY27: Nimesh Chandan",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-financials-industrials-healthcare-top-picks-for-fy27-nimesh-chandan/articleshow/130384350.cms",
-      "published": "2026-04-21T03:30:00Z",
-      "description": "Despite geopolitical tensions and rising oil prices, Nimesh Chandan of Bajaj Finserv AMC believes India's structural economic story remains intact. Current market corrections offer opportunities for l"
-    },
-    {
-      "title": "8点1氪丨库克将不再担任苹果CEO；爱奇艺回应AI艺人库争议：入驻仅代表有接洽意愿；日本修正震级为7.7级",
+      "title": "中泰证券：黄金中期向上格局不变",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3775833331286530",
-      "published": "2026-04-21T00:19:48Z",
-      "description": "今日热点导览\n <ul>\n <li>美关税退款系统上线</li>\n <li>字节跳动2025年海外营收占比创新高，AI投入致公司净利大降70%</li>\n <li>“五一”临近航班遭取消？航空公司：优先签转，保障旅客顺利成行</li>\n <li>贵州茅台盘中股价反超源杰科技，重新成为A股“一哥”</li>\n </ul>\n TOP 3大新闻\n 苹果公司宣布特纳斯将接替库克担任CEO\n 当地时间4月2"
+      "url": "https://36kr.com/newsflashes/3777236709280004",
+      "published": "2026-04-22T00:09:50Z",
+      "description": "36氪获悉，中泰证券研报称，黄金中期向上格局不变，铜铝等工业金属整体有支撑，原油价格中枢可能抬升，但进一步大幅上涨空间有限。黄金中期依然可以坚定持有，核心驱动力在于美元信用体系边际弱化及实际利率下行预期。对铜、铝为代表的工业金属持偏乐观观点，受益于海外经济复苏和新能源需求拉动，供需基本面将重新主导价格走势。原油价格进一步上行空间有限，地缘溢价快速回吐，叠加OPEC+增产和需求预期下调，高油价对需求"
     },
     {
-      "title": "Magna Mining Reports Fourth Quarter and Full Year 2025 Financial Results",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/20/3277524/0/en/Magna-Mining-Reports-Fourth-Quarter-and-Full-Year-2025-Financial-Results.html",
-      "published": "2026-04-20T21:30:00Z",
-      "description": "SUDBURY, Ontario, April 20, 2026 (GLOBE NEWSWIRE) -- Magna Mining Inc. (TSXV: NICU) (OTCQX: MGMNF) (FSE:8YD) (the “Company” or “Magna”) is pleased to report fourth quarter and full year 2025 operating"
+      "title": "8点1氪丨MCN机构回应女孩挪用上千万打赏主播；苹果更换CEO原因曝光；国内油价2026年首次下调",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3777227930224900",
+      "published": "2026-04-21T23:59:50Z",
+      "description": "今日热点导览\n <ul>\n <li>航旅纵横致歉：部分功能出现使用异常，正全力抢修</li>\n <li>星巴克中国回应开放加盟传闻：不实信息</li>\n <li>微信：韩国、斯里兰卡、泰国、马来西亚、新加坡的国家码接入微信支付</li>\n <li>截至3月底，全国5G基站总数已达495.8万个</li>\n <li>猪价开启“回暖”模式，5家公司去年净利润超1亿元</li>\n </ul>\n TOP "
     },
     {
-      "title": "Best Gold IRA Companies For 2026 Announced By Gold Investment Authority",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/20/3277505/0/en/Best-Gold-IRA-Companies-For-2026-Announced-By-Gold-Investment-Authority.html",
-      "published": "2026-04-20T20:43:00Z",
-      "description": "Gold Investment Authority publishes its 2026 report ranking leading Gold IRA providers, offering investors guidance on retirement diversification through precious metals. Gold Investment Authority pub"
-    },
-    {
-      "title": "ODIN EMF Faraday Bag Claims Evaluated: Advanced Full Spectrum Signal-Blocking Cage for Phones, Tablets & Key Fobs",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/20/3277486/0/en/ODIN-EMF-Faraday-Bag-Claims-Evaluated-Advanced-Full-Spectrum-Signal-Blocking-Cage-for-Phones-Tablets-Key-Fobs.html",
-      "published": "2026-04-20T20:21:00Z",
-      "description": "2026 overview of the ODIN EMF Faraday Bag's signal-blocking design, relay theft prevention use case, shielding specs, and key consumer details...."
-    },
-    {
-      "title": "Royal Gold to Release First Quarter 2026 Results on May 6, 2026",
+      "title": "Coeur Mining, Inc. Announces Expiration and Final Results of Previously Announced Exchange Offer and Consent Solicitation for New Gold Senior Notes",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/royal-gold-to-release-first-quarter-2026-results-on-may-6-2026",
-      "published": "2026-04-20T20:05:43Z",
-      "description": "DENVER — Royal Gold, Inc. (NASDAQ: RGLD) announced today that it will report its first quarter 2026 results on Wednesday, May 6, 2026, after market close. A conference call will be held on Thursday, M"
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/coeur-mining-inc-announces-expiration-and-final-results-of-previously-announced-exchange-offer-and-consent-solicitation-for-new-gold-senior-notes",
+      "published": "2026-04-21T20:50:44Z",
+      "description": "CHICAGO — Coeur Mining, Inc. (“Coeur” or the “Company”) (NYSE, TSX: CDE) today announced the final results of its previously announced private exchange offer to certain Eligible Holders (the “Exchange"
     },
     {
-      "title": "Phase-I of bilateral trade agreement with US almost ready: Piyush Goyal",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/phase-i-of-bilateral-trade-agreement-with-us-almost-ready-piyush-goyal/articleshow/130398412.cms",
-      "published": "2026-04-20T17:02:01Z",
-      "description": "Trade conversations are heating up in Washington as India and the US engage in crucial discussions aimed at enhancing economic ties. At the forefront are negotiations on preferential market access tha"
+      "title": "DeviEver Names Goldco Best Overall Gold IRA Company In Review",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/04/21/3278231/0/en/DeviEver-Names-Goldco-Best-Overall-Gold-IRA-Company-In-Review.html",
+      "published": "2026-04-21T15:46:00Z",
+      "description": "WILMINGTON, DE, April 21, 2026 (GLOBE NEWSWIRE) -- DeviEver, a Wilmington-based research platform, has released a ranking of the best gold IRA companies, placing Goldco at the top following a detailed"
     },
     {
-      "title": "India seeks preferential market access in US for domestic goods: Piyush Goyal",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-seeks-preferential-market-access-in-us-for-domestic-goods-piyush-goyal/articleshow/130398412.cms",
-      "published": "2026-04-20T17:02:01Z",
-      "description": "Trade conversations are heating up in Washington as India and the US engage in crucial discussions aimed at enhancing economic ties. At the forefront are negotiations on preferential market access tha"
+      "title": "智界要打翻盘仗：V9给了年均12万辆指引｜36氪独家",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3776741071571200",
+      "published": "2026-04-21T15:40:02Z",
+      "description": "智界，这个华为与奇瑞联合打造的汽车品牌，将翻身的希望押注在了智界V9。\n 36氪获悉，智界V9给供应商下达了年均约12万辆的生产量纲，这一销量指引接近去年MPV市场“常青树”别克GL8全年的销量。\n 据36氪了解，目前宁德时代与中创新航两家电池供应商，共计为智界V9准备了过万套月产能，也有供应商按1.5万辆/月的峰值产能去备件。从供应链的备件情况来看，供应商初步认可了智界V9的销量指引。\n 另有接"
+    },
+    {
+      "title": "Fake silver coins offered at Vaishno Devi: Is it better to invest in digital form of precious metal? Experts weigh in",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/fake-silver-coins-at-vaishno-devi-offerings-is-it-better-to-invest-in-digital-assets-over-physical-experts-weigh-in-11776775909285.html",
+      "published": "2026-04-21T14:39:39Z",
+      "description": "Investing in digital precious metals offers several advantages. These include no storage hurdles and no risk of theft or purity issues.&nbsp;"
+    },
+    {
+      "title": "氪星晚报｜星巴克中国回应开放加盟传闻：不实信息；苹果公司宣布特纳斯将接替库克担任CEO",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3776458805904129",
+      "published": "2026-04-21T11:20:06Z",
+      "description": "大公司：\n 猛士汽车携手华为乾崑发布智能越野黑科技\n 36氪获悉，4月20日，猛士汽车举办春季焕新发布会。发布会上，猛士汽车携手华为乾崑联合发布智能越野黑科技，同时完成全方位焕新。未来两年，猛士汽车将会把智能越野的新技术逐步落地到4款以上的全新车型上。\n 长安汽车朱华荣：2030年力争实现营收6000亿元\n 36氪获悉，在中国长安汽车战略发布会上，中国长安汽车党委书记、董事长朱华荣表示，公司将按照"
     }
   ],
   "tweets": []
