@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-04-26 07:19:30 UTC",
+  "updated_at": "2026-04-27 08:10:27 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4709.26,
+      "price_usd": 4711.93,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 75.69,
+      "price_usd": 75.55,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2013.29,
+      "price_usd": 2027.63,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1506,
+      "price_usd": 1493.35,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.59,
+      "price_usd": 0.6,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,32 +76,53 @@
   ],
   "news": [
     {
-      "title": "RBI action on Paytm Payments Bank incrementally negative for One 97, says Bernstein; retains ‘Outperform’, sees 30% upside",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rbi-action-on-paytm-payments-bank-incrementally-negative-for-one-97-says-bernstein-retains-outperform-sees-30-upside/articleshow/130509621.cms",
-      "published": "2026-04-25T06:25:55Z",
-      "description": "The RBI has cancelled Paytm Payments Bank's license due to regulatory non-compliance, citing detrimental operations and prejudiced management. While Bernstein views this as incrementally negative for "
+      "title": "湖南黄金：第一季度净利润同比增长79.21%",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3783353113598985",
+      "published": "2026-04-26T08:08:41Z",
+      "description": "36氪获悉，湖南黄金发布2026年一季度业绩报告。报告显示，2026年第一季度实现营业收入188.30亿元，同比增长43.51%；归属于上市公司股东的净利润为5.96亿元，同比增长79.21%。业绩变动主要系公司产品黄金销售价格同比上涨59.50%，产品精锑销售价格同比上涨6.79%，产品钨精矿销售价格同比上涨310.10%所致。"
     },
     {
-      "title": "Thinking of buying silver? Gurgaon CA lists five ways to determine quality of silver before splurging money",
+      "title": "Gold rate today: Check 22k, 24k gold prices on April 26, 2026, at IBJA, Malabar Gold & Diamonds, Tanishq and Joyalukkas; have gold and silver prices dropped?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/magazines/panache/thinking-of-buying-silver-gurgaon-ca-lists-five-ways-to-determine-quality-of-silver-before-splurging-money/articleshow/130508911.cms",
-      "published": "2026-04-25T05:55:09Z",
-      "description": "A significant issue of counterfeit silver products is plaguing India's bullion market, as highlighted by a shocking incident at the Vaishno Devi Temple. Devotees' offerings revealed that a large porti"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-check-22k-24k-gold-prices-on-april-26-2026-at-ibja-malabar-gold-diamonds-tanishq-and-joyalukkas-have-gold-and-silver-prices-dropped/articleshow/130527898.cms",
+      "published": "2026-04-26T07:04:26Z",
+      "description": "Gold prices held steady on Sunday, April 26, 2026, across major Indian jewellers like Tanishq and Kalyan. While IBJA did not update weekend rates, leading brands maintained Saturday's prices. Consumer"
     },
     {
-      "title": "From FAANG to BATMMAAN: the new acronym driving global tech investing, says Niteen Dongare",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/from-faang-to-batmmaan-the-new-acronym-driving-global-tech-investing-says-niteen-dongare/articleshow/130508957.cms",
-      "published": "2026-04-25T05:37:10Z",
-      "description": "Global investors are shifting focus from FAANG and Magnificent 7 to broader innovation, embracing the BATMMAAN acronym for AI, semiconductors, and digital ecosystems. Niteen Dongare advises staying in"
+      "title": "₹8,500 crore inflows in a month: Why multi-asset allocation is winning big in FY26",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/8500-crore-inflows-in-a-month-why-multi-asset-allocation-is-winning-big-in-fy26-11777091113745.html",
+      "published": "2026-04-26T04:07:46Z",
+      "description": "The investor who started a SIP into a multi-asset fund two years ago didn't need to predict interest rates or time gold's rally or call the bottom on small-caps. The fund did the navigating."
     },
     {
-      "title": "Gold gains but heads for first weekly loss in five weeks",
+      "title": "Pick of BL commodities -April 26, 2026",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/newsletter/pick-of-bl-commodities/pick-of-bl-commodities-april-26-2026/article70905213.ece",
+      "published": "2026-04-26T03:11:34Z",
+      "description": "Last week, the Indian government decided to allow an additional export of 2.5 million tonnes of wheat. However, it is unlikely to get buyers or stir the global market. The Australian Bureau of Meteoro"
+    },
+    {
+      "title": "PJSC MGKL becomes first Russian publicly listed co to get global scale issuer rating in India",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-gains-but-heads-for-first-weekly-loss-in-five-weeks/articleshow/130508224.cms",
-      "published": "2026-04-25T04:39:33Z",
-      "description": "Gold prices saw a slight uptick on Friday but are poised for their first weekly decline in five weeks. Lingering inflation worries and the volatile U.S.-Iran conflict are keeping markets on edge. Whil"
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/pjsc-mgkl-becomes-first-russian-publicly-listed-co-to-get-global-scale-issuer-rating-in-india/articleshow/130525465.cms",
+      "published": "2026-04-26T02:25:31Z",
+      "description": "PJSC MGKL, Russia’s first publicly listed resale operator, has received a ‘CareEdge B-/Stable’ global long-term issuer rating from CareEdge Global IFSC Limited, becoming the first Russian firm to be r"
+    },
+    {
+      "title": "Banking on valuation comfort",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/stock-fundamental-analysis-india/banking-on-valuation-comfort/article70902223.ece",
+      "published": "2026-04-26T01:01:32Z",
+      "description": "With growth back on track in the second half of FY26 and expected to continue into FY27, Tamilnad Mercantile Bank’s risk-reward equation is favourable"
+    },
+    {
+      "title": "科氪|北京车展重磅发布！京东汽车独家线上销售212全民越野车T01 METTA",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3782434723355655",
+      "published": "2026-04-25T16:11:41Z",
+      "description": "4月25日，在2026北京国际汽车展览会现场，京东汽车与212越野车宣布达成战略合作。京东汽车将作为线上独家渠道，销售212越野车首个越野生态系列METTA旗下全新车型——T01 METTA和T01 METTA巴丹吉林，新车上市指导价分别为18.99万元和21.99万元，京东PLUS会员购车更可享至高3000元购车补贴。同时，京东汽车还将联合越野e族发起“全民越野合伙人”招募计划，邀请合作伙伴共赢"
     },
     {
       "title": "9点1氪丨Kimi被曝泄露用户真实简历；马斯克花4000多亿买下00后公司；世界杯决赛门票转手价近230万美元",
@@ -118,32 +139,11 @@
       "description": "Analysts at Mercuria, the Geneva-based Swiss commodities trading firm, are sounding the alarm on the global aluminum market after severe disruptions in the Gulf region, adding to a growing list of tra"
     },
     {
-      "title": "Gold prices firm up in India as rupee depreciates against dollar",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-prices-firm-up-in-india-as-rupee-depreciates-against-dollar/article70901960.ece",
-      "published": "2026-04-24T14:10:15Z",
-      "description": "However, prices slip in the global market; rates ended nearly 3% this week"
-    },
-    {
-      "title": "Gold and silver price today: Is now the best time to invest as gold hits $4,736 and silver nears $77, with gold up 44% year-over-year and silver surging 129%?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-and-silver-price-today-is-now-the-best-time-to-invest-as-gold-hits-4736-and-silver-nears-77-with-gold-up-44-year-over-year-and-silver-surging-129/articleshow/130493067.cms",
-      "published": "2026-04-24T11:53:35Z",
-      "description": "Gold and silver price today is grabbing global attention with a sharp data signal. Gold trades near $4,736 per ounce. Silver holds around $77. These are not normal levels. Gold has surged 44% year-ove"
-    },
-    {
       "title": "赤峰黄金：第一季度净利润9.88亿元，同比增长104%",
       "source": "36kr.com",
       "url": "https://36kr.com/newsflashes/3780547178961922",
       "published": "2026-04-24T08:11:27Z",
       "description": "36氪获悉，赤峰黄金公告，2026年第一季度实现营业收入35.54亿元，同比增长47.65%；归属于上市公司股东的净利润为9.88亿元，同比增长104.43%。业绩变动主要系公司持续优化生产组织与运营管理，并充分受益于黄金价格同比较大幅度上涨。"
-    },
-    {
-      "title": "DeepSeek V4终于发布，但它留下的5道主观题还没有答案",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3780375304312072",
-      "published": "2026-04-24T05:20:31Z",
-      "description": "文｜周鑫雨\n 资料整理｜钟楚笛\n 编辑｜苏建勋 杨轩\n 靴子终于落地。\n 被调侃“Next Week”近3个月的DeepSeek V4，终于显露真身。\n 1.6T的最大参数量、1M的上下文窗口、针对Agent的性能优化，以及基于MoE（混合专家模型）和稀疏注意力机制DSA，降低计算和显存需求——这些曾被外界纷纷猜测的参数和性能，随着V4的官宣，一锤定音。\n \n DeepSeek V4性能测评结果。"
     }
   ],
   "tweets": []
