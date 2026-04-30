@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-04-29 08:05:15 UTC",
+  "updated_at": "2026-04-30 08:09:08 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4570.05,
+      "price_usd": 4619.97,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 73.08,
+      "price_usd": 73.54,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1936.5,
+      "price_usd": 1957.3,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1460.36,
+      "price_usd": 1501,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.61,
+      "price_usd": 0.6,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.6,
+      "price_usd": 0.61,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.4,
+      "price_usd": 0.41,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Nifty slides to 24,032 at noon; ONGC, Coal India surge as Banks, IT drag",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/nifty-slides-to-24032-at-noon-ongc-coal-india-surge-as-banks-it-drag/article70915361.ece",
-      "published": "2026-04-28T07:36:58Z",
-      "description": "Market breadth on the BSE remained broadly positive, with 2,079 stocks advancing against 1,382 declines and 196 unchanged"
-    },
-    {
-      "title": "Why are gold, silver prices falling as crude spikes?",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/why-are-gold-silver-prices-falling-as-crude-spikes/article70915232.ece",
-      "published": "2026-04-28T07:23:58Z",
-      "description": "Gold and silver prices decline as crude oil surges, driven by stalled US-Iran talks and rising Treasury yields."
-    },
-    {
-      "title": "Dubai Gold Rates Today April 28: Check latest prices of 24K, 22K & 18K at iGold, Malabar, Joyalukkas and others",
+      "title": "Gold futures rise to Rs 1.50 lakh/10g ahead of US Fed policy decision",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/uae/dubai-gold-rates-today-april-28-check-latest-prices-of-24k-22k-18k-at-igold-malabar-joyalukkas-and-others/articleshow/130572597.cms",
-      "published": "2026-04-28T07:08:47Z",
-      "description": "Gold prices in Dubai saw a slight decrease on Tuesday, mirroring global bullion market weakness. This dip occurred amidst rising oil prices and ongoing geopolitical tensions between the US and Iran, w"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-futures-rise-to-rs-1-50-lakh/10g-ahead-of-us-fed-policy-decision/articleshow/130600377.cms",
+      "published": "2026-04-29T08:02:54Z",
+      "description": "Gold prices inched higher to Rs 1.50 lakh per 10 grams in futures trade on Wednesday as investors turned cautious ahead of the US Federal Reserve's policy decision."
     },
     {
-      "title": "Piramal Finance jumps over 12% on Q4 profit surge, brokerages see improving outlook",
+      "title": "What’s driving gold near ₹1.5 lakh, silver’s drop?",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/piramal-finance-jumps-over-12-on-q4-profit-surge-brokerages-see-improving-outlook/article70915149.ece",
-      "published": "2026-04-28T06:53:54Z",
-      "description": "Stock rises to ₹2,066.20 at 11.56 am, after hitting an intraday high of ₹2,073.20, compared with the previous close of ₹1,843.10"
+      "url": "https://www.thehindubusinessline.com/markets/gold/whats-driving-gold-near-15-lakh-silvers-drop/article70919367.ece",
+      "published": "2026-04-29T07:47:50Z",
+      "description": "Gold and silver prices came under pressure on Wednesday as rising crude oil prices and increased expectations of a US interest rate hike dampened sentiment across precious metals."
     },
     {
-      "title": "Silver prices erase all 2026 gains to plunge Rs 2 lakh from January peak. Perfect time to buy?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-erase-all-2026-gains-to-plunge-rs-2-lakh-from-january-peak-perfect-time-to-buy/articleshow/130571223.cms",
-      "published": "2026-04-28T06:05:35Z",
-      "description": "Silver prices have plunged nearly Rs 2 lakh from January highs, erasing all 2026 gains amid a stronger dollar, profit booking, and global risk-off sentiment. Experts suggest the correction may offer a"
-    },
-    {
-      "title": "Results of Updated Mineral Resource and Reserves; Increases Consolidated M&I to 731koz Au and Inferred Resource to 653koz Au",
+      "title": "Transaction in Own Shares",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/28/3282228/0/en/Results-of-Updated-Mineral-Resource-and-Reserves-Increases-Consolidated-M-I-to-731koz-Au-and-Inferred-Resource-to-653koz-Au.html",
-      "published": "2026-04-28T06:00:00Z",
-      "description": "Results of Updated Mineral Resource and Reserves; Increases Consolidated M&I to 731koz Au and Inferred Resource to 653koz Au  Serabi Gold plc (“Serabi”..."
+      "url": "https://www.globenewswire.com/news-release/2026/04/29/3283482/0/en/Transaction-in-Own-Shares.html",
+      "published": "2026-04-29T07:46:00Z",
+      "description": "ENDEAVOUR ANNOUNCES TRANSACTION IN OWN SHARES  London, 29 April 2026 – Endeavour Mining plc (LSE:EDV, TSX:EDV) (“the Company”) announces it has purchased..."
     },
     {
-      "title": "Are metals turning defensive? 5-year returns rival, even beat traditional safe havens",
+      "title": "Global gold demand rises 2% in Jan-Mar quarter on strong bar, coin buying: WGC",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/global-gold-demand-rises-2-in-jan-mar-quarter-on-strong-bar-coin-buying-wgc/article70919461.ece",
+      "published": "2026-04-29T07:36:16Z",
+      "description": "Global gold demand rose a modest 2 per cent year-on-year to 1,231 tonnes in the January-March quarter, driven by a sharp 42 per cent surge in bar and coin investment to 474 tonnes amid geopolitical te"
+    },
+    {
+      "title": "Gold to clinch $8,000 in just 5 years? Germany’s Deutsche Bank makes bold prediction",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/are-metals-turning-defensive-5-year-returns-rival-even-beat-traditional-safe-havens/articleshow/130569999.cms",
-      "published": "2026-04-28T05:04:44Z",
-      "description": "Metal stocks are outperforming defensive sectors, delivering strong returns driven by structural demand shifts and supply constraints.  Factors like EV adoption, infrastructure, and energy transition "
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-to-clinch-8000-in-just-5-years-germanys-deutsche-bank-makes-bold-prediction/articleshow/130599668.cms",
+      "published": "2026-04-29T07:28:32Z",
+      "description": "Gold's role in global reserves is set to grow. Deutsche Bank forecasts gold prices could reach $8,000 per ounce in five years. Central banks are increasing their gold holdings, moving away from the US"
     },
     {
-      "title": "8点1氪：中方禁止外资收购Manus；上海迪士尼回应游客吸烟冲突事件；泡泡玛特LABUBU 冰箱未发售已溢价3000元",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3785730095127817",
-      "published": "2026-04-28T00:04:02Z",
-      "description": "TOP3大新闻\n DeepSeek 输入缓存降价\n 多家美国廉价航空公司寻求政府资金纾困\n 东方甄选回应大量用户申请退会员\n 穿西装开空调太费电，日本东京鼓励公务员穿短裤\n 印度移动支付平台MobiKwik获央行批准\n TOP3大事件\n 国家发展改革委：依法依规对外资收购Manus项目作出禁止投资决定\n 据国家发展改革委网站4月27日消息，外商投资安全审查工作机制办公室（国家发展改革委）依法依规对"
-    },
-    {
-      "title": "Giga Metals Announces Increase and Amendment to Non-Brokered Private Placement",
+      "title": "Trident Intersects 15.11 g/t Au over 51.83m from 256.0m in the BK3 Zone at the Contact Lake Gold Project, Saskatchewan",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/giga-metals-announces-increase-and-amendment-to-non-brokered-private-placement",
-      "published": "2026-04-27T20:30:10Z",
-      "description": "NOT FOR DISTRIBUTION TO U.S. NEWSWIRES OR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, April 27, 2026 (GLOBE NEWSWIRE) — Giga Metals Corp. (“Giga Metals” or the “Company”) (TSX-V: G"
+      "url": "https://financialpost.com/globe-newswire/trident-intersects-15-11-g-t-au-over-51-83m-from-256-0m-in-the-bk3-zone-at-the-contact-lake-gold-project-saskatchewan",
+      "published": "2026-04-29T07:16:24Z",
+      "description": "Vancouver, BC, April 29, 2026 (GLOBE NEWSWIRE) — Trident Resources Corp. (TSXV: ROCK) (OTCQB: TRDTF) (Frankfurt: 6BP0) (“Trident” or the “Company”) is pleased to announce assay results for 5 (five) di"
     },
     {
-      "title": "Blue Moon Metals Confirms Final Investment Decision to Construct Nussir Project Mine, Intention to Construct the Springer Tungsten Mine and Concurrent C$150 Million Bought Deal Equity Offerings",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/blue-moon-metals-confirms-final-investment-decision-to-construct-nussir-project-mine-intention-to-construct-the-springer-tungsten-mine-and-concurrent-c150-million-bought-deal-equity-offerings",
-      "published": "2026-04-27T20:24:58Z",
-      "description": "The Shelf Prospectus is accessible, and the Supplement will be accessible within two business days, under the Company’s issuer profile on SEDAR+. TORONTO, April 27, 2026 (GLOBE NEWSWIRE) — Blue Moon M"
+      "title": "Indians bet on gold, not on the necklace glitter for the first time",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/indias-gold-investment-demand-beats-jewellery-for-first-time-in-march-quarter-indians-bet-on-gold-not-on-the-necklace/articleshow/130598107.cms",
+      "published": "2026-04-29T06:24:33Z",
+      "description": "For the first time, India's investment demand for gold surpassed jewellery consumption in the March quarter, reaching 82 metric tons compared to 66 tons for jewellery. This shift, driven by subdued eq"
+    },
+    {
+      "title": "Bitget lists Pharos (PROS) for Spot Trading",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/04/29/3283442/0/en/Bitget-lists-Pharos-PROS-for-Spot-Trading.html",
+      "published": "2026-04-29T05:52:00Z",
+      "description": "Bitget adds Pharos (PROS) spot trading. PROS/USDT opens April 28, 2026 (UTC); withdrawals begin April 29...."
+    },
+    {
+      "title": "Vedanta demerger explained: Record date, how much money can you make and should you invest in buy 1, get 4 offer?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-demerger-explained-record-date-how-much-money-can-you-make-and-should-you-invest-in-buy-1-get-4-offer/articleshow/130596533.cms",
+      "published": "2026-04-29T05:07:56Z",
+      "description": "Vedanta’s upcoming demerger will split its businesses into four new listed entities, with April 29 as the last likely date to buy shares for eligibility. While the move is expected to unlock long-term"
+    },
+    {
+      "title": "Silver rebounds Rs 1,300, gold at Rs 1.50 lakh ahead of US Fed decision, Iran conflict uncertainty. Key levels for today",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-29-april-2026-silver-rebounds-rs-1300-gold-at-rs-1-50-lakh-ahead-of-us-fed-decision-iran-conflict-uncertainty-key-levels-for-today/articleshow/130596096.cms",
+      "published": "2026-04-29T04:47:12Z",
+      "description": "Gold and silver prices edged higher on MCX as investors await the US Federal Reserve’s policy decision amid ongoing Iran-related tensions. While inflation concerns from elevated oil prices support bul"
     }
   ],
   "tweets": []
