@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-01 08:04:43 UTC",
+  "updated_at": "2026-05-02 07:22:49 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4578.21,
+      "price_usd": 4614.1,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 73.21,
+      "price_usd": 75.35,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1967.34,
+      "price_usd": 1987.3,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1512.64,
+      "price_usd": 1527,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,13 +40,13 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.61,
+      "price_usd": 0.6,
       "unit": "USD/吨 mt"
     },
     {
       "code": "zinc",
       "name": "锌 Zinc",
-      "price_usd": 0.11,
+      "price_usd": 0.1,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.61,
+      "price_usd": 0.6,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.41,
+      "price_usd": 0.4,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "New Social Casino Sites 2026: Popular Social Casinos in the USA",
+      "title": "Audited Results for the year ended 31 December 2025",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/30/3284509/0/en/New-Social-Casino-Sites-2026-Popular-Social-Casinos-in-the-USA.html",
-      "published": "2026-04-30T07:02:00Z",
-      "description": "McLuck is a sweepstakes social casino with 1,300+ games and no-purchase prize entry across most U.S. states. 18+. No purchase necessary...."
+      "url": "https://www.globenewswire.com/news-release/2026/05/01/3285667/0/en/Audited-Results-for-the-year-ended-31-December-2025.html",
+      "published": "2026-05-01T06:00:00Z",
+      "description": "Audited Results for the year ended 31 December 2025  Serabi Gold plc (“Serabi” or the “Company”) (AIM:SRB, TSX:SBI, OTCQX:SRBIF), the Brazilian focused..."
     },
     {
-      "title": "Why are ⁠gold and silver prices up today, and will precious metals continue to rise or fall again? Full market explainer, analysts insights, market outlook and what should investors do now",
+      "title": "386% return on SGB final redemption date: Gold bond turns Rs 1 lakh investment into Rs 4.86 lakh",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-gold-and-silver-prices-up-today-and-will-precious-metals-continue-to-rise-or-fall-again-full-market-explainer-analysts-insights-market-outlook-and-what-should-investors-do-now/articleshow/130625629.cms",
-      "published": "2026-04-30T06:41:47Z",
-      "description": "Why are ⁠gold and silver prices up today, and will precious metals continue to rise or fall again? Gold and silver prices moved higher after dip buying while markets reacted to inflation risks, oil pr"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/386-return-on-sgb-final-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-4-86-lakh/articleshow/130671187.cms",
+      "published": "2026-05-01T05:59:33Z",
+      "description": "The Reserve Bank of India has announced the final redemption price for Sovereign Gold Bonds SGB 2018-19 Series-I, maturing on May 4, 2026. Investors will receive Rs 14,901 per unit, representing a nea"
     },
     {
-      "title": "Endeavour Reports Strong Q1-2026 Results",
+      "title": "Gold heads for weekly loss on oil-driven inflation concerns",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-heads-for-weekly-loss-on-oil-driven-inflation-concerns/article70927563.ece",
+      "published": "2026-05-01T05:45:48Z",
+      "description": "Spot gold slipped 0.1% to $4,614.98 per ounce at 0436 GMT, marking a potential weekly loss of about 2% and a one-month low on Wednesday"
+    },
+    {
+      "title": "McEwen Inc. and Golden Lake Exploration Inc. Announce Closing of Arrangement",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/01/3285649/37420/en/McEwen-Inc-and-Golden-Lake-Exploration-Inc-Announce-Closing-of-Arrangement.html",
+      "published": "2026-05-01T02:13:00Z",
+      "description": "TORONTO and VANCOUVER, British Columbia, April 30, 2026 (GLOBE NEWSWIRE) -- McEwen Inc. (“McEwen”) (NYSE/TSX:MUX) and Golden Lake Exploration Inc. (“Golden Lake”) (CSE: GLM) (OTCQB: GOLXF) are pleased"
+    },
+    {
+      "title": "Eldorado Gold Reports Solid First Quarter 2026 Financial and Operational Results; Skouries Steadily Advancing Towards First Concentrate Production",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/04/30/3285562/0/en/Eldorado-Gold-Reports-Solid-First-Quarter-2026-Financial-and-Operational-Results-Skouries-Steadily-Advancing-Towards-First-Concentrate-Production.html",
+      "published": "2026-04-30T21:12:00Z",
+      "description": "(All amounts expressed in U.S. dollars unless otherwise noted)  VANCOUVER, British Columbia, April  30, 2026  (GLOBE NEWSWIRE) -- Eldorado Gold Corporation..."
+    },
+    {
+      "title": "TomaGold Announces Closing of First Tranche of Private Placement Featuring Strategic Investment from SIDEX and NQIM",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/endeavour-reports-strong-q1-2026-results",
-      "published": "2026-04-30T06:02:29Z",
-      "description": "ENDEAVOUR REPORTS STRONG Q1-2026 RESULTSFY-2026 guidance on track • Record Q1-2026 adjusted EBITDA of $880m • Record Q1-2026 free cash flow of $613m OPERATIONAL AND FINANCIAL HIGHLIGHTS ● Q1-2026 prod"
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/tomagold-announces-closing-of-first-tranche-of-private-placement-featuring-strategic-investment-from-sidex-and-nqim",
+      "published": "2026-04-30T21:05:43Z",
+      "description": "MONTREAL — TOMAGOLD CORPORATION (TSXV: LOT; OTCPK: TOGOF) (“TomaGold” or the “Company”) is pleased to announce the closing of the first tranche (the “First Tranche”) of its previously announced non-br"
     },
     {
-      "title": "Silver rises Rs 2,700, gold near Rs 1.50 lakh as US Fed holds rate; Iran war uncertainty caps gains. What should you do?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-30-april-2026-silver-rises-rs-2700-gold-near-rs-1-50-lakh-as-us-fed-holds-rate-iran-war-uncertainty-caps-gains-what-should-you-do/articleshow/130623181.cms",
-      "published": "2026-04-30T04:36:58Z",
-      "description": "Gold and silver prices edged higher on Thursday, recovering from oversold levels but facing headwinds from persistent inflation concerns and elevated oil prices. The Federal Reserve's recent decision "
+      "title": "Giga Metals Completes First Tranche of Non-Brokered Private Placement",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/giga-metals-completes-first-tranche-of-non-brokered-private-placement-2",
+      "published": "2026-04-30T20:32:00Z",
+      "description": "NOT FOR DISTRIBUTION TO U.S. NEWSWIRES OR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, April 30, 2026 (GLOBE NEWSWIRE) — Giga Metals Corp. (“Giga Metals” or the “Company”) (TSX-V: G"
     },
     {
-      "title": "半日主力资金加仓电子股，抛售电力设备股",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3788781865294852",
-      "published": "2026-04-30T03:48:13Z",
-      "description": "主力资金早间净流入电子、有色金属、国防军工等板块，仅净流出电力设备、公用事业、通信板块。具体到个股来看，寒武纪、芯原股份、中国长城获净流入30.11亿元、25.61亿元、21.93亿元。净流出方面，工业富联、贵州茅台、华工科技遭抛售14.55亿元、12.55亿元、12.48亿元。（第一财经）"
-    },
-    {
-      "title": "Vedanta to have special trading session for demerger today. What to expect",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-to-have-special-trading-session-for-demerger-today-what-to-expect/articleshow/130612102.cms",
-      "published": "2026-04-30T02:30:00Z",
-      "description": "Vedanta shares will trade ex-demerger today. A special session will adjust prices. Four new entities will list soon. This restructuring aims to unlock value. Investors should focus on future listings."
-    },
-    {
-      "title": "China's Rare Earth Leverage Explained in 3 Shocking Charts",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Energy/Energy-General/Chinas-Rare-Earth-Leverage-Explained-in-3-Shocking-Charts.html",
-      "published": "2026-04-30T01:00:00Z",
-      "description": "Failed peace talks and the ongoing disruption at the Strait of Hormuz reminded the world what a chokepoint looks like. Oil spiked. The Dow dropped. Investors scrambled for safe havens. Then, just as q"
-    },
-    {
-      "title": "8点1氪丨官方通报“霸王茶姬中喝出水银”；马斯克称创办OpenAI只为拯救人类；三星家族财富一年翻倍至3000亿跃居亚洲第三",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3788573115735299",
-      "published": "2026-04-30T00:19:17Z",
-      "description": "今日热点导览\n <ul>\n <li>四大主播集体离职，东方甄选奖励300名员工超4亿元股份，人均超140万元</li>\n <li>马斯克天价薪酬方案曝光，薪酬目标包括火星殖民以及太空数据中心建设</li>\n <li>5月1日起北京禁飞禁售无人机，大疆在京门店4月29日将下架相关产品</li>\n <li>朋友圈改版，腾讯客服表示会持续优化</li>\n <li>8天预计发送旅客1.58亿人次，铁路 “"
-    },
-    {
-      "title": "Outstanding drilling results from high-grade core to drive impending resource update and economic assessment",
+      "title": "Sprott Physical Copper Trust Announces Approval of Mutual Fund Restructuring by Unitholders",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/29/3284378/0/en/Outstanding-drilling-results-from-high-grade-core-to-drive-impending-resource-update-and-economic-assessment.html",
-      "published": "2026-04-29T23:17:00Z",
-      "description": "Resource update set for this quarter will feed into the preliminary economic assessment; Sale of Pickle Crow gold project to unlock value for shareholders Resource update set for this quarter will fee"
+      "url": "https://www.globenewswire.com/news-release/2026/04/30/3285304/35395/en/Sprott-Physical-Copper-Trust-Announces-Approval-of-Mutual-Fund-Restructuring-by-Unitholders.html",
+      "published": "2026-04-30T17:11:00Z",
+      "description": "Trust Expected to Begin Trading on NYSE Arca on May 4, 2026  Enhanced Monthly Physical Redemption Feature  This press release constitutes a “designated..."
     },
     {
-      "title": "Centerra Gold Reports First Quarter 2026 Results; Strong Free Cash Flow Drives Increased Cash Balance, Supporting Self-Funded Growth Strategy and Shareholder Returns",
+      "title": "Umicore: Strong start of the year sets Umicore up for solid 2026 performance",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/04/29/3284338/0/en/Centerra-Gold-Reports-First-Quarter-2026-Results-Strong-Free-Cash-Flow-Drives-Increased-Cash-Balance-Supporting-Self-Funded-Growth-Strategy-and-Shareholder-Returns.html",
-      "published": "2026-04-29T21:00:00Z",
-      "description": "This news release contains forward-looking information about expected future events that is subject to risks and assumptions set out in the “Cautionary Statement on Forward-Looking Information” below."
+      "url": "https://www.globenewswire.com/news-release/2026/04/30/3285177/0/en/Umicore-Strong-start-of-the-year-sets-Umicore-up-for-solid-2026-performance.html",
+      "published": "2026-04-30T15:40:00Z",
+      "description": "Strong start of the year sets Umicore up for solid 2026 performance  Q1 2026 performance  Umicore delivered a strong performance in the first quarter of..."
+    },
+    {
+      "title": "Metals miner Lumina ends trading day flat after Toronto IPO",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/commodities/mining/lumina-shares-teeter-toronto-ipo",
+      "published": "2026-04-30T14:52:24Z",
+      "description": "Lumina shares ended the trading day right where it started after it and one of its shareholders raised $406.2 million in an IPO. Read more."
     }
   ],
   "tweets": []
