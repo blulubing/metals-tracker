@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-03 07:52:00 UTC",
+  "updated_at": "2026-05-04 08:21:26 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4614.1,
+      "price_usd": 4577.45,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 75.35,
+      "price_usd": 74.31,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1987.3,
+      "price_usd": 1958.1,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1527,
+      "price_usd": 1497.94,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,18 +76,11 @@
   ],
   "news": [
     {
-      "title": "Gold consolidates in $4,600-$4,800 range for almost 2 months. A big rally brewing in May?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-consolidates-in-4600-4800-range-for-almost-2-months-a-big-rally-brewing-in-may/articleshow/130711353.cms",
-      "published": "2026-05-02T06:15:59Z",
-      "description": "Gold prices remain range-bound despite geopolitical tensions, reflecting conflicting macro forces such as high interest rates and a strong dollar. Analysts suggest patience, with no clear trend yet. A"
-    },
-    {
-      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on May 2 in Delhi, Mumbai, Pune, others",
+      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 3 May in Delhi, Mumbai, Kolkata, others",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/gold-silver-prices-today-check-retail-rates-of-24k-22k-gold-999-silver-on-may-2-in-delhi-mumbai-pune-others-11777693657711.html",
-      "published": "2026-05-02T04:34:00Z",
-      "description": "Gold and silver prices remained stable in India's retail market on Saturday, May 2. Check retail rates of 24K, 22K gold, 999 silver today in major cities of the country."
+      "url": "https://www.livemint.com/money/gold-silver-prices-today-check-retail-rates-of-24k-22k-gold-999-silver-on-3-may-in-delhi-mumbai-kolkata-others-11777784104409.html",
+      "published": "2026-05-03T05:22:07Z",
+      "description": "On May 3, gold prices in India remained stable, silver prices also showed limited movement. Check retail rates of 24K, 22K gold, 999 silver in your city."
     },
     {
       "title": "Gold turns positive as oil eases on hopes for Iran talks",
@@ -144,6 +137,13 @@
       "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/fortune-minerals-announces-repayment-of-maturing-debts",
       "published": "2026-05-01T14:52:08Z",
       "description": "Principal repaid from proceeds of a convertible security; accrued interest settled through the issuance of common shares NOT FOR DISTRIBUTION TO U.S. NEWSWIRE SERVICES OR DISSEMINATION IN THE UNITED S"
+    },
+    {
+      "title": "追觅造车，从“火箭”开始",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3790587098832137",
+      "published": "2026-05-01T10:26:42Z",
+      "description": "4月27日，旧金山艺术宫，这座美国百年历史地标迎来了一场科技发布会。\n 追觅科技以“DREAME NEXT”为主题的全球发布会周在此开幕，展台上那台红色超跑的尾部，两个固体火箭推进器格外醒目。这便是追觅“星空计划”重磅打造的Nebula NEXT 01 JET Edition，业内称其为“火箭车”。 \n 从车企研发负责人到供应链从业者再到行业分析师，目光都聚焦于此。 \n 这款火箭车搭载专属定制双固"
     }
   ],
   "tweets": []
