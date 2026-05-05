@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-04 08:21:26 UTC",
+  "updated_at": "2026-05-05 07:58:54 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4577.45,
+      "price_usd": 4545.38,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 74.31,
+      "price_usd": 73.34,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1958.1,
+      "price_usd": 1981.9,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1497.94,
+      "price_usd": 1498.03,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,18 +76,67 @@
   ],
   "news": [
     {
-      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 3 May in Delhi, Mumbai, Kolkata, others",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/gold-silver-prices-today-check-retail-rates-of-24k-22k-gold-999-silver-on-3-may-in-delhi-mumbai-kolkata-others-11777784104409.html",
-      "published": "2026-05-03T05:22:07Z",
-      "description": "On May 3, gold prices in India remained stable, silver prices also showed limited movement. Check retail rates of 24K, 22K gold, 999 silver in your city."
+      "title": "Gold edges lower on rate fears, Iran tensions cap downside",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-edges-lower-on-rate-fears-iran-tensions-cap-downside/article70937647.ece",
+      "published": "2026-05-04T07:35:10Z",
+      "description": "Gold prices dip amid rate hike fears and geopolitical tensions, with MCX Gold trading around ₹1,51,000 per 10 grams."
     },
     {
-      "title": "Gold turns positive as oil eases on hopes for Iran talks",
+      "title": "West Bengal election results outs these 43 stocks under spotlight. Will BJP's win be a trigger?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-turns-positive-as-oil-eases-on-hopes-for-iran-talks/articleshow/130709912.cms",
-      "published": "2026-05-02T04:20:47Z",
-      "description": "Gold edged higher after recovering from sharp early losses, supported by hopes of easing Iran tensions and a softer dollar. However, the metal remained on track for a weekly decline amid a hawkish Fed"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/west-bengal-election-results-outs-these-43-stocks-under-spotlight-will-bjps-win-be-a-trigger/articleshow/130766868.cms",
+      "published": "2026-05-04T07:20:12Z",
+      "description": "Early West Bengal election trends putting BJP ahead of TMC have pushed stocks like Bandhan Bank, CESC, and Berger Paints into focus. Investors are watching potential policy shifts, though analysts say"
+    },
+    {
+      "title": "Gold, silver listless",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/gold-silver-listless/article70934408.ece",
+      "published": "2026-05-04T06:34:08Z",
+      "description": "Gold and silver prices remain range-bound in April, influenced by geopolitical tensions and currency fluctuations, with mixed short-term outlooks."
+    },
+    {
+      "title": "Pretend paneer may be on its way out as regulator wields the stick",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/industry/synthetic-paneer-faces-ban-as-india-tightens-dairy-standards-11777794691920.html",
+      "published": "2026-05-04T06:26:16Z",
+      "description": "The government plans to prohibit analogue paneer and similar dairy imitations due to their inferior nutritional value. This decision follows discussions at the FSSAI meeting, aiming to uphold dairy st"
+    },
+    {
+      "title": "Vedanta shares jump 5% after demerger. Should buy, sell or hold the stock?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-jump-5-after-demerger-should-buy-sell-or-hold-the-stock/articleshow/130752532.cms",
+      "published": "2026-05-04T05:03:41Z",
+      "description": "Vedanta shares surged after its demerger into four entities, with analysts highlighting improved business focus but increased concentration risks. Brokerages remain optimistic on upside potential, sup"
+    },
+    {
+      "title": "Gold, silver prices open flat as traders assess Iran war, peace talks, crude oil-led inflation worries. Should you buy today?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-4-may-2026-gold-silver-prices-open-flat-as-traders-assess-iran-war-peace-talks-crude-oil-led-inflation-worries-should-you-buy-today/articleshow/130747549.cms",
+      "published": "2026-05-04T03:54:07Z",
+      "description": "Gold and silver prices opened flat on MCX as investors tracked inflation risks driven by elevated crude oil prices and monitored US-Iran developments. Analysts see consolidation in gold with key suppo"
+    },
+    {
+      "title": "PMET Produces High Recovery (89%) and High Grade Spodumene Concentrate (6.1% Li2O) from Innovative CV5 Sample and DMS Pilot Program",
+      "source": "Associated Press",
+      "url": "https://apnews.com/press-release/pr-newswire/pmet-produces-high-recovery-89-and-high-grade-spodumene-concentrate-6-1-li2o-from-innovative-cv5-sample-and-dms-pilot-program-5f08488dc867725f693e9c2382d86802",
+      "published": "2026-05-04T03:32:28Z",
+      "description": "MONTREAL, May 3, 2026 /CNW/ - May 4, 2026 – Sydney, Australia Highlights The program (termed \"ApplePick\") utilized multiple large, angular, mineralized boulders situated immediately down-ice of the pr"
+    },
+    {
+      "title": "Stock, mutual fund investing from Tier-2, 3 cities grows fast, but limited awareness, advisory gaps remain key concerns",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/stock-mutual-fund-investing-from-tier-2-3-cities-grows-fast-but-limited-awareness-advisory-gaps-remain-concerns/articleshow/130710322.cms",
+      "published": "2026-05-04T01:00:00Z",
+      "description": "Even as individuals from Tier-2/3 cities and beyond are rapidly embracing the world of stocks and mutual funds, gaps in advisory and awareness may leave investors vulnerable."
+    },
+    {
+      "title": "Gold Silver News Releases 2026 Ranking of Gold Investment Companies for Retirement Savers",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/03/3286372/0/en/Gold-Silver-News-Releases-2026-Ranking-of-Gold-Investment-Companies-for-Retirement-Savers.html",
+      "published": "2026-05-03T19:37:00Z",
+      "description": "Los Angeles, USA, May 03, 2026 (GLOBE NEWSWIRE) -- Gold Silver News announced the publication of its refreshed 2026 ranking of the Best Gold Investment Companies for Retirement Savers. The report, pro"
     },
     {
       "title": "9.35万, 威马破产大甩卖",
@@ -95,55 +144,6 @@
       "url": "https://36kr.com/p/3791546608049152",
       "published": "2026-05-02T03:24:44Z",
       "description": "作者 | 冯晓亭 编辑 | 吾人\n 来源 | 融中财经\n 4月28日下午，淘宝阿里拍卖平台上，一场持续近24小时的竞拍结束了。\n 拍卖标的并不复杂——威马新能源汽车采购（上海）有限公司破产清算后，账面上列出的24笔对外应收款项，金额合计127,591,590.42元。起拍价只有100元。100人报名竞拍，经过332次出价、近24小时的激烈角逐，一位竞买人以“9.35万元”成了这笔“亿元债权”的新主"
-    },
-    {
-      "title": "续集没翻车 ，但这次“女魔头”也顶不住了",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3791555958922504",
-      "published": "2026-05-02T02:51:10Z",
-      "description": "图/《穿普拉达的女王2》\n 作者 | 易天天\n 编辑 | Felicia\n 题图 | 《穿普拉达的女王2》\n 再次回到《穿普拉达的女王》系列影片的片场，饰演米兰达的知名演员“梅姨”，也就是梅丽尔·斯特里普，心跳有点加速。\n 眼前是警察为安保设置的重重路障，街对面有数百上千名粉丝等着她和安妮·海瑟薇出现。平时不刷社交媒体的斯特里普，根本没预料到如此阵仗。她被突然推到镜头前，肾上腺素飙升，立刻陷入晕眩"
-    },
-    {
-      "title": "GoldHaven Announces Additional $700,000 Critical Mineral Flow-Through Financing",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/goldhaven-announces-additional-700000-critical-mineral-flow-through-financing",
-      "published": "2026-05-02T01:42:16Z",
-      "description": "VANCOUVER, British Columbia, May 01, 2026 (GLOBE NEWSWIRE) — GoldHaven Resources Corp. (“GoldHaven” or the “Company“) (CSE: GOH) (OTCQB: GHVNF) (FSE: 4QS) is pleased to announce that it intends to com"
-    },
-    {
-      "title": "Best Place to Sell Gold in Anaheim Hills? Glitter Bug Gold Buyers Opens New Location Serving North Orange County with Highest Payouts",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/01/3286251/0/en/Best-Place-to-Sell-Gold-in-Anaheim-Hills-Glitter-Bug-Gold-Buyers-Opens-New-Location-Serving-North-Orange-County-with-Highest-Payouts.html",
-      "published": "2026-05-01T21:04:00Z",
-      "description": "Anaheim, CA, May 01, 2026 (GLOBE NEWSWIRE) -- As more people search online and through AI tools for answers to questions like “Where is the best place to sell gold near me?” and “Who pays the most for"
-    },
-    {
-      "title": "Why are gold and silver prices up today, and will gold reach $4,800 and silver touch $90 again? Analysts insights, market outlook and what should investors do now",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-gold-and-silver-prices-up-today-and-will-gold-reach-4800-and-silver-touch-90-again-analysts-insights-market-outlook-and-what-should-investors-do-now/articleshow/130702961.cms",
-      "published": "2026-05-01T21:01:20Z",
-      "description": "Why are gold and silver prices up today, and will gold reach $4,800 and silver touch $90 again? Gold and silver prices moved higher after oil prices fell and the US dollar weakened. News about Iran se"
-    },
-    {
-      "title": "Copper costs turn negative for Southern, Vale as gold and silver byproducts soar",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/commodities/mining/copper-costs-turn-negative",
-      "published": "2026-05-01T19:51:24Z",
-      "description": "For copper miners Southern Copper Corp. and Vale SA, the cost of producing the red metal has turned negative. Find out more here"
-    },
-    {
-      "title": "Fortune Minerals Announces Repayment of Maturing Debts",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/fortune-minerals-announces-repayment-of-maturing-debts",
-      "published": "2026-05-01T14:52:08Z",
-      "description": "Principal repaid from proceeds of a convertible security; accrued interest settled through the issuance of common shares NOT FOR DISTRIBUTION TO U.S. NEWSWIRE SERVICES OR DISSEMINATION IN THE UNITED S"
-    },
-    {
-      "title": "追觅造车，从“火箭”开始",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3790587098832137",
-      "published": "2026-05-01T10:26:42Z",
-      "description": "4月27日，旧金山艺术宫，这座美国百年历史地标迎来了一场科技发布会。\n 追觅科技以“DREAME NEXT”为主题的全球发布会周在此开幕，展台上那台红色超跑的尾部，两个固体火箭推进器格外醒目。这便是追觅“星空计划”重磅打造的Nebula NEXT 01 JET Edition，业内称其为“火箭车”。 \n 从车企研发负责人到供应链从业者再到行业分析师，目光都聚焦于此。 \n 这款火箭车搭载专属定制双固"
     }
   ],
   "tweets": []
