@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-05-05 07:58:54 UTC",
+  "updated_at": "2026-05-06 08:12:39 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4545.38,
+      "price_usd": 4681.41,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 73.34,
+      "price_usd": 76.19,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1981.9,
+      "price_usd": 2010.5,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1498.03,
+      "price_usd": 1525.5,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.41,
+      "price_usd": 0.42,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,13 +40,13 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.6,
+      "price_usd": 0.62,
       "unit": "USD/吨 mt"
     },
     {
       "code": "zinc",
       "name": "锌 Zinc",
-      "price_usd": 0.1,
+      "price_usd": 0.11,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.6,
+      "price_usd": 0.61,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.4,
+      "price_usd": 0.41,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Gold edges lower on rate fears, Iran tensions cap downside",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-edges-lower-on-rate-fears-iran-tensions-cap-downside/article70937647.ece",
-      "published": "2026-05-04T07:35:10Z",
-      "description": "Gold prices dip amid rate hike fears and geopolitical tensions, with MCX Gold trading around ₹1,51,000 per 10 grams."
-    },
-    {
-      "title": "West Bengal election results outs these 43 stocks under spotlight. Will BJP's win be a trigger?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/west-bengal-election-results-outs-these-43-stocks-under-spotlight-will-bjps-win-be-a-trigger/articleshow/130766868.cms",
-      "published": "2026-05-04T07:20:12Z",
-      "description": "Early West Bengal election trends putting BJP ahead of TMC have pushed stocks like Bandhan Bank, CESC, and Berger Paints into focus. Investors are watching potential policy shifts, though analysts say"
-    },
-    {
-      "title": "Gold, silver listless",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/gold-silver-listless/article70934408.ece",
-      "published": "2026-05-04T06:34:08Z",
-      "description": "Gold and silver prices remain range-bound in April, influenced by geopolitical tensions and currency fluctuations, with mixed short-term outlooks."
-    },
-    {
-      "title": "Pretend paneer may be on its way out as regulator wields the stick",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/industry/synthetic-paneer-faces-ban-as-india-tightens-dairy-standards-11777794691920.html",
-      "published": "2026-05-04T06:26:16Z",
-      "description": "The government plans to prohibit analogue paneer and similar dairy imitations due to their inferior nutritional value. This decision follows discussions at the FSSAI meeting, aiming to uphold dairy st"
-    },
-    {
-      "title": "Vedanta shares jump 5% after demerger. Should buy, sell or hold the stock?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-jump-5-after-demerger-should-buy-sell-or-hold-the-stock/articleshow/130752532.cms",
-      "published": "2026-05-04T05:03:41Z",
-      "description": "Vedanta shares surged after its demerger into four entities, with analysts highlighting improved business focus but increased concentration risks. Brokerages remain optimistic on upside potential, sup"
-    },
-    {
-      "title": "Gold, silver prices open flat as traders assess Iran war, peace talks, crude oil-led inflation worries. Should you buy today?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-4-may-2026-gold-silver-prices-open-flat-as-traders-assess-iran-war-peace-talks-crude-oil-led-inflation-worries-should-you-buy-today/articleshow/130747549.cms",
-      "published": "2026-05-04T03:54:07Z",
-      "description": "Gold and silver prices opened flat on MCX as investors tracked inflation risks driven by elevated crude oil prices and monitored US-Iran developments. Analysts see consolidation in gold with key suppo"
-    },
-    {
-      "title": "PMET Produces High Recovery (89%) and High Grade Spodumene Concentrate (6.1% Li2O) from Innovative CV5 Sample and DMS Pilot Program",
-      "source": "Associated Press",
-      "url": "https://apnews.com/press-release/pr-newswire/pmet-produces-high-recovery-89-and-high-grade-spodumene-concentrate-6-1-li2o-from-innovative-cv5-sample-and-dms-pilot-program-5f08488dc867725f693e9c2382d86802",
-      "published": "2026-05-04T03:32:28Z",
-      "description": "MONTREAL, May 3, 2026 /CNW/ - May 4, 2026 – Sydney, Australia Highlights The program (termed \"ApplePick\") utilized multiple large, angular, mineralized boulders situated immediately down-ice of the pr"
-    },
-    {
-      "title": "Stock, mutual fund investing from Tier-2, 3 cities grows fast, but limited awareness, advisory gaps remain key concerns",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/stock-mutual-fund-investing-from-tier-2-3-cities-grows-fast-but-limited-awareness-advisory-gaps-remain-concerns/articleshow/130710322.cms",
-      "published": "2026-05-04T01:00:00Z",
-      "description": "Even as individuals from Tier-2/3 cities and beyond are rapidly embracing the world of stocks and mutual funds, gaps in advisory and awareness may leave investors vulnerable."
-    },
-    {
-      "title": "Gold Silver News Releases 2026 Ranking of Gold Investment Companies for Retirement Savers",
+      "title": "SPEC Releases the SPEC CPU 2026 Benchmark Suites to Address the Latest Advances in CPU, Memory, and Compiler Technology",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/03/3286372/0/en/Gold-Silver-News-Releases-2026-Ranking-of-Gold-Investment-Companies-for-Retirement-Savers.html",
-      "published": "2026-05-03T19:37:00Z",
-      "description": "Los Angeles, USA, May 03, 2026 (GLOBE NEWSWIRE) -- Gold Silver News announced the publication of its refreshed 2026 ranking of the Best Gold Investment Companies for Retirement Savers. The report, pro"
+      "url": "https://www.globenewswire.com/news-release/2026/05/05/3287387/0/en/SPEC-Releases-the-SPEC-CPU-2026-Benchmark-Suites-to-Address-the-Latest-Advances-in-CPU-Memory-and-Compiler-Technology.html",
+      "published": "2026-05-05T08:00:00Z",
+      "description": "Updated suites reflect a multi-year collaboration between competing organizations to provide unbiased performance benchmarks for understanding real-world application performance scenarios Updated suit"
     },
     {
-      "title": "9.35万, 威马破产大甩卖",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3791546608049152",
-      "published": "2026-05-02T03:24:44Z",
-      "description": "作者 | 冯晓亭 编辑 | 吾人\n 来源 | 融中财经\n 4月28日下午，淘宝阿里拍卖平台上，一场持续近24小时的竞拍结束了。\n 拍卖标的并不复杂——威马新能源汽车采购（上海）有限公司破产清算后，账面上列出的24笔对外应收款项，金额合计127,591,590.42元。起拍价只有100元。100人报名竞拍，经过332次出价、近24小时的激烈角逐，一位竞买人以“9.35万元”成了这笔“亿元债权”的新主"
+      "title": "‘₹4 crore flat, living like a prisoner’: Ghaziabad high-rise residents flag bad roads, poor AQI, faulty fire lift in viral video. Watch",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/4-crore-flat-living-like-a-prisoner-ghaziabad-high-rise-residents-flag-bad-roads-poor-aqi-faulty-fire-lift-in-viral-video-watch/articleshow/130818258.cms",
+      "published": "2026-05-05T07:53:35Z",
+      "description": "Ghaziabad high registry charges but no facilities: A viral video from Ghaziabad highlights the stark reality of luxury housing, questioning if ₹2-4 crore apartments offer a life worth the price. Resid"
+    },
+    {
+      "title": "Global Markets | Australian shares fall as RBA rate hike hits financials, miners",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-fall-as-rba-rate-hike-hits-financials-miners/articleshow/130820185.cms",
+      "published": "2026-05-05T07:32:39Z",
+      "description": "Australian shares saw a slight dip on Tuesday. The Reserve Bank of Australia increased its cash rate by 25 basis points. This move was anticipated by markets. Inflation remains a concern due to rising"
+    },
+    {
+      "title": "How US’ dumb money became most influential force on Wall Street, explains Ruchir Sharma",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/how-us-dumb-money-became-most-influential-force-on-wall-street-explains-ruchir-sharma/articleshow/130819491.cms",
+      "published": "2026-05-05T07:17:37Z",
+      "description": "Retail investors in the US have shifted from being seen as “dumb money” to a powerful market force, consistently profiting by buying dips. Their resilience has been strong enough to influence professi"
+    },
+    {
+      "title": "McEwen Files NI 43-101 Technical Report for the Tartan Mine Project in Manitoba",
+      "source": "Associated Press",
+      "url": "https://apnews.com/press-release/globenewswire-mobile/mcewen-files-ni-43-101-technical-report-for-the-tartan-mine-project-in-manitoba-66f0620eda27a5c70a06e94213de4c08",
+      "published": "2026-05-05T04:27:46Z",
+      "description": "TORONTO, May 04, 2026 (GLOBE NEWSWIRE) -- McEwen Inc. (NYSE/TSX: MUX) (“McEwen” or the “Company”) is pleased to announce that it has filed on SEDAR+ an independent technical report prepared in accorda"
+    },
+    {
+      "title": "Gold rises marginally, silver opens flat as traders assess Iran war peace talks. Key levels to watch today",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-5-may-2026-gold-rises-marginally-silver-opens-flat-as-traders-assess-iran-war-peace-talks-key-levels-to-watch-today/articleshow/130815759.cms",
+      "published": "2026-05-05T04:09:52Z",
+      "description": "Gold and silver prices remained largely flat on MCX as investors tracked U.S.-Iran tensions and inflation risks. Elevated crude oil prices and global uncertainty kept markets volatile. Analysts expect"
+    },
+    {
+      "title": "Sprott Physical Copper Trust Updates Its “At-The-Market” Equity Program in Connection with NYSE Arca Listing",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/04/3287258/0/en/Sprott-Physical-Copper-Trust-Updates-Its-At-The-Market-Equity-Program-in-Connection-with-NYSE-Arca-Listing.html",
+      "published": "2026-05-04T22:51:00Z",
+      "description": "TORONTO, May 04, 2026 (GLOBE NEWSWIRE) -- Sprott Asset Management LP (“Sprott Asset Management”), a wholly-owned subsidiary of Sprott Inc. (“Sprott”) (NYSE/TSX: SII), on behalf of the Sprott Physical "
+    },
+    {
+      "title": "Enviri Corporation Announces Results of the Special Meeting of Stockholders",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/04/3287210/625/en/Enviri-Corporation-Announces-Results-of-the-Special-Meeting-of-Stockholders.html",
+      "published": "2026-05-04T21:09:00Z",
+      "description": "PHILADELPHIA, May 04, 2026 (GLOBE NEWSWIRE) -- Enviri Corporation (NYSE: NVRI) announced that its shareholders today voted to approve the Company’s pending sale of its Clean Earth division to Veolia E"
+    },
+    {
+      "title": "Ero Copper Reports First Quarter 2026 Operating and Financial Results",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/04/3287205/0/en/Ero-Copper-Reports-First-Quarter-2026-Operating-and-Financial-Results.html",
+      "published": "2026-05-04T21:05:00Z",
+      "description": "(all amounts in US dollars, unless otherwise noted)  VANCOUVER, British Columbia, May  04, 2026  (GLOBE NEWSWIRE) -- Ero Copper Corp. (TSX: ERO, NYSE: ERO)..."
+    },
+    {
+      "title": "Gold Silver News Releases “Gold IRA Scams 2026” Report on Risks and Verifying Trusted Providers",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/04/3287099/0/en/Gold-Silver-News-Releases-Gold-IRA-Scams-2026-Report-on-Risks-and-Verifying-Trusted-Providers.html",
+      "published": "2026-05-04T19:53:00Z",
+      "description": "Los Angeles, USA, May 04, 2026 (GLOBE NEWSWIRE) -- Gold Silver News today announced the release of a new research report analyzing the rise of Gold IRA scams and the increasing need for independent ve"
     }
   ],
   "tweets": []
