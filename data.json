@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-05-06 08:12:39 UTC",
+  "updated_at": "2026-05-07 08:23:09 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4681.41,
+      "price_usd": 4737.03,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 76.19,
+      "price_usd": 79.65,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2010.5,
+      "price_usd": 2087.93,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1525.5,
+      "price_usd": 1555.84,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.42,
+      "price_usd": 0.43,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.62,
+      "price_usd": 0.6,
       "unit": "USD/吨 mt"
     },
     {
@@ -58,7 +58,7 @@
     {
       "code": "lme_zinc",
       "name": "LME锌 Zinc 3M",
-      "price_usd": 0.1,
+      "price_usd": 0.11,
       "unit": "USD/吨 mt"
     },
     {
@@ -70,80 +70,80 @@
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.41,
+      "price_usd": 0.42,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "SPEC Releases the SPEC CPU 2026 Benchmark Suites to Address the Latest Advances in CPU, Memory, and Compiler Technology",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/05/3287387/0/en/SPEC-Releases-the-SPEC-CPU-2026-Benchmark-Suites-to-Address-the-Latest-Advances-in-CPU-Memory-and-Compiler-Technology.html",
-      "published": "2026-05-05T08:00:00Z",
-      "description": "Updated suites reflect a multi-year collaboration between competing organizations to provide unbiased performance benchmarks for understanding real-world application performance scenarios Updated suit"
+      "title": "Standstill in Indian Gold Imports Drags On and Threatens Supply",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/standstill-in-indian-gold-imports-drags-on-and-threatens-supply",
+      "published": "2026-05-06T08:17:31Z",
+      "description": "Indian banks have been unable to import gold and silver for five weeks, an unusually long halt that’s pushing up domestic prices and threatening shortages in the world’s second-biggest bullion market."
     },
     {
-      "title": "‘₹4 crore flat, living like a prisoner’: Ghaziabad high-rise residents flag bad roads, poor AQI, faulty fire lift in viral video. Watch",
+      "title": "The inflation-growth double whammy: how investors should rebalance now",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/inflationgrowth-double-whammy-investors-rebalance-debt-equities-real-assets-global-exposure-11777987552664.html",
+      "published": "2026-05-06T07:38:30Z",
+      "description": "With inflation rising and growth forecasts trimmed, investors face a “double whammy.” Here’s how to recalibrate portfolios across debt, equities, real assets and global exposure."
+    },
+    {
+      "title": "Muthoot Finance registers ₹1.5 trillion market cap milestone",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/muthoot-finance-registers-15-trillion-market-cap-milestone/article70946085.ece",
+      "published": "2026-05-06T07:14:29Z",
+      "description": "Demonstrating consistent growth and strong financial performance, the market capitalization of Muthoot Finance Ltd has surged from approximately ₹60 billion in 2011 to over ₹1.5 trillion, an increase "
+    },
+    {
+      "title": "Transaction in Own Shares",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/06/3288500/0/en/Transaction-in-Own-Shares.html",
+      "published": "2026-05-06T06:00:00Z",
+      "description": "ENDEAVOUR ANNOUNCES TRANSACTION IN OWN SHARES  London, 06 May 2026 – Endeavour Mining plc (LSE:EDV, TSX:EDV) (“the Company”) announces it has purchased..."
+    },
+    {
+      "title": "Sensex, Nifty rise on ceasefire hopes; L&T drags as IndiGo, M&M lead gains",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-rise-on-ceasefire-hopes-lt-drags-as-indigo-mm-lead-gains/article70945561.ece",
+      "published": "2026-05-06T04:14:19Z",
+      "description": "Sensex and Nifty rise on ceasefire optimism, led by IndiGo and M&M, despite L&T dragging down gains."
+    },
+    {
+      "title": "科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3797276726893569",
+      "published": "2026-05-06T04:04:59Z",
+      "description": "2026年4月28日，一加正式发布「颗秒神器」一加 Ace 6 至尊版。作为游戏性能旗舰最强之选，一加 Ace 6 至尊版搭载当代旗舰芯天玑9500移动平台，并独家写入一加自研芯片级游戏技术——全新一代「风驰游戏内核」，以持续满帧的165超高帧、颗秒级精准的最强触控、感官更沉浸的满配战术工具，重新定义行业最强射击游戏体验。一加 Ace 6 至尊版配备旗舰同款「冰河散热系统」、同档领先的 8600m"
+    },
+    {
+      "title": "Silver rockets Rs 7,700/kg, gold rises Rs 2,500/10 gm as Iran war peace talks, falling oil prices spur buying. Big rally ahead?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/4-crore-flat-living-like-a-prisoner-ghaziabad-high-rise-residents-flag-bad-roads-poor-aqi-faulty-fire-lift-in-viral-video-watch/articleshow/130818258.cms",
-      "published": "2026-05-05T07:53:35Z",
-      "description": "Ghaziabad high registry charges but no facilities: A viral video from Ghaziabad highlights the stark reality of luxury housing, questioning if ₹2-4 crore apartments offer a life worth the price. Resid"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-rockets-rs-7700/kg-gold-rises-rs-2500/10-gm-as-iran-war-peace-talks-falling-oil-prices-spur-buying-big-rally-ahead/articleshow/130843595.cms",
+      "published": "2026-05-06T03:57:13Z",
+      "description": "Gold and silver opened sharply higher on MCX on Wednesday as a weaker dollar and easing oil prices eased inflation concerns and rate worries. Sentiment also improved on optimism around a possible US-I"
     },
     {
-      "title": "Global Markets | Australian shares fall as RBA rate hike hits financials, miners",
+      "title": "Gold jumps on weaker dollar, Middle East peace hopes",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-australian-shares-fall-as-rba-rate-hike-hits-financials-miners/articleshow/130820185.cms",
-      "published": "2026-05-05T07:32:39Z",
-      "description": "Australian shares saw a slight dip on Tuesday. The Reserve Bank of Australia increased its cash rate by 25 basis points. This move was anticipated by markets. Inflation remains a concern due to rising"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-jumps-on-weaker-dollar-middle-east-peace-hopes/articleshow/130842162.cms",
+      "published": "2026-05-06T02:05:13Z",
+      "description": "Gold prices surged over 1% as a weaker dollar and easing oil prices reduced inflation concerns, fueled by hopes of a U.S.-Iran peace deal. President Trump's decision to pause a Strait of Hormuz operat"
     },
     {
-      "title": "How US’ dumb money became most influential force on Wall Street, explains Ruchir Sharma",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/how-us-dumb-money-became-most-influential-force-on-wall-street-explains-ruchir-sharma/articleshow/130819491.cms",
-      "published": "2026-05-05T07:17:37Z",
-      "description": "Retail investors in the US have shifted from being seen as “dumb money” to a powerful market force, consistently profiting by buying dips. Their resilience has been strong enough to influence professi"
+      "title": "8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3797041945304327",
+      "published": "2026-05-05T23:55:08Z",
+      "description": "今日热点导览\n <ul>\n <li>分析师称iPhone 18 Pro定价策略激进，起步价8999元 </li>\n <li>胖东来郑州店注册成立，预计今年10月开业 </li>\n <li>保时捷卖掉布加迪，预计2026年销量下滑至3万辆 </li>\n <li>马斯克就推特持股披露诉讼与美证监会达成和解 </li>\n <li>三星继承人已付清12万亿韩元遗产税</li>\n </ul>\n TOP 3 "
     },
     {
-      "title": "McEwen Files NI 43-101 Technical Report for the Tartan Mine Project in Manitoba",
-      "source": "Associated Press",
-      "url": "https://apnews.com/press-release/globenewswire-mobile/mcewen-files-ni-43-101-technical-report-for-the-tartan-mine-project-in-manitoba-66f0620eda27a5c70a06e94213de4c08",
-      "published": "2026-05-05T04:27:46Z",
-      "description": "TORONTO, May 04, 2026 (GLOBE NEWSWIRE) -- McEwen Inc. (NYSE/TSX: MUX) (“McEwen” or the “Company”) is pleased to announce that it has filed on SEDAR+ an independent technical report prepared in accorda"
-    },
-    {
-      "title": "Gold rises marginally, silver opens flat as traders assess Iran war peace talks. Key levels to watch today",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-5-may-2026-gold-rises-marginally-silver-opens-flat-as-traders-assess-iran-war-peace-talks-key-levels-to-watch-today/articleshow/130815759.cms",
-      "published": "2026-05-05T04:09:52Z",
-      "description": "Gold and silver prices remained largely flat on MCX as investors tracked U.S.-Iran tensions and inflation risks. Elevated crude oil prices and global uncertainty kept markets volatile. Analysts expect"
-    },
-    {
-      "title": "Sprott Physical Copper Trust Updates Its “At-The-Market” Equity Program in Connection with NYSE Arca Listing",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/04/3287258/0/en/Sprott-Physical-Copper-Trust-Updates-Its-At-The-Market-Equity-Program-in-Connection-with-NYSE-Arca-Listing.html",
-      "published": "2026-05-04T22:51:00Z",
-      "description": "TORONTO, May 04, 2026 (GLOBE NEWSWIRE) -- Sprott Asset Management LP (“Sprott Asset Management”), a wholly-owned subsidiary of Sprott Inc. (“Sprott”) (NYSE/TSX: SII), on behalf of the Sprott Physical "
-    },
-    {
-      "title": "Enviri Corporation Announces Results of the Special Meeting of Stockholders",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/04/3287210/625/en/Enviri-Corporation-Announces-Results-of-the-Special-Meeting-of-Stockholders.html",
-      "published": "2026-05-04T21:09:00Z",
-      "description": "PHILADELPHIA, May 04, 2026 (GLOBE NEWSWIRE) -- Enviri Corporation (NYSE: NVRI) announced that its shareholders today voted to approve the Company’s pending sale of its Clean Earth division to Veolia E"
-    },
-    {
-      "title": "Ero Copper Reports First Quarter 2026 Operating and Financial Results",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/04/3287205/0/en/Ero-Copper-Reports-First-Quarter-2026-Operating-and-Financial-Results.html",
-      "published": "2026-05-04T21:05:00Z",
-      "description": "(all amounts in US dollars, unless otherwise noted)  VANCOUVER, British Columbia, May  04, 2026  (GLOBE NEWSWIRE) -- Ero Copper Corp. (TSX: ERO, NYSE: ERO)..."
-    },
-    {
-      "title": "Gold Silver News Releases “Gold IRA Scams 2026” Report on Risks and Verifying Trusted Providers",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/04/3287099/0/en/Gold-Silver-News-Releases-Gold-IRA-Scams-2026-Report-on-Risks-and-Verifying-Trusted-Providers.html",
-      "published": "2026-05-04T19:53:00Z",
-      "description": "Los Angeles, USA, May 04, 2026 (GLOBE NEWSWIRE) -- Gold Silver News today announced the release of a new research report analyzing the rise of Gold IRA scams and the increasing need for independent ve"
+      "title": "DPM Metals Achieves Record Free Cash Flow as Vareš Ramp-up Drives Production Growth; Reports First Quarter 2026 Financial Results",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/dpm-metals-achieves-record-free-cash-flow-as-vares-ramp-up-drives-production-growth-reports-first-quarter-2026-financial-results",
+      "published": "2026-05-05T21:03:30Z",
+      "description": "TORONTO, May 05, 2026 (GLOBE NEWSWIRE) — DPM Metals Inc. (TSX: DPM, ASX: DPM) (ARBN: 689370894) (“DPM” or the “Company”) announced its operating and financial results for the first quarter ended March"
     }
   ],
   "tweets": []
