@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-07 08:23:09 UTC",
+  "updated_at": "2026-05-08 07:20:15 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4737.03,
+      "price_usd": 4715.02,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 79.65,
+      "price_usd": 79.81,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2087.93,
+      "price_usd": 2050.71,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1555.84,
+      "price_usd": 1504.2,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.6,
+      "price_usd": 0.59,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.61,
+      "price_usd": 0.59,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Standstill in Indian Gold Imports Drags On and Threatens Supply",
+      "title": "OceanaGold Hunts for More Deals to Add to Strong Growth Pipeline",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/standstill-in-indian-gold-imports-drags-on-and-threatens-supply",
-      "published": "2026-05-06T08:17:31Z",
-      "description": "Indian banks have been unable to import gold and silver for five weeks, an unusually long halt that’s pushing up domestic prices and threatening shortages in the world’s second-biggest bullion market."
+      "url": "https://financialpost.com/pmn/business-pmn/oceanagold-hunts-for-more-deals-to-add-to-strong-growth-pipeline",
+      "published": "2026-05-07T07:12:15Z",
+      "description": "Canadian gold miner OceanaGold Corp. is aggressively canvassing options to buy other producers and existing operations while also pursuing a strong organic growth strategy, with two new mines in devel"
     },
     {
-      "title": "The inflation-growth double whammy: how investors should rebalance now",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/inflationgrowth-double-whammy-investors-rebalance-debt-equities-real-assets-global-exposure-11777987552664.html",
-      "published": "2026-05-06T07:38:30Z",
-      "description": "With inflation rising and growth forecasts trimmed, investors face a “double whammy.” Here’s how to recalibrate portfolios across debt, equities, real assets and global exposure."
+      "title": "SciBase: Interim report",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/scibase-interim-report-302765276.html",
+      "published": "2026-05-07T07:04:00Z",
+      "description": "STOCKHOLM, May 7, 2026 /PRNewswire/ -- January 1 - March 31, 2026 The first quarter in figures Net sales were TSEK 14,278 (8,856), +61%, cleared for currency effects +80%. The loss after tax was TSEK "
     },
     {
-      "title": "Muthoot Finance registers ₹1.5 trillion market cap milestone",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/muthoot-finance-registers-15-trillion-market-cap-milestone/article70946085.ece",
-      "published": "2026-05-06T07:14:29Z",
-      "description": "Demonstrating consistent growth and strong financial performance, the market capitalization of Muthoot Finance Ltd has surged from approximately ₹60 billion in 2011 to over ₹1.5 trillion, an increase "
-    },
-    {
-      "title": "Transaction in Own Shares",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/06/3288500/0/en/Transaction-in-Own-Shares.html",
-      "published": "2026-05-06T06:00:00Z",
-      "description": "ENDEAVOUR ANNOUNCES TRANSACTION IN OWN SHARES  London, 06 May 2026 – Endeavour Mining plc (LSE:EDV, TSX:EDV) (“the Company”) announces it has purchased..."
-    },
-    {
-      "title": "Sensex, Nifty rise on ceasefire hopes; L&T drags as IndiGo, M&M lead gains",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-rise-on-ceasefire-hopes-lt-drags-as-indigo-mm-lead-gains/article70945561.ece",
-      "published": "2026-05-06T04:14:19Z",
-      "description": "Sensex and Nifty rise on ceasefire optimism, led by IndiGo and M&M, despite L&T dragging down gains."
-    },
-    {
-      "title": "科氪 | 性能操控赛主机、续航全能超旗舰，「颗秒神器」一加 Ace 6 至尊版正式发布！",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3797276726893569",
-      "published": "2026-05-06T04:04:59Z",
-      "description": "2026年4月28日，一加正式发布「颗秒神器」一加 Ace 6 至尊版。作为游戏性能旗舰最强之选，一加 Ace 6 至尊版搭载当代旗舰芯天玑9500移动平台，并独家写入一加自研芯片级游戏技术——全新一代「风驰游戏内核」，以持续满帧的165超高帧、颗秒级精准的最强触控、感官更沉浸的满配战术工具，重新定义行业最强射击游戏体验。一加 Ace 6 至尊版配备旗舰同款「冰河散热系统」、同档领先的 8600m"
-    },
-    {
-      "title": "Silver rockets Rs 7,700/kg, gold rises Rs 2,500/10 gm as Iran war peace talks, falling oil prices spur buying. Big rally ahead?",
+      "title": "Why Prada has a devil of a dilemma, but so does India",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-rockets-rs-7700/kg-gold-rises-rs-2500/10-gm-as-iran-war-peace-talks-falling-oil-prices-spur-buying-big-rally-ahead/articleshow/130843595.cms",
-      "published": "2026-05-06T03:57:13Z",
-      "description": "Gold and silver opened sharply higher on MCX on Wednesday as a weaker dollar and easing oil prices eased inflation concerns and rate worries. Sentiment also improved on optimism around a possible US-I"
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/why-prada-has-a-devil-of-a-dilemma-but-so-does-india/articleshow/130882746.cms",
+      "published": "2026-05-07T07:02:20Z",
+      "description": "Prada Kolhapuri controversy: The latest collection from high-fashion label Prada has ignited a firestorm in India again. This comes a year after their initial line caused a big copying row. Now, the b"
     },
     {
-      "title": "Gold jumps on weaker dollar, Middle East peace hopes",
+      "title": "Explained - What NSEs Electronic Gold Receipts mean for yellow metal investors",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-jumps-on-weaker-dollar-middle-east-peace-hopes/articleshow/130842162.cms",
-      "published": "2026-05-06T02:05:13Z",
-      "description": "Gold prices surged over 1% as a weaker dollar and easing oil prices reduced inflation concerns, fueled by hopes of a U.S.-Iran peace deal. President Trump's decision to pause a Strait of Hormuz operat"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-what-nses-electronic-gold-receipts-mean-for-yellow-metal-investors/articleshow/130882997.cms",
+      "published": "2026-05-07T06:41:04Z",
+      "description": "NSE’s Electronic Gold Receipts (EGRs) offer investors a regulated and fully digital way to own and trade physical gold without storage or purity concerns. Backed by SEBI-regulated vaults, EGRs aim to "
     },
     {
-      "title": "8点1氪丨豆包新增付费订阅；抖音集团副总裁回应红果短剧付费；苹果因Siri人工智能功能推迟发布，以2.5亿美元和解诉讼",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3797041945304327",
-      "published": "2026-05-05T23:55:08Z",
-      "description": "今日热点导览\n <ul>\n <li>分析师称iPhone 18 Pro定价策略激进，起步价8999元 </li>\n <li>胖东来郑州店注册成立，预计今年10月开业 </li>\n <li>保时捷卖掉布加迪，预计2026年销量下滑至3万辆 </li>\n <li>马斯克就推特持股披露诉讼与美证监会达成和解 </li>\n <li>三星继承人已付清12万亿韩元遗产税</li>\n </ul>\n TOP 3 "
+      "title": "Gold's safe-haven status under pressure as Iran conflict fails to lift prices: Morgan Stanley",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/golds-safe-haven-status-under-pressure-as-iran-conflict-fails-to-lift-prices-morgan-stanley/articleshow/130882887.cms",
+      "published": "2026-05-07T06:36:56Z",
+      "description": "Gold's traditional reputation as a safe-haven asset is facing fresh scrutiny after prices declined during the ongoing Iran conflict, according to a report by Morgan Stanley."
     },
     {
-      "title": "DPM Metals Achieves Record Free Cash Flow as Vareš Ramp-up Drives Production Growth; Reports First Quarter 2026 Financial Results",
+      "title": "Gold Extends Hefty Gain as US-Iran Hopes Ease Inflation Fears",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/dpm-metals-achieves-record-free-cash-flow-as-vares-ramp-up-drives-production-growth-reports-first-quarter-2026-financial-results",
-      "published": "2026-05-05T21:03:30Z",
-      "description": "TORONTO, May 05, 2026 (GLOBE NEWSWIRE) — DPM Metals Inc. (TSX: DPM, ASX: DPM) (ARBN: 689370894) (“DPM” or the “Company”) announced its operating and financial results for the first quarter ended March"
+      "url": "https://financialpost.com/pmn/business-pmn/gold-extends-hefty-gain-as-us-iran-hopes-ease-inflation-fears",
+      "published": "2026-05-07T06:26:24Z",
+      "description": "Gold extended gains after its biggest daily advance since late March, as optimism over a potential US-Iran deal pressured oil prices and tempered inflation concerns."
+    },
+    {
+      "title": "Vedanta dividend: How the mega demerger will impact payout for 21 lakh shareholders?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-dividend-how-the-mega-demerger-will-impact-payout-for-21-lakh-shareholders/articleshow/130880769.cms",
+      "published": "2026-05-07T05:29:10Z",
+      "description": "Vedanta's mega demerger has spun off four new companies, impacting dividend payouts for its 21 lakh shareholders. While the parent company is expected to remain dividend-paying, its absolute dividend "
+    },
+    {
+      "title": "Silver rockets Rs 4,000/kg, Gold near Rs 1.53 lakh/10g as Iran war peace talk optimism sparks rally. What’s next for investors?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-rockets-rs-4000/kg-gold-near-rs-1-53-lakh/10g-as-iran-war-peace-talk-optimism-sparks-rally-whats-next-for-investors/articleshow/130878259.cms",
+      "published": "2026-05-07T03:53:23Z",
+      "description": "Gold and silver prices rose on MCX on Thursday, aided by a weaker dollar and optimism over a potential US-Iran peace deal. Iran said it is reviewing a US proposal to end the conflict, though key issue"
+    },
+    {
+      "title": "McEwen Generates Strong Q1 Results & Advances Multi-Asset Growth Strategy; Net Income $33.4M ($0.56 per Share) vs. Net Loss $6.3M ($0.12 per Share) in Q1 2025; Internally Funding Key Projects to Double Production by 2030",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/mcewen-generates-strong-q1-results-net-income-33-4m-0-56-per-share-vs-net-loss-6-3m-0-12-per-share-in-q1-2025-internally-funding-key-projects-to-doubl",
+      "published": "2026-05-07T02:09:07Z",
+      "description": "TORONTO, May 06, 2026 (GLOBE NEWSWIRE) — McEwen Inc. (NYSE/TSX: MUX) (“McEwen” or the “Company”) today announced its first quarter financial results for the period ended March 31, 2026 (Q1), along wit"
+    },
+    {
+      "title": "对话孙来春：年入25亿的林清轩不想做中国欧莱雅 ｜厚雪专访",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3797662460419337",
+      "published": "2026-05-07T01:30:10Z",
+      "description": "作者 | 李小霞\n 访谈| 李小霞、杨轩\n 编辑 | 乔芊\n 林清轩创始人孙来春有一段广为人知的惊险故事。\n 那是2020年春节疫情初起，林清轩大面积闭店，业绩断崖式下滑90%，公司账户里的现金最多支撑67天。\n 在那一刻，孙来春突然发现自己过去十几年引以为傲的线下基因，变成了最不堪一击的包袱。\n 后来的故事很多人也都知道。孙来春走进直播间，从一个害怕镜头、会紧张到呕吐的中年男人，变成了能和屏幕那"
     }
   ],
   "tweets": []
