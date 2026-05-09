@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-08 07:20:15 UTC",
+  "updated_at": "2026-05-09 07:47:21 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4715.02,
+      "price_usd": 4715.03,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 79.81,
+      "price_usd": 80.35,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2050.71,
+      "price_usd": 2055.3,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1504.2,
+      "price_usd": 1494,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "OceanaGold Hunts for More Deals to Add to Strong Growth Pipeline",
+      "title": "India's April consumer inflation likely rose to 3.8% as higher fuel costs weigh",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/indias-april-consumer-inflation-likely-rose-to-38-as-higher-fuel-costs-weigh/article70954375.ece",
+      "published": "2026-05-08T07:40:40Z",
+      "description": "“We expect April headline ⁠inflation to tick up...on higher food and some pass-through of higher global energy prices,” said Rahul Bajoria, head of India and ASEAN economic research, BofA Securities"
+    },
+    {
+      "title": "Gold Rises as Buying Interest Counters Concern Over Hormuz Clash",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/oceanagold-hunts-for-more-deals-to-add-to-strong-growth-pipeline",
-      "published": "2026-05-07T07:12:15Z",
-      "description": "Canadian gold miner OceanaGold Corp. is aggressively canvassing options to buy other producers and existing operations while also pursuing a strong organic growth strategy, with two new mines in devel"
+      "url": "https://financialpost.com/pmn/business-pmn/gold-rises-as-buying-interest-counters-concern-over-hormuz-clash",
+      "published": "2026-05-08T07:29:36Z",
+      "description": "Gold rose as signs of buying interest emerged in the wake of strong purchases by China’s central bank, even as fresh clashes in the Middle East threatened to fracture a fragile ceasefire."
     },
     {
-      "title": "SciBase: Interim report",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/scibase-interim-report-302765276.html",
-      "published": "2026-05-07T07:04:00Z",
-      "description": "STOCKHOLM, May 7, 2026 /PRNewswire/ -- January 1 - March 31, 2026 The first quarter in figures Net sales were TSEK 14,278 (8,856), +61%, cleared for currency effects +80%. The loss after tax was TSEK "
-    },
-    {
-      "title": "Why Prada has a devil of a dilemma, but so does India",
+      "title": "India's April consumer inflation likely rose to 3.8% as higher fuel costs weigh: Reuters poll",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/why-prada-has-a-devil-of-a-dilemma-but-so-does-india/articleshow/130882746.cms",
-      "published": "2026-05-07T07:02:20Z",
-      "description": "Prada Kolhapuri controversy: The latest collection from high-fashion label Prada has ignited a firestorm in India again. This comes a year after their initial line caused a big copying row. Now, the b"
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-april-consumer-inflation-likely-rose-to-3-8-as-higher-fuel-costs-weigh-reuters-poll/articleshow/130952935.cms",
+      "published": "2026-05-08T07:16:04Z",
+      "description": "India’s retail inflation likely rose to 3.8% in April from 3.4% in March as higher fuel and LPG costs linked to the US-Iran conflict started feeding into prices, according to a Reuters poll. Economist"
     },
     {
-      "title": "Explained - What NSEs Electronic Gold Receipts mean for yellow metal investors",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/explained-what-nses-electronic-gold-receipts-mean-for-yellow-metal-investors/articleshow/130882997.cms",
-      "published": "2026-05-07T06:41:04Z",
-      "description": "NSE’s Electronic Gold Receipts (EGRs) offer investors a regulated and fully digital way to own and trade physical gold without storage or purity concerns. Backed by SEBI-regulated vaults, EGRs aim to "
+      "title": "India demand subdued on higher prices, China premiums hold firm",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/india-demand-subdued-on-higher-prices-china-premiums-hold-firm/article70954162.ece",
+      "published": "2026-05-08T06:32:29Z",
+      "description": "Spot gold prices have risen over 2% so far this week on easing fears of inflation ‌and higher interest rates, as investors remained optimistic about a US-Iran peace deal"
     },
     {
-      "title": "Gold's safe-haven status under pressure as Iran conflict fails to lift prices: Morgan Stanley",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/golds-safe-haven-status-under-pressure-as-iran-conflict-fails-to-lift-prices-morgan-stanley/articleshow/130882887.cms",
-      "published": "2026-05-07T06:36:56Z",
-      "description": "Gold's traditional reputation as a safe-haven asset is facing fresh scrutiny after prices declined during the ongoing Iran conflict, according to a report by Morgan Stanley."
-    },
-    {
-      "title": "Gold Extends Hefty Gain as US-Iran Hopes Ease Inflation Fears",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/gold-extends-hefty-gain-as-us-iran-hopes-ease-inflation-fears",
-      "published": "2026-05-07T06:26:24Z",
-      "description": "Gold extended gains after its biggest daily advance since late March, as optimism over a potential US-Iran deal pressured oil prices and tempered inflation concerns."
-    },
-    {
-      "title": "Vedanta dividend: How the mega demerger will impact payout for 21 lakh shareholders?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-dividend-how-the-mega-demerger-will-impact-payout-for-21-lakh-shareholders/articleshow/130880769.cms",
-      "published": "2026-05-07T05:29:10Z",
-      "description": "Vedanta's mega demerger has spun off four new companies, impacting dividend payouts for its 21 lakh shareholders. While the parent company is expected to remain dividend-paying, its absolute dividend "
-    },
-    {
-      "title": "Silver rockets Rs 4,000/kg, Gold near Rs 1.53 lakh/10g as Iran war peace talk optimism sparks rally. What’s next for investors?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-rockets-rs-4000/kg-gold-near-rs-1-53-lakh/10g-as-iran-war-peace-talk-optimism-sparks-rally-whats-next-for-investors/articleshow/130878259.cms",
-      "published": "2026-05-07T03:53:23Z",
-      "description": "Gold and silver prices rose on MCX on Thursday, aided by a weaker dollar and optimism over a potential US-Iran peace deal. Iran said it is reviewing a US proposal to end the conflict, though key issue"
-    },
-    {
-      "title": "McEwen Generates Strong Q1 Results & Advances Multi-Asset Growth Strategy; Net Income $33.4M ($0.56 per Share) vs. Net Loss $6.3M ($0.12 per Share) in Q1 2025; Internally Funding Key Projects to Double Production by 2030",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/mcewen-generates-strong-q1-results-net-income-33-4m-0-56-per-share-vs-net-loss-6-3m-0-12-per-share-in-q1-2025-internally-funding-key-projects-to-doubl",
-      "published": "2026-05-07T02:09:07Z",
-      "description": "TORONTO, May 06, 2026 (GLOBE NEWSWIRE) — McEwen Inc. (NYSE/TSX: MUX) (“McEwen” or the “Company”) today announced its first quarter financial results for the period ended March 31, 2026 (Q1), along wit"
-    },
-    {
-      "title": "对话孙来春：年入25亿的林清轩不想做中国欧莱雅 ｜厚雪专访",
+      "title": "卡位黄金价格带，问界M6向下争夺年轻群体｜最前线",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3797662460419337",
-      "published": "2026-05-07T01:30:10Z",
-      "description": "作者 | 李小霞\n 访谈| 李小霞、杨轩\n 编辑 | 乔芊\n 林清轩创始人孙来春有一段广为人知的惊险故事。\n 那是2020年春节疫情初起，林清轩大面积闭店，业绩断崖式下滑90%，公司账户里的现金最多支撑67天。\n 在那一刻，孙来春突然发现自己过去十几年引以为傲的线下基因，变成了最不堪一击的包袱。\n 后来的故事很多人也都知道。孙来春走进直播间，从一个害怕镜头、会紧张到呕吐的中年男人，变成了能和屏幕那"
+      "url": "https://36kr.com/p/3800183520091398",
+      "published": "2026-05-08T05:18:58Z",
+      "description": "2026年的中国新能源SUV市场正经历着前所未有的内卷。\n 问界依托华为技术体系，推出了定位更亲民的全新车型 M6， 瞄准主流家用消费群体。放在问界品牌整体销量连续数月下滑、赛力斯盈利能力承压的背景下，M6的到来既是“救兵”，更是一场不容有失的“大考”。\n 卡位黄金价格带，向下争夺年轻群体\n 从产品命名逻辑看，M6位于M5与M7之间，车身尺寸为4960×1985×1736mm，轴距2950mm，属"
+    },
+    {
+      "title": "Clariant delivers resilient performance in challenging environment",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/08/3290807/0/en/Clariant-delivers-resilient-performance-in-challenging-environment.html",
+      "published": "2026-05-08T05:00:00Z",
+      "description": "AD HOC ANNOUNCEMENT PURSUANT TO ART. 53 LR FIRST QUARTER | 2026  Q1 2026 sales decreased by 2 % in local currencies1 to CHF 918 million with the Middle..."
+    },
+    {
+      "title": "最强「种草」帝国，为何突然加速 AI",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3799028783439111",
+      "published": "2026-05-08T04:38:43Z",
+      "description": "作者 | 肖思佳\n 编辑 | 乔芊 杨轩\n 所有互联网大中厂都渴望在AI时代博得位置，在这场比赛中，小红书曾是克制的那个。\n 在一个搜索属性与社区属性并存，以真实经验分享为核心的产品中，活人感与AI、温情和算法，始终像天平的两端。\n 很长一段时间里，小红书既没有完全缺席技术探索，也没有像许多同行那样高调推进AI产品化。相反，这家公司始终在两股力量的拉锯和平衡中前行：一边持续投入模型能力，一边谨慎控"
+    },
+    {
+      "title": "Silver gains Rs 2,361, gold near Rs 1.53 lakh amid hopes of Iran peace talks. What should investors do?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-8-may-2026-silver-gains-rs-2361-gold-near-rs-1-53-lakh-amid-hopes-of-iran-peace-talks-what-should-investors-do/articleshow/130947100.cms",
+      "published": "2026-05-08T03:56:45Z",
+      "description": "Gold and silver prices rose on MCX amid easing inflation concerns and optimism over a potential U.S.-Iran agreement. Silver gained Rs 2,361, while gold approached Rs 1.53 lakh. Analysts expect continu"
+    },
+    {
+      "title": "Plaud获头部大厂投资，目前估值达20亿美元｜硬氪独家",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3799129165863937",
+      "published": "2026-05-08T01:31:04Z",
+      "description": "作者｜黄楠 周鑫雨\n 编辑｜袁斯来 杨轩\n 硬氪独家获悉，AI卡片录音笔公司Plaud已于2025年年中拿下腾讯的融资，估值达10亿美元；目前，Plaud公司估值已涨至约20亿美元。同时，硬氪从相关人士处了解到，Plaud正在推进与腾讯会议之间的硬件合作。\n 有关上述信息，硬氪向Plaud及腾讯方面求证，双方均表示消息不实。\n 一名接近Plaud人士告诉硬氪，Plaud在2024年的总营收约560"
+    },
+    {
+      "title": "8点1氪丨段永平再加仓泡泡玛特；多平台已下架“全李酒店”；世界杯决赛门票1张200万美元，FIFA回应",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3799881836633093",
+      "published": "2026-05-08T00:02:19Z",
+      "description": "今日热点导览\n 30年前捐赠书画部分去向不明？天津美院回应\n 张雪怒斥门店给用户备注磨叽并补偿车主1万\n 茅台集团总经理王莉已回归\n 港交所计划未来数月推出黄金期货\n 马斯克：xAI作为独立公司将解散并入SpaceX\n TOP3大新闻\n “很久没有这种兴奋感了”，段永平再加仓泡泡玛特\n 5月7日，知名投资人段永平在社交平台发文称，把中国神华全部换成了泡泡玛特。值得注意的是，段永平此前已经多次表达了"
     }
   ],
   "tweets": []
