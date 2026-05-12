@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-05-11 09:28:39 UTC",
+  "updated_at": "2026-05-12 08:29:58 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4660.39,
+      "price_usd": 4703.1,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 80.17,
+      "price_usd": 84.34,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2025.21,
+      "price_usd": 2072.8,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1472.69,
+      "price_usd": 1487.39,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.43,
+      "price_usd": 0.45,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.6,
+      "price_usd": 0.59,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.59,
+      "price_usd": 0.6,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.42,
+      "price_usd": 0.43,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "‘Not a trading moment but…,’ Experts on how investors can strengthen portfolio as Iran war rattles Dalal Street",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/not-a-trading-moment-but-experts-on-how-investors-can-strengthen-portfolio-as-iran-war-rattles-dalal-street-11778399520977.html",
-      "published": "2026-05-10T09:07:15Z",
-      "description": "The Iran war has caused significant market volatility, prompting experts to advise investors to focus on long-term planning rather than panic trading.&nbsp;"
-    },
-    {
-      "title": "FMCG companies bracing for another round of price increases amid inflation",
+      "title": "After winning poll battles, Modi has picked up a new fight",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fmcg/fmcg-companies-bracing-for-another-round-of-price-increases-amid-inflation/articleshow/130989534.cms",
-      "published": "2026-05-10T08:47:20Z",
-      "description": "Daily-use products such as soaps, detergents, biscuits, packaged foods and beverages are likely to become costlier as FMCG companies prepare calibrated price hikes amid rising crude oil-linked inflati"
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/after-winning-poll-battles-modi-has-picked-up-a-new-fight/articleshow/131007459.cms",
+      "published": "2026-05-11T07:46:50Z",
+      "description": "Amidst rising crude oil prices and a weakening rupee, Prime Minister Modi has urged Indians to embrace austerity. His call to reduce fuel consumption, postpone gold purchases, and cut edible oil use a"
     },
     {
-      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 10 May in Delhi, Mumbai and Kolkata",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-check-retail-rates-of-24k-22k-gold-999-silver-on-10-may-in-delhi-mumbai-and-kolkata-11778397845779.html",
-      "published": "2026-05-10T07:47:55Z",
-      "description": "On May 10, gold prices in India remained stable with 24-karat gold at  ₹153,140 per 10 gm and 22-karat at  ₹140,378. Silver was priced at  ₹262,350 per kg. Trading rates are unavailable as MCX is clos"
-    },
-    {
-      "title": "Vijay sworn in as Tamil Nadu CM: Here's what TVK promised ahead of Assembly polls",
+      "title": "After PM Modi’s WFH appeal, Nitin Gadkari has this message for Indians to save fuel amid Iran war",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/elections/assembly-elections/tamil-nadu/vijay-sworn-in-as-tamil-nadu-cm-what-did-tvk-manifesto-promise-ahead-of-assembly-elections-2026-polls/articleshow/130986975.cms",
-      "published": "2026-05-10T06:18:43Z",
-      "description": "Tamil actor Vijay's party, Tamilaga Vettri Kazhagam, has taken charge as Tamil Nadu's new government. Vijay is now the Chief Minister. The party secured a significant victory in the state assembly ele"
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/after-pm-modis-wfh-appeal-nitin-gadkari-has-this-message-for-indians-to-save-fuel-amid-iran-war/articleshow/131007607.cms",
+      "published": "2026-05-11T07:46:16Z",
+      "description": "Amid escalating Middle East tensions, Prime Minister Modi urged citizens to conserve fuel by reducing petrol and diesel consumption, promoting work-from-home, public transport, and carpooling. He also"
     },
     {
-      "title": "融资超亿元、割草机器人公司拿下数亿订单，瞄准庭院具身终端｜硬氪首发",
+      "title": "Sensex bleeds 972 points at midday; Titan, IndiGo, SBI lead Nifty losers",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-bleeds-972-points-at-midday-titan-indigo-sbi-lead-nifty-losers/article70964755.ece",
+      "published": "2026-05-11T07:30:16Z",
+      "description": "Sensex drops 972 points; Titan, IndiGo, and SBI lead Nifty losers amid geopolitical tensions and rising oil prices."
+    },
+    {
+      "title": "Modi Urges Indians to Conserve Fuel as Oil Shock Spreads",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Latest-Energy-News/World-News/Modi-Urges-Indians-to-Conserve-Fuel-as-Oil-Shock-Spreads.html",
+      "published": "2026-05-11T07:00:00Z",
+      "description": "India’s Prime Minister called on the nation to work from home, travel less, and conserve fuel to help the government save foreign exchange. “In the current situation, we must place great emphasis on s"
+    },
+    {
+      "title": "Geopolitical storm batters Dalal Street; Sensex tanks 921 points on Iran war fears, crude surge",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/geopolitical-storm-batters-dalal-street-sensex-tanks-921-points-on-iran-war-fears-crude-surge/article70964345.ece",
+      "published": "2026-05-11T04:17:43Z",
+      "description": "Monday's sell-off was triggered after US President Donald Trump reportedly dismissed Iran's response to the latest peace proposal as \"totally unacceptable,\" dashing hopes of a diplomatic resolution an"
+    },
+    {
+      "title": "Silver gains Rs 3,000, gold at Rs 1.52 lakh even as Iran war peace talks see no breakthrough. What should investors do?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-gains-rs-3000-gold-at-rs-1-52-lakh-even-as-iran-war-peace-talks-see-no-breakthrough-what-should-investors-do/articleshow/131003070.cms",
+      "published": "2026-05-11T04:02:34Z",
+      "description": "Gold and silver prices traded mixed on MCX on Monday  as fading hopes of a quick US-Iran peace deal pushed oil prices higher, stoking inflation worries and reinforcing expectations that central banks "
+    },
+    {
+      "title": "A股三大指数午间休盘集体上涨，半导体板块走强",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3801745491943169",
-      "published": "2026-05-10T01:27:31Z",
-      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，智能庭院机器人公司「长曜创新」近日完成数千万元A+融资，领投方为美的系上市公司盈峰环境，老股东持续加注。资金将重点投入技术研发迭代、多SKU量产交付及产品矩阵拓展，持续夯实供应链能力，完善全球化渠道布局。此前，公司已于2025年12月完成A轮融资，半年累计融资金额超亿元。\n 长曜创新成立于2022年，长期专注户外庭院智能硬件赛道，聚焦无边界割草机器人的研发、"
+      "url": "https://36kr.com/newsflashes/3804336792379145",
+      "published": "2026-05-11T03:31:30Z",
+      "description": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.94%，深成指涨2.13%，创业板指涨3.03%；工程机械、半导体、电脑硬件板块领涨，徐工机械、澜起科技、同有科技涨停；海运、贵金属、日用化工板块跌幅居前，国航远洋跌超6%，赤峰黄金跌超5%，两面针跌超3%。"
     },
     {
-      "title": "Ignore market noise, India’s long-term story intact, say D-Street bulls Ramesh Damani and Sunil Singhania",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/ignore-market-noise-indias-long-term-story-intact-say-d-street-bulls-ramesh-damani-and-sunil-singhania/articleshow/130976742.cms",
-      "published": "2026-05-09T11:49:57Z",
-      "description": "Indian markets face temporary challenges with foreign outflows and geopolitical concerns. However, top investors Ramesh Damani and Sunil Singhania emphasize that India's fundamental growth drivers are"
-    },
-    {
-      "title": "Silver’s volatility in 2026: Macroeconomic drivers, speculative dynamics and investment implications",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silvers-volatility-in-2026-macroeconomic-drivers-speculative-dynamics-and-investment-implications/articleshow/130970818.cms",
-      "published": "2026-05-09T04:37:32Z",
-      "description": "Silver experienced a dramatic price plunge in 2026, falling from an all-time high to nearly $60 per ounce. This volatility stemmed from macroeconomic pressures and speculative unwinding, not fundament"
-    },
-    {
-      "title": "9点1氪丨DeepSeek拟募资最高500亿；“全国销冠”被刑拘，泰康人寿回应；OPPO就母亲节文案致歉",
+      "title": "硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3801348046151428",
-      "published": "2026-05-09T00:57:59Z",
-      "description": "整理｜Kris \n 今日热点导览\n 香港拿下世界杯转播权，FIFA与央视谈判仍陷僵局\n 油价上调，加满一箱92号汽油将多花12.5元\n 钱江摩托否认“围剿张雪机车”\n 30条中日航线4月取消全部航班\n SpaceX冲刺上市，资本开支飙升数百亿\n TOP3大新闻\n DeepSeek拟募资最高500亿元\n 据报道，DeepSeek拟募资最高500亿元，这将成为中国人工智能公司有史以来最大的一轮融资。("
+      "url": "https://36kr.com/p/3804282431659779",
+      "published": "2026-05-11T02:38:17Z",
+      "description": "作者 | 邱晓芬\n 编辑 | 袁斯来\n 余轶南似乎是那种总能提前踩中风口的冒险家。\n 他总在追逐更新、更刺激，早期甚至带着些浪漫想象。博士毕业后，他没有如很多同侪一般，进入学术圈，过上平稳安定的一生，而是冲入互联网浪潮，2015年，他又因为余凯一句“我们一起去做 AI 芯片吧？” ，便追随余凯加入地平线创始团队，成为001号员工。此后几年，地平线逐渐成长为国际上自动驾驶领域最受关注的科技公司之一，"
     },
     {
-      "title": "Lomiko Metals Inc. Files a Positive Preliminary Feasibility Study For La Loutre Graphite Project on SEDAR",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/lomiko-metals-inc-files-a-positive-preliminary-feasibility-study-for-la-loutre-graphite-project-on-sedar",
-      "published": "2026-05-08T23:05:10Z",
-      "description": "MONTREAL — Lomiko Metals Inc. (Lomiko) (TSX-V: LMR, OTC: LMRMF, FSE: DH8C) (“Lomiko” or the “Company”) is pleased to announce that the Company has filed on SEDAR+ an independent technical report (the "
+      "title": "Gold prices fall to $4,684.32 per ounce amid rising geopolitical tensions",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/131001673.cms",
+      "published": "2026-05-11T02:09:20Z",
+      "description": "Gold and silver ended the past week with gains but are expected to trade in a narrow range in the coming days as investors balance geopolitical risks"
     },
     {
-      "title": "TomaGold Announces Closing of Second and Final Tranche of Private Placement",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/tomagold-announces-closing-of-second-and-final-tranche-of-private-placement",
-      "published": "2026-05-08T21:33:48Z",
-      "description": "MONTREAL — TOMAGOLD CORPORATION (TSXV: LOT; OTCPK: TOGOF) (“TomaGold” or the “Company”) is pleased to announce the closing of the second and final tranche (the “Second Tranche”) of its previously anno"
+      "title": "‘Most Indians retire asset-rich but income poor’: Edelweiss MF’s Radhika Gupta on retirement planning, SIP resilience, lifecycle funds, and simple investing",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/most-indians-retire-asset-rich-but-income-poor-edelweiss-mfs-radhika-gupta-on-retirement-planning-sip-resilience-lifecycle-funds-and-simple-investing/articleshow/130969947.cms",
+      "published": "2026-05-11T01:00:00Z",
+      "description": "One of the industry’s most recognisable voices on investing, Radhika Gupta, MD and CEO, Edelweiss Mutual Fund, has helped shape both her fund house and the broader industry conversations around invest"
     }
   ],
   "tweets": []
