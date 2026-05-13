@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-05-12 08:29:58 UTC",
+  "updated_at": "2026-05-13 08:36:17 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4703.1,
+      "price_usd": 4699.3,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 84.34,
+      "price_usd": 86.48,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2072.8,
+      "price_usd": 2121.2,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1487.39,
+      "price_usd": 1495.06,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.45,
+      "price_usd": 0.46,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.59,
+      "price_usd": 0.6,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.6,
+      "price_usd": 0.59,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "After winning poll battles, Modi has picked up a new fight",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/after-winning-poll-battles-modi-has-picked-up-a-new-fight/articleshow/131007459.cms",
-      "published": "2026-05-11T07:46:50Z",
-      "description": "Amidst rising crude oil prices and a weakening rupee, Prime Minister Modi has urged Indians to embrace austerity. His call to reduce fuel consumption, postpone gold purchases, and cut edible oil use a"
+      "title": "Taiwan's Research Excellence Shines at Edison Awards with 16 Wins",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/taiwans-research-excellence-shines-at-edison-awards-with-16-wins-302769304.html",
+      "published": "2026-05-12T08:11:00Z",
+      "description": "TAIPEI, May 12, 2026 /PRNewswire/ -- The Ministry of Economic Affairs (MOEA) of Taiwan today (May 12) announced Taiwan's results at the 2026 Edison Awards, marking another landmark year for the countr"
     },
     {
-      "title": "After PM Modi’s WFH appeal, Nitin Gadkari has this message for Indians to save fuel amid Iran war",
+      "title": "‘It’s not like a lockdown is going to take place tomorrow’: Puri dismisses fears after PM Modi’s fuel-saving push",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/after-pm-modis-wfh-appeal-nitin-gadkari-has-this-message-for-indians-to-save-fuel-amid-iran-war/articleshow/131007607.cms",
-      "published": "2026-05-11T07:46:16Z",
-      "description": "Amid escalating Middle East tensions, Prime Minister Modi urged citizens to conserve fuel by reducing petrol and diesel consumption, promoting work-from-home, public transport, and carpooling. He also"
+      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/its-not-like-a-lockdown-is-going-to-take-place-tomorrow-hardeep-singh-puri-dismisses-fears-after-pm-modis-fuel-saving-push/articleshow/131030962.cms",
+      "published": "2026-05-12T07:06:04Z",
+      "description": "Union Minister Hardeep Singh Puri reassured citizens that no lockdown-like restrictions are imminent despite Prime Minister Modi's call for fuel conservation amid the West Asia crisis. Puri asserted I"
     },
     {
-      "title": "Sensex bleeds 972 points at midday; Titan, IndiGo, SBI lead Nifty losers",
+      "title": "Narwal Launches Freo Z10 Turbo, Bringing Flagship-Exclusive Technology and Powerful Multi-Surface Cleaning to a More Accessible Price",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/narwal-launches-freo-z10-turbo-bringing-flagship-exclusive-technology-and-powerful-multi-surface-cleaning-to-a-more-accessible-price-302768903.html",
+      "published": "2026-05-12T07:00:00Z",
+      "description": "Combining 25,000 Pa Suction with Flagship-Exclusive CarpetFocus Technology, the Freo Z10 Turbo Delivers Professional-Grade Cleaning NEW YORK, May 12, 2026 /PRNewswire/ -- Narwal, a global leader in sm"
+    },
+    {
+      "title": "'Tell Adani, Ambani, to help India', says Congress leader V Hanumantha Rao; labels PM's 'spend less' slogan as post-election lecture",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/tell-adani-ambani-to-help-india-says-congress-leader-v-hanumantha-rao-labels-pms-spend-less-slogan-as-post-election-lecture/articleshow/131031037.cms",
+      "published": "2026-05-12T06:54:49Z",
+      "description": "Congress leader V Hanumantha Rao criticizes Prime Minister Narendra Modi's appeals for citizens to reduce fuel and gold consumption. Telangana BJP chief N Ramchander Rao supports the Prime Minister's "
+    },
+    {
+      "title": "Gold steady as markets assess West Asia tensions ahead of US inflation data",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-bleeds-972-points-at-midday-titan-indigo-sbi-lead-nifty-losers/article70964755.ece",
-      "published": "2026-05-11T07:30:16Z",
-      "description": "Sensex drops 972 points; Titan, IndiGo, and SBI lead Nifty losers amid geopolitical tensions and rising oil prices."
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-steady-as-markets-assess-mideast-tensions-ahead-of-us-inflation-data/article70968323.ece",
+      "published": "2026-05-12T06:48:59Z",
+      "description": "Spot gold dips marginally while markets eye Fed rate outlook and Trump’s China visit"
     },
     {
-      "title": "Modi Urges Indians to Conserve Fuel as Oil Shock Spreads",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/Modi-Urges-Indians-to-Conserve-Fuel-as-Oil-Shock-Spreads.html",
-      "published": "2026-05-11T07:00:00Z",
-      "description": "India’s Prime Minister called on the nation to work from home, travel less, and conserve fuel to help the government save foreign exchange. “In the current situation, we must place great emphasis on s"
-    },
-    {
-      "title": "Geopolitical storm batters Dalal Street; Sensex tanks 921 points on Iran war fears, crude surge",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/geopolitical-storm-batters-dalal-street-sensex-tanks-921-points-on-iran-war-fears-crude-surge/article70964345.ece",
-      "published": "2026-05-11T04:17:43Z",
-      "description": "Monday's sell-off was triggered after US President Donald Trump reportedly dismissed Iran's response to the latest peace proposal as \"totally unacceptable,\" dashing hopes of a diplomatic resolution an"
-    },
-    {
-      "title": "Silver gains Rs 3,000, gold at Rs 1.52 lakh even as Iran war peace talks see no breakthrough. What should investors do?",
+      "title": "Why are gold and silver prices down today, and will gold drop to $4,600 and silver slip to $80? Gold slips as markets assess Middle East tensions and inflation data",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-gains-rs-3000-gold-at-rs-1-52-lakh-even-as-iran-war-peace-talks-see-no-breakthrough-what-should-investors-do/articleshow/131003070.cms",
-      "published": "2026-05-11T04:02:34Z",
-      "description": "Gold and silver prices traded mixed on MCX on Monday  as fading hopes of a quick US-Iran peace deal pushed oil prices higher, stoking inflation worries and reinforcing expectations that central banks "
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-gold-and-silver-prices-down-today-and-will-gold-drop-to-4600-and-silver-slip-to-80-gold-slips-as-markets-assess-middle-east-tensions-and-inflation-data/articleshow/131030602.cms",
+      "published": "2026-05-12T06:37:33Z",
+      "description": "Why are gold and silver prices down today, and will gold drop to $4,600 and silver slip to $80? Gold and silver moved lower as markets studied Middle East tensions, U.S. inflation data, and interest r"
     },
     {
-      "title": "A股三大指数午间休盘集体上涨，半导体板块走强",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3804336792379145",
-      "published": "2026-05-11T03:31:30Z",
-      "description": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.94%，深成指涨2.13%，创业板指涨3.03%；工程机械、半导体、电脑硬件板块领涨，徐工机械、澜起科技、同有科技涨停；海运、贵金属、日用化工板块跌幅居前，国航远洋跌超6%，赤峰黄金跌超5%，两面针跌超3%。"
+      "title": "Hengli’s Ex-Singapore Arm Dismisses Staff After US Sanctions",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/henglis-ex-singapore-arm-dismisses-staff-after-us-sanctions",
+      "published": "2026-05-12T05:00:45Z",
+      "description": "Hengli Petrochemical International Pte dismissed some Singapore-based staff, according to people with knowledge of the matter, weeks after its then-parent was slapped with US sanctions."
     },
     {
-      "title": "硬氪专访 | 拿到行业最大单笔融资后，余轶南说万里长征才走了第一步",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3804282431659779",
-      "published": "2026-05-11T02:38:17Z",
-      "description": "作者 | 邱晓芬\n 编辑 | 袁斯来\n 余轶南似乎是那种总能提前踩中风口的冒险家。\n 他总在追逐更新、更刺激，早期甚至带着些浪漫想象。博士毕业后，他没有如很多同侪一般，进入学术圈，过上平稳安定的一生，而是冲入互联网浪潮，2015年，他又因为余凯一句“我们一起去做 AI 芯片吧？” ，便追随余凯加入地平线创始团队，成为001号员工。此后几年，地平线逐渐成长为国际上自动驾驶领域最受关注的科技公司之一，"
+      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 12 May in Delhi, Mumbai and Kolkata",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-check-retail-rates-of-24k-22k-gold-999-silver-on-12-may-in-delhi-mumbai-and-kolkata-11778557297639.html",
+      "published": "2026-05-12T04:46:24Z",
+      "description": "Gold and silver prices stayed largely steady on 12 May, with minor changes across major Indian cities. MCX futures edged higher amid ongoing geopolitical tensions and safe-haven demand, while precious"
     },
     {
-      "title": "Gold prices fall to $4,684.32 per ounce amid rising geopolitical tensions",
+      "title": "ETMarkets PMS Talk | From Rs 1 crore to Rs 85 crore in 24 years - the power of high-conviction investing, says Alok Agarwal",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/131001673.cms",
-      "published": "2026-05-11T02:09:20Z",
-      "description": "Gold and silver ended the past week with gains but are expected to trade in a narrow range in the coming days as investors balance geopolitical risks"
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-pms-talk-from-rs-1-crore-to-rs-85-crore-in-24-years-the-power-of-high-conviction-investing-says-alok-agarwal/articleshow/131007464.cms",
+      "published": "2026-05-12T03:30:00Z",
+      "description": "Alchemy Capital Management's Alok Agarwal highlights how a high-conviction, benchmark-agnostic approach has yielded extraordinary long-term wealth.  A ₹1 crore investment in 2002 grew to ₹85 crore by "
     },
     {
-      "title": "‘Most Indians retire asset-rich but income poor’: Edelweiss MF’s Radhika Gupta on retirement planning, SIP resilience, lifecycle funds, and simple investing",
+      "title": "Gold rises with US–China talks, MidEast conflict in focus",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/most-indians-retire-asset-rich-but-income-poor-edelweiss-mfs-radhika-gupta-on-retirement-planning-sip-resilience-lifecycle-funds-and-simple-investing/articleshow/130969947.cms",
-      "published": "2026-05-11T01:00:00Z",
-      "description": "One of the industry’s most recognisable voices on investing, Radhika Gupta, MD and CEO, Edelweiss Mutual Fund, has helped shape both her fund house and the broader industry conversations around invest"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-with-uschina-talks-mideast-conflict-in-focus/articleshow/131026496.cms",
+      "published": "2026-05-12T01:49:24Z",
+      "description": "Gold prices climbed as investors awaited crucial meetings between U.S. President Trump and Chinese President Xi Jinping, while also monitoring the fragile ceasefire negotiations with Iran. Market part"
     }
   ],
   "tweets": []
