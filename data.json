@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-05-13 08:36:17 UTC",
+  "updated_at": "2026-05-14 08:29:55 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4699.3,
+      "price_usd": 4702.55,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 86.48,
+      "price_usd": 87.38,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2121.2,
+      "price_usd": 2128.3,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1495.06,
+      "price_usd": 1493.42,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.46,
+      "price_usd": 0.45,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.6,
+      "price_usd": 0.59,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.59,
+      "price_usd": 0.6,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.43,
+      "price_usd": 0.44,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Taiwan's Research Excellence Shines at Edison Awards with 16 Wins",
+      "title": "India rolls out new gold math with import duty tax hike. Who will foot the bill?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-import-duty-india-rolls-out-new-gold-math-with-tax-hike-who-will-foot-the-bill-kalyan-titan-senco-and-malabar/articleshow/131059472.cms",
+      "published": "2026-05-13T08:26:44Z",
+      "description": "India has sharply raised import duties on gold and silver to 15% from 6% to curb demand, protect the rupee and preserve foreign-exchange reserves amid rising risks from the Middle East conflict. The m"
+    },
+    {
+      "title": "IUX Publishes Gold Market Insight on Volatility Trends and User Engagement in 2026",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/13/3293690/0/en/IUX-Publishes-Gold-Market-Insight-on-Volatility-Trends-and-User-Engagement-in-2026.html",
+      "published": "2026-05-13T08:00:00Z",
+      "description": "EBENE CYBERCITY, Mauritius, May 13, 2026 (GLOBE NEWSWIRE) -- IUX has released a new market insight examining recent developments in the gold market, focusing on heightened volatility and how it may be"
+    },
+    {
+      "title": "MAYFAIR GOLD ADDS VP EXPLORATION AND TECHNICAL LEADERSHIP DEPTH",
       "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/taiwans-research-excellence-shines-at-edison-awards-with-16-wins-302769304.html",
-      "published": "2026-05-12T08:11:00Z",
-      "description": "TAIPEI, May 12, 2026 /PRNewswire/ -- The Ministry of Economic Affairs (MOEA) of Taiwan today (May 12) announced Taiwan's results at the 2026 Edison Awards, marking another landmark year for the countr"
+      "url": "https://www.prnewswire.com/news-releases/mayfair-gold-adds-vp-exploration-and-technical-leadership-depth-302770255.html",
+      "published": "2026-05-13T08:00:00Z",
+      "description": "TORONTO, May 13, 2026 /PRNewswire/ - Mayfair Gold Corp. (\"Mayfair\", \"Mayfair Gold\", or the \"Company\") (TSXV: MFG) (NYSE American: MINE) is pleased to announce the appointment of Adree DeLazzer, P.Geo "
     },
     {
-      "title": "‘It’s not like a lockdown is going to take place tomorrow’: Puri dismisses fears after PM Modi’s fuel-saving push",
+      "title": "Rupee sinks past 95.74 per US dollar to hit lifetime low as persistent outflows wipe comfort from gold duty hike",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/energy/oil-gas/its-not-like-a-lockdown-is-going-to-take-place-tomorrow-hardeep-singh-puri-dismisses-fears-after-pm-modis-fuel-saving-push/articleshow/131030962.cms",
-      "published": "2026-05-12T07:06:04Z",
-      "description": "Union Minister Hardeep Singh Puri reassured citizens that no lockdown-like restrictions are imminent despite Prime Minister Modi's call for fuel conservation amid the West Asia crisis. Puri asserted I"
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-sinks-past-95-73-per-us-dollar-to-hit-lifetime-low-as-persistent-outflows-wipe-comfort-from-gold-duty-hike/articleshow/131059422.cms",
+      "published": "2026-05-13T07:58:20Z",
+      "description": "The Indian rupee hit a new all-time low on Wednesday, falling 0.1% to 95.7450 per dollar. This decline was driven by consistent overseas debt repayments and importer hedging, overshadowing any relief "
     },
     {
-      "title": "Narwal Launches Freo Z10 Turbo, Bringing Flagship-Exclusive Technology and Powerful Multi-Surface Cleaning to a More Accessible Price",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/narwal-launches-freo-z10-turbo-bringing-flagship-exclusive-technology-and-powerful-multi-surface-cleaning-to-a-more-accessible-price-302768903.html",
-      "published": "2026-05-12T07:00:00Z",
-      "description": "Combining 25,000 Pa Suction with Flagship-Exclusive CarpetFocus Technology, the Freo Z10 Turbo Delivers Professional-Grade Cleaning NEW YORK, May 12, 2026 /PRNewswire/ -- Narwal, a global leader in sm"
-    },
-    {
-      "title": "'Tell Adani, Ambani, to help India', says Congress leader V Hanumantha Rao; labels PM's 'spend less' slogan as post-election lecture",
+      "title": "Jewellery stocks take Rs 60,000 crore hit in 3 days on govt's double-blow. Is the worst behind?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/tell-adani-ambani-to-help-india-says-congress-leader-v-hanumantha-rao-labels-pms-spend-less-slogan-as-post-election-lecture/articleshow/131031037.cms",
-      "published": "2026-05-12T06:54:49Z",
-      "description": "Congress leader V Hanumantha Rao criticizes Prime Minister Narendra Modi's appeals for citizens to reduce fuel and gold consumption. Telangana BJP chief N Ramchander Rao supports the Prime Minister's "
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jewellery-stocks-take-rs-60000-crore-hit-in-3-days-on-govts-double-blow-is-the-worst-behind/articleshow/131058916.cms",
+      "published": "2026-05-13T07:41:10Z",
+      "description": "Jewellery stocks have plunged up to 20% in three sessions, erasing nearly Rs 60,000 crore in investor wealth after PM Narendra Modi urged households to defer gold purchases and the government hiked im"
     },
     {
-      "title": "Gold steady as markets assess West Asia tensions ahead of US inflation data",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-steady-as-markets-assess-mideast-tensions-ahead-of-us-inflation-data/article70968323.ece",
-      "published": "2026-05-12T06:48:59Z",
-      "description": "Spot gold dips marginally while markets eye Fed rate outlook and Trump’s China visit"
-    },
-    {
-      "title": "Why are gold and silver prices down today, and will gold drop to $4,600 and silver slip to $80? Gold slips as markets assess Middle East tensions and inflation data",
+      "title": "22k gold rates rise by up to 9% today: Check 24k, 22k, 18k gold prices (May 13, 2026) on IBJA, Malabar Gold & Diamonds, Joyalukkas, Tanishq and Kalyan Jewellers",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-gold-and-silver-prices-down-today-and-will-gold-drop-to-4600-and-silver-slip-to-80-gold-slips-as-markets-assess-middle-east-tensions-and-inflation-data/articleshow/131030602.cms",
-      "published": "2026-05-12T06:37:33Z",
-      "description": "Why are gold and silver prices down today, and will gold drop to $4,600 and silver slip to $80? Gold and silver moved lower as markets studied Middle East tensions, U.S. inflation data, and interest r"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rates-rise-by-up-to-9-today-check-24k-22k-18k-gold-prices-may-13-2026-on-ibja-malabar-gold-diamonds-joyalukkas-tanishq-and-kalyan-jewellers/articleshow/131058231.cms",
+      "published": "2026-05-13T07:25:49Z",
+      "description": "Gold prices surged on Wednesday, May 13, 2026, following a government increase in customs duty from 6% to 15% to curb imports. This duty hike is expected to further elevate domestic bullion prices, po"
     },
     {
-      "title": "Hengli’s Ex-Singapore Arm Dismisses Staff After US Sanctions",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/henglis-ex-singapore-arm-dismisses-staff-after-us-sanctions",
-      "published": "2026-05-12T05:00:45Z",
-      "description": "Hengli Petrochemical International Pte dismissed some Singapore-based staff, according to people with knowledge of the matter, weeks after its then-parent was slapped with US sanctions."
+      "title": "Gold import duty hike triggers buying rush and volume concerns, says Senco Gold MD",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/gold-import-duty-hike-triggers-buying-rush-and-volume-concerns-says-senco-gold-md/articleshow/131058343.cms",
+      "published": "2026-05-13T07:21:41Z",
+      "description": "India's gold jewellery market is adjusting to a new reality. An import duty hike is causing consumers to rush purchases. Industry experts predict a drop in sales volumes. Consumers are expected to opt"
     },
     {
-      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 12 May in Delhi, Mumbai and Kolkata",
+      "title": "The 2013 ghost returns: Will higher gold duties actually restrict imports or just fuel the grey market?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-2013-ghost-returns-will-higher-gold-duties-actually-restrict-imports-or-just-fuel-the-grey-market/articleshow/131058349.cms",
+      "published": "2026-05-13T07:12:54Z",
+      "description": "India’s shock hike in gold and silver import duty to 15% has revived memories of the 2013 crisis. While the move aims to curb dollar outflows and stabilise the rupee, experts warn it may simply push m"
+    },
+    {
+      "title": "Gold prices soar after duty hike — should you buy, hold or rebalance? Expert says, ‘good time to…’",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-check-retail-rates-of-24k-22k-gold-999-silver-on-12-may-in-delhi-mumbai-and-kolkata-11778557297639.html",
-      "published": "2026-05-12T04:46:24Z",
-      "description": "Gold and silver prices stayed largely steady on 12 May, with minor changes across major Indian cities. MCX futures edged higher amid ongoing geopolitical tensions and safe-haven demand, while precious"
+      "url": "https://www.livemint.com/money/personal-finance/gold-prices-soar-after-duty-hike-should-you-buy-hold-or-rebalance-expert-says-good-time-to-11778650656879.html",
+      "published": "2026-05-13T07:01:50Z",
+      "description": "The Indian government raised import duties on gold and silver to 15% to curb rising import costs due to the West Asia crisis. This hike may lead to higher domestic gold prices and reduced jewellery de"
     },
     {
-      "title": "ETMarkets PMS Talk | From Rs 1 crore to Rs 85 crore in 24 years - the power of high-conviction investing, says Alok Agarwal",
+      "title": "Why gold’s Rs 10,000 spike after import duty increase is a one-off move",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-pms-talk-from-rs-1-crore-to-rs-85-crore-in-24-years-the-power-of-high-conviction-investing-says-alok-agarwal/articleshow/131007464.cms",
-      "published": "2026-05-12T03:30:00Z",
-      "description": "Alchemy Capital Management's Alok Agarwal highlights how a high-conviction, benchmark-agnostic approach has yielded extraordinary long-term wealth.  A ₹1 crore investment in 2002 grew to ₹85 crore by "
-    },
-    {
-      "title": "Gold rises with US–China talks, MidEast conflict in focus",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-with-uschina-talks-mideast-conflict-in-focus/articleshow/131026496.cms",
-      "published": "2026-05-12T01:49:24Z",
-      "description": "Gold prices climbed as investors awaited crucial meetings between U.S. President Trump and Chinese President Xi Jinping, while also monitoring the fragile ceasefire negotiations with Iran. Market part"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-golds-rs-10000-spike-after-import-duty-increase-is-a-one-off-move/articleshow/131057505.cms",
+      "published": "2026-05-13T06:39:06Z",
+      "description": "Gold and silver prices staged a sharp comeback on Wednesday, with MCX futures for both metals surging nearly 6% in a single session after the government raised customs duty on precious metal imports. "
     }
   ],
   "tweets": []
