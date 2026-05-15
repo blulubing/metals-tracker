@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-05-14 08:29:55 UTC",
+  "updated_at": "2026-05-15 08:41:38 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4702.55,
+      "price_usd": 4558.69,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 87.38,
+      "price_usd": 78.42,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2128.3,
+      "price_usd": 2017,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1493.42,
+      "price_usd": 1428.79,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.45,
+      "price_usd": 0.44,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.59,
+      "price_usd": 0.58,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.6,
+      "price_usd": 0.59,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "India rolls out new gold math with import duty tax hike. Who will foot the bill?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-import-duty-india-rolls-out-new-gold-math-with-tax-hike-who-will-foot-the-bill-kalyan-titan-senco-and-malabar/articleshow/131059472.cms",
-      "published": "2026-05-13T08:26:44Z",
-      "description": "India has sharply raised import duties on gold and silver to 15% from 6% to curb demand, protect the rupee and preserve foreign-exchange reserves amid rising risks from the Middle East conflict. The m"
-    },
-    {
-      "title": "IUX Publishes Gold Market Insight on Volatility Trends and User Engagement in 2026",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/13/3293690/0/en/IUX-Publishes-Gold-Market-Insight-on-Volatility-Trends-and-User-Engagement-in-2026.html",
-      "published": "2026-05-13T08:00:00Z",
-      "description": "EBENE CYBERCITY, Mauritius, May 13, 2026 (GLOBE NEWSWIRE) -- IUX has released a new market insight examining recent developments in the gold market, focusing on heightened volatility and how it may be"
-    },
-    {
-      "title": "MAYFAIR GOLD ADDS VP EXPLORATION AND TECHNICAL LEADERSHIP DEPTH",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/mayfair-gold-adds-vp-exploration-and-technical-leadership-depth-302770255.html",
-      "published": "2026-05-13T08:00:00Z",
-      "description": "TORONTO, May 13, 2026 /PRNewswire/ - Mayfair Gold Corp. (\"Mayfair\", \"Mayfair Gold\", or the \"Company\") (TSXV: MFG) (NYSE American: MINE) is pleased to announce the appointment of Adree DeLazzer, P.Geo "
-    },
-    {
-      "title": "Rupee sinks past 95.74 per US dollar to hit lifetime low as persistent outflows wipe comfort from gold duty hike",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rupee-sinks-past-95-73-per-us-dollar-to-hit-lifetime-low-as-persistent-outflows-wipe-comfort-from-gold-duty-hike/articleshow/131059422.cms",
-      "published": "2026-05-13T07:58:20Z",
-      "description": "The Indian rupee hit a new all-time low on Wednesday, falling 0.1% to 95.7450 per dollar. This decline was driven by consistent overseas debt repayments and importer hedging, overshadowing any relief "
-    },
-    {
-      "title": "Jewellery stocks take Rs 60,000 crore hit in 3 days on govt's double-blow. Is the worst behind?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jewellery-stocks-take-rs-60000-crore-hit-in-3-days-on-govts-double-blow-is-the-worst-behind/articleshow/131058916.cms",
-      "published": "2026-05-13T07:41:10Z",
-      "description": "Jewellery stocks have plunged up to 20% in three sessions, erasing nearly Rs 60,000 crore in investor wealth after PM Narendra Modi urged households to defer gold purchases and the government hiked im"
-    },
-    {
-      "title": "22k gold rates rise by up to 9% today: Check 24k, 22k, 18k gold prices (May 13, 2026) on IBJA, Malabar Gold & Diamonds, Joyalukkas, Tanishq and Kalyan Jewellers",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rates-rise-by-up-to-9-today-check-24k-22k-18k-gold-prices-may-13-2026-on-ibja-malabar-gold-diamonds-joyalukkas-tanishq-and-kalyan-jewellers/articleshow/131058231.cms",
-      "published": "2026-05-13T07:25:49Z",
-      "description": "Gold prices surged on Wednesday, May 13, 2026, following a government increase in customs duty from 6% to 15% to curb imports. This duty hike is expected to further elevate domestic bullion prices, po"
-    },
-    {
-      "title": "Gold import duty hike triggers buying rush and volume concerns, says Senco Gold MD",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/gold-import-duty-hike-triggers-buying-rush-and-volume-concerns-says-senco-gold-md/articleshow/131058343.cms",
-      "published": "2026-05-13T07:21:41Z",
-      "description": "India's gold jewellery market is adjusting to a new reality. An import duty hike is causing consumers to rush purchases. Industry experts predict a drop in sales volumes. Consumers are expected to opt"
-    },
-    {
-      "title": "The 2013 ghost returns: Will higher gold duties actually restrict imports or just fuel the grey market?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/the-2013-ghost-returns-will-higher-gold-duties-actually-restrict-imports-or-just-fuel-the-grey-market/articleshow/131058349.cms",
-      "published": "2026-05-13T07:12:54Z",
-      "description": "India’s shock hike in gold and silver import duty to 15% has revived memories of the 2013 crisis. While the move aims to curb dollar outflows and stabilise the rupee, experts warn it may simply push m"
-    },
-    {
-      "title": "Gold prices soar after duty hike — should you buy, hold or rebalance? Expert says, ‘good time to…’",
+      "title": "Eichengreen: Gold stack-ups by central banks reflect dismal prospects of globalization",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-prices-soar-after-duty-hike-should-you-buy-hold-or-rebalance-expert-says-good-time-to-11778650656879.html",
-      "published": "2026-05-13T07:01:50Z",
-      "description": "The Indian government raised import duties on gold and silver to 15% to curb rising import costs due to the West Asia crisis. This hike may lead to higher domestic gold prices and reduced jewellery de"
+      "url": "https://www.livemint.com/opinion/online-views/eichengreen-gold-holding-central-banks-globalization-deglobalization-rbi-currency-11778675923670.html",
+      "published": "2026-05-14T08:30:55Z",
+      "description": "Gold’s status as a hedge against uncertainty wobbled after war erupted in West Asia. Its price fell. Explanations abound for this anomaly, such as Turkey’s sell-off to defend its currency. But broadly"
     },
     {
-      "title": "Why gold’s Rs 10,000 spike after import duty increase is a one-off move",
+      "title": "Wholesale inflation hits 42-month high of 8.3% in April",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-golds-rs-10000-spike-after-import-duty-increase-is-a-one-off-move/articleshow/131057505.cms",
-      "published": "2026-05-13T06:39:06Z",
-      "description": "Gold and silver prices staged a sharp comeback on Wednesday, with MCX futures for both metals surging nearly 6% in a single session after the government raised customs duty on precious metal imports. "
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/wholesale-inflation-hits-42-month-high-of-8-3-in-april/articleshow/131087373.cms",
+      "published": "2026-05-14T08:21:27Z",
+      "description": "India's wholesale inflation reached an 8.3% peak in April, a 42-month high. Rising fuel, power, and crude oil prices fueled this surge. Experts predict inflation may climb further in May. Disruptions "
+    },
+    {
+      "title": "What’s behind gold’s record high & silver’s decline?",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/whats-behind-golds-record-high-silvers-decline/article70977381.ece",
+      "published": "2026-05-14T07:51:53Z",
+      "description": "Gold and silver markets posted mixed results on Thursday, with gold touching record highs while silver retreated, as geopolitical tensions and macroeconomic shifts continued to drive commodity markets"
+    },
+    {
+      "title": "Bitget lists ILITY (ILY) for Spot Trading",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/14/3294615/0/en/Bitget-lists-ILITY-ILY-for-Spot-Trading.html",
+      "published": "2026-05-14T07:34:00Z",
+      "description": "Bitget adds ILITY (ILY) spot trading. ILY/USDT opens May 15, 2026 (UTC); withdrawals begin May 16...."
+    },
+    {
+      "title": "Why are gold and silver prices down today, and will precious metals decline or rise again in near future? Full market explainer on precious metals outlook",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-gold-and-silver-prices-down-today-and-will-precious-metals-decline-or-rise-again-in-near-future-full-market-explainer-on-precious-metals-outlook/articleshow/131085588.cms",
+      "published": "2026-05-14T07:05:00Z",
+      "description": "Why are gold and silver prices down today, and will precious metals decline or rise again in near future? Gold prices stayed steady while silver moved lower as investors watched U.S.–China talks, infl"
+    },
+    {
+      "title": "与近10家整机厂达成合作，专注打造航空电推进“中国心”，「羽嘉动力」连续完成两轮融资｜36氪首发",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3808772503199489",
+      "published": "2026-05-14T06:45:15Z",
+      "description": "文 | 阿至\n 当低空经济从政策概念走向产业化落地，一场关于“动力心脏”的落地卡位战也在悄然展开。\n 36氪获悉，航空电推进系统研制商羽嘉动力科技（常州）有限公司（以下简称“羽嘉动力”）近日宣布连续完成天使+、天使++两轮融资，累计金额数千万元，投资方包括益华投资、元禾控股、常高新、常金控，所筹资金将主要用于技术研发、人才队伍补充和产线扩建。加上去年7月完成的天使轮，羽嘉动力在不到一年的时间内完成"
+    },
+    {
+      "title": "Excessive austerity could worsen the economic situation that India is trying to escape",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/online-views/excessive-austerity-economic-situation-india-gdp-sri-lanka-forex-imports-current-account-deficit-11778675338601.html",
+      "published": "2026-05-14T06:30:13Z",
+      "description": "Austerity measures to reduce our import burden may sound prudent, but weaker aggregate demand could be risky for GDP growth. Knee-jerk responses to crises can backfire. Sri Lanka’s fertilizer experime"
+    },
+    {
+      "title": "Should you add silver instead of gold after the duty hike-triggered price rally? Experts say, ‘a tactical addition to…’",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/should-you-add-silver-instead-of-gold-after-the-duty-hike-triggered-price-rally-experts-say-a-tactical-addition-to-11778735099785.html",
+      "published": "2026-05-14T06:17:11Z",
+      "description": "India has increased gold and silver import tariffs to 15%, up from 6%, to reduce imports and protect foreign exchange reserves. This led to a nearly 6% price surge in both metals, impacting demand for"
+    },
+    {
+      "title": "MCX shares jump 9% in a week to hit a fresh record high; rally 166% in one year. What next?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-jump-9-in-a-week-to-hit-a-fresh-record-high-rally-166-in-one-year-what-next/articleshow/131084162.cms",
+      "published": "2026-05-14T06:02:27Z",
+      "description": "Multi Commodity Exchange (MCX) shares surged over 3% to a record high, extending recent gains driven by strong Q4 results and rising gold and silver prices. The company reported a fourfold net profit "
+    },
+    {
+      "title": "Vox Royalty Reports Record Q1 2026 Results, Increases 2026 Guidance and Declares Quarterly Dividend",
+      "source": "Associated Press",
+      "url": "https://apnews.com/press-release/access-newswire/vox-royalty-reports-record-q1-2026-results-increases-2026-guidance-and-declares-quarterly-dividend-9af33cd2008bfbc5c285cafe2c9515c0",
+      "published": "2026-05-14T04:35:06Z",
+      "description": "DENVER, CO / ACCESS Newswire / May 13, 2026 / Vox Royalty Corp. (NASDAQ: VOXR )(TSX: VOXR ) (\"Vox\" or the \"Company\"), a returns-focused mining royalty and streaming company, is pleased to announce its"
     }
   ],
   "tweets": []
