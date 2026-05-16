@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-05-15 08:41:38 UTC",
+  "updated_at": "2026-05-16 07:53:54 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4558.69,
+      "price_usd": 4540.58,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 78.42,
+      "price_usd": 75.96,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 2017,
+      "price_usd": 1979.5,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1428.79,
+      "price_usd": 1406.92,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.44,
+      "price_usd": 0.43,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.59,
+      "price_usd": 0.58,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.44,
+      "price_usd": 0.42,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Eichengreen: Gold stack-ups by central banks reflect dismal prospects of globalization",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/opinion/online-views/eichengreen-gold-holding-central-banks-globalization-deglobalization-rbi-currency-11778675923670.html",
-      "published": "2026-05-14T08:30:55Z",
-      "description": "Gold’s status as a hedge against uncertainty wobbled after war erupted in West Asia. Its price fell. Explanations abound for this anomaly, such as Turkey’s sell-off to defend its currency. But broadly"
-    },
-    {
-      "title": "Wholesale inflation hits 42-month high of 8.3% in April",
+      "title": "“Reallocate, Diversify, Reposition”: Ajay Srivastava flags rising macro risks for investors",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/wholesale-inflation-hits-42-month-high-of-8-3-in-april/articleshow/131087373.cms",
-      "published": "2026-05-14T08:21:27Z",
-      "description": "India's wholesale inflation reached an 8.3% peak in April, a 42-month high. Rising fuel, power, and crude oil prices fueled this surge. Experts predict inflation may climb further in May. Disruptions "
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/reallocate-diversify-reposition-ajay-srivastava-flags-rising-macro-risks-for-investors/articleshow/131111235.cms",
+      "published": "2026-05-15T07:27:43Z",
+      "description": "Indian markets face rising macro risks from global shocks, currency pressure, and energy prices, impacting domestic consumption and corporate earnings. Ajay Srivastava advises aggressive diversificati"
     },
     {
-      "title": "What’s behind gold’s record high & silver’s decline?",
+      "title": "Custom hike duty impact gone from silver! 3 reasons why gold's poor cousin is down by Rs 33,000",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/custom-hike-duty-impact-gone-from-silver-3-reasons-why-golds-poor-cousin-is-down-by-rs-33000/articleshow/131111189.cms",
+      "published": "2026-05-15T07:26:55Z",
+      "description": "Silver prices tumbled up to Rs 17,500 on the MCX, slipping below pre-duty hike levels as demand weakened at elevated prices and industrial sentiment softened. A sharp import duty jump, global growth c"
+    },
+    {
+      "title": "Silver prices slip below pre-customs duty hike levels, tumble Rs 17,500 in a day. 3 major reasons why",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-slip-below-pre-customs-duty-hike-levels-tumble-rs-17500-in-a-day-3-major-reasons-why/articleshow/131110779.cms",
+      "published": "2026-05-15T07:04:43Z",
+      "description": "Silver prices tumbled up to Rs 17,500 on the MCX, slipping below pre-duty hike levels as demand weakened at elevated prices and industrial sentiment softened. A sharp import duty jump, global growth c"
+    },
+    {
+      "title": "India discounts soar to record high on import duty hike; China premiums firm",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/whats-behind-golds-record-high-silvers-decline/article70977381.ece",
-      "published": "2026-05-14T07:51:53Z",
-      "description": "Gold and silver markets posted mixed results on Thursday, with gold touching record highs while silver retreated, as geopolitical tensions and macroeconomic shifts continued to drive commodity markets"
+      "url": "https://www.thehindubusinessline.com/markets/gold/india-discounts-soar-to-record-high-on-import-duty-hike-china-premiums-firm/article70981865.ece",
+      "published": "2026-05-15T06:51:05Z",
+      "description": "India's gold discounts hit record highs following a tariff hike, while Chinese premiums remain steady amid strong investment demand."
     },
     {
-      "title": "Bitget lists ILITY (ILY) for Spot Trading",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/14/3294615/0/en/Bitget-lists-ILITY-ILY-for-Spot-Trading.html",
-      "published": "2026-05-14T07:34:00Z",
-      "description": "Bitget adds ILITY (ILY) spot trading. ILY/USDT opens May 15, 2026 (UTC); withdrawals begin May 16...."
+      "title": "Bonds slip ahead of auction on fuel hike, US debt rout",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/bonds-slip-ahead-of-auction-on-fuel-hike-us-debt-rout/article70981799.ece",
+      "published": "2026-05-15T06:27:59Z",
+      "description": "Indian bonds decline as fuel price hike fuels inflation fears and US Treasury yields rise ahead of new debt auction."
     },
     {
-      "title": "Why are gold and silver prices down today, and will precious metals decline or rise again in near future? Full market explainer on precious metals outlook",
+      "title": "Karnataka Deputy CM D K Shivkumar slams petrol diesel price hike, calls it Modi's 'Gift'",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-gold-and-silver-prices-down-today-and-will-precious-metals-decline-or-rise-again-in-near-future-full-market-explainer-on-precious-metals-outlook/articleshow/131085588.cms",
-      "published": "2026-05-14T07:05:00Z",
-      "description": "Why are gold and silver prices down today, and will precious metals decline or rise again in near future? Gold prices stayed steady while silver moved lower as investors watched U.S.–China talks, infl"
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/karnataka-deputy-cm-d-k-shivkumar-slams-petrol-diesel-price-hike-calls-it-modis-gift/articleshow/131109428.cms",
+      "published": "2026-05-15T06:06:20Z",
+      "description": "Karnataka Deputy Chief Minister D K Shivakumar slammed Prime Minister Narendra Modi's call for fuel saving and postponed gold purchases, calling it a \"gift\" amidst a \"tragic situation\" for the country"
     },
     {
-      "title": "与近10家整机厂达成合作，专注打造航空电推进“中国心”，「羽嘉动力」连续完成两轮融资｜36氪首发",
+      "title": "Gold Heads for Weekly Drop as Inflation Fuels Rate-Hike Bets",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/gold-heads-for-weekly-drop-as-inflation-fuels-rate-hike-bets",
+      "published": "2026-05-15T05:03:16Z",
+      "description": "Gold headed for a modest weekly decline as a war-driven surge in US inflation fueled expectations for higher interest rates."
+    },
+    {
+      "title": "Gold and silver price today, 15 May: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-and-silver-price-today-15-may-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11778814756988.html",
+      "published": "2026-05-15T04:59:27Z",
+      "description": "Gold price today: Gold rates dropped on the MCX on Friday morning amid a stronger US dollar, driven by elevated crude oil prices. International gold prices declined to an over one-week low, looking se"
+    },
+    {
+      "title": "Silver tumbles Rs 11,700, gold down Rs 1,600 as Iran war tensions stoke inflation worries. All eyes on Trump-Xi meet",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-tumbles-rs-11700-gold-down-rs-1600-as-iran-war-tensions-stoke-inflation-worries-all-eyes-on-trump-xi-meet/articleshow/131107513.cms",
+      "published": "2026-05-15T03:45:49Z",
+      "description": "Gold and silver prices opened sharply lower on MCX Friday, driven by rising energy prices fueling inflation concerns and expectations of prolonged high interest rates. Investors are closely watching U"
+    },
+    {
+      "title": "麦记牛奶谢永亮：2025年是唯一窗口期，糖水赛道胜负已定｜厚雪专访",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3808772503199489",
-      "published": "2026-05-14T06:45:15Z",
-      "description": "文 | 阿至\n 当低空经济从政策概念走向产业化落地，一场关于“动力心脏”的落地卡位战也在悄然展开。\n 36氪获悉，航空电推进系统研制商羽嘉动力科技（常州）有限公司（以下简称“羽嘉动力”）近日宣布连续完成天使+、天使++两轮融资，累计金额数千万元，投资方包括益华投资、元禾控股、常高新、常金控，所筹资金将主要用于技术研发、人才队伍补充和产线扩建。加上去年7月完成的天使轮，羽嘉动力在不到一年的时间内完成"
-    },
-    {
-      "title": "Excessive austerity could worsen the economic situation that India is trying to escape",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/opinion/online-views/excessive-austerity-economic-situation-india-gdp-sri-lanka-forex-imports-current-account-deficit-11778675338601.html",
-      "published": "2026-05-14T06:30:13Z",
-      "description": "Austerity measures to reduce our import burden may sound prudent, but weaker aggregate demand could be risky for GDP growth. Knee-jerk responses to crises can backfire. Sri Lanka’s fertilizer experime"
-    },
-    {
-      "title": "Should you add silver instead of gold after the duty hike-triggered price rally? Experts say, ‘a tactical addition to…’",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/should-you-add-silver-instead-of-gold-after-the-duty-hike-triggered-price-rally-experts-say-a-tactical-addition-to-11778735099785.html",
-      "published": "2026-05-14T06:17:11Z",
-      "description": "India has increased gold and silver import tariffs to 15%, up from 6%, to reduce imports and protect foreign exchange reserves. This led to a nearly 6% price surge in both metals, impacting demand for"
-    },
-    {
-      "title": "MCX shares jump 9% in a week to hit a fresh record high; rally 166% in one year. What next?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-jump-9-in-a-week-to-hit-a-fresh-record-high-rally-166-in-one-year-what-next/articleshow/131084162.cms",
-      "published": "2026-05-14T06:02:27Z",
-      "description": "Multi Commodity Exchange (MCX) shares surged over 3% to a record high, extending recent gains driven by strong Q4 results and rising gold and silver prices. The company reported a fourfold net profit "
-    },
-    {
-      "title": "Vox Royalty Reports Record Q1 2026 Results, Increases 2026 Guidance and Declares Quarterly Dividend",
-      "source": "Associated Press",
-      "url": "https://apnews.com/press-release/access-newswire/vox-royalty-reports-record-q1-2026-results-increases-2026-guidance-and-declares-quarterly-dividend-9af33cd2008bfbc5c285cafe2c9515c0",
-      "published": "2026-05-14T04:35:06Z",
-      "description": "DENVER, CO / ACCESS Newswire / May 13, 2026 / Vox Royalty Corp. (NASDAQ: VOXR )(TSX: VOXR ) (\"Vox\" or the \"Company\"), a returns-focused mining royalty and streaming company, is pleased to announce its"
+      "url": "https://36kr.com/p/3809931035844359",
+      "published": "2026-05-15T02:24:46Z",
+      "description": "作者 | 钟艺璇编辑 | 乔芊\n 2025年，糖水这个老品类突然火了一把。\n 这个赛道的代表公司是麦记牛奶公司、赵记传承，它们在过去一年的门店增长数约为1000家、300家。尤其麦记牛奶，2025年初，它的门店数量只有53家，一年后，它已经成为糖水赛道门店数量最多的品牌。\n 另一边则是许久尚未增长的老玩家。截止今天，成立于1995年的满记甜品门店约为200家，鲜芋仙2009年进入中国大陆，目前拥有"
     }
   ],
   "tweets": []
