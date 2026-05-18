@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-17 08:12:32 UTC",
+  "updated_at": "2026-05-18 09:46:40 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4540.58,
+      "price_usd": 4541.83,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 75.96,
+      "price_usd": 75.77,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1979.5,
+      "price_usd": 1974.61,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1406.92,
+      "price_usd": 1415.6,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "India’s gold import duty hike: A double-edged sword",
+      "title": "What does an import restriction mean for silver investments?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/indias-gold-import-duty-hike-a-double-edged-sword/articleshow/131133111.cms",
-      "published": "2026-05-16T06:56:18Z",
-      "description": "India has raised gold import duty to 15% and urged citizens to buy less gold. This move targets foreign reserves and the rupee's value. However, India's strong cultural demand for gold may limit effec"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/what-does-an-import-restriction-mean-for-silver-investments/articleshow/131151188.cms",
+      "published": "2026-05-17T08:50:08Z",
+      "description": "India’s move to restrict silver imports and raise duties is expected to push up domestic prices by increasing premiums over global benchmarks. While global prices may remain stable, Indian investors c"
     },
     {
-      "title": "Tax wealthy, not fuel and gold: Former UN Advisor, economist Santosh Mehrotra warns of Rupee slump, job losses",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/tax-wealthy-not-fuel-and-gold-former-un-advisor-economist-santosh-mehrotra-warns-of-rupee-slump-job-losses/articleshow/131132910.cms",
-      "published": "2026-05-16T06:37:40Z",
-      "description": "Former UN Advisor Santosh Mehrotra urged the government to tax the super-rich instead of relying on indirect taxes on fuel and gold, warning these are fueling inflation and job losses. He cautioned th"
+      "title": "The rich must do their bit—the middle class and poor mustn't bear the brunt of India's austerity drive",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/online-views/india-austerity-drive-rich-gold-imports-middle-class-poor-fuel-private-jets-narendra-modi-inflation-11778964820773.html",
+      "published": "2026-05-17T08:30:33Z",
+      "description": "Calls from the government for citizens to cut back signal hard times ahead and seem designed to dampen inflationary expectations. But who will adopt austerity? The burden must not fall disproportionat"
     },
     {
-      "title": "Think. Over the week",
+      "title": "Karnataka liquor prices revised. Check new rates in Bengaluru and other areas",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/karnataka-liquor-prices-revised-check-new-rates-in-bengaluru-and-other-areas/articleshow/131150753.cms",
+      "published": "2026-05-17T08:04:20Z",
+      "description": "Karnataka has implemented a new Alcohol-in-Beverage (AIB)-based excise duty system, resulting in updated liquor prices statewide. The excise department has revised the MRP for numerous popular whisky,"
+    },
+    {
+      "title": "又诞生一位千亿女富豪",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3813040859258373",
+      "published": "2026-05-17T07:45:47Z",
+      "description": "示意图\n 自4月初以来，立讯精密股价上涨超过55%。\n 5月11日，立讯精密市值创下历史新高，达到了5542亿人民币。立讯精密掌舵者王来春持股18.75%，身价也突破了千亿人民币，成为国内白手起家的又一位千亿女富豪。\n 如果说4月以来的涨幅，是因为立讯精密“站在光里”，短期股价大涨或许与一则收购公告有关。\n 5月10日，公告显示立讯精密拟通过收购京西智行集团全部股权，间接拿下京西国际约59.50%"
+    },
+    {
+      "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3812925591887368",
+      "published": "2026-05-17T06:08:32Z",
+      "description": "Peter Steinberger\n 编辑：所罗门\n 【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。\n 别人晒工资条，他晒账单——一个月130万美元！\n 也就是将近900万人民币/每月。直接把网友们看傻了。\n OpenClaw之父Peter Steinberger在X上轻描淡写地甩出一张截图。\n "
+    },
+    {
+      "title": "Gold and silver price today, 17 May: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/gold-and-silver-price-today-17-may-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11778989933146.html",
+      "published": "2026-05-17T04:29:15Z",
+      "description": "Gold, silver rates today: Gold and silver prices declined on the MCX on Friday morning, May 15, pressured by a stronger US dollar amid rising crude oil prices."
+    },
+    {
+      "title": "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3812789087264519",
+      "published": "2026-05-17T04:22:40Z",
+      "description": "SpaceX\n 5月16日，SpaceX向股东发出内部邮件，宣布普通股“一拆五”的拆股方案已获批并生效，所有C类普通股将同步转换为A类普通股。美股IPO市场正迎来今年最重磅的选手，埃隆·马斯克旗下的太空探索巨头SpaceX，正以史无前例的体量加速驶入纳斯达克。\n 综合 | 路透社 WSJ 中国基金报编辑 | Echo\n 本文仅为信息交流之用，不构成任何交易建议\n 据路透社和华尔街日报援引知情人士报"
+    },
+    {
+      "title": "India's demand-side push could build $37.8 billion forex shield as high oil prices threaten fiscal stability: Brickwork Ratings",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/newsletter/nl-opinion/think-over-the-week/article70986070.ece",
-      "published": "2026-05-16T05:40:48Z",
-      "description": "Explore key analyses on fuel price hikes, NEET exam reforms, and governance challenges in this week's editorial highlights."
+      "url": "https://www.thehindubusinessline.com/economy/indias-demand-side-push-could-build-378-billion-forex-shield-as-high-oil-prices-threaten-fiscal-stability-brickwork-ratings/article70989554.ece",
+      "published": "2026-05-17T03:48:29Z",
+      "description": "Brickwork Ratings stated that with crude prices expected to remain above $100 per barrel in 2026 and the rupee under pressure near ₹95/USD, PM Modi’s seven behavioral appeals could create a $37.8 bill"
     },
     {
-      "title": "Gold at over one-week low as dollar, yields climb, Middle East tensions stoke inflation",
+      "title": "India scrambles to steady rupee as oil shock bites",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-at-over-one-week-low-as-dollar-yields-climb-middle-east-tensions-stoke-inflation/articleshow/131131844.cms",
-      "published": "2026-05-16T05:03:26Z",
-      "description": "Gold prices have fallen to a one-week low. This decline is driven by rising U.S. Treasury yields and a stronger dollar. Inflation fears from the Middle East conflict are also pushing interest rate hik"
+      "url": "https://economictimes.indiatimes.com/markets/forex/india-scrambles-to-steady-rupee-as-oil-shock-bites/articleshow/131148459.cms",
+      "published": "2026-05-17T03:39:54Z",
+      "description": "India is scrambling to salvage a sinking rupee as surging oil prices linked to the Middle East conflict threaten to disrupt the world's fastest-growing major economy. The depreciation has punctured In"
     },
     {
-      "title": "Stocks fall as inflation jitters lift bond yields: Markets wrap",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-05-14/asian-stocks-to-rise-as-ai-rally-spurs-wall-street-markets-wrap",
-      "published": "2026-05-16T04:37:56Z",
-      "description": "Global equities fell, with the S&P 500 down 1%, led by a decline in technology shares; US 10-year yields surpassed 4.5%, and Japan’s 30-year yield reached 4% for the first time"
-    },
-    {
-      "title": "Mayday: Rupee breaches 96 wall, pulls back after RBI intervention",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/mayday-rupee-breaches-96-wall-pulls-back-after-rbi-intervention/articleshow/131131318.cms",
-      "published": "2026-05-16T04:13:13Z",
-      "description": "The Indian rupee faces historic challenges, having plummeted to unprecedented levels against the US dollar. The surge in crude oil prices is a key factor in this decline. In response, government offic"
-    },
-    {
-      "title": "Rio2 Reports First Quarter 2026 Financial Results and Operations Update",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/16/3296196/0/en/Rio2-Reports-First-Quarter-2026-Financial-Results-and-Operations-Update.html",
-      "published": "2026-05-16T02:35:00Z",
-      "description": "VANCOUVER, British Columbia, May 15, 2026 (GLOBE NEWSWIRE) -- Rio2 Limited (“Rio2” or “the Company”) (TSX: RIO; OTCQX: RIOFF; BVL: RIO) reports financial results for the three months ended March 31, 2"
-    },
-    {
-      "title": "36氪首发｜前苹果工程师跨界骨传导耳机，独创技术路线，打破头部企业专利垄断",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3810520138243593",
-      "published": "2026-05-16T02:00:00Z",
-      "description": "作者 | 张子怡\n 编辑 | 袁斯来\n 硬氪获悉，苏州索迩电子技术有限公司（骨传导运动耳机品牌Mojawa的母公司，以下简称“索迩电子”）于近日完成数千万元人民币的A+轮融资，本轮融资由正海资本领投。\n 据悉，本轮资金将主要用于拓展海外线下渠道，以及推进产品的AI智能化研发。\n 在音频产品市场中，由于对无线和开耳式聆听技术的需求不断增加，骨传导耳机市场出现了显著增长。\n 调研机构Market Gr"
-    },
-    {
-      "title": "9点1氪丨央视6000万美元获得世界杯版权；英伟达总市值超过德国GDP；iPhone 17 Pro系列全线下调1000元",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3811265856626440",
-      "published": "2026-05-16T01:03:11Z",
-      "description": "今日热点导览\n <ul>\n <li>OpenAI正考虑采取法律手段起诉苹果公司</li>\n <li>三星电子开发下一代HBM封装技术，或用于智能手机等移动设备</li>\n <li>海南：加快培育火箭链、卫星链、数据链，打造风电装备制造产业集群</li>\n <li>世界银行首席经济学家英德米特・吉尔将于8月卸任退休</li>\n <li>“海淘”智能穿戴设备或被植入窃密装置，国家安全部最新提示</li"
-    },
-    {
-      "title": "Skeena Gold & Silver Reports Q1 2026 Financial Results",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/skeena-gold-silver-reports-q1-2026-financial-results",
-      "published": "2026-05-15T21:58:12Z",
-      "description": "VANCOUVER, British Columbia, May 15, 2026 (GLOBE NEWSWIRE) — Skeena Resources Limited (TSX: SKE, NYSE: SKE) (“Skeena Gold & Silver”, “Skeena” or the “Company”) reports interim financial results for th"
+      "title": "Pick of BL commodities -May 17, 2026",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/newsletter/pick-of-bl-commodities/pick-of-bl-commodities-may-17-2026/article70987765.ece",
+      "published": "2026-05-16T15:36:51Z",
+      "description": "The Indian government came up with quite a few policy decisions that have financial implications in terms of income and expenditure. It increased the duty on gold and silver to 15 per cent and on plat"
     }
   ],
   "tweets": []
