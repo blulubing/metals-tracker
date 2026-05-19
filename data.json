@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-18 09:46:40 UTC",
+  "updated_at": "2026-05-19 09:30:47 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4541.83,
+      "price_usd": 4542.87,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 75.77,
+      "price_usd": 75.79,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1974.61,
+      "price_usd": 1967.35,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1415.6,
+      "price_usd": 1398.17,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.58,
+      "price_usd": 0.59,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.58,
+      "price_usd": 0.57,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "What does an import restriction mean for silver investments?",
+      "title": "Commodity Radar: Rupee's record lows support gold prices. Can fresh base formation trigger upside?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/what-does-an-import-restriction-mean-for-silver-investments/articleshow/131151188.cms",
-      "published": "2026-05-17T08:50:08Z",
-      "description": "India’s move to restrict silver imports and raise duties is expected to push up domestic prices by increasing premiums over global benchmarks. While global prices may remain stable, Indian investors c"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-radar-rupees-record-lows-support-gold-prices-can-fresh-base-formation-trigger-upside/articleshow/131172330.cms",
+      "published": "2026-05-18T09:25:03Z",
+      "description": "Gold futures on MCX are holding above key support levels as rupee weakness nears record lows, boosting domestic prices despite global softness. Analysts say MCX gold is showing early signs of base for"
     },
     {
-      "title": "The rich must do their bit—the middle class and poor mustn't bear the brunt of India's austerity drive",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/opinion/online-views/india-austerity-drive-rich-gold-imports-middle-class-poor-fuel-private-jets-narendra-modi-inflation-11778964820773.html",
-      "published": "2026-05-17T08:30:33Z",
-      "description": "Calls from the government for citizens to cut back signal hard times ahead and seem designed to dampen inflationary expectations. But who will adopt austerity? The burden must not fall disproportionat"
-    },
-    {
-      "title": "Karnataka liquor prices revised. Check new rates in Bengaluru and other areas",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/karnataka-liquor-prices-revised-check-new-rates-in-bengaluru-and-other-areas/articleshow/131150753.cms",
-      "published": "2026-05-17T08:04:20Z",
-      "description": "Karnataka has implemented a new Alcohol-in-Beverage (AIB)-based excise duty system, resulting in updated liquor prices statewide. The excise department has revised the MRP for numerous popular whisky,"
-    },
-    {
-      "title": "又诞生一位千亿女富豪",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3813040859258373",
-      "published": "2026-05-17T07:45:47Z",
-      "description": "示意图\n 自4月初以来，立讯精密股价上涨超过55%。\n 5月11日，立讯精密市值创下历史新高，达到了5542亿人民币。立讯精密掌舵者王来春持股18.75%，身价也突破了千亿人民币，成为国内白手起家的又一位千亿女富豪。\n 如果说4月以来的涨幅，是因为立讯精密“站在光里”，短期股价大涨或许与一则收购公告有关。\n 5月10日，公告显示立讯精密拟通过收购京西智行集团全部股权，间接拿下京西国际约59.50%"
-    },
-    {
-      "title": "3个人带100个AI程序员，一个月烧掉130万美元！OpenAI：钱我出",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3812925591887368",
-      "published": "2026-05-17T06:08:32Z",
-      "description": "Peter Steinberger\n 编辑：所罗门\n 【新智元导读】3个人，100个AI agent，一个月烧掉130万美元——OpenClaw之父把软件开发变成了「AI流水线」，OpenAI替他买单。\n 别人晒工资条，他晒账单——一个月130万美元！\n 也就是将近900万人民币/每月。直接把网友们看傻了。\n OpenClaw之父Peter Steinberger在X上轻描淡写地甩出一张截图。\n "
-    },
-    {
-      "title": "Gold and silver price today, 17 May: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/gold-and-silver-price-today-17-may-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11778989933146.html",
-      "published": "2026-05-17T04:29:15Z",
-      "description": "Gold, silver rates today: Gold and silver prices declined on the MCX on Friday morning, May 15, pressured by a stronger US dollar amid rising crude oil prices."
-    },
-    {
-      "title": "史上最大IPO来袭，SpaceX加速驶入纳斯达克",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3812789087264519",
-      "published": "2026-05-17T04:22:40Z",
-      "description": "SpaceX\n 5月16日，SpaceX向股东发出内部邮件，宣布普通股“一拆五”的拆股方案已获批并生效，所有C类普通股将同步转换为A类普通股。美股IPO市场正迎来今年最重磅的选手，埃隆·马斯克旗下的太空探索巨头SpaceX，正以史无前例的体量加速驶入纳斯达克。\n 综合 | 路透社 WSJ 中国基金报编辑 | Echo\n 本文仅为信息交流之用，不构成任何交易建议\n 据路透社和华尔街日报援引知情人士报"
-    },
-    {
-      "title": "India's demand-side push could build $37.8 billion forex shield as high oil prices threaten fiscal stability: Brickwork Ratings",
+      "title": "Silver futures slide to ₹2.7 lakh/kg as oil rally fuels inflation concerns",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/indias-demand-side-push-could-build-378-billion-forex-shield-as-high-oil-prices-threaten-fiscal-stability-brickwork-ratings/article70989554.ece",
-      "published": "2026-05-17T03:48:29Z",
-      "description": "Brickwork Ratings stated that with crude prices expected to remain above $100 per barrel in 2026 and the rupee under pressure near ₹95/USD, PM Modi’s seven behavioral appeals could create a $37.8 bill"
+      "url": "https://www.thehindubusinessline.com/markets/gold/silver-futures-slide-to-27-lakhkg-as-oil-rally-fuels-inflation-concerns/article70993064.ece",
+      "published": "2026-05-18T08:48:35Z",
+      "description": "Silver prices declined by Rs 1,832 to Rs 2.70 lakh per kilogram in futures trade on Monday as a rally in crude oil rates amplified inflation concerns and the strength of the US dollar in overseas mark"
     },
     {
-      "title": "India scrambles to steady rupee as oil shock bites",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/india-scrambles-to-steady-rupee-as-oil-shock-bites/articleshow/131148459.cms",
-      "published": "2026-05-17T03:39:54Z",
-      "description": "India is scrambling to salvage a sinking rupee as surging oil prices linked to the Middle East conflict threaten to disrupt the world's fastest-growing major economy. The depreciation has punctured In"
-    },
-    {
-      "title": "Pick of BL commodities -May 17, 2026",
+      "title": "Why gold weakens below ₹1,58,500 amid Fed rate hike fears",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/newsletter/pick-of-bl-commodities/pick-of-bl-commodities-may-17-2026/article70987765.ece",
-      "published": "2026-05-16T15:36:51Z",
-      "description": "The Indian government came up with quite a few policy decisions that have financial implications in terms of income and expenditure. It increased the duty on gold and silver to 15 per cent and on plat"
+      "url": "https://www.thehindubusinessline.com/markets/gold/why-gold-weakens-below-158500-amid-fed-rate-hike-fears/article70992949.ece",
+      "published": "2026-05-18T08:48:02Z",
+      "description": "Gold prices fall below ₹1,58,500 due to rising US inflation, stronger dollar, and expectations of Fed rate hikes."
+    },
+    {
+      "title": "NSE EGR trading goes live. How can gold investors buy, sell and invest?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-egr-trading-goes-live-how-can-gold-investors-buy-sell-and-invest/articleshow/131171106.cms",
+      "published": "2026-05-18T08:26:59Z",
+      "description": "The National Stock Exchange of India (NSE) has launched live trading in its Electronic Gold Receipts (EGR) segment, enabling investors to trade gold digitally via demat accounts. Backed by physical go"
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 18, 2026) on Malabar Gold & Diamonds, Joyalukkas, Tanishq, Kalyan Jewellers and IBJA",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-18-2026-on-malabar-gold-diamonds-joyalukkas-tanishq-kalyan-jewellers-and-ibja/articleshow/131170301.cms",
+      "published": "2026-05-18T07:54:29Z",
+      "description": "Gold prices dipped on May 18, 2026, influenced by global market weakness and shifting investor sentiment. While international rates saw a sharp weekly decline, Indian domestic prices remained high due"
+    },
+    {
+      "title": "NSE launches live trading in Electronic Gold Receipts",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/nse-launches-live-trading-in-electronic-gold-receipts/article70992802.ece",
+      "published": "2026-05-18T07:05:57Z",
+      "description": "NSE launches live trading in Electronic Gold Receipts, enhancing India's gold market with operational centres in Ahmedabad and Mumbai."
+    },
+    {
+      "title": "Anglo to Sell Australia Coking Coal Mines for $3.88 Billion",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/anglo-to-sell-australia-coking-coal-mines-for-3-88-billion",
+      "published": "2026-05-18T07:03:33Z",
+      "description": "Anglo American Plc agreed to sell its steelmaking coal mines in Australia to Dhilmar Ltd. for as much as $3.88 billion in cash, as the mining company continues to reshape its business."
+    },
+    {
+      "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3814408307711492",
+      "published": "2026-05-18T07:03:20Z",
+      "description": "进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问：\n 朋友圈刷屏的“龙虾”、Harness等AI新事物，跟我到底有什么关系？真的有必要跟吗？\n AI创业、AI融资如火如荼，属于我的机会又在哪里？\n 别人已经在用AI做视频、写代码、跑项目，我是不是已经慢了一拍？\n ……\n 到最后，几乎所有问题都会汇成同一个问题：我，到底该如何用AI？\n 如果你对这些问题还很模糊，不妨来第四届中国AI"
+    },
+    {
+      "title": "Strait of Hormuz is now India's biggest market risk, says Ashi Anand",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/strait-of-hormuz-is-now-indias-biggest-market-risk-says-ashi-anand/articleshow/131168671.cms",
+      "published": "2026-05-18T06:26:55Z",
+      "description": "Indian markets await clarity on Strait of Hormuz shipping. Ashi Anand of IME Capital suggests a defensive market approach. Oil prices near $110 per barrel strain India's economy. Fuel price hikes are "
+    },
+    {
+      "title": "「宇石空间」完成5亿元A轮融资，今年计划交付三枚火箭，累计融资额已达10亿元｜36氪首发",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3814368445259270",
+      "published": "2026-05-18T05:38:42Z",
+      "description": "文 | 阿至\n 36氪获悉，宇石空间已完成5亿元A轮融资，由高榕创投、昆仑资本联合领投，建发新兴、蓝湖资本、弘晖基金、东证资本、臻泰资本、庚辛资本跟投；产业方股东紫金矿业、知名互联网战投、智能终端产业方联合投资，老股东高瓴创投、基石资本、千乘资本、知盛睿盈连续多轮追投。\n 本轮资金将主要用于火箭总装测试、筷子回收技术验证、火箭产能建设和团队建设，为宇石空间AS-1火箭首飞及后续规模化运营提供保障。"
     }
   ],
   "tweets": []
