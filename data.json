@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-19 09:30:47 UTC",
+  "updated_at": "2026-05-20 08:56:34 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4542.87,
+      "price_usd": 4488.21,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 75.79,
+      "price_usd": 75.5,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1967.35,
+      "price_usd": 1941.76,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1398.17,
+      "price_usd": 1383.11,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.59,
+      "price_usd": 0.58,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.57,
+      "price_usd": 0.59,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Commodity Radar: Rupee's record lows support gold prices. Can fresh base formation trigger upside?",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 19, 2026) on IBJA, Malabar Gold & Diamonds, Joyalukkas, Tanishq and Kalyan Jewellers",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-radar-rupees-record-lows-support-gold-prices-can-fresh-base-formation-trigger-upside/articleshow/131172330.cms",
-      "published": "2026-05-18T09:25:03Z",
-      "description": "Gold futures on MCX are holding above key support levels as rupee weakness nears record lows, boosting domestic prices despite global softness. Analysts say MCX gold is showing early signs of base for"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-19-2026-on-ibja-malabar-gold-diamonds-joyalukkas-tanishq-and-kalyan-jewellers/articleshow/131195210.cms",
+      "published": "2026-05-19T08:35:28Z",
+      "description": "Gold and silver prices saw an increase today, May 19, 2026. Major jewellery brands like Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas reported higher rates for 22k gold."
     },
     {
-      "title": "Silver futures slide to ₹2.7 lakh/kg as oil rally fuels inflation concerns",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/silver-futures-slide-to-27-lakhkg-as-oil-rally-fuels-inflation-concerns/article70993064.ece",
-      "published": "2026-05-18T08:48:35Z",
-      "description": "Silver prices declined by Rs 1,832 to Rs 2.70 lakh per kilogram in futures trade on Monday as a rally in crude oil rates amplified inflation concerns and the strength of the US dollar in overseas mark"
-    },
-    {
-      "title": "Why gold weakens below ₹1,58,500 amid Fed rate hike fears",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/why-gold-weakens-below-158500-amid-fed-rate-hike-fears/article70992949.ece",
-      "published": "2026-05-18T08:48:02Z",
-      "description": "Gold prices fall below ₹1,58,500 due to rising US inflation, stronger dollar, and expectations of Fed rate hikes."
-    },
-    {
-      "title": "NSE EGR trading goes live. How can gold investors buy, sell and invest?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/nse-egr-trading-goes-live-how-can-gold-investors-buy-sell-and-invest/articleshow/131171106.cms",
-      "published": "2026-05-18T08:26:59Z",
-      "description": "The National Stock Exchange of India (NSE) has launched live trading in its Electronic Gold Receipts (EGR) segment, enabling investors to trade gold digitally via demat accounts. Backed by physical go"
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 18, 2026) on Malabar Gold & Diamonds, Joyalukkas, Tanishq, Kalyan Jewellers and IBJA",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-18-2026-on-malabar-gold-diamonds-joyalukkas-tanishq-kalyan-jewellers-and-ibja/articleshow/131170301.cms",
-      "published": "2026-05-18T07:54:29Z",
-      "description": "Gold prices dipped on May 18, 2026, influenced by global market weakness and shifting investor sentiment. While international rates saw a sharp weekly decline, Indian domestic prices remained high due"
-    },
-    {
-      "title": "NSE launches live trading in Electronic Gold Receipts",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/nse-launches-live-trading-in-electronic-gold-receipts/article70992802.ece",
-      "published": "2026-05-18T07:05:57Z",
-      "description": "NSE launches live trading in Electronic Gold Receipts, enhancing India's gold market with operational centres in Ahmedabad and Mumbai."
-    },
-    {
-      "title": "Anglo to Sell Australia Coking Coal Mines for $3.88 Billion",
+      "title": "Ruble Tops Global Currencies as Putin Reaps Iran War Oil Gain",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/anglo-to-sell-australia-coking-coal-mines-for-3-88-billion",
-      "published": "2026-05-18T07:03:33Z",
-      "description": "Anglo American Plc agreed to sell its steelmaking coal mines in Australia to Dhilmar Ltd. for as much as $3.88 billion in cash, as the mining company continues to reshape its business."
+      "url": "https://financialpost.com/pmn/business-pmn/ruble-tops-global-currencies-as-putin-reaps-iran-war-oil-gain",
+      "published": "2026-05-19T08:06:05Z",
+      "description": "Russia’s ruble has muscled its way to become the world’s best performer against the dollar so far this quarter, buoyed by a surge in foreign currency receipts from oil sales following the outbreak of "
     },
     {
-      "title": "Agent、多模态、应用、算力一天看尽，峰会亮点在此｜5.20日，来现场一起AI",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3814408307711492",
-      "published": "2026-05-18T07:03:20Z",
-      "description": "进入2026，AI愈发狂飙突进。围观体验之余，人人不免在心中自问：\n 朋友圈刷屏的“龙虾”、Harness等AI新事物，跟我到底有什么关系？真的有必要跟吗？\n AI创业、AI融资如火如荼，属于我的机会又在哪里？\n 别人已经在用AI做视频、写代码、跑项目，我是不是已经慢了一拍？\n ……\n 到最后，几乎所有问题都会汇成同一个问题：我，到底该如何用AI？\n 如果你对这些问题还很模糊，不妨来第四届中国AI"
+      "title": "How coal gasification promises to be a gamechanger in energy security, cutting imports",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/blexplainer/how-coal-gasification-promises-to-be-a-gamechanger-in-energy-security-cutting-imports/article70997077.ece",
+      "published": "2026-05-19T07:43:22Z",
+      "description": "Experts say, it could work as a transitional bridge technology in the country’s long-term energy transition strategy."
     },
     {
-      "title": "Strait of Hormuz is now India's biggest market risk, says Ashi Anand",
+      "title": "Global Bond Selloff Threatens Turmoil in Weakest Asian Economies",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/global-bond-selloff-threatens-turmoil-in-weakest-asian-economies",
+      "published": "2026-05-19T07:35:32Z",
+      "description": "Three of Asia’s most vulnerable economies are showing rising strains as their central banks come under pressure to tighten policy even as the economic hit from the Iran-war oil shock deepens."
+    },
+    {
+      "title": "Luxury Watch Market Size to Worth USD 112.43 Billion by 2035 | Research by SNS Insider",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/19/3297159/0/en/Luxury-Watch-Market-Size-to-Worth-USD-112-43-Billion-by-2035-Research-by-SNS-Insider.html",
+      "published": "2026-05-19T07:30:00Z",
+      "description": "Luxury Watch Market Size, Share, Revenue Trends & Segmentation, By Product Type, Price Range, Material, Functionality, End User, Region, And Forecast 2035..."
+    },
+    {
+      "title": "Tech investors loved this earnings season — but the Iran war is piling pressure on the companies powering the AI boom",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/19/iran-war-ai-chip-supply-chain-costs.html",
+      "published": "2026-05-19T05:00:01Z",
+      "description": "Stocks continue to rally amid the AI boom, but the chip sector is scrambling to shore up access to key materials as costs rise."
+    },
+    {
+      "title": "Gold prices snap 2-day fall, silver at Rs 2.75 lakh/kg. What should you do amid Iran war uncertainty?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/strait-of-hormuz-is-now-indias-biggest-market-risk-says-ashi-anand/articleshow/131168671.cms",
-      "published": "2026-05-18T06:26:55Z",
-      "description": "Indian markets await clarity on Strait of Hormuz shipping. Ashi Anand of IME Capital suggests a defensive market approach. Oil prices near $110 per barrel strain India's economy. Fuel price hikes are "
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-snap-2-day-fall-silver-at-rs-2-75-lakh/kg-what-should-you-do-amid-iran-war-uncertainty/articleshow/131190339.cms",
+      "published": "2026-05-19T04:15:06Z",
+      "description": "Gold prices rose while silver declined on MCX Tuesday as a weaker dollar and cooling crude oil prices influenced sentiment. Gold gained after U.S. President Donald Trump delayed a planned strike on Ir"
     },
     {
-      "title": "「宇石空间」完成5亿元A轮融资，今年计划交付三枚火箭，累计融资额已达10亿元｜36氪首发",
+      "title": "IT stocks lead Nifty, Sensex higher as geopolitical fears ease",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/it-stocks-lead-nifty-sensex-higher-as-geopolitical-fears-ease/article70996520.ece",
+      "published": "2026-05-19T04:07:30Z",
+      "description": "At 9:19 am, Sensex opened at 75,441.27 and was trading at 75,632.72, up 317.68 points (0.42%). Nifty 50 opened at 23,732.25, up 82.30 points (0.35%)"
+    },
+    {
+      "title": "Gold steady on weaker dollar after Trump pauses planned Iran attack",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-on-weaker-dollar-after-trump-pauses-planned-iran-attack/articleshow/131188550.cms",
+      "published": "2026-05-19T01:45:53Z",
+      "description": "Gold prices stabilized as a weaker dollar and falling oil prices eased inflation worries, following President Trump's decision to pause an attack on Iran. This move, aimed at fostering negotiations, h"
+    },
+    {
+      "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3814368445259270",
-      "published": "2026-05-18T05:38:42Z",
-      "description": "文 | 阿至\n 36氪获悉，宇石空间已完成5亿元A轮融资，由高榕创投、昆仑资本联合领投，建发新兴、蓝湖资本、弘晖基金、东证资本、臻泰资本、庚辛资本跟投；产业方股东紫金矿业、知名互联网战投、智能终端产业方联合投资，老股东高瓴创投、基石资本、千乘资本、知盛睿盈连续多轮追投。\n 本轮资金将主要用于火箭总装测试、筷子回收技术验证、火箭产能建设和团队建设，为宇石空间AS-1火箭首飞及后续规模化运营提供保障。"
+      "url": "https://36kr.com/p/3805660478184966",
+      "published": "2026-05-19T01:30:00Z",
+      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。\n SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此前已获得"
     }
   ],
   "tweets": []
