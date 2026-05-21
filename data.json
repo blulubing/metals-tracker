@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-20 08:56:34 UTC",
+  "updated_at": "2026-05-21 09:25:41 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4488.21,
+      "price_usd": 4537.39,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 75.5,
+      "price_usd": 75.6,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1941.76,
+      "price_usd": 1948.76,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1383.11,
+      "price_usd": 1374.93,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.58,
+      "price_usd": 0.59,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.59,
+      "price_usd": 0.58,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 19, 2026) on IBJA, Malabar Gold & Diamonds, Joyalukkas, Tanishq and Kalyan Jewellers",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 20, 2026) on IBJA, Malabar Gold & Diamonds, Joyalukkas, Tanishq and Kalyan Jewellers",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-19-2026-on-ibja-malabar-gold-diamonds-joyalukkas-tanishq-and-kalyan-jewellers/articleshow/131195210.cms",
-      "published": "2026-05-19T08:35:28Z",
-      "description": "Gold and silver prices saw an increase today, May 19, 2026. Major jewellery brands like Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas reported higher rates for 22k gold."
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-20-2026-on-ibja-malabar-gold-diamonds-joyalukkas-tanishq-and-kalyan-jewellers/articleshow/131221195.cms",
+      "published": "2026-05-20T08:22:15Z",
+      "description": "Gold prices saw an upward trend today, May 20, 2026, at major jewellery retailers like Tanishq, Malabar Gold & Diamonds, Joyalukkas, and Kalyan Jewellers.  In contrast, rates at the India Bullion and "
     },
     {
-      "title": "Ruble Tops Global Currencies as Putin Reaps Iran War Oil Gain",
+      "title": "Laurence Balanco flags 5% downside risk for Nifty amid global yield surge",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/laurence-balanco-flags-5-downside-risk-for-nifty-amid-global-yield-surge/articleshow/131220694.cms",
+      "published": "2026-05-20T07:50:22Z",
+      "description": "Global financial markets are experiencing a risk-off shift driven by rising sovereign bond yields, impacting equities and commodities. Market strategist Laurence Balanco notes that bond yields, not oi"
+    },
+    {
+      "title": "Citi sees India tightening currency controls to halt Rupee slump",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/citi-sees-india-tightening-currency-controls-to-halt-rupee-slump/articleshow/131220741.cms",
+      "published": "2026-05-20T07:50:09Z",
+      "description": "India may introduce more measures in the coming months to support the rupee and boost foreign reserves, including possible curbs on overseas investments by domestic companies, according to Citigroup. "
+    },
+    {
+      "title": "Citi Sees India Tightening Currency Controls to Halt Rupee Slump",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/ruble-tops-global-currencies-as-putin-reaps-iran-war-oil-gain",
-      "published": "2026-05-19T08:06:05Z",
-      "description": "Russia’s ruble has muscled its way to become the world’s best performer against the dollar so far this quarter, buoyed by a surge in foreign currency receipts from oil sales following the outbreak of "
+      "url": "https://financialpost.com/pmn/business-pmn/citi-sees-india-tightening-currency-controls-to-halt-rupee-slump",
+      "published": "2026-05-20T07:24:45Z",
+      "description": "India may take a number of steps in coming months to bolster foreign reserves and the rupee, including possibly restricting outflows from businesses, according to Citigroup Inc."
     },
     {
-      "title": "How coal gasification promises to be a gamechanger in energy security, cutting imports",
+      "title": "Gold falls to 1-1/2-month low on higher US yields, firm dollar",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/blexplainer/how-coal-gasification-promises-to-be-a-gamechanger-in-energy-security-cutting-imports/article70997077.ece",
-      "published": "2026-05-19T07:43:22Z",
-      "description": "Experts say, it could work as a transitional bridge technology in the country’s long-term energy transition strategy."
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-falls-to-1-12-month-low-on-higher-us-yields-firm-dollar/article71001047.ece",
+      "published": "2026-05-20T06:41:15Z",
+      "description": "Spot gold was down 0.2% at $4,472.09 per ounce, as of\n0615 GMT, having touched ‌its weakest level since March 30"
     },
     {
-      "title": "Global Bond Selloff Threatens Turmoil in Weakest Asian Economies",
+      "title": "Gold and silver import duty hike: here is what it means for prices and ETF premiums",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/gold-import-duty-silver-restricted-status-etf-premiums-precious-metals-outlook-gold-prices-silver-supply-comex-rupee-11779201405151.html",
+      "published": "2026-05-20T06:40:51Z",
+      "description": "A 9% import duty hike and tighter silver import rules may disrupt local supply and ETF premiums, even as experts remain structurally bullish on gold and silver."
+    },
+    {
+      "title": "Hong Kong Targets July Launch for New Gold-Clearing System",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/global-bond-selloff-threatens-turmoil-in-weakest-asian-economies",
-      "published": "2026-05-19T07:35:32Z",
-      "description": "Three of Asia’s most vulnerable economies are showing rising strains as their central banks come under pressure to tighten policy even as the economic hit from the Iran-war oil shock deepens."
+      "url": "https://financialpost.com/pmn/business-pmn/hong-kong-targets-july-launch-for-new-gold-clearing-system",
+      "published": "2026-05-20T04:31:09Z",
+      "description": "Hong Kong plans to launch a new gold-clearing system by July, advancing the city’s ambitions to become a global hub for bullion trading."
     },
     {
-      "title": "Luxury Watch Market Size to Worth USD 112.43 Billion by 2035 | Research by SNS Insider",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/19/3297159/0/en/Luxury-Watch-Market-Size-to-Worth-USD-112-43-Billion-by-2035-Research-by-SNS-Insider.html",
-      "published": "2026-05-19T07:30:00Z",
-      "description": "Luxury Watch Market Size, Share, Revenue Trends & Segmentation, By Product Type, Price Range, Material, Functionality, End User, Region, And Forecast 2035..."
-    },
-    {
-      "title": "Tech investors loved this earnings season — but the Iran war is piling pressure on the companies powering the AI boom",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/19/iran-war-ai-chip-supply-chain-costs.html",
-      "published": "2026-05-19T05:00:01Z",
-      "description": "Stocks continue to rally amid the AI boom, but the chip sector is scrambling to shore up access to key materials as costs rise."
-    },
-    {
-      "title": "Gold prices snap 2-day fall, silver at Rs 2.75 lakh/kg. What should you do amid Iran war uncertainty?",
+      "title": "Silver dips Rs 3,000/kg, gold down Rs 1,100/10g as firm dollar outweighs Iran war peace hopes. What’s next?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-snap-2-day-fall-silver-at-rs-2-75-lakh/kg-what-should-you-do-amid-iran-war-uncertainty/articleshow/131190339.cms",
-      "published": "2026-05-19T04:15:06Z",
-      "description": "Gold prices rose while silver declined on MCX Tuesday as a weaker dollar and cooling crude oil prices influenced sentiment. Gold gained after U.S. President Donald Trump delayed a planned strike on Ir"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-dips-rs-3000/kg-gold-down-rs-1100/10g-as-firm-dollar-outweighs-iran-war-peace-hopes-whats-next/articleshow/131215910.cms",
+      "published": "2026-05-20T03:54:59Z",
+      "description": "Gold and silver prices slipped on MCX Wednesday as rising U.S. Treasury yields and a stronger dollar weighed on bullion despite optimism over a potential US-Iran peace deal. Silver futures for July 20"
     },
     {
-      "title": "IT stocks lead Nifty, Sensex higher as geopolitical fears ease",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/it-stocks-lead-nifty-sensex-higher-as-geopolitical-fears-ease/article70996520.ece",
-      "published": "2026-05-19T04:07:30Z",
-      "description": "At 9:19 am, Sensex opened at 75,441.27 and was trading at 75,632.72, up 317.68 points (0.42%). Nifty 50 opened at 23,732.25, up 82.30 points (0.35%)"
-    },
-    {
-      "title": "Gold steady on weaker dollar after Trump pauses planned Iran attack",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steady-on-weaker-dollar-after-trump-pauses-planned-iran-attack/articleshow/131188550.cms",
-      "published": "2026-05-19T01:45:53Z",
-      "description": "Gold prices stabilized as a weaker dollar and falling oil prices eased inflation worries, following President Trump's decision to pause an attack on Iran. This move, aimed at fostering negotiations, h"
-    },
-    {
-      "title": "高瓴出手了一家AI体育科技公司，曾获李泽湘天使轮融资｜硬氪首发",
+      "title": "长鑫科技更新招股书，碧桂园错失300亿",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3805660478184966",
-      "published": "2026-05-19T01:30:00Z",
-      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，AI体育科技公司SportVision近日已完成天使+轮融资，高瓴创投（GL Ventures）领投，谦恒资本担任独家财务顾问。本轮资金将重点用于核心技术研发、产品量产落地及市场的拓展推广。其新款AI网球训练相机产品计划发售中。\n SportVision隶属于深圳思博威视体育科技有限公司‌，长期专注运动算法研发与硬件产品应用、构建AI智能教练体系，此前已获得"
+      "url": "https://36kr.com/p/3817039204139908",
+      "published": "2026-05-20T02:54:58Z",
+      "description": "地产行业内，曾有望跑出两家明星创投企业，一家是世纪金源，另一家是碧桂园。前者现在做得顺风顺水，收获一个又一个IPO，而碧桂园因为地产业务暴雷，需要大量资金保交楼，被迫中断了在科技领域的投资“大爆发”。\n 01\n 5月17日，计划登陆科创板的长鑫科技集团股份有限公司（以下简称：长鑫科技）更新了招股书。新招股书的财务数据显示，2026年第一季度，长鑫科技营收508亿元，同比增长719.13%；归母净利"
+    },
+    {
+      "title": "Gold, Silver Rate Today Live Updates: International gold prices rise as crude drops on hopes of US-Iran conflict nearing an end",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/131214897.cms",
+      "published": "2026-05-20T02:47:32Z",
+      "description": "Gold, Silver Rate Today Live Updates: Gold prices in the international market will continue to be influenced by geopolitical developments around the"
     }
   ],
   "tweets": []
