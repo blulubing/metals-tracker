@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-24 08:20:40 UTC",
+  "updated_at": "2026-05-25 09:54:00 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4509.51,
+      "price_usd": 4567.88,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 75.55,
+      "price_usd": 78.09,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1929.3,
+      "price_usd": 1968.11,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1340.83,
+      "price_usd": 1389.31,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,11 +76,46 @@
   ],
   "news": [
     {
-      "title": "Duty hike to push gold jewellery volumes to decadal low, but credit profiles seen stable: Crisil Ratings",
+      "title": "Gold ETF vs EGR vs digital gold: What’s the smarter way to invest in yellow metal?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-etf-vs-egr-vs-digital-gold-what-s-the-smarter-way-to-invest-in-yellow-metal-11779558449375.html",
+      "published": "2026-05-24T06:49:52Z",
+      "description": "There are several ways to invest in gold, including Gold ETFs, Electronic Gold Receipts, and Digital Gold. But which option is best for regularly investing your surplus monthly income? Let’s explore."
+    },
+    {
+      "title": "How to manage the rupee while protecting growth",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/how-to-manage-the-rupee-while-protecting-growth/articleshow/131289272.cms",
+      "published": "2026-05-24T06:02:02Z",
+      "description": "First, on the rupee, one of the most effective ways to stabilise the currency is to improve the flow of foreign exchange into the country. While India has made significant progress on the export side,"
+    },
+    {
+      "title": "Gold offered at ₹450/g to Indian consumers after import duty hike",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/duty-hike-to-push-gold-jewellery-volumes-to-decadal-low-but-credit-profiles-seen-stable-crisil-ratings/article71013527.ece",
-      "published": "2026-05-23T07:51:53Z",
-      "description": "Sales volume for the sector, comprising jewellery, coins and bars, is expected to decline 13-15% on-year this fiscal, after an 8% contraction last fiscal"
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-offered-at-450g-to-indian-consumers-after-import-duty-hike/article71016944.ece",
+      "published": "2026-05-24T05:15:41Z",
+      "description": "The bullion trade is passing on the benefits of importing the yellow metal at lower duty to spur demand"
+    },
+    {
+      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 24 May in Delhi, Mumbai and Kolkata",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-check-retail-rates-of-24k-22k-gold-999-silver-on-24-may-in-delhi-mumbai-and-kolkata-11779591111978.html",
+      "published": "2026-05-24T03:04:27Z",
+      "description": "On May 24, gold prices in India remained stable with 24-karat gold at  ₹159,340 per 10 grams. Silver prices also showed limited movement. The MCX is closed on weekends, affecting live trading rates."
+    },
+    {
+      "title": "Bullion Cues: Weak persists in gold and silver futures",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-weakpersists-in-gold-and-silver-futures/article71014345.ece",
+      "published": "2026-05-23T15:22:03Z",
+      "description": "Gold and silver futures show weakness, with prices declining and bearish trends expected in the market."
+    },
+    {
+      "title": "India’s next freedom must be the freedom to produce",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/commodities/indias-next-freedom-must-be-the-freedom-to-produce/article71014742.ece",
+      "published": "2026-05-23T14:07:13Z",
+      "description": "India must prioritize domestic production to reduce import dependence and bolster economic strength, as urged by Prime Minister Modi."
     },
     {
       "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
@@ -88,27 +123,6 @@
       "url": "https://36kr.com/p/3821533415985283",
       "published": "2026-05-23T07:05:47Z",
       "description": "真正AI原生的人，甚至不会来这个现场。但对于那些积极转型的20%，如何找到、培养并留住他们，这里有一本实战手册。\n 只有1%的企业是AI原生企业，20%积极拥抱变化，80%在苦苦挣扎；人才亦然。圆桌深入探讨了企业“赶时髦招AI人才”的焦虑、通过黑客松内部挖掘AI人才的方法、以及“事业留人、文化留人”的留存策略。\n 以下为圆桌对话内容，经36氪整理编辑：\n \n 帮主丨36氪《AI局内人》主播（主持）"
-    },
-    {
-      "title": "Why organized players like Titan Company could emerge bigger winners in India’s evolving gold market",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-organized-players-like-titan-company-could-emerge-bigger-winners-in-indias-evolving-gold-market/articleshow/131273387.cms",
-      "published": "2026-05-23T06:45:06Z",
-      "description": "India's gold market is rapidly formalizing despite high prices and tax hikes. Resilient consumer demand, especially for investment, favors organized players like Titan. Titan, leveraging Tanishq's bra"
-    },
-    {
-      "title": "Gold on track for second weekly loss as rising oil prices drive up rate hike bets",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/gold-on-track-for-second-weekly-loss-as-rising-oil-prices-drive-up-rate-hike-bets/articleshow/131272874.cms",
-      "published": "2026-05-23T05:51:52Z",
-      "description": "Gold prices are falling, heading for a second weekly loss. Higher oil prices are fueling inflation worries and boosting chances of a U.S. interest rate hike. Treasury yields are near one-year highs, r"
-    },
-    {
-      "title": "Falcon Gold Corp. Positioned in Emerging Ontario Gold Growth Corridor Following Agnico Eagle's $14 Billion Provincial Commitment",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/falcon-gold-corp-positioned-in-emerging-ontario-gold-growth-corridor-following-agnico-eagles-14-billion-provincial-commitment-302780135.html",
-      "published": "2026-05-22T13:01:00Z",
-      "description": "FG: TSX-V VANCOUVER, BC, May 22, 2026 /PRNewswire/ - Falcon Gold Corp. (TSXV: FG) (FSE: 3FA) (OTC-Pinks: FGLDF) (\"Falcon\" or the \"Company\") notes the growing momentum within Ontario's mining sector fo"
     },
     {
       "title": "Sensex today | Stock Market Highlights: Sensex rises 231 pts, Nifty ends at 23,719 led by banks, positive global cues",
@@ -130,20 +144,6 @@
       "url": "https://36kr.com/p/3820091365871748",
       "published": "2026-05-22T06:38:43Z",
       "description": "AI+的“国家推进计划”与企业的“生存路线图”| 2026AI Partner·北京亦庄AI+产业大会\n 引语部分：\n AI+正从技术指引转向产业实战，政策红利如何兑现？投入如何变成产出？企业如何在浪潮中生存、打赢？2026北京亦庄AI+产业大会首场圆桌对话，将这些问题摆上台面，不谈空想，只谈干法。\n 正文部分：\n 2026北京亦庄AI+产业大会首场圆桌对话聚焦“AI+的国家推进计划与企业的生存路"
-    },
-    {
-      "title": "8点1氪丨“拉勾网”被曝主动申请破产；特斯拉Model S和X正式停产退役；三星内存工人，奖金或达280万元",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3819709302329735",
-      "published": "2026-05-22T00:14:12Z",
-      "description": "今日热点导览\n 马斯克或成全球首位万亿美元富翁\n 三星内存工人，奖金或达280万元\n 东方甄选首家线下店正式营业\n 追觅俞浩回应“花4000万请员工去迪士尼”\n 妙鸭APP被曝团队解散 \n 多地公布520结婚登记数据 \n TOP3大新闻\n Manus创始人计划融资10亿美元回购公司\n 据彭博社报道，肖弘、季逸超和张涛正在筹划一轮约10亿美元的融资，估值不低于Meta此前收购时支付的20亿美元。如果"
-    },
-    {
-      "title": "Cassiar District Polymetallic System Funded For 2026 Drilling Inside Tightening Silver Market",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/cassiar-district-polymetallic-system-funded-for-2026-drilling-inside-tightening-silver-market-302778330.html",
-      "published": "2026-05-21T15:30:00Z",
-      "description": "Issued on behalf of GoldHaven Resources Corp. Approximately C$3.2 million in flow-through plus a C$5.0 million LIFE Offering, a 1,741 line-km airborne magnetic survey scheduled for June, a permit appl"
     }
   ],
   "tweets": []
