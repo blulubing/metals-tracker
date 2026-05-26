@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-25 09:54:00 UTC",
+  "updated_at": "2026-05-26 09:39:59 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4567.88,
+      "price_usd": 4517.8,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 78.09,
+      "price_usd": 75.96,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1968.11,
+      "price_usd": 1947.9,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1389.31,
+      "price_usd": 1375.99,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.59,
+      "price_usd": 0.58,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Gold ETF vs EGR vs digital gold: What’s the smarter way to invest in yellow metal?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-etf-vs-egr-vs-digital-gold-what-s-the-smarter-way-to-invest-in-yellow-metal-11779558449375.html",
-      "published": "2026-05-24T06:49:52Z",
-      "description": "There are several ways to invest in gold, including Gold ETFs, Electronic Gold Receipts, and Digital Gold. But which option is best for regularly investing your surplus monthly income? Let’s explore."
-    },
-    {
-      "title": "How to manage the rupee while protecting growth",
+      "title": "Commodity Radar: Gold's bullish trend intact despite current consolidation. Buy for these targets",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/how-to-manage-the-rupee-while-protecting-growth/articleshow/131289272.cms",
-      "published": "2026-05-24T06:02:02Z",
-      "description": "First, on the rupee, one of the most effective ways to stabilise the currency is to improve the flow of foreign exchange into the country. While India has made significant progress on the export side,"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-radar-golds-bullish-trend-intact-despite-current-consolidation-buy-for-these-targets/articleshow/131305930.cms",
+      "published": "2026-05-25T09:25:57Z",
+      "description": "MCX gold prices continue to consolidate near record levels, supported by safe-haven demand amid global uncertainty, with analysts maintaining a positive bias and suggesting a buy-on-dips strategy. Tec"
     },
     {
-      "title": "Gold offered at ₹450/g to Indian consumers after import duty hike",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-offered-at-450g-to-indian-consumers-after-import-duty-hike/article71016944.ece",
-      "published": "2026-05-24T05:15:41Z",
-      "description": "The bullion trade is passing on the benefits of importing the yellow metal at lower duty to spur demand"
+      "title": "Additive Manufacturing With Metal Powders Industry Research 2026: Lightweight, Durable Components Drive Growth Across Aerospace, Automotive, and Healthcare Sectors",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/25/3300534/28124/en/Additive-Manufacturing-With-Metal-Powders-Industry-Research-2026-Lightweight-Durable-Components-Drive-Growth-Across-Aerospace-Automotive-and-Healthcare-Sectors.html",
+      "published": "2026-05-25T09:03:00Z",
+      "description": "Metal Additive Manufacturing Surges Amid Technological Advancements and Strategic Industry Collaborations Metal Additive Manufacturing Surges Amid Technological Advancements and Strategic Industry Col"
     },
     {
-      "title": "Gold, silver prices today: Check retail rates of 24K, 22K gold, 999 silver on 24 May in Delhi, Mumbai and Kolkata",
+      "title": "Infinix Launches HOT 70 Series with Industry-First 12-Colorway Dynamic Shine Design",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/infinix-launches-hot-70-series-with-industry-first-12-colorway-dynamic-shine-design-302780974.html",
+      "published": "2026-05-25T08:00:00Z",
+      "description": "HOT 70 Series debuts with an industry-first lineup of 12 trend-forward colorways under Infinix's all-new Dynamic Shine Design. It's the most fashion-forward HOT release to date, designed for the next "
+    },
+    {
+      "title": "The three Fs that Sitharaman flagged as India braces for a widening global oil shock, forex strain",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/sitharaman-3fs-fuel-fertiliser-forex-focus-india-economy-gulf-crisis-crude-oil-price-rise-msme-payment-delay-external-sector-pressure/articleshow/131301446.cms",
+      "published": "2026-05-25T07:53:24Z",
+      "description": "In light of increasing global unrest from the West Asia crisis and fluctuations in the energy sector, Finance Minister Nirmala Sitharaman is advocating for a concentrated approach to managing fuel, fe"
+    },
+    {
+      "title": "Private banks favoured over PSUs as macro headwinds cloud near-term outlook: Digant Haria",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/private-banks-favoured-over-psus-as-macro-headwinds-cloud-near-term-outlook-digant-haria/articleshow/131304429.cms",
+      "published": "2026-05-25T07:31:06Z",
+      "description": "Market expert Digant Haria notes strong corporate earnings but rising macroeconomic uncertainty. Private sector banks appear better positioned than PSU banks due to solid fundamentals, though near-ter"
+    },
+    {
+      "title": "Gold fever in India: How higher import duty sparked a buying rush across jewellery, ETFs and digital gold",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-check-retail-rates-of-24k-22k-gold-999-silver-on-24-may-in-delhi-mumbai-and-kolkata-11779591111978.html",
-      "published": "2026-05-24T03:04:27Z",
-      "description": "On May 24, gold prices in India remained stable with 24-karat gold at  ₹159,340 per 10 grams. Silver prices also showed limited movement. The MCX is closed on weekends, affecting live trading rates."
+      "url": "https://www.livemint.com/money/personal-finance/gold-fever-in-india-how-higher-import-duty-sparked-a-buying-rush-across-jewellery-etfs-and-digital-gold-11778838784246.html",
+      "published": "2026-05-25T07:31:04Z",
+      "description": "If you purchased gold, how did the import duty change affect your gold purchase locally? The import duty prices are included by the jeweller in the gold prices, which also fluctuate based on other con"
     },
     {
-      "title": "Bullion Cues: Weak persists in gold and silver futures",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-weakpersists-in-gold-and-silver-futures/article71014345.ece",
-      "published": "2026-05-23T15:22:03Z",
-      "description": "Gold and silver futures show weakness, with prices declining and bearish trends expected in the market."
+      "title": "Gold & silver ready for next big leg up? 360 ONE Asset’s Rahul Khetawat shares tactical allocation strategy",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/gold-silver-ready-for-next-big-leg-up-360-one-assets-rahul-khetawat-shares-tactical-allocation-strategy/articleshow/131303199.cms",
+      "published": "2026-05-25T06:15:22Z",
+      "description": "Gold and silver are consolidating after hitting record highs, with a healthy pause expected rather than a structural reversal. The US Federal Reserve's rate cycle, central bank buying, and geopolitica"
     },
     {
-      "title": "India’s next freedom must be the freedom to produce",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/indias-next-freedom-must-be-the-freedom-to-produce/article71014742.ece",
-      "published": "2026-05-23T14:07:13Z",
-      "description": "India must prioritize domestic production to reduce import dependence and bolster economic strength, as urged by Prime Minister Modi."
+      "title": "GoldHaven Highlights Strategic Tungsten and Indium Exposure at Magno Amid Growing Focus on Critical Mineral Supply Chains",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/goldhaven-highlights-strategic-tungsten-and-indium-exposure-at-magno-amid-growing-focus-on-critical-mineral-supply-chains",
+      "published": "2026-05-25T06:04:28Z",
+      "description": "VANCOUVER, British Columbia, May 24, 2026 (GLOBE NEWSWIRE) — GoldHaven Resources Corp. (“GoldHaven” or the “Company“) (CSE: GOH) (OTCQB: GHVNF) (FSE: 4QS) is pleased to highlight the growing strategic"
     },
     {
-      "title": "圆桌对话：人才特种兵：“AI原生人才”与“产业老炮”的共生手册| 2026AI Partner·北京亦庄AI+产业大会",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3821533415985283",
-      "published": "2026-05-23T07:05:47Z",
-      "description": "真正AI原生的人，甚至不会来这个现场。但对于那些积极转型的20%，如何找到、培养并留住他们，这里有一本实战手册。\n 只有1%的企业是AI原生企业，20%积极拥抱变化，80%在苦苦挣扎；人才亦然。圆桌深入探讨了企业“赶时髦招AI人才”的焦虑、通过黑客松内部挖掘AI人才的方法、以及“事业留人、文化留人”的留存策略。\n 以下为圆桌对话内容，经36氪整理编辑：\n \n 帮主丨36氪《AI局内人》主播（主持）"
+      "title": "Global Market: Equity funds see first weekly outflow in nine weeks amid yield surge",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-equity-funds-see-first-weekly-outflow-in-nine-weeks-amid-yield-surge/articleshow/131301316.cms",
+      "published": "2026-05-25T04:20:18Z",
+      "description": "Global equity funds recorded their first weekly outflow in nine weeks as rising inflation concerns and surging borrowing costs dented investor sentiment. While U.S. and Asian equity funds saw withdraw"
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex rises 231 pts, Nifty ends at 23,719 led by banks, positive global cues",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-22nd-may-2026/article71006112.ece",
-      "published": "2026-05-22T10:56:47Z",
-      "description": "Sensex, Nifty, Share Prices Highlights: Stock market benchmark indices ended higher on Friday, helped by buying in blue-chip bank shares and a rally in global peers. Hopes of progress in the US-Iran p"
-    },
-    {
-      "title": "圆桌对话：进化的终极思考：引入AI，先改流程还是先换脑袋？| 2026AI Partner·北京亦庄AI+产业大会",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3820112276951170",
-      "published": "2026-05-22T06:59:37Z",
-      "description": "企业引入AI，先改流程还是先换脑袋？没有标准答案，只有实战经验——学者、制造业主、工业赋能者三种视角碰撞出一个共识，不要指望把全公司的认知统一好再动手，也不要贪大求全一步到位，用小流程换结果，用结果赢共识，才是AI转型最稳的路径。\n 圆桌对话直面AI落地中“上热下冷”、过度追求全智能、数据治理欠账等现实之坑，并给出了一句建议：找准场景先干起来，用1%的成功促进100%的变革。\n 以下为圆桌演讲内容"
-    },
-    {
-      "title": "圆桌对话：AI+的“国家推进计划”与企业的“生存路线图”",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3820091365871748",
-      "published": "2026-05-22T06:38:43Z",
-      "description": "AI+的“国家推进计划”与企业的“生存路线图”| 2026AI Partner·北京亦庄AI+产业大会\n 引语部分：\n AI+正从技术指引转向产业实战，政策红利如何兑现？投入如何变成产出？企业如何在浪潮中生存、打赢？2026北京亦庄AI+产业大会首场圆桌对话，将这些问题摆上台面，不谈空想，只谈干法。\n 正文部分：\n 2026北京亦庄AI+产业大会首场圆桌对话聚焦“AI+的国家推进计划与企业的生存路"
+      "title": "Silver soars Rs 5,000/kg, gold nears Rs 1.6 lakh/10 grams on US-Iran peace deal progress. Right time to buy?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-soars-rs-5000/kg-gold-nears-rs-1-6-lakh/10-grams-on-us-iran-peace-deal-progress-right-time-to-buy/articleshow/131301098.cms",
+      "published": "2026-05-25T04:02:09Z",
+      "description": "Gold and silver prices rallied on MCX on Monday amid a weaker dollar and easing crude oil prices, as optimism grew over a possible U.S.-Iran peace deal. MCX silver futures for July 2026 delivery surge"
     }
   ],
   "tweets": []
