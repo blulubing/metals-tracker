@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-27 09:33:37 UTC",
+  "updated_at": "2026-05-28 09:51:15 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4489.26,
+      "price_usd": 4392.81,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 75.34,
+      "price_usd": 73.42,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1933.11,
+      "price_usd": 1892.84,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1380.99,
+      "price_usd": 1366.48,
       "unit": "USD/盎司 oz"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.58,
+      "price_usd": 0.59,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 26, 2026) at IBJA, Tanishq, Joyalukkas, Malabar Gold & Diamonds and Kalyan Jewellers",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 27, 2026) at IBJA, Tanishq, Joyalukkas, Malabar Gold & Diamonds and Kalyan Jewellers",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-26-2026-at-ibja-tanishq-joyalukkas-malabar-gold-diamonds-and-kalyan-jewellers/articleshow/131325296.cms",
-      "published": "2026-05-26T08:58:13Z",
-      "description": "Gold rate today: Gold prices saw a dip on May 26, 2026, as diplomatic talks between the US and Iran over the Strait of Hormuz offered hopes for a peace agreement. This followed recent US-Iran strikes,"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-27-2026-at-ibja-tanishq-joyalukkas-malabar-gold-diamonds-and-kalyan-jewellers/articleshow/131345448.cms",
+      "published": "2026-05-27T08:59:01Z",
+      "description": "Gold prices saw a dip today. Investors are watching US-Iran peace talks and inflation trends closely. Jewellery brands like Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas reported "
     },
     {
-      "title": "Gold slips as US-Iran tensions lift oil, stoke inflation fears",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-slips-as-us-iran-tensions-lift-oil-stoke-inflation-fears/article71024156.ece",
-      "published": "2026-05-26T08:37:23Z",
-      "description": "Spot gold was down 1% at $4,524.73 per ‌ounce, as of 0737 GMT. U.S. gold futures for June delivery gained 0.1% to $4,525.30"
-    },
-    {
-      "title": "Inflation hitting your wallet? A look at 5 products that got dearer and 5 that got cheaper in current economic scenario",
+      "title": "Gold and silver prices today, 27 May: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/inflation-hitting-your-wallet-a-look-at-5-products-that-got-dearer-and-5-that-got-cheaper-in-current-economic-scenario-11779778635893.html",
-      "published": "2026-05-26T07:54:23Z",
-      "description": "From petrol and milk to daily essentials, households are feeling the impact of rising prices due to the war in West Asia. But which top 5 products exactly got costlier and cheaper in April 2026? Let’s"
+      "url": "https://www.livemint.com/money/personal-finance/gold-and-silver-price-today-27-may-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11779862147213.html",
+      "published": "2026-05-27T08:44:13Z",
+      "description": "MCX gold June futures were 0.10% up at  ₹1,58,220 per 10 grams. Gold prices have been under pressure since the US-Iran war started on 28 February. International gold prices have fallen by up to 15% si"
     },
     {
-      "title": "Markets steady at midday; Adani, Coal India surge while banks, healthcare drag",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/markets-steady-at-midday-adani-coal-india-surge-while-banks-healthcare-drag/article71024004.ece",
-      "published": "2026-05-26T07:24:12Z",
-      "description": "Markets hold steady at midday, with Adani and Coal India rising while banks and healthcare face selling pressure."
-    },
-    {
-      "title": "India’s silver market faces purity crisis amid soaring investment demand",
+      "title": "NSE inks pact with Steel Users Federation to develop steel derivatives market",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/indias-silver-market-faces-purity-crisis-amid-soaring-investment-demand/articleshow/131322011.cms",
-      "published": "2026-05-26T05:05:08Z",
-      "description": "Counterfeiters are flooding the Indian market with impure silver, exploiting rising prices and demand. Refiners are urging mandatory hallmarking and licensing for silver products to ensure quality and"
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/nse-inks-pact-with-steel-users-federation-to-develop-steel-derivatives-market/articleshow/131344113.cms",
+      "published": "2026-05-27T07:46:04Z",
+      "description": "The National Stock Exchange of India and the Steel Users Federation of India have partnered. This collaboration aims to build a robust derivatives market for steel in India. The initiative will offer "
     },
     {
-      "title": "Silver dips Rs 3,800/kg, gold at Rs 1.58 lakh/10 gms after US attacks southern Iran in fresh strikes. Should you sell?",
+      "title": "Senco witnesses 6% drop in gold sales; customers bullish on silver, diamond",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-dips-rs-3800/kg-gold-at-rs-1-58-lakh/10-gms-after-us-attacks-southern-iran-in-fresh-strikes-should-you-sell/articleshow/131321162.cms",
-      "published": "2026-05-26T03:53:21Z",
-      "description": "Gold and silver prices on the MCX opened lower on Tuesday as renewed U.S. strikes in Iran pushed oil prices higher, fueling concerns over sticky inflation and prolonged elevated interest rates. The we"
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/senco-witnesses-6-drop-in-gold-sales-customers-bullish-on-silver-diamond/articleshow/131343634.cms",
+      "published": "2026-05-27T07:20:18Z",
+      "description": "Senco Gold saw gold volumes decrease by 6% in FY26. However, silver and diamond sales increased significantly. The company achieved its highest-ever Q4 retail sales, boosted by wedding and gifting dem"
     },
     {
-      "title": "8点1氪丨胖东来投资65亿的“梦之城”开工；“稚晖君”彭志辉正式出任上纬新材董事长；“死了么”App改名“在么在么”",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3825357879497346",
-      "published": "2026-05-25T23:58:09Z",
-      "description": "今日热点导览\n 美媒：美伊已就全面开放霍尔木兹海峡达成一致\n 拉勾网及创始人被限消\n 宇树科技6月1日科创板IPO上会，一季度扣非净利润同比下降52.55%\n 1瓶水蜜桃只有0.01克水蜜桃汁，康师傅被指蹭奉化水蜜桃玩文字游戏\n 寒武纪盘中涨超11%，总市值超9000亿创历史新高\n TOP3大新闻\n 胖东来进军房地产？投资65亿元的“梦之城”开工\n 胖东来或将进军地产市场。近日，于东来在直播中称，"
-    },
-    {
-      "title": "Regenx Provides Update on OTC Markets Trading Status and Audit Progress",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/25/3300702/0/en/Regenx-Provides-Update-on-OTC-Markets-Trading-Status-and-Audit-Progress.html",
-      "published": "2026-05-25T19:34:00Z",
-      "description": "Regenx (CSE: RGX/OTC: RGXTF) reassigned from OTCQB to OTC Expert Market May 18 amid ASC cease trade order; DMCL fiscal 2025 audit remains in progress...."
-    },
-    {
-      "title": "America’s Brownfield Antimony Play: Every Drillhole Hits as Nevada Project Targets 2027 Production",
+      "title": "Trident Resources Intersects Additional High-Grade Gold at Contact Lake Grading 17.88 g/t Au over 11.25m, including 42.53 g/t over 4.50m from 86m Depth",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/americas-brownfield-antimony-play-every-drillhole-hits-as-nevada-project-targets-2027-production",
-      "published": "2026-05-25T13:51:33Z",
-      "description": "Issued on behalf of NevGold Corp. All 17 sonic drillholes from a historic Nevada leach pad return oxide antimony-gold mineralization — including 0.32% antimony and 0.39 g/t gold over 14.9 meters — adv"
+      "url": "https://financialpost.com/globe-newswire/trident-resources-intersects-additional-high-grade-gold-at-contact-lake-grading-17-88-g-t-au-over-11-25m-including-42-53-g-t-over-4-50m-from-86m-depth",
+      "published": "2026-05-27T07:17:54Z",
+      "description": "Vancouver, BC, May 27, 2026 (GLOBE NEWSWIRE) — Trident Resources Corp. (TSXV: ROCK) (OTCQB: TRDTF) (Frankfurt: 6BP0) (“Trident” or the “Company”) is pleased to announce assay results for 8 (eight) dia"
     },
     {
-      "title": "HM Exploration Expands Lewis Pilley’s Project to ~60 km²",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/25/3300618/0/en/HM-Exploration-Expands-Lewis-Pilley-s-Project-to-60-km.html",
-      "published": "2026-05-25T12:30:00Z",
-      "description": "VANCOUVER, British Columbia, May 25, 2026 (GLOBE NEWSWIRE) -- HM Exploration Corp. (“HM Exploration”, “HM” or the “Company”) (CSE:HM) (FSE:X5H) is pleased to announce that it has expanded its land pos"
+      "title": "Leading Edge Materials Moves to 90% Share of Romanian Exploration JV with Comprehensive Underground Exploration Programme Planned at Avram Iancu",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/leading-edge-materials-moves-to-90-share-of-romanian-exploration-jv-with-comprehensive-underground-exploration-programme-planned-at-avram-iancu",
+      "published": "2026-05-27T06:32:11Z",
+      "description": "LEADING EDGE MATERIALS MOVES TO 90% SHARE OF ROMANIAN EXPLORATION JV WITH COMPREHENSIVE UNDERGROUND EXPLORATION PROGRAMME PLANNED AT AVRAM IANCU Leading Edge Materials increases its interest in the Ro"
+    },
+    {
+      "title": "Silver gains Rs 2,000/kg, gold at Rs 1.58 lakh/10 gms on weak dollar, Iran war peace deal hopes. Key levels to watch",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-gains-rs-2000/kg-gold-at-rs-1-58-lakh/10-gms-on-weak-dollar-iran-war-peace-deal-hopes-key-levels-to-watch/articleshow/131341351.cms",
+      "published": "2026-05-27T04:14:17Z",
+      "description": "Gold and silver prices on MCX opened slightly higher on Wednesday, supported by a weaker U.S. dollar and investor focus on U.S.-Iran peace talks and the Federal Reserve’s future policy direction."
+    },
+    {
+      "title": "Siddharth Vora sees broad-based recovery after 1-2 quarters of pain; bets big on metals, stays cautious on quick commerce",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/siddharth-vora-sees-broad-based-recovery-after-1-2-quarters-of-pain-bets-big-on-metals-stays-cautious-on-quick-commerce/articleshow/131341212.cms",
+      "published": "2026-05-27T04:09:37Z",
+      "description": "Siddharth Vora, Head of Quantitative Investment Strategies at PL Asset Management, is confident in his fund's metals-heavy portfolio. He sees a potential shift in market trends as key macro indicators"
+    },
+    {
+      "title": "化险为夷的洛克王国，给所有长青游戏上了一课",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3826354349412992",
+      "published": "2026-05-27T02:05:05Z",
+      "description": "文丨果脯\n 2026年5月21日，腾讯魔方工作室群开发的《洛克王国：世界》上线了S2赛季更新。这款基于13年经典IP、以精灵收集养成为核心的大世界游戏，在2026年3月底正式上线后迅速成为年度爆款。据官方数据，游戏上线9天用户量便突破3000万，全平台预约人数达6000万，DAU达到1300万。 \n S2赛季上线前，这款产品更是被寄予厚望，腾讯方面称其“有望成为下一款长青产品”。此时，距离《三角洲"
+    },
+    {
+      "title": "8点1氪丨商品标签陷性暗示争议，盒马致歉并下架整改；段永平谈王宁：商业理解能力比乔布斯还强；海底捞全国门店谢绝顾客携带宠物进店用餐",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3826779946930822",
+      "published": "2026-05-27T00:04:26Z",
+      "description": "今日热点导览\n 三体公司原CEO许垚被执行死刑，投毒致使其老板林奇中毒身亡\n 算力租赁，遭传闻突袭，上市公司回应\n 胖东来成立文化娱乐公司\n 双汇子公司猪肉被曝抗生素超标37倍，公司回应超标原因\n 知情人士：字节跳动本月向Seed员工开放“豆包股”认购权\n TOP3大新闻\n 商品标签陷性暗示争议，盒马致歉并下架整改\n 近日，盒马旗下一款“粉木耳”产品因标签设计涉嫌性暗示引发争议。图片显示，该产品名"
     }
   ],
   "tweets": []
