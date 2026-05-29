@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-28 09:51:15 UTC",
+  "updated_at": "2026-05-29 09:40:59 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4392.81,
+      "price_usd": 4528.68,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 73.42,
+      "price_usd": 75.56,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1892.84,
+      "price_usd": 1918.8,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1366.48,
+      "price_usd": 1373.59,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 27, 2026) at IBJA, Tanishq, Joyalukkas, Malabar Gold & Diamonds and Kalyan Jewellers",
+      "title": "Gold tumbles to two-month low as inflation hedge status fades",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/28/gold-tumbles-to-two-month-low-as-inflation-hedge-status-fades.html",
+      "published": "2026-05-28T08:51:40Z",
+      "description": "Spot gold prices were trading at their lowest level since late March."
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 28, 2026) at IBJA, Tanishq, Joyalukkas, Malabar Gold & Diamonds and Kalyan Jewellers",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-27-2026-at-ibja-tanishq-joyalukkas-malabar-gold-diamonds-and-kalyan-jewellers/articleshow/131345448.cms",
-      "published": "2026-05-27T08:59:01Z",
-      "description": "Gold prices saw a dip today. Investors are watching US-Iran peace talks and inflation trends closely. Jewellery brands like Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas reported "
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-28-2026-at-ibja-tanishq-joyalukkas-malabar-gold-diamonds-and-kalyan-jewellers/articleshow/131365694.cms",
+      "published": "2026-05-28T07:51:59Z",
+      "description": "Gold rate today: Gold prices saw a decline on May 28, 2026, influenced by ongoing US-Iran talks. Major jewelers like Tanishq, Joyalukkas, Malabar Gold & Diamonds, and Kalyan Jewellers reported varying"
     },
     {
-      "title": "Gold and silver prices today, 27 May: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-and-silver-price-today-27-may-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11779862147213.html",
-      "published": "2026-05-27T08:44:13Z",
-      "description": "MCX gold June futures were 0.10% up at  ₹1,58,220 per 10 grams. Gold prices have been under pressure since the US-Iran war started on 28 February. International gold prices have fallen by up to 15% si"
-    },
-    {
-      "title": "NSE inks pact with Steel Users Federation to develop steel derivatives market",
+      "title": "Royal Enfield launches Bullet 650 in India: Check price, features, specifications and more",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/steel/nse-inks-pact-with-steel-users-federation-to-develop-steel-derivatives-market/articleshow/131344113.cms",
-      "published": "2026-05-27T07:46:04Z",
-      "description": "The National Stock Exchange of India and the Steel Users Federation of India have partnered. This collaboration aims to build a robust derivatives market for steel in India. The initiative will offer "
+      "url": "https://economictimes.indiatimes.com/industry/auto/two-wheelers-three-wheelers/royal-enfield-launches-bullet-650-in-india-check-price-features-specifications-and-more/articleshow/131364735.cms",
+      "published": "2026-05-28T07:35:24Z",
+      "description": "Royal Enfield has launched its new Bullet 650 in India. The motorcycle is available at dealerships nationwide. It features a 650cc twin-cylinder engine and a 6-speed gearbox. The Bullet 650 retains it"
     },
     {
-      "title": "Senco witnesses 6% drop in gold sales; customers bullish on silver, diamond",
+      "title": "Commodity upcycle: Why copper and aluminium could explode in coming quarters. Should Indians invest?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/senco-witnesses-6-drop-in-gold-sales-customers-bullish-on-silver-diamond/articleshow/131343634.cms",
-      "published": "2026-05-27T07:20:18Z",
-      "description": "Senco Gold saw gold volumes decrease by 6% in FY26. However, silver and diamond sales increased significantly. The company achieved its highest-ever Q4 retail sales, boosted by wedding and gifting dem"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-upcycle-why-copper-and-aluminium-could-explode-in-coming-quarters-should-indians-invest/articleshow/131363396.cms",
+      "published": "2026-05-28T05:11:24Z",
+      "description": "As the precious metals rally matures, market attention is shifting towards industrial commodities like copper and aluminium. Analysts believe structural supply shortages, booming AI and energy-transit"
     },
     {
-      "title": "Trident Resources Intersects Additional High-Grade Gold at Contact Lake Grading 17.88 g/t Au over 11.25m, including 42.53 g/t over 4.50m from 86m Depth",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/trident-resources-intersects-additional-high-grade-gold-at-contact-lake-grading-17-88-g-t-au-over-11-25m-including-42-53-g-t-over-4-50m-from-86m-depth",
-      "published": "2026-05-27T07:17:54Z",
-      "description": "Vancouver, BC, May 27, 2026 (GLOBE NEWSWIRE) — Trident Resources Corp. (TSXV: ROCK) (OTCQB: TRDTF) (Frankfurt: 6BP0) (“Trident” or the “Company”) is pleased to announce assay results for 8 (eight) dia"
-    },
-    {
-      "title": "Leading Edge Materials Moves to 90% Share of Romanian Exploration JV with Comprehensive Underground Exploration Programme Planned at Avram Iancu",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/leading-edge-materials-moves-to-90-share-of-romanian-exploration-jv-with-comprehensive-underground-exploration-programme-planned-at-avram-iancu",
-      "published": "2026-05-27T06:32:11Z",
-      "description": "LEADING EDGE MATERIALS MOVES TO 90% SHARE OF ROMANIAN EXPLORATION JV WITH COMPREHENSIVE UNDERGROUND EXPLORATION PROGRAMME PLANNED AT AVRAM IANCU Leading Edge Materials increases its interest in the Ro"
-    },
-    {
-      "title": "Silver gains Rs 2,000/kg, gold at Rs 1.58 lakh/10 gms on weak dollar, Iran war peace deal hopes. Key levels to watch",
+      "title": "Q4 earnings roundup: Raymond Realty, MCX among 19 companies that delivered 100%+ growth in sales and PAT",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-gains-rs-2000/kg-gold-at-rs-1-58-lakh/10-gms-on-weak-dollar-iran-war-peace-deal-hopes-key-levels-to-watch/articleshow/131341351.cms",
-      "published": "2026-05-27T04:14:17Z",
-      "description": "Gold and silver prices on MCX opened slightly higher on Wednesday, supported by a weaker U.S. dollar and investor focus on U.S.-Iran peace talks and the Federal Reserve’s future policy direction."
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/q4-earnings-roundup-raymond-realty-mcx-among-19-companies-that-delivered-100-growth-in-sales-and-pat/articleshow/131363051.cms",
+      "published": "2026-05-28T04:41:24Z",
+      "description": "A select group of 19 large-cap BSE-listed companies achieved triple-digit growth in both profit and revenue during Q4FY26, indicating strong business momentum. Raymond Realty and 63 Moons Technologies"
     },
     {
-      "title": "Siddharth Vora sees broad-based recovery after 1-2 quarters of pain; bets big on metals, stays cautious on quick commerce",
+      "title": "Gold eases as US-Iran tensions cloud interest rate outlook",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/siddharth-vora-sees-broad-based-recovery-after-1-2-quarters-of-pain-bets-big-on-metals-stays-cautious-on-quick-commerce/articleshow/131341212.cms",
-      "published": "2026-05-27T04:09:37Z",
-      "description": "Siddharth Vora, Head of Quantitative Investment Strategies at PL Asset Management, is confident in his fund's metals-heavy portfolio. He sees a potential shift in market trends as key macro indicators"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-as-us-iran-tensions-cloud-interest-rate-outlook/articleshow/131361451.cms",
+      "published": "2026-05-28T01:42:44Z",
+      "description": "Gold prices dipped as escalating U.S.-Iran tensions fueled oil price surges, sparking inflation worries and casting a shadow over the Federal Reserve's interest rate decisions. Investors are now keenl"
     },
     {
-      "title": "化险为夷的洛克王国，给所有长青游戏上了一课",
+      "title": "创业板指跌超1%",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3826354349412992",
-      "published": "2026-05-27T02:05:05Z",
-      "description": "文丨果脯\n 2026年5月21日，腾讯魔方工作室群开发的《洛克王国：世界》上线了S2赛季更新。这款基于13年经典IP、以精灵收集养成为核心的大世界游戏，在2026年3月底正式上线后迅速成为年度爆款。据官方数据，游戏上线9天用户量便突破3000万，全平台预约人数达6000万，DAU达到1300万。 \n S2赛季上线前，这款产品更是被寄予厚望，腾讯方面称其“有望成为下一款长青产品”。此时，距离《三角洲"
+      "url": "https://36kr.com/newsflashes/3828290645152390",
+      "published": "2026-05-28T01:38:37Z",
+      "description": "36氪获悉，创业板指跌超1%，沪指跌0.25%，深成指跌0.85%，贵金属、半导体、白酒、光伏设备等方向跌幅居前，沪深京三市下跌个股超2200只。"
     },
     {
-      "title": "8点1氪丨商品标签陷性暗示争议，盒马致歉并下架整改；段永平谈王宁：商业理解能力比乔布斯还强；海底捞全国门店谢绝顾客携带宠物进店用餐",
+      "title": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3826779946930822",
-      "published": "2026-05-27T00:04:26Z",
-      "description": "今日热点导览\n 三体公司原CEO许垚被执行死刑，投毒致使其老板林奇中毒身亡\n 算力租赁，遭传闻突袭，上市公司回应\n 胖东来成立文化娱乐公司\n 双汇子公司猪肉被曝抗生素超标37倍，公司回应超标原因\n 知情人士：字节跳动本月向Seed员工开放“豆包股”认购权\n TOP3大新闻\n 商品标签陷性暗示争议，盒马致歉并下架整改\n 近日，盒马旗下一款“粉木耳”产品因标签设计涉嫌性暗示引发争议。图片显示，该产品名"
+      "url": "https://36kr.com/p/3828191630348934",
+      "published": "2026-05-28T00:00:20Z",
+      "description": "今日热点导览\n <ul>\n <li>阿里员工十三薪将并入年终奖</li>\n <li>曝小红书获世界杯转播权，成为除央视、咪咕外唯一持权方</li>\n <li>微信小游戏月活跃用户超过5亿</li>\n <li>聚焦直播带货、外卖等，市场监管总局部署整治“内卷式”竞争</li>\n <li>SpaceX上市消息引燃太空相关股票，特斯拉与SpaceX合并讨论升温</li>\n <li>长鑫科技科创板IPO获"
+    },
+    {
+      "title": "Magna Mining Reports Operating and Financial Results for the First Quarter of 2026",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/27/3302417/0/en/Magna-Mining-Reports-Operating-and-Financial-Results-for-the-First-Quarter-of-2026.html",
+      "published": "2026-05-27T21:02:00Z",
+      "description": "SUDBURY, Ontario, May 27, 2026 (GLOBE NEWSWIRE) -- Magna Mining Inc. (TSXV: NICU) (OTCQX: MGMNF) (FSE:8YD) (the “Company” or “Magna”) is pleased to report operating and financial results for the first"
+    },
+    {
+      "title": "Everlert, Inc. (OTC: EVLI), Highlights Technical Report of Bolivian Copper-Gold Project With Updated Independent Technical Review",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/27/3302128/0/en/Everlert-Inc-OTC-EVLI-Highlights-Technical-Report-of-Bolivian-Copper-Gold-Project-With-Updated-Independent-Technical-Review.html",
+      "published": "2026-05-27T13:59:00Z",
+      "description": "Everlert Highlights Technical Report of Bolivian Copper-Gold Project With Updated Independent Technical Review..."
     }
   ],
   "tweets": []
