@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-05-29 09:40:59 UTC",
+  "updated_at": "2026-05-30 08:20:12 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4528.68,
+      "price_usd": 4540.17,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 75.56,
+      "price_usd": 75.29,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1918.8,
+      "price_usd": 1921.2,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1373.59,
+      "price_usd": 1356.67,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Gold tumbles to two-month low as inflation hedge status fades",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/05/28/gold-tumbles-to-two-month-low-as-inflation-hedge-status-fades.html",
-      "published": "2026-05-28T08:51:40Z",
-      "description": "Spot gold prices were trading at their lowest level since late March."
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 28, 2026) at IBJA, Tanishq, Joyalukkas, Malabar Gold & Diamonds and Kalyan Jewellers",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (May 29, 2026) at IBJA, Tanishq, Joyalukkas, Malabar Gold & Diamonds and Kalyan Jewellers",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-28-2026-at-ibja-tanishq-joyalukkas-malabar-gold-diamonds-and-kalyan-jewellers/articleshow/131365694.cms",
-      "published": "2026-05-28T07:51:59Z",
-      "description": "Gold rate today: Gold prices saw a decline on May 28, 2026, influenced by ongoing US-Iran talks. Major jewelers like Tanishq, Joyalukkas, Malabar Gold & Diamonds, and Kalyan Jewellers reported varying"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-may-29-2026-at-ibja-tanishq-joyalukkas-malabar-gold-diamonds-and-kalyan-jewellers/articleshow/131385060.cms",
+      "published": "2026-05-29T08:03:50Z",
+      "description": "Gold rate today: Gold prices are up today, May 29, 2026. Investors watch Middle East developments closely. The US-Iran truce extension remains uncertain. Jewellery brands like Tanishq and Malabar Gold"
     },
     {
-      "title": "Royal Enfield launches Bullet 650 in India: Check price, features, specifications and more",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/auto/two-wheelers-three-wheelers/royal-enfield-launches-bullet-650-in-india-check-price-features-specifications-and-more/articleshow/131364735.cms",
-      "published": "2026-05-28T07:35:24Z",
-      "description": "Royal Enfield has launched its new Bullet 650 in India. The motorcycle is available at dealerships nationwide. It features a 650cc twin-cylinder engine and a 6-speed gearbox. The Bullet 650 retains it"
-    },
-    {
-      "title": "Commodity upcycle: Why copper and aluminium could explode in coming quarters. Should Indians invest?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/commodity-upcycle-why-copper-and-aluminium-could-explode-in-coming-quarters-should-indians-invest/articleshow/131363396.cms",
-      "published": "2026-05-28T05:11:24Z",
-      "description": "As the precious metals rally matures, market attention is shifting towards industrial commodities like copper and aluminium. Analysts believe structural supply shortages, booming AI and energy-transit"
-    },
-    {
-      "title": "Q4 earnings roundup: Raymond Realty, MCX among 19 companies that delivered 100%+ growth in sales and PAT",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/q4-earnings-roundup-raymond-realty-mcx-among-19-companies-that-delivered-100-growth-in-sales-and-pat/articleshow/131363051.cms",
-      "published": "2026-05-28T04:41:24Z",
-      "description": "A select group of 19 large-cap BSE-listed companies achieved triple-digit growth in both profit and revenue during Q4FY26, indicating strong business momentum. Raymond Realty and 63 Moons Technologies"
-    },
-    {
-      "title": "Gold eases as US-Iran tensions cloud interest rate outlook",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-as-us-iran-tensions-cloud-interest-rate-outlook/articleshow/131361451.cms",
-      "published": "2026-05-28T01:42:44Z",
-      "description": "Gold prices dipped as escalating U.S.-Iran tensions fueled oil price surges, sparking inflation worries and casting a shadow over the Federal Reserve's interest rate decisions. Investors are now keenl"
-    },
-    {
-      "title": "创业板指跌超1%",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3828290645152390",
-      "published": "2026-05-28T01:38:37Z",
-      "description": "36氪获悉，创业板指跌超1%，沪指跌0.25%，深成指跌0.85%，贵金属、半导体、白酒、光伏设备等方向跌幅居前，沪深京三市下跌个股超2200只。"
-    },
-    {
-      "title": "8点1氪丨“高考期间AI工具将禁用”？豆包等回应；亚朵门店回应酒店免费提供隐藏摄像头检测仪；三星工会同意新薪酬方案，人均270万元奖金",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3828191630348934",
-      "published": "2026-05-28T00:00:20Z",
-      "description": "今日热点导览\n <ul>\n <li>阿里员工十三薪将并入年终奖</li>\n <li>曝小红书获世界杯转播权，成为除央视、咪咕外唯一持权方</li>\n <li>微信小游戏月活跃用户超过5亿</li>\n <li>聚焦直播带货、外卖等，市场监管总局部署整治“内卷式”竞争</li>\n <li>SpaceX上市消息引燃太空相关股票，特斯拉与SpaceX合并讨论升温</li>\n <li>长鑫科技科创板IPO获"
-    },
-    {
-      "title": "Magna Mining Reports Operating and Financial Results for the First Quarter of 2026",
+      "title": "Battery Energy Storage System Market: $198.8 Bn by 2031, Fueled by On-Grid Utility Storage and North America, Europe Investments | Says Mordor Intelligence",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/27/3302417/0/en/Magna-Mining-Reports-Operating-and-Financial-Results-for-the-First-Quarter-of-2026.html",
-      "published": "2026-05-27T21:02:00Z",
-      "description": "SUDBURY, Ontario, May 27, 2026 (GLOBE NEWSWIRE) -- Magna Mining Inc. (TSXV: NICU) (OTCQX: MGMNF) (FSE:8YD) (the “Company” or “Magna”) is pleased to report operating and financial results for the first"
+      "url": "https://www.globenewswire.com/news-release/2026/05/29/3303413/0/en/Battery-Energy-Storage-System-Market-198-8-Bn-by-2031-Fueled-by-On-Grid-Utility-Storage-and-North-America-Europe-Investments-Says-Mordor-Intelligence.html",
+      "published": "2026-05-29T07:36:00Z",
+      "description": "BESS market growth is being strongly shaped by utility-scale procurement mandates across the US, China, and the EU, which are accelerating gigawatt-scale deployments, while grid-forming inverter requi"
     },
     {
-      "title": "Everlert, Inc. (OTC: EVLI), Highlights Technical Report of Bolivian Copper-Gold Project With Updated Independent Technical Review",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/05/27/3302128/0/en/Everlert-Inc-OTC-EVLI-Highlights-Technical-Report-of-Bolivian-Copper-Gold-Project-With-Updated-Independent-Technical-Review.html",
-      "published": "2026-05-27T13:59:00Z",
-      "description": "Everlert Highlights Technical Report of Bolivian Copper-Gold Project With Updated Independent Technical Review..."
+      "title": "科氪 | OPPO Reno16系列发布，“3D悬浮星球+实况随心贴”引领潮流手机新风向",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3830038913558147",
+      "published": "2026-05-29T07:17:14Z",
+      "description": "2026 年 5 月 25 日，OPPO 举办 “Reno Land 奇幻夜”新品发布会，重磅发布多款新品，全新一代 OPPO Reno16 系列潮流手机、OPPO Pad 6 全能平板、 OPPO Pad Air5 学习平板、OPPO Enco Air5s 真无线降噪耳机、OPPO Bubble潮玩自拍屏同步登场。本次发布会围绕年轻用户学习、创作、社交、直播、游戏全场景需求，以潮流美学、实况影像"
+    },
+    {
+      "title": "硅业分会：本周工业硅市场呈现“期货小幅反弹、现货整体持稳”格局",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3829994414647171",
+      "published": "2026-05-29T06:31:47Z",
+      "description": "36氪获悉，据中国有色金属工业协会硅业分会消息，本周工业硅市场呈现“期货小幅反弹、现货整体持稳”的格局。受宏观情绪回暖及煤炭价格反弹带动，期货价格重心小幅上移；现货市场则延续平稳态势，各规格报价均未出现明显波动。"
+    },
+    {
+      "title": "Unaudited interim results for the three-month period ended 31 March 2026",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/unaudited-interim-results-for-the-three-month-period-ended-31-march-2026",
+      "published": "2026-05-29T06:00:06Z",
+      "description": "Unaudited interim results for the three-month period ended 31 March 2026 Serabi Gold plc (“Serabi” or the “Company”) (AIM:SRB, TSX:SBI, OTCQX:SRBIF), the Brazilian focused gold mining and development "
+    },
+    {
+      "title": "铃木敏文去世，他与711的三个反常识故事",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3829890126046851",
+      "published": "2026-05-29T05:40:55Z",
+      "description": "铃木敏文\n 作者 | 钟艺璇编辑 | 乔芊\n 5月25日，柒和伊控股发布讣告，日本7-Eleven创始人铃木敏文已于日前去世，享年93岁。\n 作为全球规模最大的连锁便利店品牌，7-Eleven与铃木敏文之间是一个续写与重生的故事，但他们的相遇却始于一次偶然。\n 1970年初，时任伊藤洋华堂高管的铃木敏文，远赴美国培训，在前往加利福尼亚的途中，他第一次注意到了7-Eleven，这个小到不起眼的便利店"
+    },
+    {
+      "title": "Silver drops Rs 1,500/kg, gold at Rs 1.56 lakh/10 gms as Iran war tensions weigh. Key levels to watch",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-drops-rs-1500/kg-gold-at-rs-1-56-lakh/10-gms-as-iran-war-tensions-weigh-key-levels-to-watch/articleshow/131381934.cms",
+      "published": "2026-05-29T04:33:23Z",
+      "description": "Gold and silver prices on the MCX opened slightly lower on Friday, with silver July futures falling 0.5% to Rs 2,68,018 per kg and gold June futures slipping marginally to Rs 1,56,316 per 10 grams. Th"
+    },
+    {
+      "title": "Q4 Results Today Live: Asian Paints, IndiGo, NMDC, Glenmark Pharma, Ipca Lab, IREDA, Gujarat Gas, Natco Pharma, Inox Wind, Rubicon Research, BEML, NMDC Steel, JM Financial, Triveni Engg to announce Q4 results to announce Q4 results, Ashok Leyland, Graphite, BDL, Alkem, Physicswallah, Bata in focus",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/q4-results-today-live-updates-indigo-nmdc-glenmark-pharma-ipca-lab-ireda-gujarat-gas-natco-pharma-inox-wind-beml-jm-financial-triveni-ashok-leyland-graphite-alkem-bdl-results-29-may-2026/article71032951.ece",
+      "published": "2026-05-29T03:49:40Z",
+      "description": "Q4 Results Today, 29h May 2026 Live Updates: Find all the latest Q4 results 2026 updates of First Custodian Fund India, 3B BlackBio Dx, Fourth Generation Information Systems, 7Seas Entertainment, A2Z "
+    },
+    {
+      "title": "谁是世界上第二爱泡泡玛特的人？",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3829746420835715",
+      "published": "2026-05-29T02:40:19Z",
+      "description": "作者 | 谢芸子\n 编辑 | 张帆 \n 一纸权益披露文件，让市场看到段永平对泡泡玛特的热爱绝不止是“口嗨”。\n 5月27日晚间，段永平与其全资控股的H&H International，同步增持了泡泡玛特的股份，一致行动人持股比例达5.69%，对应约7637.16万股，一跃成为仅次于创始人王宁的第二大股东。\n 知名投资人的每一次站台，总是能或多或少地提升市场信心。\n 截至发稿前，泡泡玛特收盘价161"
+    },
+    {
+      "title": "再花22亿乘胜追击，北京城建“龍樾”要抢跑了",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3829749268981123",
+      "published": "2026-05-29T02:26:05Z",
+      "description": "5月28日，北京石景山区黄庄村43号棚户区改造项目SS00-1622-002、SS00-2501-002地块进入现场竞拍，最终该地块由北京城建兴通置业有限公司以底价22亿元摘得，成交楼面价约3.31万元/㎡。\n 北京城建兴通置业有限公司是北京城建的全资子公司。这是去年第四季度以来，北京城建第三次独立拿地补仓。\n \n 图源：天眼查\n 在拿下石景山黄庄村地块的同一时间，北京城建公布了这个新项目的案名："
     }
   ],
   "tweets": []
