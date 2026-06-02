@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026-06-01 11:14:46 UTC",
+  "updated_at": "2026-06-02 10:10:07 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4503.98,
+      "price_usd": 4529.29,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 75.69,
+      "price_usd": 76.27,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1940.73,
+      "price_usd": 1962.2,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1355.29,
+      "price_usd": 1386.58,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.45,
+      "price_usd": 0.46,
       "unit": "USD/吨 mt"
     },
     {
       "code": "aluminum",
       "name": "铝 Aluminum",
-      "price_usd": 0.11,
+      "price_usd": 0.12,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.59,
+      "price_usd": 0.6,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.42,
+      "price_usd": 0.43,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "RBI MPC meet: Central bank likely to maintain status quo on rates, adopt cautious approach amid West Asia crisis",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-set-to-keep-rates-steady-amid-west-asia-crisis-experts-predict-cautious-economic-outlook/articleshow/131421956.cms",
-      "published": "2026-05-31T11:05:36Z",
-      "description": "Experts anticipate the Reserve Bank of India will maintain its key policy rate at 5.25 percent this week. The central bank is expected to adopt a cautious approach, considering potential inflation hea"
-    },
-    {
-      "title": "RBI likely to maintain status quo on rates, adopt cautious approach amid West Asia crisis",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/rbi-likely-to-maintain-status-quo-on-rates-adopt-cautious-approach-amid-west-asia-crisis/article71044397.ece",
-      "published": "2026-05-31T11:03:59Z",
-      "description": "The Reserve Bank of India is expected to leave the key policy rate unchanged at 5.25 per cent this week and adopt a cautious stance that factors in the possible headwinds to inflation and growth traje"
-    },
-    {
-      "title": "India-US trade negotiators to begin four-day talks on June 1",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-negotiators-to-begin-four-day-talks-on-june-1/articleshow/131421376.cms",
-      "published": "2026-05-31T09:56:27Z",
-      "description": "India and the US are holding crucial trade talks in New Delhi. Chief negotiators will finalize details of an interim trade agreement. This pact aims to boost market access and facilitate trade. Both n"
-    },
-    {
-      "title": "India, US chief negotiators to hold four-day trade talks from June 1",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/india-us-chief-negotiators-to-hold-four-day-trade-talks-from-june-1/article71044288.ece",
-      "published": "2026-05-31T09:56:17Z",
-      "description": "The two sides are \"proposed to finalise the details of the interim agreement and take forward the negotiations under the broader BTA on multiple areas that includes market access, non-tariff measures,"
-    },
-    {
-      "title": "New IIP series with FY23 base year to be out on Monday; credit-debit cards in, sewing machines out",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/new-iip-series-with-fy23-base-year-to-be-out-on-monday-credit-debit-cards-in-sewing-machines-out/article71044128.ece",
-      "published": "2026-05-31T09:32:11Z",
-      "description": "The new series will have a base year of 2022-23, marking the 10th revision of the All India IIP, previously based on 2011-12"
-    },
-    {
-      "title": "Will the base metals remain hot?",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/will-the-base-metals-remain-hot/article71042294.ece",
-      "published": "2026-05-30T15:51:39Z",
-      "description": "Upside at risk. While supply disruptions can support rally, possible interest rate hikes later in the year can halt the same"
-    },
-    {
-      "title": "当美妆品牌走进运动场：欧莱雅把校园公益做成了一场“运动实验”｜最前线",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3831348302358408",
-      "published": "2026-05-30T05:33:05Z",
-      "description": "5月29日，欧莱雅中国在复旦大学启动2026年度“有意思青年”高校公益计划，并首次以校园运动会形式开启新一年的项目活动。活动现场，乒乓球运动员马龙、篮球运动员杨力维、足球运动员赵丽娜等体育界人士与高校学生展开互动，欧莱雅同时宣布向中国青少年发展基金会捐赠总价值约468万元的产品，并启动新一年度校园义卖活动。\n 从表面来看，这是一场校园公益活动；但放在全球美妆行业的发展背景下，它更像是美妆品牌持续拥"
-    },
-    {
-      "title": "9点1氪｜泡泡玛特大涨，段永平日赚10亿；诺基亚发布首款微聊手机，售价199元；滴滴回应“乘客车内排泄”",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3831073348855433",
-      "published": "2026-05-30T00:52:20Z",
-      "description": "今日热点导览\n <ul>\n <li>黄仁勋披露“赶飞机”细节，特朗普要出发时来电话</li>\n <li>国内航线燃油附加费6月5日起首次下调</li>\n <li>铁路将实施新规：违规乘车拒不补票将被限制购票</li>\n <li>iPhone 17系列中国销量破3000万台，Pro Max版占近一半</li>\n <li>SpaceX据悉将IPO估值目标下调至至少1.8万亿美元</li>\n </ul>"
-    },
-    {
-      "title": "K92 Mining Announces Voting Results of Annual General Meeting of Shareholders",
+      "title": "McEwen to Host Live Bullpen Q&A Moderated by Anthony Vaccaro of the Northern Miner Group at the 2026 Annual Meeting",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/k92-mining-announces-voting-results-of-annual-general-meeting-of-shareholders-5",
-      "published": "2026-05-29T21:41:02Z",
-      "description": "VANCOUVER, British Columbia, May 29, 2026 (GLOBE NEWSWIRE) — K92 Mining Inc. (“K92” or the “Company”) (TSX: KNT; OTCQX: KNTNF) is pleased to announce the voting results of its 2026 annual general meet"
+      "url": "https://financialpost.com/globe-newswire/mcewen-to-host-live-bullpen-qa-moderated-by-anthony-vaccaro-of-the-northern-miner-group-at-the-2026-annual-meeting",
+      "published": "2026-06-01T10:04:06Z",
+      "description": "TORONTO, June 01, 2026 (GLOBE NEWSWIRE) — McEwen Inc. (NYSE/TSX: MUX) (“McEwen” or the “Company”) invites shareholders and interested stakeholders to attend its 2026 Annual Meeting on Thursday, June 4"
     },
     {
-      "title": "K92 Mining Announces Election of Michael Carew to the Board of Directors",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/k92-mining-announces-election-of-michael-carew-to-the-board-of-directors",
-      "published": "2026-05-29T19:54:15Z",
-      "description": "VANCOUVER, British Columbia, May 29, 2026 (GLOBE NEWSWIRE) — K92 Mining Inc. (“K92” or the “Company”) (TSX: KNT; OTCQX: KNTNF) is pleased to announce that Michael Carew was elected to the Company’s Bo"
+      "title": "India-US trade deal: Large parts finalised, talks resume June 2 in New Delhi, says Piyush Goyal",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-deal-large-parts-finalised-talks-resume-june-2-in-new-delhi-says-piyush-goyal/articleshow/131439776.cms",
+      "published": "2026-06-01T10:03:37Z",
+      "description": "India and the United States are nearing a trade agreement. Key details have been finalized, with negotiators meeting to resolve remaining issues. The pact will incorporate recent changes to US tariffs"
+    },
+    {
+      "title": "硬氪首发 | 获近2亿元融资，这家公司用无损Micro-LED加速AI眼镜全彩化进程",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3834427736024965",
+      "published": "2026-06-01T09:42:20Z",
+      "description": "作者 | 林晴晴\n 编辑 | 袁斯来\n 硬氪获悉，Micro-LED显示技术公司「秋水半导体」已于近期连续完成Pre-A及A轮融资，合计近2亿元人民币。本轮融资由朝晖资本领投，通商基金、盛宇投资、宁波人才发展基金、嘉溢创投、涌现科技、数字光芯及兴棠资本跟投，兴棠资本担任长期财务顾问。本轮融资资金将主要用于在宁波高新区建设8英寸混合键合量产线及后续研发投入。\n 「秋水半导体」成立于2022年11月，"
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 1, 2026) at IBJA, Tanishq, Joyalukkas, Kalyan Jewellers and Malabar Gold & Diamonds",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-1-2026-at-ibja-tanishq-joyalukkas-kalyan-jewellers-and-malabar-gold-diamonds/articleshow/131438637.cms",
+      "published": "2026-06-01T08:59:36Z",
+      "description": "Gold prices saw a dip today, Monday, June 1, 2026. This movement occurred amidst geopolitical tensions stemming from US claims of attacks on Iranian military bases. US President Donald Trump indicated"
+    },
+    {
+      "title": "Q4 earnings review: Motilal Oswal highlights broad-based beat on estimates, lists 6 sectors that exceeded expectations",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/q4-earnings-review-motilal-oswal-highlights-broad-based-beat-on-estimates-lists-6-sectors-that-exceeded-expectations/articleshow/131437286.cms",
+      "published": "2026-06-01T07:42:28Z",
+      "description": "Motilal Oswal said Q4 FY26 earnings surpassed expectations, with aggregate profits rising 16% year-on-year against its 8% estimate. Strong performances from BFSI, metals, OMCs, technology, telecom and"
+    },
+    {
+      "title": "Timex bets on quick commerce and first-time buyers as India’s watch market shifts gears",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/news/timex-quick-commerce-first-time-buyers-india-watch-market-analogue-watches-11780286385049.html",
+      "published": "2026-06-01T06:15:49Z",
+      "description": "Timex Group India targets the entry-level watch market under  ₹10,000, reporting strong revenue and profit growth. Despite a shift to luxury watches, the company sees the largest opportunities in affo"
+    },
+    {
+      "title": "Bitget Tackles Trading Burnout in New UEX Video Series",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304036/0/en/Bitget-Tackles-Trading-Burnout-in-New-UEX-Video-Series.html",
+      "published": "2026-06-01T06:02:00Z",
+      "description": "Bitget unveils UEX Traders’ Secret, a humorous video series exploring AI trading, automation, and multi-asset market participation...."
+    },
+    {
+      "title": "Inflation and input costs threaten earnings momentum going forward: Dhananjay Sinha",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/inflation-and-input-costs-threaten-earnings-momentum-going-forward-dhananjay-sinha/articleshow/131435080.cms",
+      "published": "2026-06-01T05:48:45Z",
+      "description": "India Inc. delivered strong March-quarter earnings, surpassing market forecasts. Revenue growth improved, supported by cost savings. However, concerns loom over moderating future earnings. Rising inpu"
+    },
+    {
+      "title": "Gold prices dip while silver rises",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/gold-dips-silver-rises/article71043962.ece",
+      "published": "2026-06-01T05:04:31Z",
+      "description": "Both gold and silver are still range bound; while there can be a short-term bounce in the prices of the precious metals, there are no signs yet of any resumption of the longer-term uptrend"
+    },
+    {
+      "title": "Silver gains Rs 1,100/kg, gold down at Rs 1.54lakh/10 gms amid mixed Iran war signals. Key levels to watch",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-gains-rs-1100/kg-gold-down-at-rs-1-54lakh/10-gms-amid-mixed-iran-war-signals-key-levels-to-watch/articleshow/131433628.cms",
+      "published": "2026-06-01T04:09:06Z",
+      "description": "Gold and silver traded mixed on MCX on Monday, with gold futures falling Rs 1,069 to Rs 1,54,513 per 10 grams, while silver futures rose Rs 1,095 to Rs 2,68,093 per kg. Prices were influenced by a str"
     }
   ],
   "tweets": []
