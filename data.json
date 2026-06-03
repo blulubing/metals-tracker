@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-06-02 10:10:07 UTC",
+  "updated_at": "2026-06-03 10:46:38 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4529.29,
+      "price_usd": 4454.18,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 76.27,
+      "price_usd": 74.25,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1962.2,
+      "price_usd": 1923.6,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1386.58,
+      "price_usd": 1349.99,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.6,
+      "price_usd": 0.59,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "McEwen to Host Live Bullpen Q&A Moderated by Anthony Vaccaro of the Northern Miner Group at the 2026 Annual Meeting",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/mcewen-to-host-live-bullpen-qa-moderated-by-anthony-vaccaro-of-the-northern-miner-group-at-the-2026-annual-meeting",
-      "published": "2026-06-01T10:04:06Z",
-      "description": "TORONTO, June 01, 2026 (GLOBE NEWSWIRE) — McEwen Inc. (NYSE/TSX: MUX) (“McEwen” or the “Company”) invites shareholders and interested stakeholders to attend its 2026 Annual Meeting on Thursday, June 4"
-    },
-    {
-      "title": "India-US trade deal: Large parts finalised, talks resume June 2 in New Delhi, says Piyush Goyal",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-trade-deal-large-parts-finalised-talks-resume-june-2-in-new-delhi-says-piyush-goyal/articleshow/131439776.cms",
-      "published": "2026-06-01T10:03:37Z",
-      "description": "India and the United States are nearing a trade agreement. Key details have been finalized, with negotiators meeting to resolve remaining issues. The pact will incorporate recent changes to US tariffs"
-    },
-    {
-      "title": "硬氪首发 | 获近2亿元融资，这家公司用无损Micro-LED加速AI眼镜全彩化进程",
+      "title": "华锡有色：不存在可能或已经对公司产生重大影响的未公开重大信息",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3834427736024965",
-      "published": "2026-06-01T09:42:20Z",
-      "description": "作者 | 林晴晴\n 编辑 | 袁斯来\n 硬氪获悉，Micro-LED显示技术公司「秋水半导体」已于近期连续完成Pre-A及A轮融资，合计近2亿元人民币。本轮融资由朝晖资本领投，通商基金、盛宇投资、宁波人才发展基金、嘉溢创投、涌现科技、数字光芯及兴棠资本跟投，兴棠资本担任长期财务顾问。本轮融资资金将主要用于在宁波高新区建设8英寸混合键合量产线及后续研发投入。\n 「秋水半导体」成立于2022年11月，"
+      "url": "https://36kr.com/newsflashes/3835887715120260",
+      "published": "2026-06-02T10:33:47Z",
+      "description": "36氪获悉，华锡有色公告，公司A股股票连续三个交易日内收盘价格涨幅偏离值累计超过20%，根据《上海证券交易所交易规则》的有关规定，属于股票交易异常波动情形。公司关注到，近期媒体发布了《“算力金属”，价格暴涨》有关锡行业的新闻报道，但不存在可能或已经对公司产生重大影响的未公开重大信息。公司关注到锡市场热度较高，敬请广大投资者注意二级市场交易风险。除此之外，公司未发现对公司股票交易价格可能产生较大影响"
     },
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 1, 2026) at IBJA, Tanishq, Joyalukkas, Kalyan Jewellers and Malabar Gold & Diamonds",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-1-2026-at-ibja-tanishq-joyalukkas-kalyan-jewellers-and-malabar-gold-diamonds/articleshow/131438637.cms",
-      "published": "2026-06-01T08:59:36Z",
-      "description": "Gold prices saw a dip today, Monday, June 1, 2026. This movement occurred amidst geopolitical tensions stemming from US claims of attacks on Iranian military bases. US President Donald Trump indicated"
+      "title": "INTEGRA APPOINTS AUSENCO TO LEAD DETAILED ENGINEERING AT DELAMAR, NEPA PUBLIC SCOPING PERIOD UNDERWAY",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/integra-appoints-ausenco-to-lead-detailed-engineering-at-delamar-nepa-public-scoping-period-underway-302787691.html",
+      "published": "2026-06-02T10:30:00Z",
+      "description": "TSXV: ITR; NYSE American: ITRG www.integraresources.com VANCOUVER, BC, June 2, 2026 /PRNewswire/ - Integra Resources Corp. (\"Integra\" or the \"Company\") (TSXV: ITR) (NYSE American: ITRG) is pleased to "
     },
     {
-      "title": "Q4 earnings review: Motilal Oswal highlights broad-based beat on estimates, lists 6 sectors that exceeded expectations",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/q4-earnings-review-motilal-oswal-highlights-broad-based-beat-on-estimates-lists-6-sectors-that-exceeded-expectations/articleshow/131437286.cms",
-      "published": "2026-06-01T07:42:28Z",
-      "description": "Motilal Oswal said Q4 FY26 earnings surpassed expectations, with aggregate profits rising 16% year-on-year against its 8% estimate. Strong performances from BFSI, metals, OMCs, technology, telecom and"
-    },
-    {
-      "title": "Timex bets on quick commerce and first-time buyers as India’s watch market shifts gears",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/companies/news/timex-quick-commerce-first-time-buyers-india-watch-market-analogue-watches-11780286385049.html",
-      "published": "2026-06-01T06:15:49Z",
-      "description": "Timex Group India targets the entry-level watch market under  ₹10,000, reporting strong revenue and profit growth. Despite a shift to luxury watches, the company sees the largest opportunities in affo"
-    },
-    {
-      "title": "Bitget Tackles Trading Burnout in New UEX Video Series",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/06/01/3304036/0/en/Bitget-Tackles-Trading-Burnout-in-New-UEX-Video-Series.html",
-      "published": "2026-06-01T06:02:00Z",
-      "description": "Bitget unveils UEX Traders’ Secret, a humorous video series exploring AI trading, automation, and multi-asset market participation...."
-    },
-    {
-      "title": "Inflation and input costs threaten earnings momentum going forward: Dhananjay Sinha",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/inflation-and-input-costs-threaten-earnings-momentum-going-forward-dhananjay-sinha/articleshow/131435080.cms",
-      "published": "2026-06-01T05:48:45Z",
-      "description": "India Inc. delivered strong March-quarter earnings, surpassing market forecasts. Revenue growth improved, supported by cost savings. However, concerns loom over moderating future earnings. Rising inpu"
-    },
-    {
-      "title": "Gold prices dip while silver rises",
+      "title": "Gold futures rise nearly 1% to ₹1.6 lakh/10g on firm global cues",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/gold-dips-silver-rises/article71043962.ece",
-      "published": "2026-06-01T05:04:31Z",
-      "description": "Both gold and silver are still range bound; while there can be a short-term bounce in the prices of the precious metals, there are no signs yet of any resumption of the longer-term uptrend"
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-futures-rise-nearly-1-to-16-lakh10g-on-firm-global-cues/article71052083.ece",
+      "published": "2026-06-02T10:14:43Z",
+      "description": "Analysts said precious metals prices gained as investors reassessed geopolitical risks after fresh military developments in West Asia which complicated efforts to secure a lasting peace agreement betw"
     },
     {
-      "title": "Silver gains Rs 1,100/kg, gold down at Rs 1.54lakh/10 gms amid mixed Iran war signals. Key levels to watch",
+      "title": "K92 Mining Releases 2025 Sustainability Report: Delivering Sustainable Value",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/press-releases/globenewswire/k92-mining-releases-2025-sustainability-report-delivering-sustainable-value",
+      "published": "2026-06-02T10:03:51Z",
+      "description": "VANCOUVER, British Columbia, June 02, 2026 (GLOBE NEWSWIRE) — K92 Mining Inc. (“K92” or the “Company”) (TSX: KNT; OTCQX: KNTNF) is pleased to announce that it has published its 2025 Sustainability Rep"
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 2, 2026) at Tanishq, Joyalukkas, Kalyan Jewellers, Malabar Gold & Diamonds and IBJA",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-gains-rs-1100/kg-gold-down-at-rs-1-54lakh/10-gms-amid-mixed-iran-war-signals-key-levels-to-watch/articleshow/131433628.cms",
-      "published": "2026-06-01T04:09:06Z",
-      "description": "Gold and silver traded mixed on MCX on Monday, with gold futures falling Rs 1,069 to Rs 1,54,513 per 10 grams, while silver futures rose Rs 1,095 to Rs 2,68,093 per kg. Prices were influenced by a str"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-2-2026-at-tanishq-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-and-ibja/articleshow/131460406.cms",
+      "published": "2026-06-02T09:42:13Z",
+      "description": "Gold prices held steady on Tuesday, June 2, 2026, across major jewellers like Tanishq and Kalyan, despite a slight uptick in benchmark IBJA rates.  22k gold remained at Rs 14,365 per gram at Tanishq, "
+    },
+    {
+      "title": "WhiteBeard Closes Round at $26.1 Million Valuation Ahead of Planned Public Market Debut",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/02/3304914/0/en/WhiteBeard-Closes-Round-at-26-1-Million-Valuation-Ahead-of-Planned-Public-Market-Debut.html",
+      "published": "2026-06-02T09:21:00Z",
+      "description": "Wilmington, DE, June 02, 2026 (GLOBE NEWSWIRE) -- WhiteBeard\r\n, the AI powered financial technology company focused on risk management solutions for FX and CFD brokers, has announced the successful co"
+    },
+    {
+      "title": "美团在竞争中看清自己",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3835814792492416",
+      "published": "2026-06-02T09:20:31Z",
+      "description": "作者｜任彩茹\n 编辑｜乔芊\n 参与外卖大战的三家公司中，美团最晚发出一季度财报，但给出了最超预期的“减亏”成果。\n 2026年一季度，美团实现收入910亿元，同比增长5.6%，基本符合预期。亮点在于经营亏损的大幅收窄，由上季度的161亿元减至65亿元，其中最受关注的核心本地商业，经营亏损从上季度的100亿元减少到20亿元，明显好于投行预测的40-45亿元。\n 业绩提振下，6月2日港股开盘后，美团盘"
+    },
+    {
+      "title": "RBI may have sold gold to save foreign reserves, BE report shows",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/rbi-may-have-sold-gold-to-save-foreign-reserves-be-report-shows/articleshow/131458066.cms",
+      "published": "2026-06-02T07:17:25Z",
+      "description": "The RBI may have sold about $12 billion worth of gold reserves in the two weeks through May 22 to protect its foreign-currency assets amid capital outflows and rising oil prices, according to Bloomber"
+    },
+    {
+      "title": "RBI May Have Sold Gold to Save Foreign Reserves, BE Report Shows",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/rbi-may-have-sold-gold-to-save-foreign-reserves-be-report-shows",
+      "published": "2026-06-02T06:36:47Z",
+      "description": "India’s central bank may have offloaded a portion of its gold holdings to shield its foreign-currency assets from the cascading fallout of the war in the Middle East, according to an analysis by Bloom"
+    },
+    {
+      "title": "Gold Holds Decline as Traders Weigh Iran War Confusion",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/gold-holds-decline-as-traders-weigh-iran-war-confusion",
+      "published": "2026-06-02T06:01:04Z",
+      "description": "Gold held a decline as conflicting signals from the US and Iran cast doubt over a diplomatic resolution to the war, fanning concerns over inflation and prolonged trade disruptions."
     }
   ],
   "tweets": []
