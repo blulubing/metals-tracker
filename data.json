@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-06-05 09:35:01 UTC",
+  "updated_at": "2026-06-06 08:26:06 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4463.1,
+      "price_usd": 4328.87,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 72.7,
+      "price_usd": 67.78,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1883.1,
+      "price_usd": 1776.8,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1306.89,
+      "price_usd": 1225,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.44,
+      "price_usd": 0.43,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Congo Eurobonds Defy Ebola as Investors Chase Rare Yield, AI Exposure",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 5, 2026) at IBJA, Tanishq, Joyalukkas, Kalyan Jewellers and Malabar Gold & Diamonds",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-5-2026-at-ibja-tanishq-joyalukkas-kalyan-jewellers-and-malabar-gold-diamonds/articleshow/131526089.cms",
+      "published": "2026-06-05T08:22:21Z",
+      "description": "Gold prices saw a dip today, June 5, 2026. This decline followed positive news regarding potential progress between the US and Iran. Market sentiment improved as US President Donald Trump indicated ad"
+    },
+    {
+      "title": "Titan Company shares gain 2%. Why JPMorgan, others see up to 28% upside after analyst call?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/titan-company-shares-gain-2-why-jpmorgan-others-see-up-to-28-upside-after-analyst-call/articleshow/131525736.cms",
+      "published": "2026-06-05T07:56:14Z",
+      "description": "Titan shares are seeing gains as brokerages maintain a positive outlook. The company has outlined ambitious growth plans for the coming years.  Key businesses like Tanishq are expected to see signific"
+    },
+    {
+      "title": "Meet the big winners of 2026 oil price volatility — and why their strategies are now shifting focus",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/05/oil-price-iran-hedge-funds-quant-traders-trends-energy-shock.html",
+      "published": "2026-06-05T07:45:07Z",
+      "description": "Computer-based trend-following hedge funds have successfully capitalized on huge price moves in energy markets."
+    },
+    {
+      "title": "RBI holds repo rate at 5.25%; markets rise as financials gain, metals drag",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/rbi-holds-repo-rate-at-525-markets-rise-as-financials-gain-metals-drag/article71064409.ece",
+      "published": "2026-06-05T07:17:22Z",
+      "description": "The MPC raised FY27 inflation projection to 5.1% and trimmed GDP growth to 6.6%, citing global risks including West Asia conflict, crude oil volatility, and rupee weakness"
+    },
+    {
+      "title": "RBI MPC: India's Goldilocks moment dims, but the lights are not out",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-mpc-indias-goldilocks-moment-dims-but-the-lights-are-not-out/articleshow/131524218.cms",
+      "published": "2026-06-05T06:47:45Z",
+      "description": "India's economic \"Goldilocks moment\" is shifting as the RBI raises its inflation forecast and lowers growth projections due to external shocks like the West Asia conflict and elevated oil prices. Desp"
+    },
+    {
+      "title": "Why are gold and silver prices down today, and will precious metals continue to drop or rise again? Analysts insights, market outlook and what should investors do now",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-gold-and-silver-prices-down-today-and-will-precious-metals-continue-to-drop-or-rise-again-analysts-insights-market-outlook-and-what-should-investors-do-now/articleshow/131523722.cms",
+      "published": "2026-06-05T06:36:51Z",
+      "description": "Why are gold and silver prices down today, and will precious metals continue to drop or rise again? Gold and silver prices declined on Friday and were headed for weekly losses. Concerns over higher U."
+    },
+    {
+      "title": "RBI keeps repo rate unchanged at 5.25%, boosts rupee with new measures",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/policy/rbi-keeps-repo-rate-unchanged-at-5-25-boosts-rupee-with-new-measures/articleshow/131523368.cms",
+      "published": "2026-06-05T06:11:08Z",
+      "description": "The RBI's Monetary Policy Committee unanimously held the repo rate at 5.25% and maintained a neutral stance, citing amplified inflation risks. To bolster the rupee, the central bank introduced multipl"
+    },
+    {
+      "title": "Feroze Azeez sees better risk-reward in equities than gold despite global uncertainty",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/feroze-azeez-sees-better-risk-reward-in-equities-than-gold-despite-global-uncertainty/articleshow/131523317.cms",
+      "published": "2026-06-05T06:08:25Z",
+      "description": "HDFC Mutual Fund's new investment limits on gold ETFs and funds are sparking debate on investor behavior and asset allocation. Expert Feroze Azeez suggests the move aims to curb investors buying gold "
+    },
+    {
+      "title": "Broker Agreement",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/congo-eurobonds-defy-ebola-as-investors-chase-rare-yield-ai-exposure",
-      "published": "2026-06-04T09:26:13Z",
-      "description": "The Democratic Republic of Congo’s Eurobonds have remained resilient even as it grapples with an Ebola outbreak, buoyed by high yields and the nation’s exposure to metals that underpin the global arti"
+      "url": "https://financialpost.com/globe-newswire/broker-agreement",
+      "published": "2026-06-05T06:04:22Z",
+      "description": "AUTOMATIC SHARE PURCHASE PLAN London, 5 June 2026 – Endeavour Mining Plc (LEI: 529900NI5MXQ91GHXR07, LSE: EDV, TSX: EDV, OTCQX:EDVMF) (“the Company”) has re-entered into an Automatic Share Purchase Pl"
     },
     {
-      "title": "ATFX Connect Partners in South Africa with the JSE to Bring JSE-Listed CFDs to Institutional Clients Across The Continent",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/atfx-connect-partners-in-south-africa-with-the-jse-to-bring-jse-listed-cfds-to-institutional-clients-across-the-continent-302791369.html",
-      "published": "2026-06-04T08:39:00Z",
-      "description": "CAPE TOWN, South Africa, June 4, 2026 /PRNewswire/ -- ATFX Connect is proud to announce a landmark strategic partnership with the Johannesburg Stock Exchange (JSE), one that opens direct access to JSE"
-    },
-    {
-      "title": "Who is Rajesh Mehta, man behind Rajesh Exports, facing SEBI ban over alleged Rs 15.15 lakh crore 'fraud' impacting LIC, others?",
+      "title": "Silver prices tank Rs 5,700/kg, gold down Rs 1,300/10 gm as Iran war uncertainty stokes inflation worries. Time to sell?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/who-is-rajesh-mehta-man-behind-rajesh-exports-facing-sebi-ban-over-alleged-rs-15-15-lakh-crore-fraud-impacting-lic-others/articleshow/131500170.cms",
-      "published": "2026-06-04T08:24:59Z",
-      "description": "Market regulator SEBI has taken action against Rajesh Exports and its Chairman Rajesh Mehta. The company faces allegations of significant financial misstatements and fund diversion. SEBI's order point"
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 4, 2026) at Tanishq, Joyalukkas, Kalyan Jewellers, Malabar Gold & Diamonds and IBJA",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-4-2026-at-tanishq-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-and-ibja/articleshow/131500566.cms",
-      "published": "2026-06-04T08:19:11Z",
-      "description": "Gold prices saw a slight dip on Thursday, June 4, 2026, following news of a ceasefire agreement between Israel and Lebanon. This diplomatic development sparked optimism for broader progress, potential"
-    },
-    {
-      "title": "TABAÑERO INTRODUCES FLORIDA-INSPIRED BBQ SAUCE COLLECTION FEATURING CLEAN INGREDIENTS AND BOLD FLAVOR",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/tabanero-introduces-florida-inspired-bbq-sauce-collection-featuring-clean-ingredients-and-bold-flavor-302790728.html",
-      "published": "2026-06-04T08:00:00Z",
-      "description": "Seven Chef-Inspired Sauces Deliver Approximately Half the Sugar and Calories of Leading Brands While Elevating Everyday Grilling and Cooking DELRAY BEACH, Fla., June 4, 2026 /PRNewswire/ -- As consume"
-    },
-    {
-      "title": "Gold rises in futures trade as investors seek safety amid global uncertainty",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-rises-in-futures-trade-as-investors-seek-safety-amid-global-uncertainty/article71060168.ece",
-      "published": "2026-06-04T07:48:17Z",
-      "description": "Analysts said renewed investor interest in precious metals was driven by lingering geopolitical concerns and softer crude oil prices, which improved sentiment towards gold prices"
-    },
-    {
-      "title": "Today’s Gold Rate in India June 4: Gold prices down in Ahmedabad, Mumbai, Kolkata, Bengaluru, Delhi",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-mumbai-chennai-ahmedabad-delhi-hyderabad-bengaluru-kolkata-gold-rates-june-4-2026/article71060031.ece",
-      "published": "2026-06-04T07:14:06Z",
-      "description": "Gold, Silver Rate Today: Today's gold prices of 22, 24 down across Indian cities on June 4"
-    },
-    {
-      "title": "Titan, Kalyan Jewellers, Thangamayil, Vedanta, Hindustan Zinc in focus for second session after silver import curbs",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/titan-kalyan-jewellers-thangamayil-vedanta-hindustan-zinc-in-focus-for-second-session-after-silver-import-curbs/article71060020.ece",
-      "published": "2026-06-04T06:49:36Z",
-      "description": "Shares of listed jewellery makers and metal companies remained in focus for the last two trading sessions after the government tightened silver import regulations by making Directorate General of Fore"
-    },
-    {
-      "title": "ET Alpha Wealth Summit: Edelweiss MF CEO Radhika Gupta on how to build a Rs 100 crore portfolio in 10-11% return world",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-edelweiss-mf-ceo-radhika-gupta-on-how-to-build-a-rs-100-crore-portfolio-in-10-11-return-world/articleshow/131498111.cms",
-      "published": "2026-06-04T06:24:26Z",
-      "description": "Radhika Gupta of Edelweiss MF suggests building a Rs 100 crore corpus is achievable through long-term investing, compounding, and disciplined asset allocation, emphasizing human capital growth for you"
-    },
-    {
-      "title": "Rajesh Exports effect: LIC shares slip 1% as firm holds nearly 11% stake",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/rajesh-exports-effect-lic-shares-slip-1-as-firm-holds-nearly-11-stake/articleshow/131497354.cms",
-      "published": "2026-06-04T05:29:37Z",
-      "description": "Regulator Sebi has issued an interim order against Rajesh Exports and its promoter, Rajesh Mehta. The company faces allegations of significant financial irregularities and non-cooperation. Sebi's find"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/silver-prices-tank-rs-5700/kg-gold-down-rs-1300/10-gm-as-iran-war-uncertainty-stokes-inflation-worries-time-to-sell/articleshow/131521463.cms",
+      "published": "2026-06-05T04:22:20Z",
+      "description": "Gold and silver prices saw a sharp decline on the Multi Commodity Exchange on Friday. Renewed Middle East tensions and inflation worries weighed on market sentiment. MCX silver futures for July 2026 d"
     }
   ],
   "tweets": []
