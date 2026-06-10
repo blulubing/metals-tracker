@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-06-09 09:28:46 UTC",
+  "updated_at": "2026-06-10 09:43:33 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4330.52,
+      "price_usd": 4168.86,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 68.34,
+      "price_usd": 64.05,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1763.9,
+      "price_usd": 1673.9,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1228.35,
+      "price_usd": 1225.19,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.44,
+      "price_usd": 0.43,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.57,
+      "price_usd": 0.55,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.58,
+      "price_usd": 0.56,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 8, 2026) at IBJA, Tanishq, Joyalukkas, Kalyan Jewellers and Malabar Gold & Diamonds",
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 9, 2026) at Tanishq, Joyalukkas, Kalyan Jewellers, Malabar Gold & Diamonds and IBJA",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-8-2026-at-ibja-tanishq-joyalukkas-kalyan-jewellers-and-malabar-gold-diamonds/articleshow/131584011.cms",
-      "published": "2026-06-08T09:26:41Z",
-      "description": "Gold and silver prices saw a dip this today. Rising global tensions fueled inflation worries, while strong US economic data suggested interest rates would stay high."
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-9-2026-at-tanishq-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-and-ibja/articleshow/131606905.cms",
+      "published": "2026-06-09T09:27:43Z",
+      "description": "Gold prices saw a rise on Tuesday, June 9, 2026. Major jewellery brands like Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas reported higher rates. The India Bullion and Jewellers A"
     },
     {
-      "title": "220% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.20 lakh",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/220-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-20-lakh/articleshow/131583639.cms",
-      "published": "2026-06-08T09:14:34Z",
-      "description": "The Reserve Bank of India has set the premature redemption price for Sovereign Gold Bond 2021-22 Series-III. Investors can redeem these bonds from June 8, 2026. The redemption price is fixed at Rs 15,"
-    },
-    {
-      "title": "腾讯汤道生评价姚顺雨、混元 3和元宝",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3844018911889924",
-      "published": "2026-06-08T09:01:03Z",
-      "description": "文｜王毓婵\n 编辑｜张雨忻\n 6月5日，腾讯云AI产业应用大会最受外界关注的是什么？\n 毫无疑问，是汤道生与姚顺雨的对话。\n 在这场发布了一系列覆盖20多个垂直场景Agent的大会上，因为产品过于To B，也没有提及大家最关注的“微信AI”，导致外界的关注重心几乎全部被那场对话吸引走。\n 腾讯集团高级执行副总裁、云与智慧产业事业群CEO汤道生，在对谈中问腾讯首席AI科学家、腾讯混元大语言模型及AI"
-    },
-    {
-      "title": "China Dominates Global Low-Carbon Investment as U.S. Momentum Slows",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Latest-Energy-News/World-News/China-Dominates-Global-Low-Carbon-Investment-as-US-Momentum-Slows.html",
-      "published": "2026-06-08T08:30:00Z",
-      "description": "China accounts for the majority of low-carbon projects that secured total funding of $43 billion over the last six months, Reuters has reported, citing a report by the Mission Possible Partnership, a "
-    },
-    {
-      "title": "Interim Management Statement H1 2026",
+      "title": "West Red Lake Gold Significantly Increases Rowan MRE Including a 70% Increase in Indicated Resources to 755k Tonnes Containing 335k oz at 13 g/t Au",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/06/08/3307843/0/en/Interim-Management-Statement-H1-2026.html",
-      "published": "2026-06-08T08:13:00Z",
-      "description": "8 June 2026  HARGREAVE HALE AIM VCT PLC  (the \"Company\")  Interim Management Statement  H1 2026  Introduction  This interim management statement covers the..."
+      "url": "https://www.globenewswire.com/news-release/2026/06/09/3308608/0/en/West-Red-Lake-Gold-Significantly-Increases-Rowan-MRE-Including-a-70-Increase-in-Indicated-Resources-to-755k-Tonnes-Containing-335k-oz-at-13-g-t-Au.html",
+      "published": "2026-06-09T08:30:00Z",
+      "description": "VANCOUVER, British Columbia, June 09, 2026 (GLOBE NEWSWIRE) -- West Red Lake Gold Mines Ltd. (“West Red Lake Gold” or “WRLG” or the “Company”) (TSXV: WRLG) (OTCQX: WRLGF) is pleased to announce an upd"
     },
     {
-      "title": "10 stocks crash up to 50% in just 100 days of US-Iran war. Do you own any?",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/10-stocks-crash-up-to-50-in-just-100-days-of-us-iran-war-do-you-own-any/struggling-d-street/slideshow/131582376.cms",
-      "published": "2026-06-08T07:47:04Z",
-      "description": "The Indian stock market has seen a sharp drop since the war between Iran and the US-Israel began late in February, wiping off massive sums of investor wealth on Dalal Street. Nifty 50 declined more th"
-    },
-    {
-      "title": "India inflation likely rose to 4% in May as food, fuel costs climb",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/india-inflation-likely-rose-to-4-in-may-as-food-fuel-costs-climb/articleshow/131581652.cms",
-      "published": "2026-06-08T07:31:37Z",
-      "description": "India's inflation likely climbed to the Reserve Bank of India's 4% target in May, driven by rising vegetable prices and increased fuel costs. This trend marks a shift from the previous 15 months of be"
-    },
-    {
-      "title": "改变全球速度的AI，付款却卡在上一个时代",
+      "title": "康养地产的“闭环”，北京山谷找到了",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3844199957236227",
-      "published": "2026-06-08T07:30:56Z",
-      "description": "2026年，全球平均每小时就有一家新的AI公司诞生。 \n AI行业的竞争已经白热化到如此程度：大模型的参数在卷，推理速度在卷，应用落地的速度在卷，就连融资PPT的故事密度也在卷。一时间，所有人的目光都盯在“前端”——谁的模型更强，谁的产品先跑出来，谁就能在这场军备竞赛里站稳脚跟。\n 但在这场喧嚣之外，一个被大多数人忽视的问题，正在悄悄侵蚀每一家AI企业的利润：钱，到底能不能顺畅地流动起来？\n 当A"
+      "url": "https://36kr.com/p/3845553021880840",
+      "published": "2026-06-09T06:19:43Z",
+      "description": "当一个行业的概念产出远超实际交付时，外界的审视就变得格外重要。\n 环京康养地产就是典型。过去几年，打着康养旗号的项目遍地开花。但绝大多数最终倒在同一个地方——交付。配套缩水、运营停滞、社区空置，成了这个赛道的常态。\n 但这不代表市场没有需求。恰恰相反，北京康养市场的供需矛盾相当尖锐。据《北京市老龄事业发展报告（2024）》，2024年末全市60岁及以上常住人口突破514万人，其中超过80%属于低龄"
     },
     {
-      "title": "Silver prices tank Rs 5,500/kg, gold down Rs 1,800/10 gm as Israel attacks, rising crude trigger panic. Should you sell?",
+      "title": "Silver prices fall Rs 2,500/kg, gold at Rs 1.54 lakh/10 gm as investors assess Israel-Iran war tensions. What should you do?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-tank-rs-5500/kg-gold-down-rs-1800/10-gm-as-israel-attacks-rising-crude-trigger-panic-should-you-sell/articleshow/131577927.cms",
-      "published": "2026-06-08T03:56:01Z",
-      "description": "Gold and silver prices opened lower on MCX on Monday. Escalating Gulf tensions pushed oil prices higher, fueling inflation worries. Stronger US economic data reinforced expectations of prolonged high "
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-fall-rs-2500/kg-gold-at-rs-1-54-lakh/10-gm-as-investors-assess-israel-iran-war-tensions-what-should-you-do/articleshow/131601352.cms",
+      "published": "2026-06-09T04:20:22Z",
+      "description": "Gold and silver prices opened lower on MCX Tuesday, influenced by a fragile Israel-Iran ceasefire and inflation concerns. Traders are closely watching Middle East developments and the prospect of high"
     },
     {
-      "title": "Gold, Silver Rate Today Live Updates: International gold prices drop as rate hike fears on higher inflation reduce safe haven appeal",
+      "title": "Why are gold and silver prices down today, and will precious metals continue to drop or rise again? Treasury yields pressure gold as investors assess market outlook",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/131576770.cms",
-      "published": "2026-06-08T02:34:06Z",
-      "description": "Gold, Silver Rate Today Live Updates: Analysts expect gold prices to remain highly responsive to developments in West Asia, fluctuations in crude oil"
+      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-gold-and-silver-prices-down-today-and-will-precious-metals-continue-to-drop-or-rise-again-treasury-yields-pressure-gold-as-investors-assess-market-outlook/articleshow/131599693.cms",
+      "published": "2026-06-09T02:29:27Z",
+      "description": "Why are gold and silver prices down today, and will precious metals continue to drop or rise again? Gold prices extended losses for a third session as U.S. Treasury yields moved higher. Silver also de"
+    },
+    {
+      "title": "FireFly Metals Announces OTC Markets Ticker Symbol Change to FFMFF",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/firefly-metals-announces-otc-markets-ticker-symbol-change-to-ffmff",
+      "published": "2026-06-09T00:30:11Z",
+      "description": "PERTH, Australia, June 08, 2026 (GLOBE NEWSWIRE) — FireFly Metals Ltd (ASX:FFM | TSX:FFM | OTCPK:FFMFF) (FireFly or the Company) is pleased to announce that its OTC Markets (OTC) ticker symbol will ch"
+    },
+    {
+      "title": "Mercuria’s First-Half Profit Jumped 88% on Commodity Shocks",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/mercurias-first-half-profit-jumped-88-on-commodity-shocks",
+      "published": "2026-06-08T17:13:40Z",
+      "description": "Mercuria Energy Group enjoyed an 88% jump in first-half profit, putting it on track for one of its best-ever annual results as the Hormuz crisis creates huge opportunities for commodity traders."
+    },
+    {
+      "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3844559758936582",
+      "published": "2026-06-08T13:29:53Z",
+      "description": "大公司：\n 热门中概股美股盘前多数上涨，哔哩哔哩涨超5%\n 36氪获悉，热门中概股美股盘前多数上涨，截至发稿，哔哩哔哩涨超5%，蔚来、理想汽车涨超2%，阿里巴巴涨0.87%，京东涨0.48%，小鹏集团涨0.31%，百度跌超1%，拼多多跌0.35%。\n 天娱数科：目前无物理AI业务，未形成相关业务收入\n 36氪获悉，天娱数科公告，公司股票于2026年6月5日、6月8日连续两个交易日收盘价格涨幅偏离值"
+    },
+    {
+      "title": "LUCA PROVIDES OPERATIONS AND CORPORATE UPDATE",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/luca-provides-operations-and-corporate-update-302793467.html",
+      "published": "2026-06-08T11:00:00Z",
+      "description": "VANCOUVER, BC, June 8, 2026 /PRNewswire/ - Luca Mining Corp. (\"Luca\" or the \"Company\") (TSXV: LUCA) (OTCQX: LUCMF) (Frankfurt: Z68) is pleased to provide an update on ongoing initiatives to improve op"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex settles at 73,524.26, down 719.08 pts (0.97%); Nifty ends at 23,123, down 243.70 pts (1.04%)",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-8th-june-2026/article71072799.ece",
+      "published": "2026-06-08T10:28:12Z",
+      "description": "Sensex, Nifty, Stock Price Highlights:- Shares fell on Monday, tracking a sharp ​selloff across Asian markets, while crude prices spiked due to ‌an escalation of the Middle East ​conflict"
     }
   ],
   "tweets": []
