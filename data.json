@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-06-10 09:43:33 UTC",
+  "updated_at": "2026-06-11 10:12:12 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4168.86,
+      "price_usd": 4090.02,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 64.05,
+      "price_usd": 63.95,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1673.9,
+      "price_usd": 1665.38,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1225.19,
+      "price_usd": 1242.81,
       "unit": "USD/盎司 oz"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.56,
+      "price_usd": 0.55,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.43,
+      "price_usd": 0.42,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 9, 2026) at Tanishq, Joyalukkas, Kalyan Jewellers, Malabar Gold & Diamonds and IBJA",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-9-2026-at-tanishq-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-and-ibja/articleshow/131606905.cms",
-      "published": "2026-06-09T09:27:43Z",
-      "description": "Gold prices saw a rise on Tuesday, June 9, 2026. Major jewellery brands like Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas reported higher rates. The India Bullion and Jewellers A"
-    },
-    {
-      "title": "West Red Lake Gold Significantly Increases Rowan MRE Including a 70% Increase in Indicated Resources to 755k Tonnes Containing 335k oz at 13 g/t Au",
+      "title": "Ero Confirms High-Grade Continuity and Extends Known Mineralization at Furnas with Significant New Step-Out Intercepts",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/06/09/3308608/0/en/West-Red-Lake-Gold-Significantly-Increases-Rowan-MRE-Including-a-70-Increase-in-Indicated-Resources-to-755k-Tonnes-Containing-335k-oz-at-13-g-t-Au.html",
-      "published": "2026-06-09T08:30:00Z",
-      "description": "VANCOUVER, British Columbia, June 09, 2026 (GLOBE NEWSWIRE) -- West Red Lake Gold Mines Ltd. (“West Red Lake Gold” or “WRLG” or the “Company”) (TSXV: WRLG) (OTCQX: WRLGF) is pleased to announce an upd"
+      "url": "https://www.globenewswire.com/news-release/2026/06/10/3309531/0/en/Ero-Confirms-High-Grade-Continuity-and-Extends-Known-Mineralization-at-Furnas-with-Significant-New-Step-Out-Intercepts.html",
+      "published": "2026-06-10T10:00:00Z",
+      "description": "VANCOUVER, British Columbia, June 10, 2026 (GLOBE NEWSWIRE) -- Ero Copper Corp. (TSX: ERO, NYSE: ERO) (\"Ero\" or the “Company”) is pleased to announce assay results on an additional 24,000 meters of ex"
     },
     {
-      "title": "康养地产的“闭环”，北京山谷找到了",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3845553021880840",
-      "published": "2026-06-09T06:19:43Z",
-      "description": "当一个行业的概念产出远超实际交付时，外界的审视就变得格外重要。\n 环京康养地产就是典型。过去几年，打着康养旗号的项目遍地开花。但绝大多数最终倒在同一个地方——交付。配套缩水、运营停滞、社区空置，成了这个赛道的常态。\n 但这不代表市场没有需求。恰恰相反，北京康养市场的供需矛盾相当尖锐。据《北京市老龄事业发展报告（2024）》，2024年末全市60岁及以上常住人口突破514万人，其中超过80%属于低龄"
+      "title": "NVRO Metals Establishes the NVRO Metals Hub, Creating a Pathway to Critical Minerals Production and Accelerating Industrial Deployment of the NVRO Process™",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/10/3309523/0/en/NVRO-Metals-Establishes-the-NVRO-Metals-Hub-Creating-a-Pathway-to-Critical-Minerals-Production-and-Accelerating-Industrial-Deployment-of-the-NVRO-Process.html",
+      "published": "2026-06-10T10:00:00Z",
+      "description": "NVRO to acquire Northern Territories Resources, creating an Australian critical minerals hub with processing infrastructure and near-term production..."
     },
     {
-      "title": "Silver prices fall Rs 2,500/kg, gold at Rs 1.54 lakh/10 gm as investors assess Israel-Iran war tensions. What should you do?",
+      "title": "Every '80s home had a velvet-lined box of silver flatware that never left the sideboard; now those sterling sets are the thrift-store kitchen find designers are hunting for",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-fall-rs-2500/kg-gold-at-rs-1-54-lakh/10-gm-as-investors-assess-israel-iran-war-tensions-what-should-you-do/articleshow/131601352.cms",
-      "published": "2026-06-09T04:20:22Z",
-      "description": "Gold and silver prices opened lower on MCX Tuesday, influenced by a fragile Israel-Iran ceasefire and inflation concerns. Traders are closely watching Middle East developments and the prospect of high"
+      "url": "https://economictimes.indiatimes.com/news/international/us/every-80s-home-had-a-velvet-lined-box-of-silver-flatware-that-never-left-the-sideboard-now-those-sterling-sets-are-the-thrift-store-kitchen-find-designers-are-hunting-for/articleshow/131630440.cms",
+      "published": "2026-06-10T09:50:24Z",
+      "description": "Thrift stores are witnessing a surprising surge in demand for vintage silver serving ware, with millennials and Gen Z leading the charge. These younger shoppers are embracing ornate tea sets and flatw"
     },
     {
-      "title": "Why are gold and silver prices down today, and will precious metals continue to drop or rise again? Treasury yields pressure gold as investors assess market outlook",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/why-are-gold-and-silver-prices-down-today-and-will-precious-metals-continue-to-drop-or-rise-again-treasury-yields-pressure-gold-as-investors-assess-market-outlook/articleshow/131599693.cms",
-      "published": "2026-06-09T02:29:27Z",
-      "description": "Why are gold and silver prices down today, and will precious metals continue to drop or rise again? Gold prices extended losses for a third session as U.S. Treasury yields moved higher. Silver also de"
-    },
-    {
-      "title": "FireFly Metals Announces OTC Markets Ticker Symbol Change to FFMFF",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/firefly-metals-announces-otc-markets-ticker-symbol-change-to-ffmff",
-      "published": "2026-06-09T00:30:11Z",
-      "description": "PERTH, Australia, June 08, 2026 (GLOBE NEWSWIRE) — FireFly Metals Ltd (ASX:FFM | TSX:FFM | OTCPK:FFMFF) (FireFly or the Company) is pleased to announce that its OTC Markets (OTC) ticker symbol will ch"
-    },
-    {
-      "title": "Mercuria’s First-Half Profit Jumped 88% on Commodity Shocks",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/mercurias-first-half-profit-jumped-88-on-commodity-shocks",
-      "published": "2026-06-08T17:13:40Z",
-      "description": "Mercuria Energy Group enjoyed an 88% jump in first-half profit, putting it on track for one of its best-ever annual results as the Hormuz crisis creates huge opportunities for commodity traders."
-    },
-    {
-      "title": "氪星晚报｜追觅质押嘉美包装2.47亿股，向兴业银行贷款提供担保；黄仁勋：SK海力士到2030年将晶圆产能翻倍的计划还不够",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3844559758936582",
-      "published": "2026-06-08T13:29:53Z",
-      "description": "大公司：\n 热门中概股美股盘前多数上涨，哔哩哔哩涨超5%\n 36氪获悉，热门中概股美股盘前多数上涨，截至发稿，哔哩哔哩涨超5%，蔚来、理想汽车涨超2%，阿里巴巴涨0.87%，京东涨0.48%，小鹏集团涨0.31%，百度跌超1%，拼多多跌0.35%。\n 天娱数科：目前无物理AI业务，未形成相关业务收入\n 36氪获悉，天娱数科公告，公司股票于2026年6月5日、6月8日连续两个交易日收盘价格涨幅偏离值"
-    },
-    {
-      "title": "LUCA PROVIDES OPERATIONS AND CORPORATE UPDATE",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/luca-provides-operations-and-corporate-update-302793467.html",
-      "published": "2026-06-08T11:00:00Z",
-      "description": "VANCOUVER, BC, June 8, 2026 /PRNewswire/ - Luca Mining Corp. (\"Luca\" or the \"Company\") (TSXV: LUCA) (OTCQX: LUCMF) (Frankfurt: Z68) is pleased to provide an update on ongoing initiatives to improve op"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Sensex settles at 73,524.26, down 719.08 pts (0.97%); Nifty ends at 23,123, down 243.70 pts (1.04%)",
+      "title": "Gold ETFs break 13-month streak of positive inflow; records ₹725 cr outflow in May",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-8th-june-2026/article71072799.ece",
-      "published": "2026-06-08T10:28:12Z",
-      "description": "Sensex, Nifty, Stock Price Highlights:- Shares fell on Monday, tracking a sharp ​selloff across Asian markets, while crude prices spiked due to ‌an escalation of the Middle East ​conflict"
+      "url": "https://www.thehindubusinessline.com/markets/gold-etfs-break-13-month-streak-of-positive-inflow-records-725-cr-outflow-in-may/article71084279.ece",
+      "published": "2026-06-10T09:49:38Z",
+      "description": "Gold ETFs faced a ₹725 crore outflow in May, ending a 13-month inflow streak amidst changing investor sentiment."
+    },
+    {
+      "title": "Lalithaa Jewellery to restart IPO roadshows for stalled ₹1,700-cr issue",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/lalithaa-jewellery-ipo-revival-roadshows-governance-concerns-gold-prices-11781076959854.html",
+      "published": "2026-06-10T09:22:21Z",
+      "description": "Last year, the company had unofficially paused its  ₹1,700-crore share sale amid media scrutiny over promoter remuneration, corporate governance and structural metrics."
+    },
+    {
+      "title": "Boda-Kaiser Regional Exploration Update",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/boda-kaiser-regional-exploration-update",
+      "published": "2026-06-10T09:04:45Z",
+      "description": "PERTH, Australia, June 10, 2026 (GLOBE NEWSWIRE) — Alkane Resources Limited (ASX: ALK; TSX: ALK; OTCQX: ALKRY) (‘Alkane’ or ‘the Company’) is pleased to announce the latest exploration results and dri"
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 10, 2026) at Tanishq, Joyalukkas, Kalyan Jewellers, Malabar Gold & Diamonds and IBJA",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-10-2026-at-tanishq-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-and-ibja/articleshow/131630032.cms",
+      "published": "2026-06-10T08:48:17Z",
+      "description": "Gold and silver prices saw a decline on Wednesday, June 10, 2026, as major Indian retailers reduced rates. This drop is attributed to heightened global uncertainty stemming from Middle East geopolitic"
+    },
+    {
+      "title": "AMFI data: Gold ETFs record first monthly net outflow in 13 months. Here's why",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/amfi-data-gold-etfs-record-first-monthly-net-outflow-in-13-months-heres-why-11781078947646.html",
+      "published": "2026-06-10T08:43:19Z",
+      "description": "AMFI data shows Gold ETFs posted their first monthly outflow in 13 months in May. Profit booking and weaker fresh investments weighed on flows despite rising gold prices."
+    },
+    {
+      "title": "A股三大指数集体收跌，沪深京三市超3800股飘绿",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3847010286635266",
+      "published": "2026-06-10T07:01:13Z",
+      "description": "36氪获悉，A股三大指数集体收跌，沪指跌0.42%，深成指跌2.06%，创业板指跌2.7%；贵金属、通信设备、汽车零部件板块领跌，长华集团跌停，天孚通信跌超7%，招金黄金跌超5%；大金融、白酒板块走强，中国人寿涨超4%，苏州银行、广发证券涨超2%，\n山西汾酒涨超1%；沪深京三市超3800股飘绿。"
+    },
+    {
+      "title": "日本企业物价指数同比涨幅创三年多来新高",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3846919097846020",
+      "published": "2026-06-10T05:28:28Z",
+      "description": "日本央行6月10日公布的初步统计结果显示，5月日本企业物价指数同比上涨6.3%至134.5，涨幅较4月进一步扩大，创2023年3月以来新高，也明显高于市场机构预测。数据显示，纳入统计范围的23类商品中，有22类商品价格同比上涨。其中，由于中东战事推高国际原油价格，石油和煤炭制品价格同比上涨13.8%，较4月涨幅扩大8.5个百分点。石脑油价格上涨进一步传导至下游，带动聚乙烯、聚丙烯等产品价格走高，化"
     }
   ],
   "tweets": []
