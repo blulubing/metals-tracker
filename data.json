@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-06-14 09:22:02 UTC",
+  "updated_at": "2026-06-15 11:50:49 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4219.4,
+      "price_usd": 4334.55,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 68.01,
+      "price_usd": 70.76,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1717.3,
+      "price_usd": 1795.7,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1284.87,
+      "price_usd": 1347.88,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.55,
+      "price_usd": 0.56,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,11 +76,32 @@
   ],
   "news": [
     {
-      "title": "Gold expected to touch $6,000/oz by end-2026 despite recent price cooling: JP Morgan",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-expected-to-touch-6000oz-by-end-2026-despite-recent-price-cooling-jp-morgan/article71096940.ece",
-      "published": "2026-06-13T09:18:29Z",
-      "description": "Uncertainty surrounding geopolitical developments and monetary policy to shape outlook for the metal, a JP Morgan report said"
+      "title": "Fashion to Furnace: Some luxury gold watches fail the test of time",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/fashion-to-furnace-some-luxury-gold-watches-fail-the-test-of-time/articleshow/131711443.cms",
+      "published": "2026-06-13T23:30:00Z",
+      "description": "Luxury watches like Omega Constellation are being melted for gold. High gold prices make metal value exceed resale worth. This impacts used models from Omega and TAG Heuer. Dealers are scrapping watch"
+    },
+    {
+      "title": "There Are 16 Minerals America Produces None Of. The Government Now Calls That a National Security Threat.",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/13/3311412/0/en/There-Are-16-Minerals-America-Produces-None-Of-The-Government-Now-Calls-That-a-National-Security-Threat.html",
+      "published": "2026-06-13T18:47:00Z",
+      "description": "A former Pentagon advisor on what Washington is doing about it and where he's looking on U.S. soil. A former Pentagon advisor on what Washington is doing about it and where he's looking on U.S. soil."
+    },
+    {
+      "title": "U.S. Industries Push to Revive Tungsten Production Amid Shortage",
+      "source": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/u-s-industries-push-to-revive-tungsten-production-amid-shortage/",
+      "published": "2026-06-13T12:00:00Z",
+      "description": "Tungsten is a coveted for military uses. Restoring domestic supply could help with ongoing munitions shortages"
+    },
+    {
+      "title": "Gold price to hit record highs in 2026 despite recent fall? Check latest gold rate predictions",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-to-hit-record-highs-in-2026-despite-recent-fall-check-latest-gold-rate-predictions/articleshow/131702851.cms",
+      "published": "2026-06-13T11:04:53Z",
+      "description": "Gold price today: JP Morgan said uncertainty surrounding geopolitical developments and monetary policy continues to shape the outlook for the precious metal."
     },
     {
       "title": "曼联，要被卖了",
@@ -88,27 +109,6 @@
       "url": "https://36kr.com/p/3851350342325504",
       "published": "2026-06-13T08:37:21Z",
       "description": "图片来源：视觉中国\n 作者/余梦莹\n 报道/投资界PEdaily\n 史上最盛大世界杯正在上演。\n 48支球队、39天、104场比赛，总奖金飙升至8.71亿美元。梅西、C罗、莫德里奇“最后一舞”，哈兰德、姆巴佩、亚马尔崛起，诸神之战拉开帷幕。\n 赛场之外，一家老牌足球豪门却站在了十字路口——彭博社消息，掌控英超球队曼联超20年的格雷泽家族内部，近期正在讨论出售事宜。\n 绰号“红魔”，这是英格兰足球史"
-    },
-    {
-      "title": "Gold rate today (June 13, 2026): Check 24k, 22k and 18k gold jewellery rates from IBJA, Malabar Gold and Diamonds, Joyalukkas & Tanishq in Delhi, Mumbai and other cities",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-june-13-2026-check-24k-22k-and-18k-gold-jewellery-rates-from-ibja-malabar-gold-and-diamonds-joyalukkas-tanishq-in-delhi-mumbai-kolkata-chennai-bangalore-and-hyderabad/articleshow/131699504.cms",
-      "published": "2026-06-13T07:14:22Z",
-      "description": "Gold prices saw an increase on Saturday, June 13, 2026, impacting leading Indian jewellery brands. Tanishq, Malabar Gold & Diamonds, and Joyalukkas reported higher rates for 22k gold jewellery across "
-    },
-    {
-      "title": "What are US stock market, gold and silver price prediction for Monday? Market outlook after Wall Street gains and metals movement",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/what-are-us-stock-market-gold-and-silver-price-prediction-for-monday-market-outlook-after-wall-street-gains-and-metals-movement/articleshow/131697715.cms",
-      "published": "2026-06-13T05:40:15Z",
-      "description": "What are US stock market, gold and silver price prediction for Monday? Investors are assessing Wall Street's latest gains, developments in U.S.-Iran talks, Federal Reserve expectations, and movements "
-    },
-    {
-      "title": "Global markets: Stocks rise as SpaceX makes market debut; oil slides on Gulf peace hopes",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-markets-stocks-rise-as-spacex-makes-market-debut-oil-slides-on-gulf-peace-hopes/articleshow/131698343.cms",
-      "published": "2026-06-13T05:36:10Z",
-      "description": "Global equities rose Friday, led by a surge in SpaceX's market debut, which pushed its valuation past $2 trillion. Wall Street ended higher as investors weighed hopes for an Iran peace deal against th"
     },
     {
       "title": "“宁王系”，排队 IPO",
@@ -139,11 +139,11 @@
       "description": "今日热点导览\n Kimi与一国有银行合作，全球首张AI原生信用卡开放预约\n 韩美半导体将使用500亿韩元投资于SpaceX\n SK海力士回应本月发生第二起火灾\n 杭州小龙虾降价超50%\n 金价连跌，批发商集中补货\n TOP3大新闻\n SpaceX市值破2.1万亿美元，马斯克身家达巴菲特7倍\n 当地时间6月12日，万众瞩目的太空探索公司SpaceX于在纳斯达克交易所完成了上市。SpaceX是有史以来"
     },
     {
-      "title": "Rio Silver Announces Results of Annual General Meeting",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/rio-silver-announces-results-of-annual-general-meeting",
-      "published": "2026-06-12T22:46:06Z",
-      "description": "VANCOUVER, British Columbia , June 12, 2026 (GLOBE NEWSWIRE) — Rio Silver Inc. (“Rio Silver” or the “Company”) (TSX.V: RYO) (OTC: RYOOF), announces shareholder approval for all matters at the AGM. All"
+      "title": "Before the Government Makes Its Move, Everyday Americans Have a Narrow Window to Get In First",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/12/3311247/0/en/Before-the-Government-Makes-Its-Move-Everyday-Americans-Have-a-Narrow-Window-to-Get-In-First.html",
+      "published": "2026-06-12T17:00:00Z",
+      "description": "The man who advised Nixon and Reagan, predicts Trump’s executive order is about to unleash the largest mineral reserve of its kind on the planet The man who advised Nixon and Reagan, predicts Trump’s "
     }
   ],
   "tweets": []
