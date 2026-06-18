@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-06-17 10:29:35 UTC",
+  "updated_at": "2026-06-18 10:10:36 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4328.69,
+      "price_usd": 4264.43,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 69.89,
+      "price_usd": 68.42,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1788.61,
+      "price_usd": 1724.1,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1344.01,
+      "price_usd": 1294.28,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.45,
+      "price_usd": 0.44,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.55,
+      "price_usd": 0.56,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex gains 544 pts, Nifty settles at 23,989 on US-Iran peace deal",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-16-june-2026/article71104678.ece",
-      "published": "2026-06-16T10:24:35Z",
-      "description": "Sensex, Nifty, Share Prices Highlights: Indian shares closed higher on Tuesday, advancing for a ​third straight session, as a preliminary U.S.-Iran peace deal ‌cooled oil prices and improved risk appe"
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 17, 2026) at Tanishq, Joyalukkas, Kalyan Jewellers, Malabar Gold & Diamonds and IBJA",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-17-2026-at-tanishq-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-and-ibja/articleshow/131794335.cms",
+      "published": "2026-06-17T09:40:00Z",
+      "description": "Gold rate today: Gold prices saw a slight dip across major Indian cities on June 17, 2026, following a decline in domestic bullion rates. Major jewelers like Tanishq, Malabar Gold & Diamonds, Kalyan J"
     },
     {
-      "title": "乘新浪潮之势，建智造创新之城，2026年番禺产业高质量发展招商大会圆满举行",
+      "title": "浙大系创业者冲港股IPO，仙工智能招股书五大看点",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3855628692001799",
-      "published": "2026-06-16T09:31:45Z",
-      "description": "潮起湾区新机遇，科创赋能新番禺。6月16日上午，2026年番禺产业高质量发展招商大会在广州番禺良仓新造创意园举行，大会以“新浪潮·新番禺”为主题，旨在搭建高效政企对接、企企交流、资本赋能平台。\n 大会由广州市番禺信息技术投资发展有限公司（下称“番禺信投”）、广州市番禺交通建设投资集团有限公司（下称“番禺交投”）、广州市番禺区新造镇房地产开发公司主办（下称“新造房地产公司”），中国农业银行股份有限公"
+      "url": "https://36kr.com/p/3857011810112521",
+      "published": "2026-06-17T08:36:26Z",
+      "description": "6月15日，智能机器人公司仙工智能（06106.HK）开始招股，招股价101.60港元，每手50股，市值112.27亿港元。\n 仙工智能最早于2025年5月第一次向港交所递交招股书，6个月失效后，又于当年11月重新递交，直到今年6月才通过聆讯。仙工智能这次是以18C特专科技公司身份赴港上市，预计6月24日挂牌敲钟。中金独家保荐，招银国际为整体协调人。\n 有意思的是，这家公司的核心壁垒不在机器人本身"
     },
     {
-      "title": "VT Markets Launches Bold as Gold, a Global Campaign to Establish New Benchmark in Gold Trading",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/vt-markets-launches-bold-as-gold-a-global-campaign-to-establish-new-benchmark-in-gold-trading-302800192.html",
-      "published": "2026-06-16T09:00:00Z",
-      "description": "SYDNEY, June 16, 2026 /PRNewswire/ -- VT Markets, a leading global online trading platform, announced the launch of its Bold as Gold campaign. The campaign celebrates the bold ambitions of gold trader"
+      "title": "AI infrastructure and data centre plays could be the next big theme: Atul Suri",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/ai-infrastructure-and-data-centre-plays-could-be-the-next-big-theme-atul-suri/articleshow/131792530.cms",
+      "published": "2026-06-17T08:25:54Z",
+      "description": "Despite negative sentiment and foreign investor selling, Indian equities are showing signs of building a base, with a breakout above 24,500 on the Nifty potentially signaling a move towards new highs."
     },
     {
-      "title": "Zimbabwe Cuts Rates First Globally After US-Iran Peace Deal",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/zimbabwe-cuts-rates-first-globally-after-us-iran-peace-deal",
-      "published": "2026-06-16T08:31:40Z",
-      "description": "Zimbabwe’s central bank became the first in the world to cut interest rates after the US and Iran said they reached an interim peace deal to reopen the Strait of Hormuz, an announcement that drove dow"
-    },
-    {
-      "title": "在大疆、影石夹缝中做智能影像生意，这家公司连续五年每年增长50%｜硬氪专访",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3853918856696834",
-      "published": "2026-06-16T08:28:55Z",
-      "description": "作者 | 黄楠\n 编辑 | 袁斯来\n 在创业者中，OBSBOT寻影CEO刘博已经是个“老人”了。\n 2016年，刘博浙大毕业就到深圳创业。不管是当初还是现在，在高调的“天才少年”创业者中，刘博履历都算不上特别耀眼。\n 他没有太多感性的故事分享。唯一一段难忘的经历，就是2019年时，因为产品定义出问题滞销，公司账户钱只够几个月，裁掉砍掉一半，相关业务暂停。那是他印象中最安静的一个冬天。\n 转机出现在"
-    },
-    {
-      "title": "Bitget Launches Community Product Officer Program With Up to 3,000 USDT in Rewards",
+      "title": "Golvurikenz Introduces New AI-Powered Trading Platform for Modern Investors in 2026",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/06/16/3312311/0/en/Bitget-Launches-Community-Product-Officer-Program-With-Up-to-3-000-USDT-in-Rewards.html",
-      "published": "2026-06-16T08:12:00Z",
-      "description": "Bitget invites users to shape future products through its Community Product Officer Program with rewards and direct feedback channels...."
+      "url": "https://www.globenewswire.com/news-release/2026/06/17/3313199/0/en/Golvurikenz-Introduces-New-AI-Powered-Trading-Platform-for-Modern-Investors-in-2026.html",
+      "published": "2026-06-17T07:41:00Z",
+      "description": "New York City, June 17, 2026 (GLOBE NEWSWIRE) -- The financial technology sector continues to evolve rapidly, with artificial intelligence becoming one of the most influential innovations in modern in"
     },
     {
-      "title": "Falling crude, stronger rupee could boost earnings outlook for India: Deepak Shenoy",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/falling-crude-stronger-rupee-could-boost-earnings-outlook-for-india-deepak-shenoy/articleshow/131760071.cms",
-      "published": "2026-06-16T05:10:32Z",
-      "description": "Indian stocks are poised for a favorable period. Falling crude oil prices and a strengthening rupee offer support. Macroeconomic conditions are improving. While global markets face AI valuation worrie"
+      "title": "Trident Resources Intersects 41.46 g/t over 3.42m including 81.75 g/t over 1.73m in Hole CL26033 at the Contact Lake Project in Saskatchewan",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/trident-resources-intersects-41-46-g-t-over-3-42m-including-81-75-g-t-over-1-73m-in-hole-cl26033-at-the-contact-lake-project-in-saskatchewan",
+      "published": "2026-06-17T07:17:00Z",
+      "description": "Vancouver, BC, June 17, 2026 (GLOBE NEWSWIRE) — Trident Resources Corp. (TSXV: ROCK) (OTCQB: TRDTF) (Frankfurt: 6BP0) (“Trident” or the “Company”) is pleased to announce assay results for the final 7 "
     },
     {
-      "title": "Silver snaps 3-day gaining streak; gold at Rs 1.52 lakh/10 grams as investors eye Iran-US peace deal details, key levels to watch",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-16-june-2026-silver-snaps-3-day-gaining-streak-gold-at-rs-1-52-lakh/10-grams-as-investors-eye-iran-us-peace-deal-details-key-levels-to-watch/articleshow/131759634.cms",
-      "published": "2026-06-16T04:53:59Z",
-      "description": "Gold and silver prices snapped their three-day winning streak on MCX as investors tracked developments in the US-Iran peace agreement. Domestic futures slipped marginally, while global gold held stead"
-    },
-    {
-      "title": "8点1氪｜山姆总部因食品安全问题被约谈；智谱股价暴涨，创上市以来单日成交新高；美伊确认达成协议，国际油价显著下跌",
+      "title": "NoonWake.AI完成近千万元种子轮融资，用AI做年轻人的情绪消费品｜智能涌现首发",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3855082873476102",
-      "published": "2026-06-15T23:56:18Z",
-      "description": "今日热点导览\n <ul>\n <li>国内品牌金饰价格普涨</li>\n <li>小红书公布世界杯开赛数据</li>\n <li>阿里巴巴达摩院退出旗下科技公司</li>\n <li>罗马仕接连变更法定代表人</li>\n <li>遇见小面创始人向“渝见小面”致歉</li>\n </ul>\n TOP3大新闻\n 针对多发食品安全问题，市场监管总局约谈山姆总部\n 记者15日了解到，针对一段时期以来监管发现和媒体曝"
+      "url": "https://36kr.com/p/3848483761493250",
+      "published": "2026-06-17T07:12:01Z",
+      "description": "作者｜梁键强\n 编辑｜王毓婵\n 一句话介绍\n NoonWake.AI是一家以泛心理为切入点、结合AI技术做情绪消费产品的创业公司，业务覆盖软件和硬件，并同时面向国内外市场。\n 目前，公司产品包括国内AI陪伴应用“万象有灵”、海外应用Starot、桌面AI陪伴硬件“好运日历机”，以及正在探索的智能水晶手串等轻硬件产品。\n 团队介绍\n NoonWake.AI创始人兼CEO吴尚，本科毕业于中南大学，MB"
     },
     {
-      "title": "New series debut: WPI at 9.7% in May; energy costs drive surge; revamped index expands basket to 957 items",
+      "title": "Final Results",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/17/3313181/0/en/Final-Results.html",
+      "published": "2026-06-17T06:00:00Z",
+      "description": "Octopus AIM VCT plc  Final Results  Octopus AIM VCT plc today announces the final results for the year ended 28 February 2026.  Octopus AIM VCT plc (the..."
+    },
+    {
+      "title": "Gold, Silver Prices Today: Silver falls for 2nd session; gold at Rs 1.52 lakh/10 grams ahead of US Fed policy meet. Key levels to watch",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/new-series-debut-wpi-at-9-7-in-may-energy-costs-drive-surge-revamped-index-expands-basket-to-957-items/articleshow/131753963.cms",
-      "published": "2026-06-15T19:05:53Z",
-      "description": "India's wholesale inflation hit a record 9.7 percent in May. This surge was primarily fueled by rising energy costs. The new Wholesale Price Index series, with a 2022-23 base year, now includes more i"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-17-june-2026-silver-falls-for-2nd-session-gold-at-rs-1-52-lakh/10-grams-ahead-of-us-fed-policy-meet-key-levels-to-watch/articleshow/131786342.cms",
+      "published": "2026-06-17T04:45:53Z",
+      "description": "Gold and silver prices edged lower on MCX amid easing rate hike expectations and optimism over a potential U.S.-Iran deal. While domestic futures declined marginally, global prices showed slight gains"
+    },
+    {
+      "title": "「逆矩阵」完成超亿美元融资，创始人：通用世界基座模型窗口期已压至18个月",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3826129009234824",
+      "published": "2026-06-17T01:00:00Z",
+      "description": "文｜王毓婵\n 编辑｜张雨忻\n 2026 年以来，一级市场对世界模型的抢筹进入白热化阶段。资金不再像早期那样“广撒网”，而是高度向头部玩家集中。这其中，逆矩阵科技（Physis）就接连完成了多轮融资。\n 36氪智能涌现独家据悉，世界模型公司逆矩阵科技已完成超亿美元种子++轮融资；此前的 3 月，刚完成了超千万美元首轮融资。本轮由经纬创投、五源资本、光合创投等机构共同参与，并获蚂蚁集团战略投资，老股东"
+    },
+    {
+      "title": "8点1氪丨连涨3天，SpaceX超越亚马逊跻身全球前五；支付宝启动史上最大改版；微信支付“AI专属卡”最快本周内上线",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3856525981275138",
+      "published": "2026-06-17T00:22:06Z",
+      "description": "今日热点导览\n <ul>\n <li>山姆中国变更董事长</li>\n <li>海康威视7月1日上调硬盘价</li>\n <li>5月份全球纯电和插电式混动汽车销量连续三个月增长</li>\n <li>美国零售经纪商处的SpaceX投资者每人至少分得一股IPO股票</li>\n <li>传苹果首款折叠屏将延期发布，产业链人士：假的</li>\n </ul>\n TOP 3 大新闻\n 连涨3天，SpaceX超越亚"
     }
   ],
   "tweets": []
