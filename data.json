@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-06-18 10:10:36 UTC",
+  "updated_at": "2026-06-19 10:16:02 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4264.43,
+      "price_usd": 4154.92,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 68.42,
+      "price_usd": 65.0,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1724.1,
+      "price_usd": 1672.6,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1294.28,
+      "price_usd": 1260.17,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.56,
+      "price_usd": 0.55,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 17, 2026) at Tanishq, Joyalukkas, Kalyan Jewellers, Malabar Gold & Diamonds and IBJA",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-17-2026-at-tanishq-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-and-ibja/articleshow/131794335.cms",
-      "published": "2026-06-17T09:40:00Z",
-      "description": "Gold rate today: Gold prices saw a slight dip across major Indian cities on June 17, 2026, following a decline in domestic bullion rates. Major jewelers like Tanishq, Malabar Gold & Diamonds, Kalyan J"
-    },
-    {
-      "title": "浙大系创业者冲港股IPO，仙工智能招股书五大看点",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3857011810112521",
-      "published": "2026-06-17T08:36:26Z",
-      "description": "6月15日，智能机器人公司仙工智能（06106.HK）开始招股，招股价101.60港元，每手50股，市值112.27亿港元。\n 仙工智能最早于2025年5月第一次向港交所递交招股书，6个月失效后，又于当年11月重新递交，直到今年6月才通过聆讯。仙工智能这次是以18C特专科技公司身份赴港上市，预计6月24日挂牌敲钟。中金独家保荐，招银国际为整体协调人。\n 有意思的是，这家公司的核心壁垒不在机器人本身"
-    },
-    {
-      "title": "AI infrastructure and data centre plays could be the next big theme: Atul Suri",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/ai-infrastructure-and-data-centre-plays-could-be-the-next-big-theme-atul-suri/articleshow/131792530.cms",
-      "published": "2026-06-17T08:25:54Z",
-      "description": "Despite negative sentiment and foreign investor selling, Indian equities are showing signs of building a base, with a breakout above 24,500 on the Nifty potentially signaling a move towards new highs."
-    },
-    {
-      "title": "Golvurikenz Introduces New AI-Powered Trading Platform for Modern Investors in 2026",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/06/17/3313199/0/en/Golvurikenz-Introduces-New-AI-Powered-Trading-Platform-for-Modern-Investors-in-2026.html",
-      "published": "2026-06-17T07:41:00Z",
-      "description": "New York City, June 17, 2026 (GLOBE NEWSWIRE) -- The financial technology sector continues to evolve rapidly, with artificial intelligence becoming one of the most influential innovations in modern in"
-    },
-    {
-      "title": "Trident Resources Intersects 41.46 g/t over 3.42m including 81.75 g/t over 1.73m in Hole CL26033 at the Contact Lake Project in Saskatchewan",
+      "title": "Cerrado Gold Announces Successful Results of Annual Meeting of Shareholders",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/trident-resources-intersects-41-46-g-t-over-3-42m-including-81-75-g-t-over-1-73m-in-hole-cl26033-at-the-contact-lake-project-in-saskatchewan",
-      "published": "2026-06-17T07:17:00Z",
-      "description": "Vancouver, BC, June 17, 2026 (GLOBE NEWSWIRE) — Trident Resources Corp. (TSXV: ROCK) (OTCQB: TRDTF) (Frankfurt: 6BP0) (“Trident” or the “Company”) is pleased to announce assay results for the final 7 "
+      "url": "https://financialpost.com/globe-newswire/cerrado-gold-announces-successful-results-of-annual-meeting-of-shareholders",
+      "published": "2026-06-18T10:02:06Z",
+      "description": "All matters presented for shareholder approval were overwhelmingly approved TORONTO, June 18, 2026 (GLOBE NEWSWIRE) — Cerrado Gold Inc. [TSX.V: CERT][OTCQX:CRDOF] (“Cerrado” or the “Company”) is pleas"
     },
     {
-      "title": "NoonWake.AI完成近千万元种子轮融资，用AI做年轻人的情绪消费品｜智能涌现首发",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3848483761493250",
-      "published": "2026-06-17T07:12:01Z",
-      "description": "作者｜梁键强\n 编辑｜王毓婵\n 一句话介绍\n NoonWake.AI是一家以泛心理为切入点、结合AI技术做情绪消费产品的创业公司，业务覆盖软件和硬件，并同时面向国内外市场。\n 目前，公司产品包括国内AI陪伴应用“万象有灵”、海外应用Starot、桌面AI陪伴硬件“好运日历机”，以及正在探索的智能水晶手串等轻硬件产品。\n 团队介绍\n NoonWake.AI创始人兼CEO吴尚，本科毕业于中南大学，MB"
-    },
-    {
-      "title": "Final Results",
+      "title": "NVRO Metals Announces Independent NI 43-101 Mineral Resource Estimate of 77.6 Million-Tonne Polymetallic Resource at the NVRO Metals Hub",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/06/17/3313181/0/en/Final-Results.html",
-      "published": "2026-06-17T06:00:00Z",
-      "description": "Octopus AIM VCT plc  Final Results  Octopus AIM VCT plc today announces the final results for the year ended 28 February 2026.  Octopus AIM VCT plc (the..."
+      "url": "https://www.globenewswire.com/news-release/2026/06/18/3314002/0/en/NVRO-Metals-Announces-Independent-NI-43-101-Mineral-Resource-Estimate-of-77-6-Million-Tonne-Polymetallic-Resource-at-the-NVRO-Metals-Hub.html",
+      "published": "2026-06-18T10:00:00Z",
+      "description": "NVRO Metals announces a 77.6 Mt CuEq polymetallic NI 43-101 MRE at the NVRO Metals Hub, supporting production and critical minerals growth strategy...."
     },
     {
-      "title": "Gold, Silver Prices Today: Silver falls for 2nd session; gold at Rs 1.52 lakh/10 grams ahead of US Fed policy meet. Key levels to watch",
+      "title": "Bitget lists Bluwhale AI (BLUAI) for Spot Trading",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/18/3313973/0/en/Bitget-lists-Bluwhale-AI-BLUAI-for-Spot-Trading.html",
+      "published": "2026-06-18T08:49:00Z",
+      "description": "Bitget lists Bluwhale AI (BLUAI) for spot trading, expanding AI zone access to decentralized financial intelligence...."
+    },
+    {
+      "title": "Gold rate today (June 18, 2026): Check 24k, 22k and 18k gold jewellery prices from Joyalukkas, Malabar Gold and Diamonds, Tanishq & IBJA in Delhi, Mumbai, Hyderabad & other cities",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-17-june-2026-silver-falls-for-2nd-session-gold-at-rs-1-52-lakh/10-grams-ahead-of-us-fed-policy-meet-key-levels-to-watch/articleshow/131786342.cms",
-      "published": "2026-06-17T04:45:53Z",
-      "description": "Gold and silver prices edged lower on MCX amid easing rate hike expectations and optimism over a potential U.S.-Iran deal. While domestic futures declined marginally, global prices showed slight gains"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-june-18-2026-check-24k-22k-and-18k-gold-jewellery-prices-from-joyalukkas-malabar-gold-and-diamonds-tanishq-ibja-in-delhi-mumbai-hyderabad-other-cities/articleshow/131823195.cms",
+      "published": "2026-06-18T08:18:07Z",
+      "description": "Gold prices remained largely steady across major Indian cities on June 18, 2026, with 22k gold jewelry priced at Rs 13,895 per gram at Tanishq and Rs 13,850 per gram at other leading brands. The India"
     },
     {
-      "title": "「逆矩阵」完成超亿美元融资，创始人：通用世界基座模型窗口期已压至18个月",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3826129009234824",
-      "published": "2026-06-17T01:00:00Z",
-      "description": "文｜王毓婵\n 编辑｜张雨忻\n 2026 年以来，一级市场对世界模型的抢筹进入白热化阶段。资金不再像早期那样“广撒网”，而是高度向头部玩家集中。这其中，逆矩阵科技（Physis）就接连完成了多轮融资。\n 36氪智能涌现独家据悉，世界模型公司逆矩阵科技已完成超亿美元种子++轮融资；此前的 3 月，刚完成了超千万美元首轮融资。本轮由经纬创投、五源资本、光合创投等机构共同参与，并获蚂蚁集团战略投资，老股东"
+      "title": "Gold Jumps as US-Iran Peace Deal Optimism Counters Hawkish Fed",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/gold-jumps-as-us-iran-peace-deal-optimism-counters-hawkish-fed",
+      "published": "2026-06-18T07:48:00Z",
+      "description": "Gold rose, supported by the signing of an interim peace deal between the US and Iran, even as the Federal Reserve signaled a rate hike later in the year."
     },
     {
-      "title": "8点1氪丨连涨3天，SpaceX超越亚马逊跻身全球前五；支付宝启动史上最大改版；微信支付“AI专属卡”最快本周内上线",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3856525981275138",
-      "published": "2026-06-17T00:22:06Z",
-      "description": "今日热点导览\n <ul>\n <li>山姆中国变更董事长</li>\n <li>海康威视7月1日上调硬盘价</li>\n <li>5月份全球纯电和插电式混动汽车销量连续三个月增长</li>\n <li>美国零售经纪商处的SpaceX投资者每人至少分得一股IPO股票</li>\n <li>传苹果首款折叠屏将延期发布，产业链人士：假的</li>\n </ul>\n TOP 3 大新闻\n 连涨3天，SpaceX超越亚"
+      "title": "Man files plaint in US as American tears nat'l flag",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/man-files-plaint-in-us-as-american-tears-natl-flag/articleshow/131820699.cms",
+      "published": "2026-06-18T06:41:36Z",
+      "description": "Mumbai: City-based social worker Muhammad Jameel Merchant has complained against a US citizen for allegedly tearing and disrespecting India's national."
+    },
+    {
+      "title": "ICAI CA Final May 2026 result released at icai.org: Direct link to download scorecards here",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/icai-ca-final-may-2026-result-released-at-icai-org-direct-link-to-download-scorecards-here/articleshow/131820113.cms",
+      "published": "2026-06-18T06:28:34Z",
+      "description": "The Institute of Chartered Accountants of India has released the CA Final May 2026 examination results. Candidates can now check their scorecards online. The results are available on the official ICAI"
+    },
+    {
+      "title": "Vedanta Aluminium vs Power vs Oil & Gas vs Iron & Steel: Which stock should you buy?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-vs-power-vs-oil-gas-vs-iron-steel-which-stock-should-you-buy/articleshow/131818940.cms",
+      "published": "2026-06-18T05:52:37Z",
+      "description": "Four Vedanta Group companies debuted on the market, with aluminium, iron & steel, and oil & gas shares tumbling while power stocks rose. Analysts advise patience, focusing on business quality over pri"
+    },
+    {
+      "title": "Silver cracks Rs 6,300/kg; gold dips Rs 1,600/10 gm as traders fear Fed rate hike this year. Should you sell?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/silver-cracks-rs-6300/kg-gold-dips-rs-1600/10-gm-as-traders-fear-fed-rate-hike-this-year-should-you-sell/articleshow/131817176.cms",
+      "published": "2026-06-18T04:17:35Z",
+      "description": "Gold and silver prices fell sharply on MCX after the US Federal Reserve signalled a possible interest rate hike later this year while keeping rates unchanged. Higher rate expectations pressured precio"
+    },
+    {
+      "title": "Citi names Vedanta Aluminium its top Indian metal pick, sees 20% upside. Here's why",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/citi-names-vedanta-aluminium-its-top-indian-metal-pick-sees-20-upside-heres-why/articleshow/131816538.cms",
+      "published": "2026-06-18T03:39:13Z",
+      "description": "Citi initiated coverage on Vedanta Aluminium with a 'Buy' rating and a Rs 560 target price, identifying it as its top Indian metals pick. The brokerage cited a positive aluminium outlook, growth poten"
     }
   ],
   "tweets": []
