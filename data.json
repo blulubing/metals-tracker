@@ -1,149 +1,149 @@
 {
-  "updated_at": "2026-06-19 10:16:02 UTC",
+  "updated_at": "2026-06-20 08:44:20 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4154.92,
+      "price_usd": null,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 65.0,
+      "price_usd": null,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1672.6,
+      "price_usd": null,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1260.17,
+      "price_usd": null,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.44,
+      "price_usd": null,
       "unit": "USD/吨 mt"
     },
     {
       "code": "aluminum",
       "name": "铝 Aluminum",
-      "price_usd": 0.11,
+      "price_usd": null,
       "unit": "USD/吨 mt"
     },
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.55,
+      "price_usd": null,
       "unit": "USD/吨 mt"
     },
     {
       "code": "zinc",
       "name": "锌 Zinc",
-      "price_usd": 0.11,
+      "price_usd": null,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lead",
       "name": "铅 Lead",
-      "price_usd": 0.06,
+      "price_usd": null,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_zinc",
       "name": "LME锌 Zinc 3M",
-      "price_usd": 0.11,
+      "price_usd": null,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.56,
+      "price_usd": null,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.43,
+      "price_usd": null,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Cerrado Gold Announces Successful Results of Annual Meeting of Shareholders",
+      "title": "SEBI introduces new Gold ETF trading framework with dynamic price bands from 1 September; check details",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/sebi-introduces-new-gold-etf-trading-framework-with-dynamic-price-bands-from-1-september-check-details-11781851345556.html",
+      "published": "2026-06-19T07:59:41Z",
+      "description": "Big changes ahead for Gold ETFs as SEBI introduces a new trading framework from September 1. Dynamic price bands, pre-open auctions and revised pricing rules aim to improve price discovery, transparen"
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 19, 2026) at Tanishq, Joyalukkas, Kalyan Jewellers, Malabar Gold & Diamonds and IBJA",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-19-2026-at-tanishq-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-and-ibja/articleshow/131850660.cms",
+      "published": "2026-06-19T07:40:27Z",
+      "description": "Gold rate today: Gold prices are down today across India. This follows a drop in domestic bullion rates. Consumers planning to buy gold jewellery will find lower prices. Experts suggest gold may targe"
+    },
+    {
+      "title": "Silver futures sink 4% to ₹2.28 lakh/kg as uncertainty over US-Iran deal hits market sentiment",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/silver-futures-sink-4-to-228-lakhkg-as-uncertainty-over-us-iran-deal-hits-market-sentiment/article71121148.ece",
+      "published": "2026-06-19T07:20:56Z",
+      "description": "The metal had suffered a steep correction in the previous session, plunging ₹14,235, or 5.7%, to close at ₹2.37 lakh per kg from Wednesday’s closing level of ₹2.51 lakh per kg"
+    },
+    {
+      "title": "Goldman Lops $500 Off Gold Target on No Fed Cuts This Year",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/cerrado-gold-announces-successful-results-of-annual-meeting-of-shareholders",
-      "published": "2026-06-18T10:02:06Z",
-      "description": "All matters presented for shareholder approval were overwhelmingly approved TORONTO, June 18, 2026 (GLOBE NEWSWIRE) — Cerrado Gold Inc. [TSX.V: CERT][OTCQX:CRDOF] (“Cerrado” or the “Company”) is pleas"
+      "url": "https://financialpost.com/pmn/business-pmn/goldman-lops-500-off-gold-target-on-no-fed-cuts-this-year",
+      "published": "2026-06-19T06:23:39Z",
+      "description": "Goldman Sachs Group Inc. cut its year-end gold forecast by $500 an ounce as the Federal Reserve is no longer seen reducing rates in 2026."
     },
     {
-      "title": "NVRO Metals Announces Independent NI 43-101 Mineral Resource Estimate of 77.6 Million-Tonne Polymetallic Resource at the NVRO Metals Hub",
+      "title": "Stock markets rise to record highs in Japan, South Korea on West Asia truce; dollar strengthens",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets-rise-to-record-highs-in-japan-south-korea-on-west-asia-truce-dollar-strengthens/article71120692.ece",
+      "published": "2026-06-19T04:28:28Z",
+      "description": "Stock markets in Japan and South Korea hit record highs as the dollar strengthens amid geopolitical developments and Fed rate expectations."
+    },
+    {
+      "title": "Gold prices dip below Rs 1.50 lakh/10g; silver cracks Rs 20K/kg in 2 days amid strong dollar, inflation worries. Should you sell?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-below-rs-1-50-lakh/10g-silver-cracks-rs-20k/kg-in-2-days-amid-strong-dollar-inflation-worries-should-you-sell/articleshow/131846541.cms",
+      "published": "2026-06-19T04:20:22Z",
+      "description": "Gold and silver prices tumbled on MCX on Friday, pressured by a stronger U.S. dollar and the Federal Reserve’s hawkish stance. Silver futures fell 2.3% to ₹2.32 lakh/kg, while gold futures dropped ₹2,"
+    },
+    {
+      "title": "Gold, Silver Rate Today: How costly is 24K, 22K, 18K gold & silver in Mumbai, Delhi, Kolkata, other cities on 19 June",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-silver-rate-today-how-costly-is-24k-22k-18k-gold-silver-in-mumbai-delhi-kolkata-other-cities-19-june-11781834426860.html",
+      "published": "2026-06-19T03:13:59Z",
+      "description": "The price of gold in India dropped to  ₹149,660 per 10 grams, tracking losses internationally due to a stronger dollar. Check 24K, 22K, 18K gold and silver rates in Mumbai, Delhi, Kolkata and other ci"
+    },
+    {
+      "title": "L’Oréal adds Innovist to cart; HealthQuad's new fund",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/morning-dispatch/loral-adds-innovist-to-cart-healthquads-new-fund/articleshow/131844387.cms",
+      "published": "2026-06-19T01:43:40Z",
+      "description": "Happy Friday! Personal care giant L’Oreal has acquired a majority stake in Innovist in India’s biggest D2C deal. This and more in today’s ETtech Morning Dispatch."
+    },
+    {
+      "title": "Silvercorp Announces Filing of Updated Technical Report for the Ying Mining District",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/silvercorp-announces-filing-of-updated-technical-report-for-the-ying-mining-district-302805000.html",
+      "published": "2026-06-18T23:42:00Z",
+      "description": "Trading Symbol: TSX/NYSE American: SVM VANCOUVER, BC, June 18, 2026 /PRNewswire/ - Silvercorp Metals Inc. (\"Silvercorp\" or the \"Company\") (TSX: SVM) (NYSE American: SVM) announces that, further to its"
+    },
+    {
+      "title": "American Rare Earths Provides Exploration Update and Outlines 2026-2027 Field Programs Across U.S. Project Portfolio",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/06/18/3314002/0/en/NVRO-Metals-Announces-Independent-NI-43-101-Mineral-Resource-Estimate-of-77-6-Million-Tonne-Polymetallic-Resource-at-the-NVRO-Metals-Hub.html",
-      "published": "2026-06-18T10:00:00Z",
-      "description": "NVRO Metals announces a 77.6 Mt CuEq polymetallic NI 43-101 MRE at the NVRO Metals Hub, supporting production and critical minerals growth strategy...."
-    },
-    {
-      "title": "Bitget lists Bluwhale AI (BLUAI) for Spot Trading",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/06/18/3313973/0/en/Bitget-lists-Bluwhale-AI-BLUAI-for-Spot-Trading.html",
-      "published": "2026-06-18T08:49:00Z",
-      "description": "Bitget lists Bluwhale AI (BLUAI) for spot trading, expanding AI zone access to decentralized financial intelligence...."
-    },
-    {
-      "title": "Gold rate today (June 18, 2026): Check 24k, 22k and 18k gold jewellery prices from Joyalukkas, Malabar Gold and Diamonds, Tanishq & IBJA in Delhi, Mumbai, Hyderabad & other cities",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-june-18-2026-check-24k-22k-and-18k-gold-jewellery-prices-from-joyalukkas-malabar-gold-and-diamonds-tanishq-ibja-in-delhi-mumbai-hyderabad-other-cities/articleshow/131823195.cms",
-      "published": "2026-06-18T08:18:07Z",
-      "description": "Gold prices remained largely steady across major Indian cities on June 18, 2026, with 22k gold jewelry priced at Rs 13,895 per gram at Tanishq and Rs 13,850 per gram at other leading brands. The India"
-    },
-    {
-      "title": "Gold Jumps as US-Iran Peace Deal Optimism Counters Hawkish Fed",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/gold-jumps-as-us-iran-peace-deal-optimism-counters-hawkish-fed",
-      "published": "2026-06-18T07:48:00Z",
-      "description": "Gold rose, supported by the signing of an interim peace deal between the US and Iran, even as the Federal Reserve signaled a rate hike later in the year."
-    },
-    {
-      "title": "Man files plaint in US as American tears nat'l flag",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/man-files-plaint-in-us-as-american-tears-natl-flag/articleshow/131820699.cms",
-      "published": "2026-06-18T06:41:36Z",
-      "description": "Mumbai: City-based social worker Muhammad Jameel Merchant has complained against a US citizen for allegedly tearing and disrespecting India's national."
-    },
-    {
-      "title": "ICAI CA Final May 2026 result released at icai.org: Direct link to download scorecards here",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/icai-ca-final-may-2026-result-released-at-icai-org-direct-link-to-download-scorecards-here/articleshow/131820113.cms",
-      "published": "2026-06-18T06:28:34Z",
-      "description": "The Institute of Chartered Accountants of India has released the CA Final May 2026 examination results. Candidates can now check their scorecards online. The results are available on the official ICAI"
-    },
-    {
-      "title": "Vedanta Aluminium vs Power vs Oil & Gas vs Iron & Steel: Which stock should you buy?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-aluminium-vs-power-vs-oil-gas-vs-iron-steel-which-stock-should-you-buy/articleshow/131818940.cms",
-      "published": "2026-06-18T05:52:37Z",
-      "description": "Four Vedanta Group companies debuted on the market, with aluminium, iron & steel, and oil & gas shares tumbling while power stocks rose. Analysts advise patience, focusing on business quality over pri"
-    },
-    {
-      "title": "Silver cracks Rs 6,300/kg; gold dips Rs 1,600/10 gm as traders fear Fed rate hike this year. Should you sell?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/silver-cracks-rs-6300/kg-gold-dips-rs-1600/10-gm-as-traders-fear-fed-rate-hike-this-year-should-you-sell/articleshow/131817176.cms",
-      "published": "2026-06-18T04:17:35Z",
-      "description": "Gold and silver prices fell sharply on MCX after the US Federal Reserve signalled a possible interest rate hike later this year while keeping rates unchanged. Higher rate expectations pressured precio"
-    },
-    {
-      "title": "Citi names Vedanta Aluminium its top Indian metal pick, sees 20% upside. Here's why",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/citi-names-vedanta-aluminium-its-top-indian-metal-pick-sees-20-upside-heres-why/articleshow/131816538.cms",
-      "published": "2026-06-18T03:39:13Z",
-      "description": "Citi initiated coverage on Vedanta Aluminium with a 'Buy' rating and a Rs 560 target price, identifying it as its top Indian metals pick. The brokerage cited a positive aluminium outlook, growth poten"
+      "url": "https://www.globenewswire.com/news-release/2026/06/18/3314184/0/en/American-Rare-Earths-Provides-Exploration-Update-and-Outlines-2026-2027-Field-Programs-Across-U-S-Project-Portfolio.html",
+      "published": "2026-06-18T12:33:00Z",
+      "description": "DENVER, June 18, 2026 (GLOBE NEWSWIRE) -- American Rare Earths (ASX: ARR | OTCQX: ARRNF | ADR: AMRRY) (“ARR” or the “Company”) is pleased to provide an update on exploration and drilling activities un"
     }
   ],
   "tweets": []
