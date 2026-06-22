@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21 09:39:29 UTC",
+  "updated_at": "2026-06-22 11:39:51 UTC",
   "prices": [
     {
       "code": "gold",
@@ -76,18 +76,32 @@
   ],
   "news": [
     {
-      "title": "India's BoP outlook improves, INR depreciation pressure to ease: Goldman Sachs",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/forex/indias-bop-outlook-improves-inr-depreciation-pressure-to-ease-goldman-sachs/article71125088.ece",
-      "published": "2026-06-20T05:30:20Z",
-      "description": "Goldman Sachs said India posted a $7.2bn BoP surplus in Q1 CY26 despite softer capital inflows, supported by stronger remittances, robust services exports and low oil imports"
+      "title": "Aluminum’s war shock blunted by dark transits and Chinese supply",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/business/aluminums-war-shock-blunted-by-dark-transits-and-chinese-supply/articleshow/131889964.cms",
+      "published": "2026-06-21T11:35:08Z",
+      "description": "The Iran war triggered one of the biggest shocks to the global aluminum market, raising fears of widespread smelter shutdowns and prices surging above $4,000 a tonne. However, a strong supply response"
     },
     {
-      "title": "22k gold rate today: Check 24k, 22k, 18k gold prices (June 20, 2026) at Tanishq, Joyalukkas, Kalyan Jewellers, Malabar Gold & Diamonds and IBJA",
+      "title": "India, US to hold ministerial-level trade pact talks this week",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/india-us-to-hold-ministerial-level-trade-pact-talks-this-week/article71129069.ece",
+      "published": "2026-06-21T11:00:14Z",
+      "description": "Ministers from both nations aim to finalise key aspects of the interim trade agreement, addressing tariff structures and market competitiveness ahead of a pivotal deadline for US trade policies"
+    },
+    {
+      "title": "India, US to hold ministerial-level talks on bilateral trade pact this week",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-18k-gold-prices-june-20-2026-at-tanishq-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-and-ibja/articleshow/131870424.cms",
-      "published": "2026-06-20T05:00:36Z",
-      "description": "Gold rate today: Gold prices have seen a dip this week following a de-escalation in global tensions.  As of June 20, 2026, 22k gold rates at major retailers like Tanishq, Malabar Gold & Diamonds, Kaly"
+      "url": "https://economictimes.indiatimes.com/news/economy/foreign-trade/india-us-to-hold-ministerial-level-talks-on-bilateral-trade-pact-this-week/articleshow/131889128.cms",
+      "published": "2026-06-21T10:26:25Z",
+      "description": "In a significant development, India and the US are set to conclude the first phase of their trade agreement this week. Commerce Minister Piyush Goyal is scheduled to meet US Trade Representative Jamie"
+    },
+    {
+      "title": "Bullion Cues: Gold and silver futures might drop further",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-gold-and-silver-futures-might-drop-further/article71125885.ece",
+      "published": "2026-06-20T16:03:33Z",
+      "description": "Gold and silver futures face potential declines, with bearish trends suggesting further drops in prices ahead."
     },
     {
       "title": "金饰克价一夜又跌11元",
@@ -97,39 +111,11 @@
       "description": "6月20日，国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所下调，老凤祥报价1258元/克，较前一日下降7元；老庙黄金报价1268元/克，较前一日下降11元；周生生报价1263元/克，较前一日下降9元；周大福报价1261元/克，较前一日下降11元。据了解，今年1月29日，国内金饰品牌价格曾达到年内阶段性高点，周生生、老庙黄金、老凤祥当日的金饰克价分别为1708元、1722"
     },
     {
-      "title": "Gold price today: Will gold crash into bear market territory, fall below $4,000-mark? Check latest gold rate predictions",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-today-will-gold-crash-into-bear-market-territory-fall-below-4000-mark-check-latest-gold-rate-predictions/articleshow/131868989.cms",
-      "published": "2026-06-20T00:34:49Z",
-      "description": "Gold price prediction: Gold rates extended their corrective phase and registered a third consecutive weekly decline, according to a bullion expert."
-    },
-    {
       "title": "Capstone Copper Submits Environmental Permit for Mantos Blancos Phase II",
       "source": "Financial Post",
       "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/capstone-copper-submits-environmental-permit-for-mantos-blancos-phase-ii",
       "published": "2026-06-19T21:39:00Z",
       "description": "VANCOUVER, British Columbia — Capstone Copper Corp. (“Capstone” or the “Company”) (TSX:CS) (ASX:CSC) today submitted the Mantos Blancos Phase II Project (the “Project”) to the Environmental Impact Ass"
-    },
-    {
-      "title": "This TSX stock — a top gainer on the week — has one analyst pricing in 56% upside on a wave of buybacks",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/investing/tsx-stock-analyst-pricing-56-upside-buybacks",
-      "published": "2026-06-19T21:05:37Z",
-      "description": "The Week in Stocks: Why one analyst thinks Cogeco may be set for a 30% gain, how to navigate a possible market top and more. Read on."
-    },
-    {
-      "title": "Sensex, Nifty snap 5-day rally amid IT sell-off, global uncertainties",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-snap-5-day-rally-amid-it-sell-off-global-uncertainties/article71121888.ece",
-      "published": "2026-06-19T11:35:55Z",
-      "description": "Sensex and Nifty end five-day rally, pressured by IT sell-off amid global uncertainties, with significant declines in key indices."
-    },
-    {
-      "title": "Magna Mining Announces Graduation to the Toronto Stock Exchange and Results of Annual & Special Meeting of Shareholders",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/magna-mining-announces-graduation-to-the-toronto-stock-exchange-and-results-of-annual-special-meeting-of-shareholders",
-      "published": "2026-06-19T10:45:15Z",
-      "description": "SUDBURY, Ontario, June 19, 2026 (GLOBE NEWSWIRE) — Magna Mining Inc. (TSXV: NICU) (OTCQX: MGMNF) (FSE: 8YD) (“Magna” or the “Company”) is pleased to announce that it will be graduating from the TSX Ve"
     },
     {
       "title": "A.I.S. Resources Announces Private Placement Financing with Strategic Investor",
@@ -144,6 +130,20 @@
       "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-19th-june-2026/article71118852.ece",
       "published": "2026-06-19T10:29:30Z",
       "description": "Sensex, Nifty, Share Prices Highlights: The benchmark BSE Sensex was down ​0.78% to 76,802.90, while the ‌broader NSE Nifty 50 ​index declined 0.64% to ⁠24,013.1, snapping a five-day rally on Accentur"
+    },
+    {
+      "title": "Silvercorp Announces Filing of Updated Technical Report for the Ying Mining District",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/silvercorp-announces-filing-of-updated-technical-report-for-the-ying-mining-district-302805000.html",
+      "published": "2026-06-18T23:42:00Z",
+      "description": "Trading Symbol: TSX/NYSE American: SVM VANCOUVER, BC, June 18, 2026 /PRNewswire/ - Silvercorp Metals Inc. (\"Silvercorp\" or the \"Company\") (TSX: SVM) (NYSE American: SVM) announces that, further to its"
+    },
+    {
+      "title": "American Rare Earths Provides Exploration Update and Outlines 2026-2027 Field Programs Across U.S. Project Portfolio",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/18/3314184/0/en/American-Rare-Earths-Provides-Exploration-Update-and-Outlines-2026-2027-Field-Programs-Across-U-S-Project-Portfolio.html",
+      "published": "2026-06-18T12:33:00Z",
+      "description": "DENVER, June 18, 2026 (GLOBE NEWSWIRE) -- American Rare Earths (ASX: ARR | OTCQX: ARRNF | ADR: AMRRY) (“ARR” or the “Company”) is pleased to provide an update on exploration and drilling activities un"
     }
   ],
   "tweets": []
