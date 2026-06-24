@@ -1,149 +1,149 @@
 {
-  "updated_at": "2026-06-23 09:26:26 UTC",
+  "updated_at": "2026-06-24 08:55:41 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": null,
+      "price_usd": 4078.66,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": null,
+      "price_usd": 61.3,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": null,
+      "price_usd": 1635.5,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": null,
+      "price_usd": 1220.14,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": null,
+      "price_usd": 0.42,
       "unit": "USD/吨 mt"
     },
     {
       "code": "aluminum",
       "name": "铝 Aluminum",
-      "price_usd": null,
+      "price_usd": 0.1,
       "unit": "USD/吨 mt"
     },
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": null,
+      "price_usd": 0.52,
       "unit": "USD/吨 mt"
     },
     {
       "code": "zinc",
       "name": "锌 Zinc",
-      "price_usd": null,
+      "price_usd": 0.11,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lead",
       "name": "铅 Lead",
-      "price_usd": null,
+      "price_usd": 0.06,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_zinc",
       "name": "LME锌 Zinc 3M",
-      "price_usd": null,
+      "price_usd": 0.11,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": null,
+      "price_usd": 0.54,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": null,
+      "price_usd": 0.42,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Investment markets are in a flux, but basics have not changed",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/investment-markets-in-a-flux-basics-equity-debt-gold-asset-behaviour-portfolio-diversification-11782112727967.html",
-      "published": "2026-06-22T08:59:19Z",
-      "description": "Global investment trends show a bearish phase for equities and a shift in focus from semiconductor stocks. Foreign portfolio investors are selling in India despite strong fundamentals. This situation "
+      "title": "有智青年挑战赛暨全国AI+场景应用大赛决赛收官！在WAVES 2026的舞台上，挖掘中国下一代AI独角",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3865480064504835",
+      "published": "2026-06-23T08:16:45Z",
+      "description": "有智青年挑战赛暨全国AI+场景应用大赛决赛在WAVES新浪潮大会期间举行，汇聚多支青年团队围绕AI与数字经济前沿场景展开角逐，展现青年创业者的技术探索与落地能力。\n \n \n 2026年，AI全面进入“行动者”时代。当大模型、智能体、具身智能从实验室的技术概念，全面走进千行百业的产业落地场景，AI工具的平民化与普及化，依托开源生态、轻量化开发工具与普惠算力，不断压低创新创业的成本，大批怀揣梦想的年轻"
     },
     {
-      "title": "Platinum, palladium lose glitter, but may gain by the end of Q3",
+      "title": "Gold loans surge 84% in FY26, emerge as mainstream credit driver: Experian",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/platinum-palladium-lose-glitter-but-may-gain-by-q3-end/article71132383.ece",
-      "published": "2026-06-22T08:43:29Z",
-      "description": "Platinum and palladium prices may return to levels above $2,000 an ounce (oz) and $1,500/oz, respectively, but if Iran war continues they may drop another 10%"
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-loans-surge-84-in-fy26-emerge-as-mainstream-credit-driver-experian/article71136673.ece",
+      "published": "2026-06-23T08:12:27Z",
+      "description": "Repeat borrowers dominate as ticket sizes double, growth spreads beyond southern markets, and asset quality improves amid rising gold prices and expanding credit access"
     },
     {
-      "title": "氪星晚报｜赢创计划全球裁员3200人；台积电28nm较年初减产25%；三星电子向韩国所有员工开放ChatGPT和Codex",
+      "title": "Trident Intersects 1.32 g/t over 132.0m including 2.85 g/t over 40.3m from 22.0m Depth at its Preview SW Deposit, Located 2.5km Southeast of the Contact Lake Deposit, Confirming Both High-Grade and Bulk-Tonnage Potential of the La Ronge Gold Belt, Saskatchewan",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/trident-intersects-1-32-g-t-over-132-0m-including-2-85-g-t-over-40-3m-from-22-0m-depth-at-its-preview-sw-deposit-located-2-5km-southeast-of-the-contact-lake-deposit-confirming-both-high-grade-and-bu",
+      "published": "2026-06-23T07:17:19Z",
+      "description": "Vancouver, BC, June 23, 2026 (GLOBE NEWSWIRE) — Trident Resources Corp. (TSXV: ROCK) (OTCQB: TRDTF) (Frankfurt: 6BP0) (“Trident” or the “Company”) is pleased to announce inaugural assay results from e"
+    },
+    {
+      "title": "A股三大指数集体收跌，创业板指跌超3%",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3864065855706120",
-      "published": "2026-06-22T08:26:13Z",
-      "description": "大公司：\n 赢创计划全球裁员3200人\n 赢创近日宣布，将延长“赢创定制”增效计划，涉及赢创全球所有业务及职能部门，拟裁减约3200个岗位，其中德国本土约占2150个。相关措施计划于2027年启动，持续至2029年底。6月22日，赢创确认，德国以外地区将削减1050个职位，中国区包含在内，但具体裁员数量尚未明确。“赢创定制”计划于2023年10月推出，原定目标为2026年底前累计削减约2800个岗"
+      "url": "https://36kr.com/newsflashes/3865412984132872",
+      "published": "2026-06-23T07:01:25Z",
+      "description": "36氪获悉，A股三大指数集体收跌，沪指跌1.37%，深成指跌3.17%，创业板指跌3.84%；贵金属板块大跌，洛阳钼业、中金黄金、赤峰黄金等多股跌停；半导体、覆铜板概念走弱，铜冠铜箔、南亚新材、中巨芯跌超10%，澜起科技跌超7%；医药股逆势大涨，特一药业、新华制药等多股涨停。"
     },
     {
-      "title": "圆桌论坛：在没人相信之前，乘风破浪的创er | 36氪WAVES2026新浪潮",
+      "title": "FirstCash to Acquire Ramsdens, a Leading Pawn, Retail and Financial Services Operator in the United Kingdom",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/23/3315718/0/en/FirstCash-to-Acquire-Ramsdens-a-Leading-Pawn-Retail-and-Financial-Services-Operator-in-the-United-Kingdom.html",
+      "published": "2026-06-23T06:20:00Z",
+      "description": "Expands presence in the U.K. market through the addition of 174 pawn locations with strong brand;Further enhances FirstCash’s global leadership positioning and long-term growth platform;Expected to be"
+    },
+    {
+      "title": "Vedanta Power, Oil & Gas, and Iron shares rally up to 5%; Aluminium sheds 3%. Should you buy, sell or hold?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/vedanta-power-oil-gas-and-iron-shares-rally-up-to-5-aluminium-sheds-3-should-you-buy-sell-or-hold/articleshow/131927260.cms",
+      "published": "2026-06-23T06:06:57Z",
+      "description": "Vedanta’s newly demerged entities extended their rally, with Oil & Gas, Power and Iron & Steel hitting upper circuits, while Aluminium slipped despite Citi’s bullish outlook. Brokerages remain constru"
+    },
+    {
+      "title": "Deutsche Bank Cuts Gold Forecasts up to 22% as Bulls Temper View",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/deutsche-bank-cuts-gold-forecasts-up-to-22-as-bulls-temper-view",
+      "published": "2026-06-23T04:33:58Z",
+      "description": "Deutsche Bank AG reduced its gold-price forecasts by as much as 22%, as investors become more wary about the outlook for US monetary policy and investment demand for the precious metal dries up."
+    },
+    {
+      "title": "Gold prices fall Rs 1,300/10g; silver tanks Rs 7,200/kg on firm dollar, rate hike fears. What should you do?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-1300/10g-silver-tanks-rs-7200/kg-on-firm-dollar-rate-hike-fears-what-should-you-do/articleshow/131925041.cms",
+      "published": "2026-06-23T04:19:49Z",
+      "description": "Gold and silver prices fell sharply on MCX on Tuesday, reversing gains from the previous session, as a stronger U.S. dollar dampened demand and investors tracked U.S.-Iran peace talks and interest-rat"
+    },
+    {
+      "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3864054145209602",
-      "published": "2026-06-22T08:10:06Z",
-      "description": "每一个创业者，都有一段“没人相信”的日子。但正是那段日子，把他们推向了浪尖。创业是鲜活的，接下来这一场，我们听一听那些在质疑声中长大的创业者，怎么把“不可能”变成“不，可能”。\n 以下为圆桌对话内容，经36氪整理编辑:\n \n 许嘉婧｜36氪后浪研究所 主理人（主持人）\n 徐子悦 ｜PhotonPay 光子易商务副总裁\n 程刚｜KOOK语音 创始人兼CEO\n 徐良威｜智域基石CTO\n 程二亭｜万拿机"
+      "url": "https://36kr.com/p/3865226824389892",
+      "published": "2026-06-23T03:57:43Z",
+      "description": "盛夏赴约WAVES 2026！一群迎风的少数人，掀起中国新一代创新力量的风口。\n \n \n 2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道”变成“主流共识”，年轻的创业者们正在重新定义中国创新的未来坐标。\n 每一年，由36氪主办的WAVES大会，都是中国创投圈的年度风向标。今年的WAVES2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里"
     },
     {
-      "title": "HORWIN号外品牌创始人兼CEO周维：为进化而生，HORWIN的全球出行愿景 | 36氪WAVES2026新浪潮",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3864002982286342",
-      "published": "2026-06-22T07:08:07Z",
-      "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度"
-    },
-    {
-      "title": "Advit Jewels IPO opens tomorrow: GMP at 47%; SBI Securities recommends 'Subscribe'",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/advit-jewels-ipo-opens-tomorrow-gmp-at-47-sbi-securities-recommends-subscribe/articleshow/131902519.cms",
-      "published": "2026-06-22T06:20:25Z",
-      "description": "Jaipur's handcrafted jewellery maker, Advit Jewels, is set to launch its IPO on June 23, 2026, with strong grey market interest indicating a potential listing premium. The Rs 165.16 crore issue aims t"
-    },
-    {
-      "title": "Vedanta Power, Aluminium, Oil & Gas and Iron shares soar up to 5%. Which stock looks best placed?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-power-aluminium-oil-gas-and-iron-shares-soar-up-to-5-which-stock-looks-best-placed/articleshow/131901288.cms",
-      "published": "2026-06-22T04:49:05Z",
-      "description": "Shares of Vedanta’s newly demerged entities rallied up to 5% for a second session, driven by strong investor interest and brokerage optimism. Citi prefers Vedanta Aluminium as a structural play, while"
-    },
-    {
-      "title": "Gold rebounds after two-day fall; silver jumps Rs 4,000/kg on progress in US-Iran peace talks. Should you buy?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-rebounds-after-two-day-fall-silver-jumps-rs-4000/kg-on-progress-in-us-iran-peace-talks-should-you-buy/articleshow/131900854.cms",
-      "published": "2026-06-22T04:00:20Z",
-      "description": "Gold prices rose on MCX on Monday, snapping a two-day decline after oil prices softened amid signs of progress in U.S.-Iran peace talks. The recovery comes after a sharp selloff in the previous sessio"
-    },
-    {
-      "title": "Gold, Silver Rate Today Live Updates: International gold, silver prices rebound on US-Iran peace talks",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/131900073.cms",
-      "published": "2026-06-22T02:30:53Z",
-      "description": "Gold, Silver Rate Today Live Updates: Where are gold and silver prices likely to head this week? Analysts expect gold and silver prices to be driven"
-    },
-    {
-      "title": "老登最爱的维密，又复活了",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3858420265292800",
-      "published": "2026-06-22T02:18:01Z",
-      "description": "作者 | 谢芸子\n 编辑 | 黄绎达 \n 2026年2月，在美国爱泼斯坦案的听证会上，维密前老板莱斯利·韦克斯纳的名字被提及近200次。这个因为贩卖性感而知名的内衣品牌，被彻底钉在了“物化女性”的耻辱柱上。\n 恐慌情绪蔓延至资本市场，维密股价连续多个交易日持续下跌。几乎所有人都认为，属于它的时代结束了。\n 但仅仅三个月后，维密交出了一份让华尔街错愕的财报。\n 截至2026财年第一季度末，维密经调整"
+      "title": "Gold, silver prices today: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Kolkata, Bengaluru",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-check-retail-rates-of-24k-22k-18k-gold-999-silver-in-delhi-mumbai-kolkata-bengaluru-11782179540449.html",
+      "published": "2026-06-23T03:25:23Z",
+      "description": "Gold, silver prices today: Retail gold rates were stable on Tuesday as the market reacted to progress in US-Iran peace talks. Check retail rates of 24K, 22K, 18K gold and 999 silver in Delhi, Mumbai, "
     }
   ],
   "tweets": []
