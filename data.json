@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-06-24 08:55:41 UTC",
+  "updated_at": "2026-06-25 08:50:44 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4078.66,
+      "price_usd": 3992.76,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 61.3,
+      "price_usd": 57.51,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1635.5,
+      "price_usd": 1574.27,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1220.14,
+      "price_usd": 1184.22,
       "unit": "USD/盎司 oz"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.54,
+      "price_usd": 0.52,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.42,
+      "price_usd": 0.41,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "有智青年挑战赛暨全国AI+场景应用大赛决赛收官！在WAVES 2026的舞台上，挖掘中国下一代AI独角",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3865480064504835",
-      "published": "2026-06-23T08:16:45Z",
-      "description": "有智青年挑战赛暨全国AI+场景应用大赛决赛在WAVES新浪潮大会期间举行，汇聚多支青年团队围绕AI与数字经济前沿场景展开角逐，展现青年创业者的技术探索与落地能力。\n \n \n 2026年，AI全面进入“行动者”时代。当大模型、智能体、具身智能从实验室的技术概念，全面走进千行百业的产业落地场景，AI工具的平民化与普及化，依托开源生态、轻量化开发工具与普惠算力，不断压低创新创业的成本，大批怀揣梦想的年轻"
-    },
-    {
-      "title": "Gold loans surge 84% in FY26, emerge as mainstream credit driver: Experian",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-loans-surge-84-in-fy26-emerge-as-mainstream-credit-driver-experian/article71136673.ece",
-      "published": "2026-06-23T08:12:27Z",
-      "description": "Repeat borrowers dominate as ticket sizes double, growth spreads beyond southern markets, and asset quality improves amid rising gold prices and expanding credit access"
-    },
-    {
-      "title": "Trident Intersects 1.32 g/t over 132.0m including 2.85 g/t over 40.3m from 22.0m Depth at its Preview SW Deposit, Located 2.5km Southeast of the Contact Lake Deposit, Confirming Both High-Grade and Bulk-Tonnage Potential of the La Ronge Gold Belt, Saskatchewan",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/trident-intersects-1-32-g-t-over-132-0m-including-2-85-g-t-over-40-3m-from-22-0m-depth-at-its-preview-sw-deposit-located-2-5km-southeast-of-the-contact-lake-deposit-confirming-both-high-grade-and-bu",
-      "published": "2026-06-23T07:17:19Z",
-      "description": "Vancouver, BC, June 23, 2026 (GLOBE NEWSWIRE) — Trident Resources Corp. (TSXV: ROCK) (OTCQB: TRDTF) (Frankfurt: 6BP0) (“Trident” or the “Company”) is pleased to announce inaugural assay results from e"
-    },
-    {
-      "title": "A股三大指数集体收跌，创业板指跌超3%",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3865412984132872",
-      "published": "2026-06-23T07:01:25Z",
-      "description": "36氪获悉，A股三大指数集体收跌，沪指跌1.37%，深成指跌3.17%，创业板指跌3.84%；贵金属板块大跌，洛阳钼业、中金黄金、赤峰黄金等多股跌停；半导体、覆铜板概念走弱，铜冠铜箔、南亚新材、中巨芯跌超10%，澜起科技跌超7%；医药股逆势大涨，特一药业、新华制药等多股涨停。"
-    },
-    {
-      "title": "FirstCash to Acquire Ramsdens, a Leading Pawn, Retail and Financial Services Operator in the United Kingdom",
+      "title": "Catchnex Accelerates Global Expansion: From South American Success Story to Emerging International Platform",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/06/23/3315718/0/en/FirstCash-to-Acquire-Ramsdens-a-Leading-Pawn-Retail-and-Financial-Services-Operator-in-the-United-Kingdom.html",
-      "published": "2026-06-23T06:20:00Z",
-      "description": "Expands presence in the U.K. market through the addition of 174 pawn locations with strong brand;Further enhances FirstCash’s global leadership positioning and long-term growth platform;Expected to be"
+      "url": "https://www.globenewswire.com/news-release/2026/06/24/3316623/0/en/Catchnex-Accelerates-Global-Expansion-From-South-American-Success-Story-to-Emerging-International-Platform.html",
+      "published": "2026-06-24T08:34:00Z",
+      "description": "Copy Trading Pioneer Brings Professional Strategies to 500,000+ Users Across Multiple Asset Classes  SAN JOSE, Costa Rica, June  24, 2026  (GLOBE..."
     },
     {
-      "title": "Vedanta Power, Oil & Gas, and Iron shares rally up to 5%; Aluminium sheds 3%. Should you buy, sell or hold?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/vedanta-power-oil-gas-and-iron-shares-rally-up-to-5-aluminium-sheds-3-should-you-buy-sell-or-hold/articleshow/131927260.cms",
-      "published": "2026-06-23T06:06:57Z",
-      "description": "Vedanta’s newly demerged entities extended their rally, with Oil & Gas, Power and Iron & Steel hitting upper circuits, while Aluminium slipped despite Citi’s bullish outlook. Brokerages remain constru"
-    },
-    {
-      "title": "Deutsche Bank Cuts Gold Forecasts up to 22% as Bulls Temper View",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/deutsche-bank-cuts-gold-forecasts-up-to-22-as-bulls-temper-view",
-      "published": "2026-06-23T04:33:58Z",
-      "description": "Deutsche Bank AG reduced its gold-price forecasts by as much as 22%, as investors become more wary about the outlook for US monetary policy and investment demand for the precious metal dries up."
-    },
-    {
-      "title": "Gold prices fall Rs 1,300/10g; silver tanks Rs 7,200/kg on firm dollar, rate hike fears. What should you do?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-1300/10g-silver-tanks-rs-7200/kg-on-firm-dollar-rate-hike-fears-what-should-you-do/articleshow/131925041.cms",
-      "published": "2026-06-23T04:19:49Z",
-      "description": "Gold and silver prices fell sharply on MCX on Tuesday, reversing gains from the previous session, as a stronger U.S. dollar dampened demand and investors tracked U.S.-Iran peace talks and interest-rat"
-    },
-    {
-      "title": "WAVES 2026：今年盛夏，在创投浪潮里，做迎风而立的少数人！",
+      "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3865226824389892",
-      "published": "2026-06-23T03:57:43Z",
-      "description": "盛夏赴约WAVES 2026！一群迎风的少数人，掀起中国新一代创新力量的风口。\n \n \n 2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道”变成“主流共识”，年轻的创业者们正在重新定义中国创新的未来坐标。\n 每一年，由36氪主办的WAVES大会，都是中国创投圈的年度风向标。今年的WAVES2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里"
+      "url": "https://36kr.com/p/3866900608701449",
+      "published": "2026-06-24T08:17:52Z",
+      "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度"
     },
     {
-      "title": "Gold, silver prices today: Check retail rates of 24K, 22K, 18K gold, 999 silver in Delhi, Mumbai, Kolkata, Bengaluru",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-check-retail-rates-of-24k-22k-18k-gold-999-silver-in-delhi-mumbai-kolkata-bengaluru-11782179540449.html",
-      "published": "2026-06-23T03:25:23Z",
-      "description": "Gold, silver prices today: Retail gold rates were stable on Tuesday as the market reacted to progress in US-Iran peace talks. Check retail rates of 24K, 22K, 18K gold and 999 silver in Delhi, Mumbai, "
+      "title": "Sarah Killedar: Working from a young age has made me more responsible and disciplined",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/sarah-killedar-working-from-a-young-age-has-made-me-more-responsible-and-disciplined/articleshow/131959755.cms",
+      "published": "2026-06-24T07:45:44Z",
+      "description": "Actor Sarah Killedar, who is currently seen in Yeh Rishta Kya Kehlata Hai, believes balancing academics, acting, and personal life comes down to disci."
+    },
+    {
+      "title": "75 Indian students are heading to Europe for free master's degrees — here's how",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/75-indian-students-are-heading-to-europe-for-free-masters-degrees-heres-how/articleshow/131958085.cms",
+      "published": "2026-06-24T07:45:06Z",
+      "description": "The EU has launched the EU-India Student Ambassadors' Network, empowering 40 students to promote European study and research opportunities. This initiative complements the selection of 75 Indian stude"
+    },
+    {
+      "title": "I never boxed myself into one role: Geeta Kapur",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/i-never-boxed-myself-into-one-role-geeta-kapur/articleshow/131959653.cms",
+      "published": "2026-06-24T07:39:54Z",
+      "description": "For many viewers, Geeta Kapur is the face of dance reality shows. But the choreographer says she never planned to become a television judge. Every ste."
+    },
+    {
+      "title": "SSC CGL 2026 application window reopens for two days after candidates seek more time: Check details here",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/ssc-cgl-2026-application-window-reopens-for-two-days-after-candidates-seek-more-time-check-details-here/articleshow/131959533.cms",
+      "published": "2026-06-24T07:34:59Z",
+      "description": "The Staff Selection Commission has given SSC CGL 2026 aspirants another chance by reopening the application window until June 25 following requests from candidates who missed the original deadline. Wi"
+    },
+    {
+      "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3866854221698313",
+      "published": "2026-06-24T07:31:56Z",
+      "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度"
+    },
+    {
+      "title": "Global markets | Australian shares rise modestly as sticky core inflation keeps rate hike bets alive",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/global-markets-australian-shares-rise-modestly-as-sticky-core-inflation-keeps-rate-hike-bets-alive/articleshow/131958336.cms",
+      "published": "2026-06-24T06:59:01Z",
+      "description": "Australian shares edged higher on Wednesday, a cautious advance following inflation data. While headline inflation eased, core inflation ticked up, keeping the door open for potential interest rate hi"
+    },
+    {
+      "title": "圆桌论坛：2026 科技的这一年 “少数，即浪潮” | 36氪WAVES2026新浪潮",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3866787672773888",
+      "published": "2026-06-24T06:39:25Z",
+      "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度"
+    },
+    {
+      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (June 24, 2026) at Tanishq, Joyalukkas, Kalyan Jewellers, Malabar Gold & Diamonds and IBJA",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-june-24-2026-at-tanishq-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-and-ibja/articleshow/131956639.cms",
+      "published": "2026-06-24T06:15:59Z",
+      "description": "Gold prices saw a mixed trend on Wednesday, June 24, 2026, with Tanishq holding steady while other major jewellers like Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas lowered their 22K gold"
     }
   ],
   "tweets": []
