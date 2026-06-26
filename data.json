@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-06-25 08:50:44 UTC",
+  "updated_at": "2026-06-26 08:53:36 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 3992.76,
+      "price_usd": 4033.68,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 57.51,
+      "price_usd": 57.77,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1574.27,
+      "price_usd": 1604.94,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1184.22,
+      "price_usd": 1210.4,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Catchnex Accelerates Global Expansion: From South American Success Story to Emerging International Platform",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/06/24/3316623/0/en/Catchnex-Accelerates-Global-Expansion-From-South-American-Success-Story-to-Emerging-International-Platform.html",
-      "published": "2026-06-24T08:34:00Z",
-      "description": "Copy Trading Pioneer Brings Professional Strategies to 500,000+ Users Across Multiple Asset Classes  SAN JOSE, Costa Rica, June  24, 2026  (GLOBE..."
+      "title": "Gold holds below $4,000, silver below $60 — has the shimmer worn off the precious metal rally?",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/06/25/gold-silver-price-rally-invest-interest-rates.html",
+      "published": "2026-06-25T08:46:28Z",
+      "description": "Gold is down almost 8% so far this year, while silver has shed more than 20%."
     },
     {
-      "title": "圆桌对话：诶? AI! AI这个月、AI这一年、AI这五年｜36氪WAVES2026新浪潮",
+      "title": "Jonnagiri gold mine to boost domestic production, advance 'Made in India' ecosystem, says Lloyds chief",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/lloydss-jonnagiri-gold-mine-to-boost-domestic-production-advance-made-in-india-ecosystem/articleshow/131986597.cms",
+      "published": "2026-06-25T08:38:04Z",
+      "description": "India's gold import dependence is set to decrease with the inauguration of the Rs 405-crore Jonnagiri gold mine in Andhra Pradesh. This marks the nation's first commercial-scale private gold mining op"
+    },
+    {
+      "title": "Autos and Healthcare lead Nifty past 24,200 as crude stays near $69",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/stock-markets/autos-and-healthcare-lead-nifty-past-24200-as-crude-stays-near-69/article71145308.ece",
+      "published": "2026-06-25T07:48:18Z",
+      "description": "Automobile and healthcare stocks drove the rally, while energy and metals saw selling as crude oil prices neared $69–70 per barrel"
+    },
+    {
+      "title": "A股三大指数集体收涨，全市场超4200股飘绿",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3866900608701449",
-      "published": "2026-06-24T08:17:52Z",
+      "url": "https://36kr.com/newsflashes/3868245230769157",
+      "published": "2026-06-25T07:02:32Z",
+      "description": "36氪获悉，A股三大指数集体收涨，沪指涨0.23%，深成指涨1.82%，创业板指涨2.84%；GPU、CPO大涨，德明利、长电科技涨停，佰维存储涨超15%，新易盛、兆易创新涨超9%；培育钻石概念走强，沃尔德、惠丰钻石涨超10%；贵金属、油气走弱，紫金矿业跌超6%，赤峰黄金、中国海油跌超5%；个股跌多涨少，全市场超4200股飘绿。"
+    },
+    {
+      "title": "Commodity correction offers buying opportunity; defence, banking remain long-term bets: Dharmesh Kant",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/commodity-correction-offers-buying-opportunity-defence-banking-remain-long-term-bets-dharmesh-kant/articleshow/131984861.cms",
+      "published": "2026-06-25T06:18:37Z",
+      "description": "Market expert Dharmesh Kant sees commodity corrections as buying opportunities, with the broader cycle intact due to global demand and India's growth. He highlights strong fundamentals for metals like"
+    },
+    {
+      "title": "Manappuram Finance, Muthoot Finance, other gold financier stocks drop up to 3%. Here's why",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/manappuram-finance-muthoot-finance-other-gold-financier-stocks-drop-up-to-3-heres-why/articleshow/131984827.cms",
+      "published": "2026-06-25T06:15:51Z",
+      "description": "Shares of gold financiers declined as a sharp fall in gold prices and a stronger US dollar weighed on sentiment. Expectations of further US Federal Reserve rate hikes pressured bullion, raising concer"
+    },
+    {
+      "title": "Vedanta, NALCO, Hindustan Zinc shares fall up to 3% as silver, aluminium, other metal prices tumble. Here's why",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-nalco-hindustan-zinc-shares-fall-up-to-3-as-silver-aluminium-other-metal-prices-tumble-heres-why/articleshow/131982887.cms",
+      "published": "2026-06-25T05:06:10Z",
+      "description": "Metal stocks including Vedanta, NALCO and Hindustan Zinc fell up to 3% as global metal prices declined sharply. A stronger US dollar, easing Middle East tensions and rising expectations of a Fed rate "
+    },
+    {
+      "title": "Gold prices fall Rs 6,000/10 gram in two days; silver tanks Rs 15,500/kg on rate hike fears. Time to sell precious metals?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-25-june-2026-gold-prices-fall-rs-6000/10-gram-in-two-days-silver-tanks-rs-15500/kg-on-rate-hike-fears-time-to-sell-precious-metals/articleshow/131981814.cms",
+      "published": "2026-06-25T03:58:15Z",
+      "description": "Gold and silver prices have fallen sharply on MCX over the past two sessions amid a stronger US dollar and rising rate hike expectations. Silver dropped Rs 15,500/kg while gold fell nearly Rs 6,000 pe"
+    },
+    {
+      "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3867998907667462",
+      "published": "2026-06-25T03:42:26Z",
       "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度"
     },
     {
-      "title": "Sarah Killedar: Working from a young age has made me more responsible and disciplined",
+      "title": "Stock Market Live Updates Today: BSE Sensex erases most gains, ends at 77,100, Nifty50 above 24,050; oil prices fall to pre-war levels",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/sarah-killedar-working-from-a-young-age-has-made-me-more-responsible-and-disciplined/articleshow/131959755.cms",
-      "published": "2026-06-24T07:45:44Z",
-      "description": "Actor Sarah Killedar, who is currently seen in Yeh Rishta Kya Kehlata Hai, believes balancing academics, acting, and personal life comes down to disci."
-    },
-    {
-      "title": "75 Indian students are heading to Europe for free master's degrees — here's how",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/75-indian-students-are-heading-to-europe-for-free-masters-degrees-heres-how/articleshow/131958085.cms",
-      "published": "2026-06-24T07:45:06Z",
-      "description": "The EU has launched the EU-India Student Ambassadors' Network, empowering 40 students to promote European study and research opportunities. This initiative complements the selection of 75 Indian stude"
-    },
-    {
-      "title": "I never boxed myself into one role: Geeta Kapur",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/i-never-boxed-myself-into-one-role-geeta-kapur/articleshow/131959653.cms",
-      "published": "2026-06-24T07:39:54Z",
-      "description": "For many viewers, Geeta Kapur is the face of dance reality shows. But the choreographer says she never planned to become a television judge. Every ste."
-    },
-    {
-      "title": "SSC CGL 2026 application window reopens for two days after candidates seek more time: Check details here",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/ssc-cgl-2026-application-window-reopens-for-two-days-after-candidates-seek-more-time-check-details-here/articleshow/131959533.cms",
-      "published": "2026-06-24T07:34:59Z",
-      "description": "The Staff Selection Commission has given SSC CGL 2026 aspirants another chance by reopening the application window until June 25 following requests from candidates who missed the original deadline. Wi"
-    },
-    {
-      "title": "主题圆桌：生命的新算法，AI重构医疗产业全链路｜36氪WAVES2026新浪潮",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3866854221698313",
-      "published": "2026-06-24T07:31:56Z",
-      "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度"
-    },
-    {
-      "title": "Global markets | Australian shares rise modestly as sticky core inflation keeps rate hike bets alive",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/global-markets-australian-shares-rise-modestly-as-sticky-core-inflation-keeps-rate-hike-bets-alive/articleshow/131958336.cms",
-      "published": "2026-06-24T06:59:01Z",
-      "description": "Australian shares edged higher on Wednesday, a cautious advance following inflation data. While headline inflation eased, core inflation ticked up, keeping the door open for potential interest rate hi"
-    },
-    {
-      "title": "圆桌论坛：2026 科技的这一年 “少数，即浪潮” | 36氪WAVES2026新浪潮",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3866787672773888",
-      "published": "2026-06-24T06:39:25Z",
-      "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度"
-    },
-    {
-      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (June 24, 2026) at Tanishq, Joyalukkas, Kalyan Jewellers, Malabar Gold & Diamonds and IBJA",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-june-24-2026-at-tanishq-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-and-ibja/articleshow/131956639.cms",
-      "published": "2026-06-24T06:15:59Z",
-      "description": "Gold prices saw a mixed trend on Wednesday, June 24, 2026, with Tanishq holding steady while other major jewellers like Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas lowered their 22K gold"
+      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-25-june-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/131980537.cms",
+      "published": "2026-06-25T02:24:35Z",
+      "description": "Stock Market Live Updates Today: Nifty50 and BSE Sensex ended the day in green, but after giving up most of the gains seen in the session. Analysts e"
     }
   ],
   "tweets": []
