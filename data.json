@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-06-26 08:53:36 UTC",
+  "updated_at": "2026-06-27 08:28:20 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4033.68,
+      "price_usd": 4089.03,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 57.77,
+      "price_usd": 59.15,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1604.94,
+      "price_usd": 1614.6,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1210.4,
+      "price_usd": 1206.6,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Gold holds below $4,000, silver below $60 — has the shimmer worn off the precious metal rally?",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/06/25/gold-silver-price-rally-invest-interest-rates.html",
-      "published": "2026-06-25T08:46:28Z",
-      "description": "Gold is down almost 8% so far this year, while silver has shed more than 20%."
+      "title": "Anthony Milewski's The Oregon Group Launches Expanded Critical Minerals Intelligence Platform Amid Global Supply Shock Crisis",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/06/26/3318072/0/en/Anthony-Milewski-s-The-Oregon-Group-Launches-Expanded-Critical-Minerals-Intelligence-Platform-Amid-Global-Supply-Shock-Crisis.html",
+      "published": "2026-06-26T08:14:00Z",
+      "description": "The Oregon Group has broadened its critical minerals intelligence platform with new research coverage...."
     },
     {
-      "title": "Jonnagiri gold mine to boost domestic production, advance 'Made in India' ecosystem, says Lloyds chief",
+      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (June 26, 2026) at IBJA, Malabar Gold & Diamonds, Tanishq, Joyalukkas and Kalyan Jewellers",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/lloydss-jonnagiri-gold-mine-to-boost-domestic-production-advance-made-in-india-ecosystem/articleshow/131986597.cms",
-      "published": "2026-06-25T08:38:04Z",
-      "description": "India's gold import dependence is set to decrease with the inauguration of the Rs 405-crore Jonnagiri gold mine in Andhra Pradesh. This marks the nation's first commercial-scale private gold mining op"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-june-26-2026-at-ibja-malabar-gold-diamonds-tanishq-joyalukkas-and-kalyan-jewellers/articleshow/132009771.cms",
+      "published": "2026-06-26T07:18:27Z",
+      "description": "Gold prices saw a slight uptick on Friday, June 26, 2026.  Major retailers like Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas also adjusted their 22K gold rates upwards. The IBJA did not r"
     },
     {
-      "title": "Autos and Healthcare lead Nifty past 24,200 as crude stays near $69",
+      "title": "Gold: India swings to premium on price retreat; China demand muted",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/autos-and-healthcare-lead-nifty-past-24200-as-crude-stays-near-69/article71145308.ece",
-      "published": "2026-06-25T07:48:18Z",
-      "description": "Automobile and healthcare stocks drove the rally, while energy and metals saw selling as crude oil prices neared $69–70 per barrel"
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-india-swings-to-premium-on-price-retreat-china-demand-muted/article71149617.ece",
+      "published": "2026-06-26T06:59:57Z",
+      "description": "Gold prices in India dropped to 140,543 rupees per 10 grams on Thursday, the lowest since March 27, following a decline in international spot gold prices"
     },
     {
-      "title": "A股三大指数集体收涨，全市场超4200股飘绿",
+      "title": "中科闻歌开盘暴涨81%，北京再增一家硬科技IPO",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3868245230769157",
-      "published": "2026-06-25T07:02:32Z",
-      "description": "36氪获悉，A股三大指数集体收涨，沪指涨0.23%，深成指涨1.82%，创业板指涨2.84%；GPU、CPO大涨，德明利、长电科技涨停，佰维存储涨超15%，新易盛、兆易创新涨超9%；培育钻石概念走强，沃尔德、惠丰钻石涨超10%；贵金属、油气走弱，紫金矿业跌超6%，赤峰黄金、中国海油跌超5%；个股跌多涨少，全市场超4200股飘绿。"
+      "url": "https://36kr.com/p/3869622921041156",
+      "published": "2026-06-26T06:24:40Z",
+      "description": "本文约900字，建议阅读2分钟\n 作者 | 彭孝秋\n 6月26日，中科闻歌（01956.HK）正式在港交所主板敲钟上市。开盘涨81.2%，报110港元，市值190亿港元。截至发稿，盘中最高125港元、最低110港元，振幅收窄至24.71%，换手率2.21%。按现价，一手账面浮盈1.08万港元，公司市值198.37港元。\n \n 关于中科闻歌深度报道，可查看此前报道——中科院博士冲上市，市值超105亿"
     },
     {
-      "title": "Commodity correction offers buying opportunity; defence, banking remain long-term bets: Dharmesh Kant",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/commodity-correction-offers-buying-opportunity-defence-banking-remain-long-term-bets-dharmesh-kant/articleshow/131984861.cms",
-      "published": "2026-06-25T06:18:37Z",
-      "description": "Market expert Dharmesh Kant sees commodity corrections as buying opportunities, with the broader cycle intact due to global demand and India's growth. He highlights strong fundamentals for metals like"
+      "title": "Global markets: Asia shares retreat from record as Apple price hikes rain on chip parade",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/global-markets-asia-shares-retreat-from-record-as-apple-price-hikes-rain-on-chip-parade/article71149264.ece",
+      "published": "2026-06-26T05:09:17Z",
+      "description": "Japan’s Nikkei slumps nearly 5%, South Korea’s KOSPI down 8%, Nasdaq futures skid 1.7%, yen languishes near 40-year ​lows; selloff comes after big gains for the quarter to record highs"
     },
     {
-      "title": "Manappuram Finance, Muthoot Finance, other gold financier stocks drop up to 3%. Here's why",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/manappuram-finance-muthoot-finance-other-gold-financier-stocks-drop-up-to-3-heres-why/articleshow/131984827.cms",
-      "published": "2026-06-25T06:15:51Z",
-      "description": "Shares of gold financiers declined as a sharp fall in gold prices and a stronger US dollar weighed on sentiment. Expectations of further US Federal Reserve rate hikes pressured bullion, raising concer"
-    },
-    {
-      "title": "Vedanta, NALCO, Hindustan Zinc shares fall up to 3% as silver, aluminium, other metal prices tumble. Here's why",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-nalco-hindustan-zinc-shares-fall-up-to-3-as-silver-aluminium-other-metal-prices-tumble-heres-why/articleshow/131982887.cms",
-      "published": "2026-06-25T05:06:10Z",
-      "description": "Metal stocks including Vedanta, NALCO and Hindustan Zinc fell up to 3% as global metal prices declined sharply. A stronger US dollar, easing Middle East tensions and rising expectations of a Fed rate "
-    },
-    {
-      "title": "Gold prices fall Rs 6,000/10 gram in two days; silver tanks Rs 15,500/kg on rate hike fears. Time to sell precious metals?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-silver-prices-today-in-delhi-chennai-mumbai-and-hyderabad-on-25-june-2026-gold-prices-fall-rs-6000/10-gram-in-two-days-silver-tanks-rs-15500/kg-on-rate-hike-fears-time-to-sell-precious-metals/articleshow/131981814.cms",
-      "published": "2026-06-25T03:58:15Z",
-      "description": "Gold and silver prices have fallen sharply on MCX over the past two sessions amid a stronger US dollar and rising rate hike expectations. Silver dropped Rs 15,500/kg while gold fell nearly Rs 6,000 pe"
-    },
-    {
-      "title": "主题圆桌：当所有人都看到泡沫，机器人何时走入真实场景 | 36氪WAVES2026新浪潮",
+      "title": "年入27亿，一颗中国糖果拿捏「美国味」",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3867998907667462",
-      "published": "2026-06-25T03:42:26Z",
+      "url": "https://36kr.com/p/3868550907237636",
+      "published": "2026-06-26T02:23:48Z",
+      "description": "作者 | 谢芸子\n 编辑 | 张帆\n 在TikTok国际版，一条关于果汁剥皮软糖皮乐士Peelerz的测评视频，共获得点赞量258万。皮乐士Peelerz是阿麦斯Amos旗下的主打品牌。\n 走进美国的Costco或山姆会员店，阿麦斯几乎是货架上仅有的中国糖果。欧美会员店的选品口碑“回流”至国内。\n 打开中国山姆APP，阿麦斯旗下的两款产品Peelerz与“贝欧宝Biobor活性益生菌软糖”，位列“"
+    },
+    {
+      "title": "主题圆桌：我们永远赞美冒险 更早、更小、更下水｜36氪WAVES2026新浪潮",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3869378164397313",
+      "published": "2026-06-26T02:17:40Z",
       "description": "“2026年，创投圈的浪潮再次翻涌：AI从技术概念走进产业深水区，硬科技创业从“小众赛道” 变成“主流共识”，年轻的创业者们正在用代码和双手，重新定义中国创新的未来坐标。\n 每一年，由36氪 · 暗涌主办的WAVES大会，都是中国创投圈的年度风向标。今年的 WAVES 2026以“今年盛夏”为主题，落地广州番禺良仓新造创意园，在两天的时间里，我们汇聚了顶级投资人、产业领袖、新锐创业者，用14场深度"
     },
     {
-      "title": "Stock Market Live Updates Today: BSE Sensex erases most gains, ends at 77,100, Nifty50 above 24,050; oil prices fall to pre-war levels",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/sensex-stock-market-today-25-june-2026-live-updates-nse-bse-gift-nifty-50-top-gainers-losers-mcx-stocks-in-focus-market-news/liveblog/131980537.cms",
-      "published": "2026-06-25T02:24:35Z",
-      "description": "Stock Market Live Updates Today: Nifty50 and BSE Sensex ended the day in green, but after giving up most of the gains seen in the session. Analysts e"
+      "title": "布局下一代人机交互与具身数据入口，「念象科技」完成近千万元天使轮融资｜36氪首发",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3867943030395913",
+      "published": "2026-06-26T00:00:00Z",
+      "description": "文｜胡香赟\n 编辑｜海若镜\n 36氪获悉，专注非侵入式神经接口技术研发与产业化的「念象科技」已完成近千万元天使轮融资。本轮融资由永珺星芒领投，浦东创投、一村资本跟投，募集资金主要用于产品研发、团队扩建、本土sEMG数据集建设。\n 念象科技成立于2025年底，首款产品Omniband是一款腕戴式表面肌电（surface electromyography，简称sEMG）神经接口设备。它不直接采集大脑皮"
+    },
+    {
+      "title": "8点1氪丨苹果宣布上调iPad及Mac价格；黄仁勋计划把50%或更多现金流返还股东；OpenAI发布首款AI芯片",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3869243269387269",
+      "published": "2026-06-25T23:57:55Z",
+      "description": "今日热点导览\n <ul>\n <li>Anthropic成全球价值最高独角兽，DeepSeek跻身全球独角兽企业前15名</li>\n <li>建设银行：将于7月24日日终清算时起关闭代理上海黄金交易所个人贵金属交易业务功能</li>\n <li>马斯克曾直言混动车只是过渡阶段</li>\n <li>韩国5200万人开了1.08亿股票账户，半年增超1000万</li>\n <li>逾八成澳大利亚未成年人“绕"
+    },
+    {
+      "title": "DENARIUS METALS ANNOUNCES DISTRIBUTION OF MEETING MATERIALS FOR ITS CONSENT SOLICITATION PROCESS TO RETIRE ITS CONVERTIBLE DEBENTURES",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/denarius-metals-announces-distribution-of-meeting-materials-for-its-consent-solicitation-process-to-retire-its-convertible-debentures-302811320.html",
+      "published": "2026-06-25T21:38:00Z",
+      "description": "TORONTO, June 25, 2026 /PRNewswire/ - Denarius Metals Corp. (Cboe CA: DMET) (OTCQX: DNRSF) (\"Denarius Metals\" or the \"Company\") announced today that, further to its press release dated June 3, 2026, i"
     }
   ],
   "tweets": []
