@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-06-28 08:43:17 UTC",
+  "updated_at": "2026-06-29 10:28:36 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4089.03,
+      "price_usd": 4038.11,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 59.15,
+      "price_usd": 57.75,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1614.6,
+      "price_usd": 1592.78,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1206.6,
+      "price_usd": 1215.8,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,39 +76,46 @@
   ],
   "news": [
     {
-      "title": "Diamonds shine as gold buyers adapt to price volatility",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/diamonds-shine-as-gold-buyers-adapt-to-price-volatility/articleshow/132030944.cms",
-      "published": "2026-06-27T07:56:38Z",
-      "description": "As Indian consumers face rising gold import duties and erratic prices, they are changing their buying habits for jewellery. The Indriya brand reports an uptick in diamond-studded items, alongside an i"
+      "title": "Gold, silver may face a tough week ahead. Here’s what analysts are saying",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-may-face-a-tough-week-ahead-heres-what-analysts-are-saying/article71157523.ece",
+      "published": "2026-06-28T10:24:49Z",
+      "description": "Gold futures for August delivery fell ₹3,041, or 2.06%, during the week to settle at ₹1.44 lakh per 10 grams on MCX"
     },
     {
-      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (June 27, 2026) at IBJA, Malabar Gold & Diamonds, Tanishq, Joyalukkas and Kalyan Jewellers",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-june-27-2026-at-ibja-malabar-gold-diamonds-tanishq-joyalukkas-and-kalyan-jewellers/articleshow/132030091.cms",
-      "published": "2026-06-27T06:45:29Z",
-      "description": "Gold prices saw a significant uptick today, June 27, 2026, with major retailers like Tanishq and Malabar Gold & Diamonds reporting higher rates for 22-carat gold. The IBJA has not updated its rates du"
-    },
-    {
-      "title": "Gold, Silver Rate Today: Check live price of 22K, 24K, 18K gold & silver on 27 June 2026 in Mumbai, Delhi, other cities",
+      "title": "Gold, Silver Rate Today: Check live price of 22K, 24K, 18K gold & silver on 28 June 2026 in Mumbai, Delhi, other cities",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-rate-today-27-june-check-live-price-22k-24k-18k-gold-999-fine-silver-mumbai-delhi-bengaluru-kolkata-cities-11782536636779.html",
-      "published": "2026-06-27T06:09:41Z",
-      "description": "Gold, Silver Rate Today: Here is how much gold and silver costs in key Indian cities on Saturday, 27 June 2026. Check the price of 18K, 22K and 24K gold and 999 Fine silver in Ahmedabad, Bengaluru, Ch"
+      "url": "https://www.livemint.com/money/personal-finance/gold-22k-24k-18k-silver-999-fine-rate-today-28-june-check-live-price-mumbai-delhi-bengaluru-chennai-kolkata-other-cities-11782616101910.html",
+      "published": "2026-06-28T04:39:14Z",
+      "description": "Gold, Silver Rate Today: Here is how much gold and silver costs in key Indian cities on Saturday, 28 June 2026. Check the price of 18K, 22K and 24K gold and 999 Fine silver in Ahmedabad, Bengaluru, Ch"
     },
     {
-      "title": "Q1 earnings preview: Here’s what Nomura expects from Nestle, Titan, other consumer majors’ June quarter results",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/q1-earnings-preview-heres-what-nomura-expects-from-nestle-titan-other-consumer-majors-june-quarter-results/articleshow/132029281.cms",
-      "published": "2026-06-27T05:40:13Z",
-      "description": "Nomura expects consumer staples to deliver a strong start to FY27, forecasting double-digit sales growth for several companies in the June quarter. The brokerage is bullish on Nestle, Titan, Britannia"
+      "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3867976058803459",
+      "published": "2026-06-28T00:37:08Z",
+      "description": "文｜贺哲馨\n 编辑｜乔芊\n Judy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The List的一次特卖活动时。提交申请后的第三天，她依旧没有收到邀请消息。“我还以为填完资料就能进去。”她说。\n 按照平台规则，特卖活动需要邀请码才能进入。如果迟迟没有通过，则需要邀请两位好友注册，才能获得进入候补名单的机会。至于最终能否收到邀请码，没人说得清楚。\n “有点像抽签，也有点像开盲盒。"
     },
     {
-      "title": "Gold gains as dollar weakens; still on track for fourth straight weekly loss",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-gains-as-dollar-weakens-still-on-track-for-fourth-straight-weekly-loss/articleshow/132028236.cms",
-      "published": "2026-06-27T03:51:01Z",
-      "description": "Gold prices saw a modest uptick on Friday, buoyed by a weaker dollar and slightly eased expectations of U.S. interest rate hikes following inflation data. Despite this rebound, gold is still on track "
+      "title": "Value discipline, balanced growth",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/mutual-funds/value-discipline-balanced-growth/article71153940.ece",
+      "published": "2026-06-27T16:26:56Z",
+      "description": "Discover UTI Aggressive Hybrid Fund's disciplined investment strategy, combining value equity selection and quality debt for balanced growth."
+    },
+    {
+      "title": "Bullion Cues: Room for a rebound",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-gold-and-silver-futures-might-recover/article71153659.ece",
+      "published": "2026-06-27T16:07:17Z",
+      "description": "Explore potential rebound strategies for gold and silver as bearish trends persist in the precious metals market."
+    },
+    {
+      "title": "兴业银行：上调代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3871212925588739",
+      "published": "2026-06-27T09:21:25Z",
+      "description": "6月27日，兴业银行发布公告，将在北京时间2026年6月29日（周一）收盘清算时起，调整代理上海黄金交易所个人贵金属买卖业务延期合约保证金比例，个人客户AU（T+D）、mAU（T+D）、AU（T+N1）、AU（T+N2）、AG（T+D）等延期合约的保证金比例由40%调整至120%。其它黄金投资产品不受影响。兴业银行后续还将调整相关延期合约交易保证金比例，具体另行通知。（每日经济新闻）"
     },
     {
       "title": "9点1氪｜苹果涨价引山姆代购潮；DeepSeek大规模招聘；黄金再度跌破4000美元",
@@ -137,13 +144,6 @@
       "url": "https://financialpost.com/globe-newswire/pecoy-copper-announces-annual-grant-of-incentive-awards-and-corporate-update",
       "published": "2026-06-26T17:50:47Z",
       "description": "VANCOUVER, British Columbia, June 26, 2026 (GLOBE NEWSWIRE) — Pecoy Copper Corp. (“Pecoy Copper” or the “Company”) (TSXV: PCU; FSE: D5E; OTCQB: PCUUF) today provides updates with respect to certain ma"
-    },
-    {
-      "title": "Fortune – Tlicho Joint Venture to Receive up to $50 Million From Government of Canada First and Last Mile Fund",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/fortune-tlicho-joint-venture-to-receive-up-to-50-million-from-government-of-canada-first-and-last-mile-fund",
-      "published": "2026-06-26T14:49:54Z",
-      "description": "Conditional approval received for funding to support NICO Project Access Road construction LONDON, Ontario — Fortune Minerals Limited (TSX: FT) (OTCQB: FTMDF) (“Fortune” or the “Company”) ( www.fortun"
     }
   ],
   "tweets": []
