@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-06-30 09:21:29 UTC",
+  "updated_at": "2026-07-01 09:33:32 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4019.67,
+      "price_usd": 3980.57,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 58.63,
+      "price_usd": 58.0,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1580.18,
+      "price_usd": 1550.12,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1231.01,
+      "price_usd": 1187.95,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.43,
+      "price_usd": 0.42,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.52,
+      "price_usd": 0.51,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.41,
+      "price_usd": 0.42,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Global Times: Fangchenggang in Guangxi turns space-to-ground innovation into ecological gains",
+      "title": "Why your used-car loan costs more than you think",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/used-car-loan-interest-rates-hidden-costs-11782749388642.html",
+      "published": "2026-06-30T07:54:08Z",
+      "description": "Used-car financing now drives nearly 60% of platform transactions, but loans carry steeper rates (9-18%) and hidden costs like GPS-device fees and hypothecation charges versus new-car loans.&nbsp;"
+    },
+    {
+      "title": "Gold rate today (June 30, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJA, Joyalukkas, Malabar Gold & Diamonds and Tanishq in Delhi, Mumbai, Hyderabad, other cities",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-june-30-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-ibja-joyalukkas-malabar-gold-diamonds-and-tanishq-in-delhi-mumbai-hyderabad-other-cities/articleshow/132087561.cms",
+      "published": "2026-06-30T07:42:42Z",
+      "description": "Gold prices saw a dip across major Indian jewellery brands on Tuesday, June 30, 2026, offering buyers welcome relief.  Leading retailers like Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Jo"
+    },
+    {
+      "title": "A股三大指数集体收涨，半导体板块领涨",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3875321538097417",
+      "published": "2026-06-30T07:00:55Z",
+      "description": "36氪获悉，A股三大指数集体收涨，沪指涨0.5%，深成指涨2.48%，创业板指涨2.99%；通信设备、半导体、航天军工板块领涨，锐捷网络、格科微涨停，景嘉微涨超14%，太辰光涨超9%；工程机械、银行、贵金属板块走弱，徐工机械、沪农商行跌超4%，山金国际跌超2%。"
+    },
+    {
+      "title": "成立9个月，在手订单4.4亿，「谱星航天」连续完成两轮数亿元融资｜36氪首发",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3875120747942913",
+      "published": "2026-06-30T03:39:04Z",
+      "description": "文 | 阿至\n 光谱定量遥感赛道跑出一匹黑马。\n 36氪未来产业独家获悉，光学载荷与微纳卫星系统解决方案提供商上海谱星航天科技有限公司（下简称“谱星航天”）已于近期连续完成天使+、Pre-A两轮融资，累计规模为数亿元。\n Pre-A轮由国泰海通、尚融资本、司南基金联合领投，徐汇资本、联融志道、金浦投资跟投，老股东联想控股、鼎农科技、普华资本追投。天使+轮投资方为联想控股、普华资本。\n 谱星航天是我"
+    },
+    {
+      "title": "多家品牌金饰价格下调，老凤祥克价1206元",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3875035150537732",
+      "published": "2026-06-30T02:09:35Z",
+      "description": "6月30日，国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所下调，老凤祥报价1206元/克，较前一日1235元/克跌29元；周生生报价1213元/克，较前一日1239元/克跌26元；周大福报价1208元/克，较前一日1238元跌30元；老庙黄金报价1212元/克，较前一日1237元/克跌25元。（界面）"
+    },
+    {
+      "title": "Silvercorp Provides Updates on China Operations",
       "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/global-times-fangchenggang-in-guangxi-turns-space-to-ground-innovation-into-ecological-gains-302813040.html",
-      "published": "2026-06-29T08:50:00Z",
-      "description": "BEIJING, June 29, 2026 /PRNewswire/ -- On a crisp late autumn morning at the Beilun Estuary National Nature Reserve in Fangchenggang, South China's Guangxi Zhuang Autonomous Region, a ranger team led "
+      "url": "https://www.prnewswire.com/news-releases/silvercorp-provides-updates-on-china-operations-302813928.html",
+      "published": "2026-06-30T01:53:00Z",
+      "description": "Trading Symbol: TSX/NYSE American: SVM VANCOUVER, BC, June 29, 2026 /PRNewswire/ - Silvercorp Metals Inc. (\"Silvercorp\" or the \"Company\") (TSX: SVM) (NYSE American: SVM) announces that further to new "
     },
     {
-      "title": "独家｜获超亿美元融资，Sand.ai 曹越：为什么视频是通往世界模型最重要的路径",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3873965241931014",
-      "published": "2026-06-29T08:04:11Z",
-      "description": "“每一代模型，我们都在押注一个非共识。”\n 文｜邓咏仪\n 编辑｜张雨忻\n Sand.ai 创始人曹越，不太关心自己站在共识的哪一边。\n Sand.ai 是一家视频生成模型和产品公司，成立于2024年1月。曹越创立Sand.ai 的故事也已经被讲过很多遍：在上一段创业“光年之外”戛然而止后，曹越很快就投入到 Sand.ai 的创业中，做视频生成模型。\n 彼时，市场的主流叙事是 Diffusion 路"
-    },
-    {
-      "title": "Avoid expensive themes, focus on valuations and stock picking: Samit Vartak",
+      "title": "Gold set for fourth monthly fall on bets of Fed rate hikes",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/avoid-expensive-themes-focus-on-valuations-and-stock-picking-samit-vartak/articleshow/132065513.cms",
-      "published": "2026-06-29T06:54:56Z",
-      "description": "Indian equities have rebounded significantly, yet investor sentiment remains cautious due to ongoing geopolitical uncertainties. Despite this, strong corporate earnings, particularly from small and mi"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-set-for-fourth-monthly-fall-on-bets-of-fed-rate-hikes/articleshow/132081943.cms",
+      "published": "2026-06-30T01:49:01Z",
+      "description": "Gold prices tumbled over 1% on Tuesday, heading for a fourth consecutive monthly drop.  Shifting from Middle East concerns, the market now anticipates U.S. interest rate hikes to combat inflation.  Th"
     },
     {
-      "title": "Gold rate today (June 29, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Malabar Gold & Diamonds, Tanishq & IBJA in Delhi, Mumbai, Hyderabad, other cities",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-june-29-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-joyalukkas-malabar-gold-diamonds-tanishq-ibja-in-delhi-mumbai-hyderabad-other-cities/articleshow/132065062.cms",
-      "published": "2026-06-29T06:35:53Z",
-      "description": "Gold prices saw a slight dip across major Indian retailers today, offering a welcome respite for buyers.  Jewellery prices for 22-carat gold have settled around Rs 13,110 per gram at leading stores in"
-    },
-    {
-      "title": "Gold prices dip to Rs 1.43 lakh/10 grams, silver below Rs 2.23 lakh/kg. What lies ahead?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-to-rs-1-43-lakh/10-grams-silver-below-rs-2-23-lakh/kg-what-lies-ahead/articleshow/132062507.cms",
-      "published": "2026-06-29T04:02:41Z",
-      "description": "Gold and silver prices traded lower on MCX on Monday as renewed Middle East tensions and expectations of further US Federal Reserve rate hikes pressured the non-yielding precious metals. Gold futures "
-    },
-    {
-      "title": "秋声 | 海光芯正IPO背后，卖铲生意为何越做越亏？",
+      "title": "隔夜逆回购工具落地提振市场情绪，10年期国债期货主力合约刷新年内新高",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3873681978840071",
-      "published": "2026-06-29T03:13:49Z",
-      "description": "本文约2500字，建议阅读5分钟\n 作者 | 彭孝秋\n \n 编者按：AI大爆发之际，越来越多公司走向资本市场。每一份招股书翻动的声音里，都藏着一家公司想说与未曾明说的全部。\r\n\n 鉴于此，硬氪特推出「秋声」专栏。秋声取自欧阳修《秋声赋》，借“听秋声”之意，产业冷暖，辨公司成色，记录企业冲刺IPO途中那些被写下与被隐藏的真实。这是我们第四期，海光芯正。\r\n\n \n 6月29日，北京海光芯正（01191"
+      "url": "https://36kr.com/newsflashes/3874922493924613",
+      "published": "2026-06-30T00:23:56Z",
+      "description": "央行隔夜逆回购工具正式落地，债券市场情绪明显升温。6月29日，央行开展3000亿元隔夜逆回购操作，虽未公布操作利率，但市场将其解读为央行进一步呵护跨季流动性的信号。受此影响，国债期货走强，盘中10年期国债期货主力合约刷新年内新高。机构人士认为，资金面已成为近期债市交易的核心变量。隔夜逆回购工具的起用，有助于提高央行短端流动性管理的精准度，稳定市场对跨季资金面的预期。不过，该工具短期仍属于流动性管理"
     },
     {
-      "title": "多家银行集体出手收紧代理上金所个人贵金属交易业务",
+      "title": "8点1氪丨涉嫌操纵内存价格，存储三巨头遭集体诉讼；韩国启动史上最大规模产业投资计划；哈啰出行回应骑79分钟需支付30元",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3873594957059332",
-      "published": "2026-06-29T01:44:33Z",
-      "description": "近期，国际贵金属市场剧烈震荡，为防范潜在的风险并保护投资者权益，国内商业银行正加速收紧代理上海黄金交易所（简称“上金所”）个人贵金属交易业务。6月27日，兴业银行公告，宣布上调代理上金所个人贵金属延期业务合约保证金比例。据券商中国记者梳理，6月以来，已有多家银行发布公告，宣布调整代理的上金所个人贵金属业务规则，建设银行、工商银行则明确将关停该业务。业内人士指出，银行此举既是对近期金价波动行情的及时"
+      "url": "https://36kr.com/p/3874911939482880",
+      "published": "2026-06-30T00:05:46Z",
+      "description": "今日热点导览\n <ul>\n <li>马斯克宣布Grok4.5开启SpaceX与特斯拉内部私测，性能或超越Claude Opus</li>\n <li>美的回应空调产品在欧洲被疯抢</li>\n <li>蔚来回应车漆洗车时被冲掉：高压水枪操作不规范</li>\n <li>滚石唱片就屠颖去世追责万豪喜来登</li>\n <li>百度昆仑芯拟赴港IPO</li>\n </ul>\n TOP 3大新闻\n 涉嫌操纵内存"
     },
     {
-      "title": "港大教授李弘扬创业做通用全身具身大脑，获真格高榕IDG五源等数亿种子轮融资｜硬氪独家",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3868055841641476",
-      "published": "2026-06-29T01:27:07Z",
-      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪独家获悉，通用全身具身大脑公司「源策未来Archon Robotics」近日完成数亿元种子轮融资，本轮投资方包括真格基金、高榕创投、IDG资本、五源资本等头部美元基金，以及戈壁创投与香港大学联名基金、奇绩创投、上海创智学院等。光源资本担任独家财务顾问。\n 本轮资金将主要用于全身人形基础模型研发、多模态全身动作数据采集、人才团队扩充，以及多地研发中心与产业合作生态搭"
-    },
-    {
-      "title": "8点1氪丨两大存储巨头今日发布大规模投资计划；江淮汽车股价腰斩，章建平9日套现近3亿元；Anthropic Fable 5有望很快恢复访问",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3873476968272902",
-      "published": "2026-06-28T23:44:39Z",
-      "description": "今日热点导览\n <ul>\n <li>《给阿嬷的情书》总票房已突破19亿元</li>\n <li>梁文锋署名，DeepSeek发布最新论文</li>\n <li>WPS回应C盘占用问题，即将更新七月版本上线磁盘存储管理功能</li>\n <li>触屏MacBook将搭载M5芯片发布，苹果计划跳过M6 Pro及M6 Max</li>\n <li>美国监管部门关闭针对特斯拉Model 3及Model Y转向失控"
-    },
-    {
-      "title": "一折买 Miu Miu，谁在做奢侈品牌的\"拼多多\"？｜商业Friday",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3867976058803459",
-      "published": "2026-06-28T00:37:08Z",
-      "description": "文｜贺哲馨\n 编辑｜乔芊\n Judy第一次意识到，原来打折的奢侈品也有准入门槛，是在申请加入On The List的一次特卖活动时。提交申请后的第三天，她依旧没有收到邀请消息。“我还以为填完资料就能进去。”她说。\n 按照平台规则，特卖活动需要邀请码才能进入。如果迟迟没有通过，则需要邀请两位好友注册，才能获得进入候补名单的机会。至于最终能否收到邀请码，没人说得清楚。\n “有点像抽签，也有点像开盲盒。"
+      "title": "Fortuna delivers robust Feasibility Study for the Diamba Sud Gold Project in Senegal: After-tax IRR of 60% and NPV5% of US$1 billion using US$3,500/oz",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/fortuna-delivers-robust-feasibility-study-for-the-diamba-sud-gold-project-in-senegal-after-tax-irr-of-60-and-npv5-of-us1-billion-using-us3500-oz",
+      "published": "2026-06-29T21:20:23Z",
+      "description": "(All financial information contained herein are expressed in US dollars unless otherwise stated) VANCOUVER, British Columbia, June 29, 2026 (GLOBE NEWSWIRE) — Fortuna Mining Corp. (NYSE: FSM | TSX: FV"
     }
   ],
   "tweets": []
