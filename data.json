@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-07-05 08:43:43 UTC",
+  "updated_at": "2026-07-06 10:01:44 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4175.01,
+      "price_usd": 4144.75,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 62.38,
+      "price_usd": 61.96,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1639.1,
+      "price_usd": 1637.6,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1266.48,
+      "price_usd": 1274.51,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.51,
+      "price_usd": 0.5,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,18 +76,32 @@
   ],
   "news": [
     {
-      "title": "Gold likely to stay range-bound around $4,100/oz in H2 2026, but upside to $4,500-$5,000/oz if risks intensify: WGC",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-likely-to-stay-range-bound-around-4100oz-in-h2-2026-but-upside-to-4500-5000oz-if-risks-intensify-wgc/article71182051.ece",
-      "published": "2026-07-04T08:21:13Z",
-      "description": "The report, published in July 2026, said that under current macro conditions, gold may trade +-5 per cent around US $4,100/oz during the second half (H2) of 2026"
+      "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3882361033322755",
+      "published": "2026-07-05T06:23:00Z",
+      "description": "作者 | 邱晓芬\n 编辑 | 袁斯来\n 硬氪获悉，通用餐饮具身机器人公司「影智XBOT」连续完成数亿元两轮融资——其中，A轮的2亿元融资由香港简坤资本GPTX出资，B轮融资为3-5亿元人民币，由多支政府基金、美元基金和产业投资方共同参与出资。\n 这是目前餐饮垂直机器人领域规模最大的一笔融资之一。\n 在此之前，「影智XBOT」还完成了一轮天使融资，出资人阵容豪华——包括腾讯高级副总裁张小龙、小米联合"
     },
     {
-      "title": "Gold’s sharp correction: What lies ahead for prices?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/golds-sharp-correction-what-lies-ahead-for-prices/articleshow/132177503.cms",
-      "published": "2026-07-04T08:05:57Z",
-      "description": "Gold has corrected sharply from record highs as a stronger US dollar, elevated bond yields and expectations of prolonged higher interest rates weighed on prices. Experts view the decline as a technica"
+      "title": "Gold, silver prices today — 5 July: Check retail rates of 24K, 22K gold, 18K, 999 silver in Delhi, Mumbai and Kolkata",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-5-july-check-retail-rates-of-24k-22k-gold-18k-999-silver-in-delhi-mumbai-and-kolkata-11783222795213.html",
+      "published": "2026-07-05T04:41:54Z",
+      "description": "Gold and silver prices rose in India last week amid positive global cues. Check retail rates of 24K, 22K gold, 18K, 999 silver in Delhi, Mumbai, Kolkata and other cities."
+    },
+    {
+      "title": "Elon Musk's SpaceX and the vision of off-planet industrialization",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/elon-musk-spacex-trillionaire-asteroid-mining-space-economy-space-manufacturing-investing-long-term-investing-11783084091027.html",
+      "published": "2026-07-05T01:30:40Z",
+      "description": "Dhirendra Kumar reflects on a compelling conversation with a friend about the future of space mining and manufacturing, suggesting potential shifts in industry that could change life on Earth. For onc"
+    },
+    {
+      "title": "Bullion Cues: Barriers ahead",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-after-moving-up-precious-metals-might-have-barriers-ahead/article71181713.ece",
+      "published": "2026-07-04T16:13:22Z",
+      "description": "Traders advised to exit long positions as gold and silver face resistance despite recent gains in precious metals markets."
     },
     {
       "title": "Explained: Why aluminium is emerging as manufacturers' preferred alternative to copper",
@@ -95,20 +109,6 @@
       "url": "https://economictimes.indiatimes.com/markets/commodities/news/explained-why-aluminium-is-emerging-as-manufacturers-preferred-alternative-to-copper/articleshow/132176242.cms",
       "published": "2026-07-04T06:43:16Z",
       "description": "Record copper prices are accelerating manufacturers' shift toward aluminium, driven by lower costs and lighter weight. Automakers are expanding aluminium use as supply shortages, energy transition dem"
-    },
-    {
-      "title": "22K gold rate: Gold prices jump after last week's dip; check latest 24K, 22K, 20K, 18K rates at IBJA, Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers and Joyalukkas",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-gold-prices-jump-after-last-weeks-dip-check-latest-24k-22k-20k-18k-rates-at-ibja-tanishq-malabar-kalyan-joyalukkas/articleshow/132173198.cms",
-      "published": "2026-07-04T04:50:18Z",
-      "description": "Gold prices have seen a notable recovery this week, with both gold and silver rates climbing according to the India Bullion and Jewellers Association (IBJA). This upward trend follows a dip experience"
-    },
-    {
-      "title": "Gold heads for weekly gain as weak US jobs data tempers rate hike bets",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-weekly-gain-as-weak-us-jobs-data-tempers-rate-hike-bets/articleshow/132174386.cms",
-      "published": "2026-07-04T03:53:11Z",
-      "description": "Gold prices surged on Friday, poised for a weekly gain after a disappointing U.S. jobs report significantly lowered expectations for an imminent Federal Reserve interest rate hike. This development ma"
     },
     {
       "title": "9点1氪｜阿里内部全面禁用Claude Code；FF洛杉矶总部人去楼空？公司回应：不实；微软砸25亿美元组建6000人AI新公司",
