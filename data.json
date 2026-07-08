@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-07-07 09:28:46 UTC",
+  "updated_at": "2026-07-08 08:12:59 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4124.18,
+      "price_usd": 4119.23,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 60.85,
+      "price_usd": 60.63,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1629.7,
+      "price_usd": 1628.8,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1269.41,
+      "price_usd": 1260.44,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.43,
+      "price_usd": 0.42,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "10 Nifty stocks Motilal Oswal recommends buying ahead of Q1 results. What can shareholders expect?",
+      "title": "Gold rate today (July 7, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Malabar Gold & Diamonds, Tanishq & IBJA in Delhi, Mumbai, Hyderabad, other cities",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/10-nifty-stocks-motilal-oswal-recommends-buying-ahead-of-q1-results-what-can-shareholders-expect/articleshow/132211533.cms",
-      "published": "2026-07-06T08:12:49Z",
-      "description": "As the Q1FY27 earnings season begins with TCS's results on Thursday, Motilal Oswal expects Nifty earnings to grow 10%, the fastest pace in four quarters. The brokerage has identified 10 stocks, includ"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-july-7-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-joyalukkas-malabar-gold-diamonds-tanishq-ibja-in-delhi-mumbai-hyderabad-other-cities/articleshow/132233886.cms",
+      "published": "2026-07-07T07:50:46Z",
+      "description": "Gold prices saw a decline across major Indian jewellery brands today.  Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas reported lower rates.  These price drops were observed in citi"
     },
     {
-      "title": "Gold rate today (July 6, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Malabar Gold & Diamonds, Tanishq & IBJA in Delhi, Mumbai, Hyderabad, other cities",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-july-6-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-joyalukkas-malabar-gold-diamonds-tanishq-ibja-in-delhi-mumbai-hyderabad-other-cities/articleshow/132211365.cms",
-      "published": "2026-07-06T08:01:33Z",
-      "description": "Gold prices saw a slight dip today, July 6, 2026, Check 22k jewellery rates at major retailers like Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas. Consumers are advised to check t"
-    },
-    {
-      "title": "UP's GI capital status: Over 70 tags establish cultural and economic strength",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/ups-gi-capital-status-over-70-tags-establish-cultural-and-economic-strength/articleshow/132209794.cms",
-      "published": "2026-07-06T07:13:54Z",
-      "description": "Uttar Pradesh has emerged as India's Geographical Indication (GI) capital, boasting over 70 tags that celebrate its diverse heritage from Varanasi's silks to Kannauj's attars. This surge, particularly"
-    },
-    {
-      "title": "Uttar Pradesh's fisheries boom: Infrastructure, innovation and rural growth",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/uttar-pradeshs-fisheries-boom-infrastructure-innovation-and-rural-growth/articleshow/132209766.cms",
-      "published": "2026-07-06T07:10:14Z",
-      "description": "In recent years, Uttar Pradesh has established itself as a key player in India's inland fisheries sector. This transformation stems from targeted investments in aquaculture and fish seed production, c"
-    },
-    {
-      "title": "This SGB delivers 190% return on premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 2.90 lakh",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/this-sgb-delivers-190-return-on-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-2-90-lakh/articleshow/132208912.cms",
-      "published": "2026-07-06T06:14:49Z",
-      "description": "Sovereign Gold Bond (SGB) 2020-21 Series-IX investors can now redeem their bonds prematurely from July 4, 2026. The Reserve Bank of India has fixed the premature redemption price at Rs 14,366 per unit"
-    },
-    {
-      "title": "Global equity funds attract third straight week of inflows as investors buy AI-linked dip",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-equity-funds-attract-third-straight-week-of-inflows-as-investors-buy-ai-linked-dip/articleshow/132207442.cms",
-      "published": "2026-07-06T04:32:56Z",
-      "description": "Investors are pouring money into global equities, particularly technology stocks, despite a recent market dip. This surge, marking the third consecutive week of inflows, signals strong confidence in t"
-    },
-    {
-      "title": "Precious metals rate today: Gold holds near 2-week high; silver extends gains",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/132205915.cms",
-      "published": "2026-07-06T02:39:31Z",
-      "description": "Gold prices began the week on a firm footing, holding close to a two-week high after weaker-than-expected US employment data reinforced expectations"
-    },
-    {
-      "title": "8点1氪丨7-11指控耐克新鞋配色抄袭；A股新版交易规则今起施行；华尔街称苹果采购长鑫内存是为了压价",
+      "title": "揭秘字节 Seedance：中国第一台大模型印钞机启动了 | 深氪",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3883400536453381",
-      "published": "2026-07-06T00:02:20Z",
-      "description": "今日热点导览\n 苹果Siri AI秋季上线，仅限iPhone 15 Pro及以上机型\n 蒋方舟再回应被清华教授指控论文造假\n 张雪称负债接近1亿元，本月将还清全部债务\n 黑石集团放弃全球最大数据中心项目，意味着该建设计划已宣告破产\n 印度政府：正调查苹果手机信息泄露事件\n TOP3大新闻\n 7-11起诉耐克，指控其新鞋配色抄袭7-11标志性颜色\n 据报道，跨国连锁零售公司7-Eleven（7-11"
+      "url": "https://36kr.com/p/3885177884078083",
+      "published": "2026-07-07T07:30:26Z",
+      "description": "采访 | 邓咏仪 肖思佳 李小霞\n 文 | 张雨忻 邓咏仪\n 编辑 | 张雨忻 杨轩\n 2025 年底，在一次模型团队的聚餐上，Seedance 模型的负责人曾妍向 leader 提到，她还是想试试训一个更大尺寸的模型，至少达到 200B（2000亿参数）。\n 曾妍是字节 Seed 一位非常年轻的研究员，2021 年校招生，研究方向始终聚焦在视频理解与生成上。“她一直都挺有自己的技术判断。” 一位"
     },
     {
-      "title": "硬氪首发 | 小米前高管唐沐创业咖啡机器人，完成数亿融资，林斌、黎万强投过",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3882361033322755",
-      "published": "2026-07-05T06:23:00Z",
-      "description": "作者 | 邱晓芬\n 编辑 | 袁斯来\n 硬氪获悉，通用餐饮具身机器人公司「影智XBOT」连续完成数亿元两轮融资——其中，A轮的2亿元融资由香港简坤资本GPTX出资，B轮融资为3-5亿元人民币，由多支政府基金、美元基金和产业投资方共同参与出资。\n 这是目前餐饮垂直机器人领域规模最大的一笔融资之一。\n 在此之前，「影智XBOT」还完成了一轮天使融资，出资人阵容豪华——包括腾讯高级副总裁张小龙、小米联合"
-    },
-    {
-      "title": "Explained: Why aluminium is emerging as manufacturers' preferred alternative to copper",
+      "title": "Global Market: Beijing, Hong Kong unveil measures to boost Yuan, bond and gold markets",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/explained-why-aluminium-is-emerging-as-manufacturers-preferred-alternative-to-copper/articleshow/132176242.cms",
-      "published": "2026-07-04T06:43:16Z",
-      "description": "Record copper prices are accelerating manufacturers' shift toward aluminium, driven by lower costs and lighter weight. Automakers are expanding aluminium use as supply shortages, energy transition dem"
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-beijing-hong-kong-unveil-measures-to-boost-yuan-bond-and-gold-markets/articleshow/132233550.cms",
+      "published": "2026-07-07T07:25:03Z",
+      "description": "Beijing and Hong Kong announced measures to boost financial connectivity and yuan internationalization. The southbound Bond Connect quota increased, and yuan liquidity support expanded significantly. "
+    },
+    {
+      "title": "Titan shares hit new highs post Q1 update",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/titan-shares-hit-new-highs-post-q1-update/article71192553.ece",
+      "published": "2026-07-07T07:23:36Z",
+      "description": "Titan reported an 41% YoY growth in its overall consumer businesses, marking the third consecutive quarter where the company has sustained an accelerated revenue growth rate above 40%"
+    },
+    {
+      "title": "Today’s Gold Rate in India July 7: Gold prices down in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-mumbai-chennai-ahmedabad-delhi-hyderabad-bengaluru-kolkata-gold-rates-july-7-2026/article71192471.ece",
+      "published": "2026-07-07T06:45:50Z",
+      "description": "Gold, Silver Rate Today: Today's gold prices of 22, 24 down across Indian cities on July 7"
+    },
+    {
+      "title": "Transaction in Own Shares",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322856/0/en/Transaction-in-Own-Shares.html",
+      "published": "2026-07-07T06:00:00Z",
+      "description": "ENDEAVOUR ANNOUNCES TRANSACTION IN OWN SHARES  London, 07 July 2026 – Endeavour Mining plc (LSE:EDV, TSX:EDV, OTCQX:EDVMF) (“the Company”) announces it has..."
+    },
+    {
+      "title": "Is India's favourite gold losing its appeal as a safe-haven in volatile market this year?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/is-indias-favourite-gold-losing-its-appeal-as-a-safe-haven-in-volatile-market-this-year/articleshow/132229816.cms",
+      "published": "2026-07-07T03:58:52Z",
+      "description": "Gold's appeal as a safe haven has slowed after a strong rally this year.  Profit-booking and easing geopolitical tensions have led to a market reassessment.  The US Federal Reserve's interest rate sta"
+    },
+    {
+      "title": "Gold prices fall Rs 1,000/10 gram; silver down Rs 3,000/kg ahead of US Fed minutes. Key levels to track",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-1000/10-gram-silver-down-rs-3000/kg-ahead-of-us-fed-minutes-key-levels-to-track/articleshow/132229768.cms",
+      "published": "2026-07-07T03:55:34Z",
+      "description": "Gold and silver prices opened lower on the MCX Tuesday, extending recent losses. Investors await U.S. Federal Reserve minutes for monetary policy clues. MCX silver futures for September 2026 delivery "
+    },
+    {
+      "title": "Kayan Announces US-Regulated ATS Sets August 3, 2026 Listing Date",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/07/3322834/0/en/Kayan-Announces-US-Regulated-ATS-Sets-August-3-2026-Listing-Date.html",
+      "published": "2026-07-07T03:25:00Z",
+      "description": "Kayan Project, Veea Inc. and Panoptes PBC turn AI into humanity’s force multiplier for the preservation of natural environments and sustainable communities Kayan Project, Veea Inc. and Panoptes PBC tu"
+    },
+    {
+      "title": "Gold down as markets await Fed meeting minutes for policy direction",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-down-as-markets-await-fed-meeting-minutes-for-policy-direction/articleshow/132228430.cms",
+      "published": "2026-07-07T01:55:20Z",
+      "description": "Gold prices declined Tuesday, trading below recent highs. Investors await U.S. Federal Reserve minutes for policy direction. U.S. services sector activity dipped, but employment showed stability. Bull"
     }
   ],
   "tweets": []
