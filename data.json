@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-07-09 09:25:35 UTC",
+  "updated_at": "2026-07-10 09:22:16 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4108.15,
+      "price_usd": 4100.76,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 59.18,
+      "price_usd": 59.48,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1622.47,
+      "price_usd": 1614.6,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1249.28,
+      "price_usd": 1267.66,
       "unit": "USD/盎司 oz"
     },
     {
@@ -70,80 +70,80 @@
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.41,
+      "price_usd": 0.42,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Strategic Insights: How the Tin-Silver-Copper Alloy Powder Sector is Shaping Electronics Manufacturing's Future",
+      "title": "Fortuna reports second quarter 2026 production of 72,217 gold equivalent ounces and advances key growth initiatives",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/08/3323859/28124/en/Strategic-Insights-How-the-Tin-Silver-Copper-Alloy-Powder-Sector-is-Shaping-Electronics-Manufacturing-s-Future.html",
-      "published": "2026-07-08T08:13:00Z",
-      "description": "The Tin-Silver-Copper Alloy Powder Market, crucial for lead-free electronics, grows through advanced segmentation, global regional focus, and competitive dynamics with robust industry collaboration. T"
+      "url": "https://www.globenewswire.com/news-release/2026/07/09/3324609/0/en/Fortuna-reports-second-quarter-2026-production-of-72-217-gold-equivalent-ounces-and-advances-key-growth-initiatives.html",
+      "published": "2026-07-09T09:00:00Z",
+      "description": "Fortuna delivered steady Q2 production, remains on track for 2026 guidance, and advanced Séguéla and Diamba Sud growth projects...."
     },
     {
-      "title": "氪星晚报｜德国：人工智能推动德国初创企业创纪录增长；雷军回应SkyNomad上市时间；SpaceX AI将于明日向公众开放Grok4.5",
+      "title": "Sandfire Resources America Delivers Black Butte Copper PFS Upgrade with New Lowry Reserves, 12-Year Mine Life, High-Grade Production Profile and Stronger Project Economics",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/09/3324611/0/en/Sandfire-Resources-America-Delivers-Black-Butte-Copper-PFS-Upgrade-with-New-Lowry-Reserves-12-Year-Mine-Life-High-Grade-Production-Profile-and-Stronger-Project-Economics.html",
+      "published": "2026-07-09T09:00:00Z",
+      "description": "WHITE SULPHUR SPRINGS, Mont., July 09, 2026 (GLOBE NEWSWIRE) -- Sandfire Resources America Inc. (\"Sandfire America\" or the \"Company\") is pleased to announce the results of an updated Preliminary Feasi"
+    },
+    {
+      "title": "Nissan Tekton launched in India: Price list, changes over Duster & more",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/auto/cars/nissan-tekton-launched-in-india-price-list-changes-over-duster-more/articleshow/132281144.cms",
+      "published": "2026-07-09T08:39:48Z",
+      "description": "Moving inside, the overall layout is the same as the Duster, but it features a dual-tone rose gold and burgundy dashboard. Features include a 10.1-inch touchscreen infotainment system, a 10.25-inch di"
+    },
+    {
+      "title": "Global Market: China's factory inflation hits four-year high, keeping metals and industrial stocks in focus",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-factory-inflation-hits-four-year-high-keeping-metals-and-industrial-stocks-in-focus/articleshow/132281159.cms",
+      "published": "2026-07-09T08:15:10Z",
+      "description": "China's factory-gate inflation reached its fastest pace in four years during June. Producer prices rose 4.1 percent year-on-year, driven by energy and commodity costs. However, consumer inflation slow"
+    },
+    {
+      "title": "Rising with pricing: Corporate revenue growth likely held firm in the first quarter, riding out the tempest",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/rising-with-pricing-corporate-revenue-growth-likely-held-firm-in-the-first-quarter-riding-out-the-tempest/articleshow/132279847.cms",
+      "published": "2026-07-09T07:15:03Z",
+      "description": "Corporate India's revenue reached a two-year peak in Q1, propelled by significant price hikes. The domestic market drove growth in key sectors such as automobiles and FMCG, accompanied by robust volum"
+    },
+    {
+      "title": "中国鱼子酱，占领头等舱",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3886678879727880",
-      "published": "2026-07-08T08:01:28Z",
-      "description": "大公司：\n 雷军回应SkyNomad上市时间\n 36氪获悉，7月8日，小米创办人，董事长兼CEO @雷军 在个人账号官宣小米汽车新系列SkyNomad。其评论区下有网友询问车辆发布时间，雷军回复表示“快了”。\n 必和必拓在世界最大铁矿石出口港口的工人将罢工8小时\n 7月8日，工会表示，必和必拓集团位于西澳州Port Hedland铁矿石出口码头的工人将于7月16日举行8小时罢工。此次行动将涉及全球"
+      "url": "https://36kr.com/p/3887939410492168",
+      "published": "2026-07-09T05:39:42Z",
+      "description": "作者 | 谢芸子\n 编辑 | 张帆\n 2026年6月30日，杭州千岛湖鲟龙科技正式在港交所上市。虽然挂着“科技”的名头，这家公司却在“养鱼”，也是名副其实的“全球最大鱼子酱企业”。\n 资本市场给到这个传统赛道热烈的回应。\n 上市当日，鲟龙科技开盘报价103港元，较发行价75.5港元上涨36.42%，总市值约112.15亿港元。截至收盘，股价进一步攀升至114港元，涨幅达到50.99%。\n 而在此前"
     },
     {
-      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 8, 2026) at Malabar Gold & Diamonds, Tanishq, Joyalukkas, Kalyan Jewellers & IBJA",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-july-8-2026-at-malabar-gold-diamonds-tanishq-joyalukkas-kalyan-jewellers-ibja/articleshow/132256882.cms",
-      "published": "2026-07-08T07:46:26Z",
-      "description": "Gold prices saw a slight decrease today across major Indian jewellery retailers. Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas reduced their 22-carat gold rates. These price adjus"
-    },
-    {
-      "title": "Titan vs Kalyan Jewellers: What Q1 sales indicate about demand and which stock to buy",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/titan-vs-kalyan-jewellers-what-q1-sales-indicate-about-demand-and-which-stock-to-buy/articleshow/132256342.cms",
-      "published": "2026-07-08T07:05:03Z",
-      "description": "India’s gold jewellery sector faced multiple challenges in Q1FY27, including inflation concerns, higher interest rate expectations and the Adhik Maas period impacting wedding-related demand. Despite t"
-    },
-    {
-      "title": "Gold prices fall for 3rd straight session; silver dips to Rs 2.30 lakh/kg as rising oil prices fuel rate hike bets. Buy, sell or hold?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-for-3rd-straight-session-silver-dips-to-rs-2-30-lakh/kg-as-rising-oil-prices-fuel-rate-hike-bets-buy-sell-or-hold/articleshow/132253468.cms",
-      "published": "2026-07-08T04:13:18Z",
-      "description": "Gold and silver prices extended their losses for a third straight session on the MCX as rising oil prices and a stronger U.S. dollar fuelled expectations of higher U.S. interest rates. Investors now a"
-    },
-    {
-      "title": "Gold eases as fresh US-Iran tensions lift oil prices, rate-hike bets",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-eases-as-fresh-us-iran-tensions-lift-oil-prices-rate-hike-bets/articleshow/132251502.cms",
-      "published": "2026-07-08T01:49:51Z",
-      "description": "Gold prices fell to a near-weekly low as U.S. strikes on Iran boosted oil and the dollar. Higher interest rate expectations are pressuring the non-yielding precious metal. China's central bank reporte"
-    },
-    {
-      "title": "8点1氪丨前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄袭；苹果折叠屏已在量产；特朗普呼吁购买戴尔电脑，引发戴尔暴涨百亿美元",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3886238403129353",
-      "published": "2026-07-08T00:09:01Z",
-      "description": "今日热点导览\n 网传“7月1日新规：新车智驾芯片自主化率不低于70%”系谣言\n 商业银行不良处置仍在加速，上半年全行业转让核销合计至少5000亿\n 国家外汇管理局：截至2026年6月末，中国外汇储备规模为34163亿美元\n 汇丰暂停向风险较高的私募信贷客户提供贷款\n SpaceX公布AI数据中心计划，同步推进星链卫星脱轨\n TOP3大新闻\n 前华为天才少年吐槽DeepSeek面试，称面试官质疑他抄"
-    },
-    {
-      "title": "Gold’s Bull Market Has Ended and Now All Eyes Are on Bears",
+      "title": "China’s Reflation Shows Signs of Peaking as War Shock Fades",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/golds-bull-market-has-ended-and-now-all-eyes-are-on-bears",
-      "published": "2026-07-07T16:28:33Z",
-      "description": "A wave of profit taking in the gold market has brought a three-year bull run to an end, but there’s little evidence yet that investors are putting on large-scale short positions in anticipation of fur"
+      "url": "https://financialpost.com/pmn/business-pmn/chinas-reflation-shows-signs-of-peaking-as-war-shock-fades",
+      "published": "2026-07-09T05:37:46Z",
+      "description": "China’s reflationary momentum showed signs of stalling in June, a reminder that the outlook for domestic prices is fragile as the economy emerges from deflation after an easing of tensions over Iran l"
     },
     {
-      "title": "DENARIUS METALS PROVIDES SUPPLEMENTAL INFORMATION AND ANNOUNCES THAT INDEPENDENT PROXY ADVISORY FIRMS ISS AND GLASS LEWIS HAVE RECOMMENDED THAT SHAREHOLDERS VOTE FOR THE POTENTIAL ISSUANCES OF COMMON SHARES OF THE COMPANY IN CONNECTION WITH THE PROPOSED AMENDMENTS TO ITS CONVERTIBLE UNSECURED DEBENTURES",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/denarius-metals-provides-supplemental-information-and-announces-that-independent-proxy-advisory-firms-iss-and-glass-lewis-have-recommended-that-shareholders-vote-for-the-potential-issuances-of-common-shares-of-the-company-in-conne-302818906.html",
-      "published": "2026-07-07T11:00:00Z",
-      "description": "Denarius Metals Encourages Shareholders and Debentureholders to Vote on Transaction TORONTO, July 7, 2026 /PRNewswire/ - Denarius Metals Corp. (Cboe CA: DMET) (OTCQX: DNRSF) (\"Denarius Metals\" or the "
+      "title": "China’s Reflation Shows Signs of Peaking as Iran War Shock Fades",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-pmn/chinas-reflation-shows-signs-of-peaking-as-iran-war-shock-fades",
+      "published": "2026-07-09T04:19:29Z",
+      "description": "China’s reflationary momentum showed signs of stalling in June, a reminder that the outlook for domestic prices is fragile as the economy emerges from deflation after an easing of tensions over Iran l"
     },
     {
-      "title": "Hot Chili Secures US$15 Million Via Amendment Agreement with OR Royalties Inc.",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/hot-chili-secures-us15-million-via-amendment-agreement-with-or-royalties-inc-302819125.html",
-      "published": "2026-07-07T11:00:00Z",
-      "description": "La Verde Added to Costa Fuego Royalty Footprint PERTH, Australia, July 7, 2026 /PRNewswire/ -Hot Chili Limited (ASX: HCH) (TSXV: HCH) (OTCQX: HHLKF) (\"Hot Chili\" or \"Company\") is pleased to announce t"
+      "title": "Gold prices fall to Rs 1.43 lakh/10 grams, silver dips Rs 15,000 in 4 days as Iran war raises inflation worries. Time to exit?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-fall-to-rs-1-43-lakh/10-grams-silver-dips-rs-15000-in-4-days-as-iran-war-raises-inflation-worries-time-to-exit/articleshow/132276853.cms",
+      "published": "2026-07-09T04:13:46Z",
+      "description": "Gold and silver prices extended losses for a fourth straight session on Thursday, pressured by renewed geopolitical tensions, higher oil prices and concerns over inflation and interest rates. Analysts"
+    },
+    {
+      "title": "Gold dips as Mideast hostilities revive inflation concerns",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-as-mideast-hostilities-revive-inflation-concerns/articleshow/132275202.cms",
+      "published": "2026-07-09T02:02:23Z",
+      "description": "Gold prices experienced a decline on Thursday after recent drops. Renewed hostilities between the United States and Iran fueled inflation worries. Higher interest rate expectations also pressured the "
     }
   ],
   "tweets": []
