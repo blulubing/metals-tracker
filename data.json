@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-07-10 09:22:16 UTC",
+  "updated_at": "2026-07-11 07:43:52 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4100.76,
+      "price_usd": 4120.52,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 59.48,
+      "price_usd": 59.89,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1614.6,
+      "price_usd": 1630.7,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1267.66,
+      "price_usd": 1273.37,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.51,
+      "price_usd": 0.52,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.51,
+      "price_usd": 0.52,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Fortuna reports second quarter 2026 production of 72,217 gold equivalent ounces and advances key growth initiatives",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/09/3324609/0/en/Fortuna-reports-second-quarter-2026-production-of-72-217-gold-equivalent-ounces-and-advances-key-growth-initiatives.html",
-      "published": "2026-07-09T09:00:00Z",
-      "description": "Fortuna delivered steady Q2 production, remains on track for 2026 guidance, and advanced Séguéla and Diamba Sud growth projects...."
-    },
-    {
-      "title": "Sandfire Resources America Delivers Black Butte Copper PFS Upgrade with New Lowry Reserves, 12-Year Mine Life, High-Grade Production Profile and Stronger Project Economics",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/09/3324611/0/en/Sandfire-Resources-America-Delivers-Black-Butte-Copper-PFS-Upgrade-with-New-Lowry-Reserves-12-Year-Mine-Life-High-Grade-Production-Profile-and-Stronger-Project-Economics.html",
-      "published": "2026-07-09T09:00:00Z",
-      "description": "WHITE SULPHUR SPRINGS, Mont., July 09, 2026 (GLOBE NEWSWIRE) -- Sandfire Resources America Inc. (\"Sandfire America\" or the \"Company\") is pleased to announce the results of an updated Preliminary Feasi"
-    },
-    {
-      "title": "Nissan Tekton launched in India: Price list, changes over Duster & more",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/auto/cars/nissan-tekton-launched-in-india-price-list-changes-over-duster-more/articleshow/132281144.cms",
-      "published": "2026-07-09T08:39:48Z",
-      "description": "Moving inside, the overall layout is the same as the Duster, but it features a dual-tone rose gold and burgundy dashboard. Features include a 10.1-inch touchscreen infotainment system, a 10.25-inch di"
-    },
-    {
-      "title": "Global Market: China's factory inflation hits four-year high, keeping metals and industrial stocks in focus",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-chinas-factory-inflation-hits-four-year-high-keeping-metals-and-industrial-stocks-in-focus/articleshow/132281159.cms",
-      "published": "2026-07-09T08:15:10Z",
-      "description": "China's factory-gate inflation reached its fastest pace in four years during June. Producer prices rose 4.1 percent year-on-year, driven by energy and commodity costs. However, consumer inflation slow"
-    },
-    {
-      "title": "Rising with pricing: Corporate revenue growth likely held firm in the first quarter, riding out the tempest",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/rising-with-pricing-corporate-revenue-growth-likely-held-firm-in-the-first-quarter-riding-out-the-tempest/articleshow/132279847.cms",
-      "published": "2026-07-09T07:15:03Z",
-      "description": "Corporate India's revenue reached a two-year peak in Q1, propelled by significant price hikes. The domestic market drove growth in key sectors such as automobiles and FMCG, accompanied by robust volum"
-    },
-    {
-      "title": "中国鱼子酱，占领头等舱",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3887939410492168",
-      "published": "2026-07-09T05:39:42Z",
-      "description": "作者 | 谢芸子\n 编辑 | 张帆\n 2026年6月30日，杭州千岛湖鲟龙科技正式在港交所上市。虽然挂着“科技”的名头，这家公司却在“养鱼”，也是名副其实的“全球最大鱼子酱企业”。\n 资本市场给到这个传统赛道热烈的回应。\n 上市当日，鲟龙科技开盘报价103港元，较发行价75.5港元上涨36.42%，总市值约112.15亿港元。截至收盘，股价进一步攀升至114港元，涨幅达到50.99%。\n 而在此前"
-    },
-    {
-      "title": "China’s Reflation Shows Signs of Peaking as War Shock Fades",
+      "title": "Gold Steadies as Traders Weigh Mideast Tensions and Rate Outlook",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/chinas-reflation-shows-signs-of-peaking-as-war-shock-fades",
-      "published": "2026-07-09T05:37:46Z",
-      "description": "China’s reflationary momentum showed signs of stalling in June, a reminder that the outlook for domestic prices is fragile as the economy emerges from deflation after an easing of tensions over Iran l"
+      "url": "https://financialpost.com/pmn/business-pmn/gold-steadies-as-traders-weigh-mideast-tensions-and-rate-outlook",
+      "published": "2026-07-10T07:05:49Z",
+      "description": "Gold steadied, as investors assessed the fallout from renewed fighting in the Middle East and the prospects for interest-rate hikes to combat inflation."
     },
     {
-      "title": "China’s Reflation Shows Signs of Peaking as Iran War Shock Fades",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/chinas-reflation-shows-signs-of-peaking-as-iran-war-shock-fades",
-      "published": "2026-07-09T04:19:29Z",
-      "description": "China’s reflationary momentum showed signs of stalling in June, a reminder that the outlook for domestic prices is fragile as the economy emerges from deflation after an easing of tensions over Iran l"
+      "title": "Gold discounts in India deepen as volatility hurts demand; purchases in China steady",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-discounts-in-india-deepen-as-volatility-hurts-demand-purchases-in-china-steady/article71205508.ece",
+      "published": "2026-07-10T06:38:14Z",
+      "description": "Domestic gold prices in ‌India ⁠were also trading around 144,800 rupees per 10 ⁠grams on Friday, after rising to 148,069 last week"
     },
     {
-      "title": "Gold prices fall to Rs 1.43 lakh/10 grams, silver dips Rs 15,000 in 4 days as Iran war raises inflation worries. Time to exit?",
+      "title": "India's diamond exports are shrinking across the board but retailers aren't worried",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-fall-to-rs-1-43-lakh/10-grams-silver-dips-rs-15000-in-4-days-as-iran-war-raises-inflation-worries-time-to-exit/articleshow/132276853.cms",
-      "published": "2026-07-09T04:13:46Z",
-      "description": "Gold and silver prices extended losses for a fourth straight session on Thursday, pressured by renewed geopolitical tensions, higher oil prices and concerns over inflation and interest rates. Analysts"
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/india-diamond-exports-fall-lab-grown-diamonds-natural-diamond-jewellery-demand-retailers-titan-senco-gold-bluestone-fy26/articleshow/132304266.cms",
+      "published": "2026-07-10T06:28:12Z",
+      "description": "India's diamond exports have declined over recent financial years. Retail giants are increasing investments in both natural and lab-grown diamonds. This domestic focus targets a growing demand from yo"
     },
     {
-      "title": "Gold dips as Mideast hostilities revive inflation concerns",
+      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 10, 2026) at Tanishq, Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers and IBJA",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-dips-as-mideast-hostilities-revive-inflation-concerns/articleshow/132275202.cms",
-      "published": "2026-07-09T02:02:23Z",
-      "description": "Gold prices experienced a decline on Thursday after recent drops. Renewed hostilities between the United States and Iran fueled inflation worries. Higher interest rate expectations also pressured the "
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-july-10-2026-at-tanishq-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-ibja/articleshow/132304513.cms",
+      "published": "2026-07-10T06:27:42Z",
+      "description": "Gold prices saw an increase today across major Indian jewellery brands. Tanishq's 22k gold jewellery is priced at Rs 13,320 per gram. Malabar Gold & Diamonds, Kalyan Jewellers, and Joyalukkas also sho"
+    },
+    {
+      "title": "Nissan Tekton fuel efficiency figures out: Powertrain-wise mileage",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/auto/cars/nissan-tekton-fuel-efficiency-figures-out-powertrain-wise-mileage/articleshow/132304420.cms",
+      "published": "2026-07-10T06:19:42Z",
+      "description": "Nissan has revealed the fuel efficiency figures for its new Tekton SUV. The most efficient model achieves a claimed 19.41 kmpl mileage. Buyers can choose between two turbo-petrol engines with various "
+    },
+    {
+      "title": "Tata Harrier, Safari Stealth edition launched: Price, changes explained",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/auto/cars/tata-harrier-safari-stealth-edition-launched-price-changes-explained/articleshow/132304260.cms",
+      "published": "2026-07-10T06:09:44Z",
+      "description": "Talking about the powertrain next, both SUVs get two engine options - a Fiat-sourced 2.0-litre, 4-cylinder turbo diesel with 170 hp power, 370 nm torque. Another engine is a 1.5-litre, 4-cylinder Hype"
+    },
+    {
+      "title": "Wayanad landslides revive Western Ghats infra debate",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mysuru/wayanad-landslides-revive-western-ghats-infra-debate/articleshow/132304298.cms",
+      "published": "2026-07-10T06:04:38Z",
+      "description": "Recent landslides in Wayanad and Ghat roads renew opposition to Western Ghats projects. Proposed tunnel and railway line projects face environmentalist and resident concerns. Activists argue developme"
+    },
+    {
+      "title": "Gold prices fall to Rs 1.44 lakh/10 gram; silver dips Rs 6,300 this week as Iran war raises inflation worries. What’s next?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-to-rs-1-44-lakh/10-gram-silver-dips-rs-6300-this-week-as-iran-war-raises-inflation-worries-whats-next/articleshow/132302618.cms",
+      "published": "2026-07-10T04:03:43Z",
+      "description": "Gold prices slipped while silver edged higher on the MCX on Friday, supported by a weaker U.S. dollar. However, both precious metals remained on track for weekly losses as escalating U.S.-Iran tension"
+    },
+    {
+      "title": "Gold, silver rate today: Yellow metal steadies; silver tumbles",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/132301440.cms",
+      "published": "2026-07-10T02:40:48Z",
+      "description": "Welcome to our Gold Rate Today live blog, where we bring you the latest updates on gold and silver prices from India and global markets throughout th"
+    },
+    {
+      "title": "Gold heads for weekly drop as Gulf attacks reinforce rate-hike bets",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-weekly-drop-as-gulf-attacks-reinforce-rate-hike-bets/articleshow/132300982.cms",
+      "published": "2026-07-10T01:57:12Z",
+      "description": "Gold prices held steady early Friday as markets assessed inflation risks. Renewed rate-hike expectations are pushing the non-yielding metal toward a weekly decline. U.S. military infrastructure in Gul"
     }
   ],
   "tweets": []
