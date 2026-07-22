@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-07-21 08:12:38 UTC",
+  "updated_at": "2026-07-22 08:13:06 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4066.97,
+      "price_usd": 4113.22,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 59.02,
+      "price_usd": 59.22,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1626,
+      "price_usd": 1647.2,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1284.99,
+      "price_usd": 1296.77,
       "unit": "USD/盎司 oz"
     },
     {
@@ -70,80 +70,80 @@
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.42,
+      "price_usd": 0.43,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Banking rout deepens: Sensex tumbles 718 points, Nifty below 24,200 as HDFC Bank, Axis bleed",
+      "title": "Chandigarh University Student Develops E-Commerce Platform to Promote Heritage Products of Indian Artisans",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/banking-rout-deepens-sensex-tumbles-718-points-nifty-below-24200-as-hdfc-bank-axis-bleed/article71244236.ece",
-      "published": "2026-07-20T07:36:14Z",
-      "description": "Axis Bank was the worst performer on the Nifty50, crashing ₹75.60 or 5.69% to ₹1,252.90 on heavy volume of over 1.81 crore shares worth ₹2,29,489.21 lakh"
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/chandigarh-university-student-develops-e-commerce-platform-to-promote-heritage-products-of-indian-artisans/article71248482.ece",
+      "published": "2026-07-21T08:00:27Z",
+      "description": "Chandigarh University Student Develops E-Commerce Platform to Promote Heritage Products of Indian Artisans"
     },
     {
-      "title": "Gold rate today (July 20, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Kalyan Jewellers, Malabar Gold & Diamonds, Tanishq & IBJA in Delhi, Mumbai, Hyderabad, other cities",
+      "title": "SGB 2019-20 Series VIII redemption opens today: Check payout, eligibility and tax rules",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/sgb-2019-20-series-viii-redemption-opens-today-check-payout-eligibility-and-tax-rules-11784618594405.html",
+      "published": "2026-07-21T07:48:39Z",
+      "description": "RBI has opened premature redemption for SGB 2019-20 Series VIII at  ₹14,170 per unit from July 21. Before opting for an early exit, investors should understand the eligibility conditions, redemption p"
+    },
+    {
+      "title": "Gold rises on dip-buying as traders weigh West Asia crisis escalates again",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/articles/2026-07-20/gold-steady-as-traders-watch-middle-east-war-for-inflation-clues",
+      "published": "2026-07-21T07:18:58Z",
+      "description": "Bullion rose as much as 1.5% to trade around $4,068 an ounce, the most in more than two weeks"
+    },
+    {
+      "title": "Gold rate today (July 21, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Joyalukkas, Kalyan Jewellers, Malabar Gold & Diamonds, Tanishq & IBJA in Delhi, Mumbai, Hyderabad, other cities",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-july-20-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-tanishq-ibja-in-delhi-mumbai-hyderabad-other-cities/articleshow/132508859.cms",
-      "published": "2026-07-20T07:28:35Z",
-      "description": "Gold rate: Gold rates remained largely steady across major Indian jewelry brands today.  Find the latest 24k, 22k, 20k, 18k and 14k gold and 999-purity silver jewellery indicative rates provided by th"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-july-21-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-joyalukkas-kalyan-jewellers-malabar-gold-diamonds-tanishq-ibja-in-delhi-mumbai-hyderabad-other-cities/articleshow/132530249.cms",
+      "published": "2026-07-21T07:14:41Z",
+      "description": "Gold rate: Gold prices saw an increase across major Indian cities on Tuesday, July 21, 2026. The India Bullion and Jewellers Association also noted an upward trend in gold rates. Consumers planning pu"
     },
     {
-      "title": "LIFT Announces Key Executive Appointments for Next Phase of Development",
+      "title": "Rs 1 lakh investment turns into Rs 3.57 lakh in gold bonds: SGB 2019-20 Series premature redemption date today, check if you need to pay capital gains tax",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/rs-1-lakh-investment-turns-into-rs-3-57-lakh-in-gold-bonds-sgb-2019-20-series-premature-redemption-date-today-check-if-you-need-to-pay-capital-gains-tax/articleshow/132528912.cms",
+      "published": "2026-07-21T05:49:21Z",
+      "description": "Sovereign gold bonds: The Reserve Bank of India has set the premature redemption price for SGB 2019-20 Series-VIII. This offers investors a significant absolute return of nearly 257 percent. Tax rules"
+    },
+    {
+      "title": "Gold prices rise by Rs 1,000/10g, silver up Rs 3,100/kg on hopes of Iran peace talks. Key levels to watch today",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-by-rs-1000/10g-silver-up-rs-3100/kg-on-hopes-of-iran-peace-talks-key-levels-to-watch-today/articleshow/132528204.cms",
+      "published": "2026-07-21T04:52:46Z",
+      "description": "Gold and silver prices extended gains for a second straight session on the MCX on Tuesday, supported by renewed U.S.-Iran diplomatic efforts.  However, gains were tempered by caution after Yemen's Hou"
+    },
+    {
+      "title": "欧林生物：重庆啤酒的痛，市场还没忘记",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3904814486718342",
+      "published": "2026-07-21T03:05:20Z",
+      "description": "作者 | 黄绎达\n 编辑 | 张帆\n 欧林生物是国内疫苗领域的龙头企业，依托极具稀缺性的超级细菌创新疫苗管线与稳健发展的破伤风疫苗，其A股股价自2024年开启了一轮强势上涨行情，区间最大涨幅超过500%。火热市场行情之下，公司于6月30日向港交所递交更新招股书，重启赴港上市计划，希望凭借创新疫苗管线的好预期与稀缺性，争取要到更高的估值。\n 而且，为了能够顺利登陆港股市场，针对历史税务事项完成合规整"
+    },
+    {
+      "title": "上市前夜 | 一季度净利是去年全年近三倍，深圳存储公司再闯港股IPO",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3904785488136070",
+      "published": "2026-07-21T02:33:43Z",
+      "description": "本文约3100字，建议阅读7分钟\n 作者 | 彭孝秋\n \n 编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第五期——芯天下。\r\n\n \n 7月9日，深圳存储芯片设计公司「芯天下」再次递表港交所。事实上，芯天下早在今年1月9日就递交过招股书，但6个月后失效。此次IPO由广发证券、中信证券联席保荐。\n 芯天下是谁？一家2014年成立于"
+    },
+    {
+      "title": "上市前夜 | 常州嘉轩智能冲港股IPO，全球第一也很缺钱",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3904783876982405",
+      "published": "2026-07-21T02:32:15Z",
+      "description": "本文约2800字，建议阅读6分钟\n 作者 | 彭孝秋\n \n 编者按：《上市前夜》栏目聚焦企业冲刺资本市场的关键时刻。每一份招股书里，都藏着一家企业上市前的野心、周期与隐忧。这是第六期——嘉轩智能。\r\n\n \n 近日，来自江苏常州的嘉轩智能向港交所递交招股书，东兴证券（香港）为独家保荐。\n 虽然这家公司不被大众所熟知，但按收入计，它的工业永磁直驱滚筒在全球市占率80.3%，前三名合计91.8%，而第二"
+    },
+    {
+      "title": "Eldorado Gold Announces Key Milestone: First Ore Crushed at Skouries",
       "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/20/3329454/0/en/LIFT-Announces-Key-Executive-Appointments-for-Next-Phase-of-Development.html",
-      "published": "2026-07-20T07:05:00Z",
-      "description": "VANCOUVER, British Columbia, July 20, 2026 (GLOBE NEWSWIRE) -- Li-FT Power Ltd. (“LIFT” or the “Company”) (TSXV: LIFT) (ASX: LFT) (OTCQX: LIFFF) (Frankfurt: WS0) is pleased to announce the appointment"
-    },
-    {
-      "title": "Formula 1 Belgian GP: Antonelli takes victory as Russell retires on Lap 1",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/auto/motorsports/formula-1-belgian-gp-antonelli-takes-victory-as-russell-retires-on-lap-1/articleshow/132508147.cms",
-      "published": "2026-07-20T06:39:55Z",
-      "description": "Kimi Antonelli secured victory at the Belgian Grand Prix, extending his championship lead. He now holds a significant 45-point advantage over Lewis Hamilton. George Russell dropped to third after reti"
-    },
-    {
-      "title": "Global Markets: Stocks unsettled as oil climbs, earnings loom for AI",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/global-markets-stocks-unsettled-as-oil-climbs-earnings-loom-for-ai/article71243989.ece",
-      "published": "2026-07-20T06:25:30Z",
-      "description": "Brent crude climbed above $90 a barrel ⁠for the first time in more than a month as the U.S. military started a ninth straight day of attacks against Iran, which in turn struck targets across the regio"
-    },
-    {
-      "title": "Global Market: ASML's AI-fuelled rally raises prospects of becoming Europe's first trillion-dollar company",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-asmls-ai-fuelled-rally-raises-prospects-of-becoming-europes-first-trillion-dollar-company/articleshow/132507707.cms",
-      "published": "2026-07-20T06:20:57Z",
-      "description": "The artificial intelligence boom has propelled Dutch chip equipment maker ASML to become Europe's most valuable listed technology company, with investors increasingly betting it could become the conti"
-    },
-    {
-      "title": "BitDelta Securities Secures Full CMA Category 5 License in the UAE, Establishes Regulated Local Office in Dubai",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/bitdelta-securities-secures-full-cma-category-5-license-in-the-uae-establishes-regulated-local-office-in-dubai-302828668.html",
-      "published": "2026-07-20T06:00:00Z",
-      "description": "The milestone marks the completion of BitDelta's regulatory journey with the UAE Capital Market Authority and the launch of a fully operational office in Business Bay, Dubai — reinforcing the firm's c"
-    },
-    {
-      "title": "在WAIC地下一层找机会的年轻人：光鲜是过去，眼下是生存",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3903396279125888",
-      "published": "2026-07-20T03:02:32Z",
-      "description": "6个年轻创业者在WAIC的故事\n 文｜温丽虹 王欣逸\n 编辑｜张雨忻\n 在上海世博的WAIC现场，想找初创公司的主场H4得颇费一番功夫。\n 经安检进入主会场，远远只看到会场墙壁上H1到H3的标识。跟随汹涌人群挤进一楼主展馆，几名忙着操纵具身智能机器人的知名厂商工程师翻了翻他们群聊里的展会地图，抱歉地告诉我，他们也不清楚：“这里只有H1到H3，没有H4。你是不是去分会场找找？”\n 属于初创团队的场地"
-    },
-    {
-      "title": "从烤披萨到拿快递，满场跑的机器人终于要进你家了｜WAIC 2026全面探展",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3902007640459145",
-      "published": "2026-07-20T01:20:44Z",
-      "description": "史上最热的WAIC都整了哪些活？看这一篇就够了。\n 文｜邓咏仪 周鑫雨 王欣逸 温丽虹\n 编辑｜张雨忻\n 如果你想知道今年的AI圈第一盛事热度如何，只要来上海感受逼近40度的高温，就能同频共振。\n 没有很热，只有更热。\n 7月17日，2026年世界人工智能大会在上海世博展览馆正式开幕。展览面积首次突破10万平方米，1100余家企业参展，3000余项展品集中亮相，超300款产品全球首发。从展商数量来"
-    },
-    {
-      "title": "红熊AI完成数亿元A+轮融资，基于AI“记忆科学”从To B服务延伸至To C应用｜36氪首发",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3899612612494976",
-      "published": "2026-07-20T01:00:00Z",
-      "description": "36氪获悉，红熊AI今日宣布完成数亿元人民币A+轮融资，投后估值接近30亿元人民币。本轮融资由浙江九纬私募基金、嘉兴彰元创业投资与老股东格睿丰联合投资。这是红熊AI在短短15个月内完成的第6轮融资。\n 据了解，本轮融资资金将主要用于持续深化AI记忆科学的类人大脑基础研究、加速OpenBear通用大模型与MemoryBear记忆科学系统的深度融合，以及扩大智能客服、智能营销、ChatBI与智能教育四"
+      "url": "https://www.globenewswire.com/news-release/2026/07/20/3330132/0/en/Eldorado-Gold-Announces-Key-Milestone-First-Ore-Crushed-at-Skouries.html",
+      "published": "2026-07-20T21:04:00Z",
+      "description": "Eldorado achieves first ore crushed at Skouries, with commissioning advancing and first copper-gold concentrate on track for Q3 2026...."
     }
   ],
   "tweets": []
