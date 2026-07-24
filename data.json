@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-07-23 08:16:45 UTC",
+  "updated_at": "2026-07-24 08:12:25 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4091.72,
+      "price_usd": 4047.16,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 58.82,
+      "price_usd": 58.17,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1628.87,
+      "price_usd": 1593.56,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1276.07,
+      "price_usd": 1242.95,
       "unit": "USD/盎司 oz"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.53,
+      "price_usd": 0.54,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Ulhasnagar civic body launches affordable ambulance service for citizens in city",
+      "title": "Sahil Arora: Web gives directors more control, television gives actors room to adapt",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/thane/ulhasnagar-civic-body-launches-affordable-ambulance-service-for-citizens-in-city/articleshow/132554424.cms",
-      "published": "2026-07-22T08:15:13Z",
-      "description": "The Ulhasnagar Municipal Corporation has launched an affordable ambulance service. Four new ambulances were added to the health department fleet on Tuesday. This initiative aims to strengthen emergenc"
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/sahil-arora-web-gives-directors-more-control-television-gives-actors-room-to-adapt/articleshow/132574798.cms",
+      "published": "2026-07-23T07:38:48Z",
+      "description": "Actor Sahil Arora sees the television and OTT divide narrowing significantly today. He believes the story and craft matter more than the platform for actors. Television projects demand marathon schedu"
     },
     {
-      "title": "Nestlé India posts strong Q1, flags commodity cost risks",
+      "title": "Haryana Human Rights Commission orders IGP-level probe into alleged custodial torture in Gurgaon",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/haryana-human-rights-commission-orders-igp-level-probe-into-alleged-custodial-torture-in-gurgaon/articleshow/132573897.cms",
+      "published": "2026-07-23T07:32:06Z",
+      "description": "The Haryana Human Rights Commission has taken suo motu cognisance of alleged custodial torture. An independent inquiry has been ordered by an officer not below the rank of IGP. Allegations suggest an "
+    },
+    {
+      "title": "After many years of campus apathy in Mumbai, have students found rallying point?",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/after-many-years-of-campus-apathy-in-mumbai-have-students-found-rallying-point/articleshow/132574375.cms",
+      "published": "2026-07-23T07:23:40Z",
+      "description": "Student politics in Mumbai has seen a significant decline in recent years. The absence of regular student elections has created a leadership vacuum. Many students now focus on careers and opportunitie"
+    },
+    {
+      "title": "ETF split FAQs: Why fund houses are splitting units and how investors benefit",
       "source": "Livemint",
-      "url": "https://www.livemint.com/companies/news/nestl-india-posts-strong-q1-flags-commodity-cost-risks-11784700844891.html",
-      "published": "2026-07-22T08:01:58Z",
-      "description": "The FMCG major reported a sharp jump in June-quarter profit and revenue on broad-based growth across categories and channels, but warned that cocoa, sugar and other raw material costs remain key risks"
+      "url": "https://www.livemint.com/money/personal-finance/etf-split-faqs-why-fund-houses-are-splitting-units-and-how-investors-benefit-11784782896775.html",
+      "published": "2026-07-23T06:54:44Z",
+      "description": "A split reduces the per-unit price of an ETF and increases the number of units an investor owns, while the total value of the investment remains the same. It is not a taxable event and tax applies onl"
     },
     {
-      "title": "Why are central banks buying more gold? Here's what it means for the global economy",
+      "title": "Gold rate today (July 23, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJA, Joyalukkas, Kalyan Jewellers, Tanishq, Malabar Gold & Diamonds in Delhi, Mumbai, Hyderabad, other cities",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/why-are-central-banks-buying-more-gold-explained/articleshow/132553871.cms",
-      "published": "2026-07-22T07:39:19Z",
-      "description": "Central Banks and Gold: Central banks globally are buying gold at a record pace.  This trend is driven by geopolitical risks and inflation concerns.  Gold offers diversification and a hedge against cu"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-july-23-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-ibja-joyalukkas-kalyan-jewellers-tanishq-malabar-gold-diamonds-in-delhi-mumbai-hyderabad-other-cities/articleshow/132573185.cms",
+      "published": "2026-07-23T06:15:32Z",
+      "description": "Gold rate: Gold prices saw an increase at major jewellery retailers today. Tanishq's 22k gold jewellery is priced at Rs 13,475 per gram. Other brands like Malabar Gold & Diamonds also show a price ris"
     },
     {
-      "title": "A股三大指数收盘涨跌不一",
+      "title": "Teck Reports Unaudited Second Quarter Results for 2026",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/23/3331869/0/en/Teck-Reports-Unaudited-Second-Quarter-Results-for-2026.html",
+      "published": "2026-07-23T05:01:00Z",
+      "description": "Strong second quarter earnings driven by operational consistency and disciplined execution Strong second quarter earnings driven by operational consistency and disciplined execution"
+    },
+    {
+      "title": "Silver and gold prices stage a cautious rebound — but analysts see slim hopes for a sustained rally",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/07/23/silver-gold-prices-rebound-rally-correction.html",
+      "published": "2026-07-23T05:00:01Z",
+      "description": "Precious metals have rallied in recent days, but analysts say prices could face a difficult path back to all-time highs achieved earlier this year."
+    },
+    {
+      "title": "不拼通用能力、聚焦端侧，腾讯副总裁林松涛：Marvis专注做好系统级操作",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3906465744573827",
-      "published": "2026-07-22T07:02:27Z",
-      "description": "德明利、中国巨石跌停，新易盛、长光华芯跌超7%，中际旭创跌超6%；半导体、光模块领跌，贵金属、海运涨幅居前；沪指涨0.07%，深成指跌1.42%，创业板指跌3.23%。"
+      "url": "https://36kr.com/p/3907676111983745",
+      "published": "2026-07-23T04:23:24Z",
+      "description": "文｜王欣逸\n 编辑｜张雨忻\n “技术突破决定AI能走多快，真正能否创造价值决定AI能走多远。”在今年的WAIC腾讯AI应用创新论坛上，腾讯公司副总裁林松涛分享了这样一个观点。\n 同样是“Claw热”之后上线的产品，腾讯的三大Agent产品WorkBuddy、QClaw和Marvis迎来了各自不同的命运。\n 首先是WorkBuddy，林松涛在此次论坛上公开表示，WorkBuddy的DAU已稳居国内效"
     },
     {
-      "title": "Competition for water poses risks to the energy transition",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/competition-for-water-poses-risks-to-the-energy-transition-302829473.html",
-      "published": "2026-07-22T07:00:00Z",
-      "description": "ICMM report maps where mining and metals facilities intersect with water stress, depletion, drought, flood and interannual variability risks LONDON, July 22, 2026 /PRNewswire/ -- Nearly two-thirds of "
+      "title": "Reserve Transparency Built Through Continuous Operation: Matrixdock Marks Two Years of Independent Verification",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/reserve-transparency-built-through-continuous-operation-matrixdock-marks-two-years-of-independent-verification/article71256283.ece",
+      "published": "2026-07-23T02:02:56Z",
+      "description": "Reserve Transparency Built Through Continuous Operation: Matrixdock Marks Two Years of Independent Verification"
     },
     {
-      "title": "22k gold rate today: Check 24k, 22k, 20k, 18k gold prices (July 22, 2026) at Tanishq, Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers and IBJA",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-24k-22k-20k-18k-gold-prices-july-22-2026-at-tanishq-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-ibja/articleshow/132552791.cms",
-      "published": "2026-07-22T06:42:49Z",
-      "description": "Gold rates today: Gold rates saw a significant increase across leading Indian jewellery brands today. Tanishq, Malabar Gold & Diamonds, and Joyalukkas reported higher prices for 22k gold. Consumers pl"
-    },
-    {
-      "title": "Vedanta shares drop 26% in two months, erase all post-demerger gains. Time to buy or better to avoid?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-shares-drop-26-in-two-months-erase-all-post-demerger-gains-time-to-buy-or-better-to-avoid/articleshow/132550874.cms",
-      "published": "2026-07-22T04:12:12Z",
-      "description": "Vedanta shares have fallen over twenty-six percent in two months.  This decline erased all gains made after the recent corporate demerger.  Analysts are still advising caution for potential investors "
-    },
-    {
-      "title": "Gold, silver rate live updates today: Global cues, Fed outlook and geopolitics set to steer gold, silver prices",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/132550128.cms",
-      "published": "2026-07-22T02:56:46Z",
-      "description": "Gold prices are influenced by a wide range of domestic and international factors, including physical demand, central bank buying, monetary policy exp"
-    },
-    {
-      "title": "Gold Holds Gain as Traders Weigh Impact of Oil Risks on Rates",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-pmn/gold-holds-gain-as-traders-weigh-impact-of-oil-risks-on-rates",
-      "published": "2026-07-22T00:22:49Z",
-      "description": "Gold held a gain as traders monitored threats to energy supply routes that risk stoking inflation and putting pressure on the Federal Reserve to hike interest rates."
-    },
-    {
-      "title": "8点1氪丨怡颗莓回应“检出致癌物”；美团否认上线“本科专送”“硕士优送”等配送服务；美方喊话三星电子、SK海力士分享超额利润",
+      "title": "8点1氪丨小红书回应IPO因前员工举报而受阻传闻：均不属实；谷歌Gemini跌出全球排名前十；耐克宣布终止滔搏线上经销权",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3906043683296648",
-      "published": "2026-07-21T23:55:35Z",
-      "description": "今日热点导览\n 字节XR业务PICO创始人周宏伟将卸任，李晓凯成为新任业务负责人\n ZARA客服回应“阔腿裤存安全隐患”：专员正在核实处理\n SpaceX将于8月4日发布上市后首份财报\n 恋与深空多平台账号停更\n 美国发布全球安全警示\n TOP3大新闻\n 怡颗莓回应“检出致癌物”：国内销售草莓来自云南\n 近日，全球最大浆果品牌“怡颗莓”（Driscoll's）陷入食品安全争议。美国消费者对其提起集"
+      "url": "https://36kr.com/p/3907461333144711",
+      "published": "2026-07-22T23:58:11Z",
+      "description": "今日热点导览\n 香港高院驳回宗馥莉上诉申请，维持冻结18亿美元资产\n 苹果拟推出月租iPhone，支持大多数机型\n SpaceX做空比例飙至32%，马斯克警告空头：几无存活可能\n 康美药业原实控人马兴田夫妇赔付13.96亿元\n 宇树科技王兴兴：具身智能的“ChatGPT时刻\"有望最快在两三年内到来\n 越疆科技回应招股书举报风波\n TOP3大新闻\n 小红书回应IPO传闻\n 近日，有较多传言称“小红书"
     }
   ],
   "tweets": []
