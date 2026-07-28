@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-07-27 09:36:25 UTC",
+  "updated_at": "2026-07-28 08:20:58 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4091.69,
+      "price_usd": 4047.84,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 59.19,
+      "price_usd": 57.58,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1634.34,
+      "price_usd": 1607.3,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1280.29,
+      "price_usd": 1271.79,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.54,
+      "price_usd": 0.53,
       "unit": "USD/吨 mt"
     },
     {
@@ -70,80 +70,80 @@
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.42,
+      "price_usd": 0.43,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "India races into Swiss watchmakers' top 15 as luxury demand ticks higher",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/industry/india-swiss-watch-imports-luxury-market-growth-tepa-top-15-11785038235760.html",
-      "published": "2026-07-26T08:17:36Z",
-      "description": "India has become one of the fastest-growing markets for Swiss watches, driven by first-time luxury buyers, premium retail expansion and a tariff-lowering trade pact, even as global Swiss watch exports"
-    },
-    {
-      "title": "As Zimbabwe's raw lithium ban pays off, ambitions grow",
+      "title": "Gold rate today (July 27, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJA, Joyalukkas, Tanishq, Kalyan Jewellers and Malabar Gold & Diamonds in Delhi, Mumbai, Hyderabad, other cities",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/as-zimbabwes-raw-lithium-ban-pays-off-ambitions-grow/articleshow/132637967.cms",
-      "published": "2026-07-26T07:41:49Z",
-      "description": "Zimbabwe's first plant to process clean-energy metal lithium -- of which it is Africa's top producer -- is up and running, a milestone in its expanding drive to stop the wholesale export of its raw mi"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-july-27-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-ibja-joyalukkas-tanishq-kalyan-jewellers-and-malabar-gold-diamonds-in-delhi-mumbai-hyderabad-other-cities/articleshow/132654205.cms",
+      "published": "2026-07-27T06:39:09Z",
+      "description": "Gold rate today: Gold prices saw an increase on Monday, July 27, 2026, across major cities. The India Bullion and Jewellers Association provided indicative rates for various gold purities. Consumers s"
     },
     {
-      "title": "Gold’s next rally could be taking shape: Why investors should focus on the bigger picture",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/golds-next-rally-could-be-taking-shape-why-investors-should-focus-on-the-bigger-picture/articleshow/132636524.cms",
-      "published": "2026-07-26T04:58:16Z",
-      "description": "Financial markets have a habit of testing investors’ conviction. When an asset pauses after a strong rally, the immediate narrative often shifts from optimism to skepticism. Gold is experiencing one s"
-    },
-    {
-      "title": "9点1氪｜宇树科技CEO王兴兴登上《时代》杂志封面；国家反诈中心App可一键检测AI生成痕迹；Claude Opus 5正式发布",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3910351337821318",
-      "published": "2026-07-25T00:57:52Z",
-      "description": "今日热点导览\n <ul>\n <li>小鹏主动召回3.35万辆X9，涉及前空气弹簧安全隐患</li>\n <li>微信撤回消息后可删除提示字</li>\n <li>怡颗莓莓果线下仍在售，公司称针对近期舆论正准备维权</li>\n <li>菲尔兹奖得主雅各布·齐默曼将加入OpenAI</li>\n <li>欧盟对谷歌处以8.9亿欧元罚款</li>\n </ul>\n TOP3大新闻\n 宇树科技CEO王兴兴登上《时"
-    },
-    {
-      "title": "Gentex Reports Second Quarter 2026 Financial Results",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/24/3332811/32299/en/Gentex-Reports-Second-Quarter-2026-Financial-Results.html",
-      "published": "2026-07-24T12:00:00Z",
-      "description": "ZEELAND, Mich., July 24, 2026 (GLOBE NEWSWIRE) -- Gentex Corporation (NASDAQ: GNTX), a leading supplier of digital vision, connected car, dimmable glass, fire protection technologies, medical devices,"
-    },
-    {
-      "title": "氪星晚报 ｜黄仁勋力挺中国AI开源模型；市场监管总局：深入整治“内卷式”竞争",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3909160840451465",
-      "published": "2026-07-24T11:00:26Z",
-      "description": "大公司：\n 字节跳动在中卫成立朔方星河科技公司，注册资本24亿\n 36氪获悉，天眼查App显示，近日，中卫朔方星河科技有限公司成立，法定代表人为田凯，注册资本24亿人民币，经营范围包括信息技术咨询服务、软件开发、信息系统集成服务、网络设备销售等。股东信息显示，该公司由北京字跳网络技术有限公司全资持股。\n 周生生、老凤祥等品牌金饰价格集体下调\n 当地时间7月23日，黄金白银大跌，油价狂飙。现货黄金跌"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Sensex, Nifty decline for fifth straight session; Auto, metal stocks drag",
+      "title": "Today’s Gold Rate in India July 27: Gold prices up in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-24th-july-2026/article71257579.ece",
-      "published": "2026-07-24T10:52:16Z",
-      "description": "Sensex, Nifty, Share Prices Highlights: Indian benchmark indices ended lower for a fifth straight session, with the Sensex falling 331 points and the Nifty losing 102 points, as concerns over US tarif"
+      "url": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-mumbai-chennai-ahmedabad-delhi-hyderabad-bengaluru-kolkata-gold-rates-july-27-2026/article71271573.ece",
+      "published": "2026-07-27T06:23:28Z",
+      "description": "Gold, Silver Rate Today: Today's gold prices of 22, 24 down across Indian cities on July 27"
     },
     {
-      "title": "A.I.S. Resources Unveils New Website and Corporate Presentation",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/a-i-s-resources-unveils-new-website-and-corporate-presentation",
-      "published": "2026-07-24T10:30:45Z",
-      "description": "VANCOUVER, British Columbia, July 24, 2026 (GLOBE NEWSWIRE) — A.I.S. Resources Limited (TSX-V: AIS • OTC PINK: AISSF • FRA:5YH) (the “Company” or “A.I.S.”) is pleased to announce the launch of its new"
-    },
-    {
-      "title": "带着AI去前线！36氪逛透WAIC，带你看懂2026全行业AI最真实走向！",
+      "title": "优衣库一边关店，一边赚钱",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3909033052722310",
-      "published": "2026-07-24T02:37:12Z",
-      "description": "7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海落下帷幕。黄浦江畔，热浪与人潮一起涌动。本届大会以“智能伙伴，共创未来”为主题，在世博、张江、西岸三地四馆展开。作为年度人工智能产业观察窗口，WAIC 2026留下的关键信号，不在于展陈规模本身，而在于AI叙事的重心变化：技术展示正在退居幕后，真实场景、系统交付与商业价值被推到台前。\n 这也是36氪“氪话未来”连续第三年"
+      "url": "https://36kr.com/p/3913266058826880",
+      "published": "2026-07-27T02:43:30Z",
+      "description": "作者 | 谢芸子\n 编辑 | 张帆\n 优衣库在悄悄赚钱。\n 近日，优衣库母公司迅销集团上调了对2026财年的盈利指引，预计全年销售额增长17%至3.97万亿日元，约合214亿欧元。对比来看，H&M集团2026财年预期营收在199亿至208亿欧元。\n 这意味着，迅销将取代H&M，成为全球第二的“自有服装品牌零售商”，仅次于Zara的母公司Inditex。支撑迅销这一高目标的，是刚刚发布的超预期财报。"
     },
     {
-      "title": "8点1氪丨段永平称10年内大概率不会卖泡泡玛特；中国数学家王虹、邓煜获得菲尔兹奖；宜家回应甩卖8处物业：不代表退出中国市场",
+      "title": "Gold, silver price live updates today: Gold prices jump over 1% as easing Middle East tensions drag oil lower, Fed decision in focus",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/132651209.cms",
+      "published": "2026-07-27T02:42:33Z",
+      "description": "Gold and silver ended last week in red amid an uncertain global backdrop marked by geopolitical risks, shifting inflation expectations and key centra"
+    },
+    {
+      "title": "Gold rises over 1% as oil tumbles on pause in US-Iran fighting",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-over-1-as-oil-tumbles-on-pause-in-us-iran-fighting/articleshow/132650713.cms",
+      "published": "2026-07-27T01:40:24Z",
+      "description": "Gold prices increased over one percent on Monday. A pause in Middle East hostilities lowered oil prices and inflation worries. This development supported gold's appeal as investors anticipated stable "
+    },
+    {
+      "title": "Global Market Today: Oil falls, Asian stocks rise as Iran tensions ease",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-oil-falls-asian-stocks-rise-as-iran-tensions-ease/articleshow/132650610.cms",
+      "published": "2026-07-27T01:24:20Z",
+      "description": "Global markets saw oil prices fall and stocks rise as US and Iran paused retaliatory strikes.  The dollar weakened against peers while Treasuries gained as inflation concerns receded.  Traders now awa"
+    },
+    {
+      "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3908881985901959",
-      "published": "2026-07-24T00:00:48Z",
-      "description": "今日热点导览\n <ul>\n <li>混元多模态理解负责人胡瀚离职创业，原团队或将聚焦世界模型</li>\n <li>极氪回应“海外锁车”事件</li>\n <li>客服回应滔搏暴力打折甩卖耐克库存：没有收到降价通知</li>\n <li>哈兰德和亚马尔2.2亿欧元身价破纪录</li>\n <li>张雪峰女儿再接手三家公司股份</li>\n </ul>\n TOP 3 大新闻\n 段永平：10年内大概率不会卖泡泡"
+      "url": "https://36kr.com/p/3910655616521348",
+      "published": "2026-07-27T01:20:17Z",
+      "description": "36氪获悉，家居音频品牌「MORROR ART」母公司无锡未来镜显示科技有限公司近日完成亿元级B+轮融资，由日初资本投资，老股东零一创投继续跟投，心流资本FlowCapital担任财务顾问。本轮资金将主要用于电子家居产品矩阵扩充、视觉音乐内容与软件系统建设、国内线下体验渠道拓展，以及旗下海外子品牌MorningBlues的全球化发展。\n 2024年，36氪曾率先报道MORROR ART的近亿元B轮"
+    },
+    {
+      "title": "Gold and silver retreat from peaks: Here's what the price reset means for your portfolio",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-and-silver-retreat-from-peaks-heres-what-the-price-reset-means-for-your-portfolio/articleshow/132618399.cms",
+      "published": "2026-07-27T01:00:00Z",
+      "description": "Gold and silver prices have significantly declined after reaching peaks earlier this year. This correction follows a period of strong gains driven by geopolitical risks and momentum. Experts suggest t"
+    },
+    {
+      "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3913118530819457",
+      "published": "2026-07-26T23:50:15Z",
+      "description": "今日热点导览\n <ul>\n <li>A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间</li>\n <li>360原董秘称离职7年股权激励未兑现，涉及金额约2649万</li>\n <li>马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋</li>\n <li>法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实</li>\n <li>韩国养老金7月首度净买入KOSPI成分股，为今年首次</li>\n <"
+    },
+    {
+      "title": "默茨能否让德国经济重振旗鼓？",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001110441",
+      "published": "2026-07-26T16:00:00Z",
+      "description": "更新于2026年7月27日 14:59\n袁杰为FT中文网撰稿\n\r\n\n\n\n曾经是欧洲增长引擎的德国，近年来却不得不面对一个严肃拷问：德国经济是否面临着深层次的失速风险，这又与德国的经济与社会制度有何关系？人口老龄化、能源政策、工业政策、福利国家等等，无一不是德国各界争论和博弈的焦点。\r\n\n在持续经济低迷背景下，德国“黑红执政联盟”7月2日推出包含34项举措的一揽子改革方案，旨在促进经济增长和保障就业"
     }
   ],
   "tweets": []
