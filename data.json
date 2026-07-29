@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-07-28 08:20:58 UTC",
+  "updated_at": "2026-07-29 08:26:54 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4047.84,
+      "price_usd": 4037.27,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 57.58,
+      "price_usd": 57.77,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1607.3,
+      "price_usd": 1594.42,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1271.79,
+      "price_usd": 1261.0,
       "unit": "USD/盎司 oz"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.54,
+      "price_usd": 0.53,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.43,
+      "price_usd": 0.42,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Gold rate today (July 27, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJA, Joyalukkas, Tanishq, Kalyan Jewellers and Malabar Gold & Diamonds in Delhi, Mumbai, Hyderabad, other cities",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-july-27-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-ibja-joyalukkas-tanishq-kalyan-jewellers-and-malabar-gold-diamonds-in-delhi-mumbai-hyderabad-other-cities/articleshow/132654205.cms",
-      "published": "2026-07-27T06:39:09Z",
-      "description": "Gold rate today: Gold prices saw an increase on Monday, July 27, 2026, across major cities. The India Bullion and Jewellers Association provided indicative rates for various gold purities. Consumers s"
+      "title": "GoldRock Metal Exchange Earns BBB Accreditation, Reinforces Transparency for Precious-Metals Buyers",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/28/3334027/0/en/GoldRock-Metal-Exchange-Earns-BBB-Accreditation-Reinforces-Transparency-for-Precious-Metals-Buyers.html",
+      "published": "2026-07-28T07:57:00Z",
+      "description": "GoldRock Metal Exchange Earns BBB Accreditation, Reinforces Transparency for Precious-Metals Buyers\n\n..."
     },
     {
-      "title": "Today’s Gold Rate in India July 27: Gold prices up in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad",
+      "title": "GATE 2027: IIT Madras revises Biotechnology syllabus, expands two-paper options for aspirants",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/gate-2027-iit-madras-revises-biotechnology-syllabus-expands-two-paper-options-for-aspirants/articleshow/132678150.cms",
+      "published": "2026-07-28T07:38:39Z",
+      "description": "IIT Madras has updated the GATE 2027 information brochure, revising the Biotechnology syllabus and expanding two-paper combinations for several engineering disciplines, including Robotics and Automati"
+    },
+    {
+      "title": "Woman dragged 100 metres by boyfriend after marriage dispute, video surfaces",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/patna/woman-dragged-100-metres-by-boyfriend-after-marriage-dispute-video-surfaces/articleshow/132677927.cms",
+      "published": "2026-07-28T07:33:22Z",
+      "description": "A young woman was dragged nearly one hundred meters by her boyfriend on a motorcycle. This incident occurred in Nalanda district after a dispute over marriage arose between the couple. A video of the "
+    },
+    {
+      "title": "11:11 | Apple overtakes Nvidia as world's most valuable company; HUL, Coal India slide after earnings - CNBC TV18",
+      "source": "CNBCTV18",
+      "url": "https://www.cnbctv18.com/business/apple-overtakes-nvidia-as-worlds-most-valuable-company-hul-coal-india-slide-after-earnings-19955425.htm",
+      "published": "2026-07-28T07:28:44Z",
+      "description": "11:11 | Apple overtakes Nvidia as world's most valuable company; HUL, Coal India slide after earnings - CNBC TV18cnbctv18.com"
+    },
+    {
+      "title": "Kerala jewellers seek review of gold, silver import duty structure",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-mumbai-chennai-ahmedabad-delhi-hyderabad-bengaluru-kolkata-gold-rates-july-27-2026/article71271573.ece",
-      "published": "2026-07-27T06:23:28Z",
-      "description": "Gold, Silver Rate Today: Today's gold prices of 22, 24 down across Indian cities on July 27"
+      "url": "https://www.thehindubusinessline.com/markets/gold/kerala-jewellers-seek-review-of-gold-silver-import-duty-structure/article71275849.ece",
+      "published": "2026-07-28T07:04:25Z",
+      "description": "Government data presented in Parliament indicate a sharp rise in gold and silver smuggling following the increase in import duty on the precious metals from 6% to 15%"
     },
     {
-      "title": "优衣库一边关店，一边赚钱",
+      "title": "半日主力资金加仓银行股，抛售电子、通信股",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3913266058826880",
-      "published": "2026-07-27T02:43:30Z",
-      "description": "作者 | 谢芸子\n 编辑 | 张帆\n 优衣库在悄悄赚钱。\n 近日，优衣库母公司迅销集团上调了对2026财年的盈利指引，预计全年销售额增长17%至3.97万亿日元，约合214亿欧元。对比来看，H&M集团2026财年预期营收在199亿至208亿欧元。\n 这意味着，迅销将取代H&M，成为全球第二的“自有服装品牌零售商”，仅次于Zara的母公司Inditex。支撑迅销这一高目标的，是刚刚发布的超预期财报。"
+      "url": "https://36kr.com/newsflashes/3914758594909569",
+      "published": "2026-07-28T03:38:22Z",
+      "description": "主力资金早间净流入银行、食品饮料、传媒、家用电器、公用事业、商贸零售等板块，净流出电子、通信、电力设备、机械设备、国防军工、有色金属等板块。具体到个股来看，贵州茅台、岩山科技、工商银行获净流入6.26亿元、6.22亿元、5.97亿元。净流出方面，中际旭创、东山精密、兆易创新遭抛售39.02亿元、34.55亿元、30.84亿元。（第一财经）"
     },
     {
-      "title": "Gold, silver price live updates today: Gold prices jump over 1% as easing Middle East tensions drag oil lower, Fed decision in focus",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/132651209.cms",
-      "published": "2026-07-27T02:42:33Z",
-      "description": "Gold and silver ended last week in red amid an uncertain global backdrop marked by geopolitical risks, shifting inflation expectations and key centra"
-    },
-    {
-      "title": "Gold rises over 1% as oil tumbles on pause in US-Iran fighting",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-over-1-as-oil-tumbles-on-pause-in-us-iran-fighting/articleshow/132650713.cms",
-      "published": "2026-07-27T01:40:24Z",
-      "description": "Gold prices increased over one percent on Monday. A pause in Middle East hostilities lowered oil prices and inflation worries. This development supported gold's appeal as investors anticipated stable "
-    },
-    {
-      "title": "Global Market Today: Oil falls, Asian stocks rise as Iran tensions ease",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-today-oil-falls-asian-stocks-rise-as-iran-tensions-ease/articleshow/132650610.cms",
-      "published": "2026-07-27T01:24:20Z",
-      "description": "Global markets saw oil prices fall and stocks rise as US and Iran paused retaliatory strikes.  The dollar weakened against peers while Treasuries gained as inflation concerns receded.  Traders now awa"
-    },
-    {
-      "title": "36氪首发｜家居音频品牌「MORROR ART」完成亿元级B+轮融资，日初资本领投、零一创投跟投",
+      "title": "重估老铺黄金",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3910655616521348",
-      "published": "2026-07-27T01:20:17Z",
-      "description": "36氪获悉，家居音频品牌「MORROR ART」母公司无锡未来镜显示科技有限公司近日完成亿元级B+轮融资，由日初资本投资，老股东零一创投继续跟投，心流资本FlowCapital担任财务顾问。本轮资金将主要用于电子家居产品矩阵扩充、视觉音乐内容与软件系统建设、国内线下体验渠道拓展，以及旗下海外子品牌MorningBlues的全球化发展。\n 2024年，36氪曾率先报道MORROR ART的近亿元B轮"
+      "url": "https://36kr.com/p/3914752931976583",
+      "published": "2026-07-28T03:37:18Z",
+      "description": "撰文｜张晶\n 2026年的老铺黄金，正在面对一场严重的割裂。\n 一边是线下门店人气未减。7月23日，北京SKP开启七夕预售第一天，老铺黄金门店前再次排起长队，上演了一场疯狂星期四。商场还没开门，已有顾客在大门外排起长队，准备冲一把老铺黄金。熟悉SKP的人曾说，SKP现在的业绩，在老铺。\n 另一边割裂的是，老铺黄金在资本市场的持续低迷。从今年年初至今，老铺股价大幅下跌，较2025年7月创下的历史高点"
     },
     {
-      "title": "Gold and silver retreat from peaks: Here's what the price reset means for your portfolio",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-and-silver-retreat-from-peaks-heres-what-the-price-reset-means-for-your-portfolio/articleshow/132618399.cms",
-      "published": "2026-07-27T01:00:00Z",
-      "description": "Gold and silver prices have significantly declined after reaching peaks earlier this year. This correction follows a period of strong gains driven by geopolitical risks and momentum. Experts suggest t"
-    },
-    {
-      "title": "8点1氪丨携程因滥用市场支配地位被罚没51.79亿元；长鑫科技今日上市；日本技术人员拆解宇树机器人：短期内赶不上中国",
+      "title": "CME集团黄金期货启动24/7交易，首个周末交易额达6000万美元",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3913118530819457",
-      "published": "2026-07-26T23:50:15Z",
-      "description": "今日热点导览\n <ul>\n <li>A股内幕交易新规定今日起实施，收紧了“合法交易”抗辩空间</li>\n <li>360原董秘称离职7年股权激励未兑现，涉及金额约2649万</li>\n <li>马斯克点赞黄仁勋首条X推文，称全力支持黄仁勋</li>\n <li>法院回应LV因楼盘外立面装饰侵权起诉开发商：不属实</li>\n <li>韩国养老金7月首度净买入KOSPI成分股，为今年首次</li>\n <"
+      "url": "https://36kr.com/newsflashes/3914546436953474",
+      "published": "2026-07-28T00:12:27Z",
+      "description": "当地时间7月27日，芝加哥商品交易所集团（CME Group）宣布，其黄金期货24/7交易机制启动后的首个周末交易活跃，约1.5万份1盎司黄金期货合约成交，名义价值约6000万美元。CME表示，全球事件不会因周末停止，全天候交易机制可帮助投资者随时管理黄金敞口。CME数据显示，今年以来其黄金期货日均名义交易额达到创纪录的1250亿美元。1盎司黄金期货于2025年1月推出，2026年上半年日均成交量"
     },
     {
-      "title": "默茨能否让德国经济重振旗鼓？",
-      "source": "Ftchinese.com",
-      "url": "https://www.ftchinese.com/story/001110441",
-      "published": "2026-07-26T16:00:00Z",
-      "description": "更新于2026年7月27日 14:59\n袁杰为FT中文网撰稿\n\r\n\n\n\n曾经是欧洲增长引擎的德国，近年来却不得不面对一个严肃拷问：德国经济是否面临着深层次的失速风险，这又与德国的经济与社会制度有何关系？人口老龄化、能源政策、工业政策、福利国家等等，无一不是德国各界争论和博弈的焦点。\r\n\n在持续经济低迷背景下，德国“黑红执政联盟”7月2日推出包含34项举措的一揽子改革方案，旨在促进经济增长和保障就业"
+      "title": "Extremely high-grade copper-gold Core Zone to drive early production",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/07/27/3333948/0/en/Extremely-high-grade-copper-gold-Core-Zone-to-drive-early-production.html",
+      "published": "2026-07-27T23:50:00Z",
+      "description": "Exceptional intersections in the Core Zone will be included in the imminent resource update and PEA/Scoping Study; FireFly joins the S&P/ASX 200 Index Exceptional intersections in the Core Zone will b"
+    },
+    {
+      "title": "8点1氪丨李斌现身长鑫科技答谢晚宴；瑞幸打赢“泰国瑞幸”，获赔近2000万；澳门政府发布美素佳儿奶粉铅超标事件最新检测结果",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3914520847570307",
+      "published": "2026-07-27T23:36:45Z",
+      "description": "今日热点导览\n <ul>\n <li>2026暑期档电影票房已突破57亿</li>\n <li>茅台多地直营店：53度、500ml飞天茅台售价提至1719元/瓶</li>\n <li>长鑫科技上市半日，7名高管晋升“10亿身家”</li>\n <li>巴西总统卢拉：美持续在关税上对巴施压系战略错误</li>\n <li>苹果公司称多项服务出现故障，包括App Store</li>\n </ul>\n TOP 3"
     }
   ],
   "tweets": []
