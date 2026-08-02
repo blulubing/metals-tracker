@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01 08:08:05 UTC",
+  "updated_at": "2026-08-02 08:09:46 UTC",
   "prices": [
     {
       "code": "gold",
@@ -76,18 +76,60 @@
   ],
   "news": [
     {
-      "title": "Today’s Gold Rate in India July 31: Gold prices up in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-mumbai-chennai-ahmedabad-delhi-hyderabad-bengaluru-kolkata-gold-rates-july-31-2026/article71289376.ece",
-      "published": "2026-07-31T07:15:29Z",
-      "description": "Gold, Silver Rate Today: Today's gold prices of 22, 24 up across Indian cities on July 31"
+      "title": "多家品牌金饰价格下调 老凤祥克价1225元",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3920385804922498",
+      "published": "2026-08-01T03:30:32Z",
+      "description": "国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所下调，老凤祥报价1225元/克，单日降14元；老庙黄金报价1226元/克，单日降14元；周生生报价1225元/克，单日降15元；周大福报价1226元/克，单日降12元。"
     },
     {
-      "title": "Neeraj Chopra's Rs 30 crore Haryana bungalow has tractors parked alongside luxury cars; here's a look inside his three-storey home",
+      "title": "Forex kitty grows $6 billion as dollar count rises",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/neeraj-chopras-rs-30-crore-haryana-bungalow-has-tractors-parked-alongside-luxury-cars-heres-a-look-inside-his-three-storey-home/articleshow/132758470.cms",
-      "published": "2026-07-31T07:04:59Z",
-      "description": "Neeraj Chopra's Rs 30 crore bungalow in Haryana's Panipat district is a three-storey property with a lush garden, a trophy room, and a garage that holds everything from a customised Rs 3 crore Audi RS"
+      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/forex-kitty-grows-6-billion-as-dollar-count-rises/articleshow/132779664.cms",
+      "published": "2026-08-01T02:04:40Z",
+      "description": "India's foreign exchange reserves saw a significant rise of $6.1 billion. This increase occurred in the week ending July 24, reaching $682.3 billion. Inflows from the RBI's FCNR(B) deposit scheme cont"
+    },
+    {
+      "title": "Nasdaq Future Today Live: Nasdaq Jumps 1.2% as Amazon Surges 13%, Tech Stocks Lead Wall Street Higher & Oil Prices Rises After July’s Sharp Selloff",
+      "source": "The Sunday Guardian",
+      "url": "https://sundayguardianlive.com/business/nasdaq-future-today-live-nasdaq-jumps-12-as-amazon-surges-13-tech-stocks-lead-wall-street-higher-oil-prices-rises-after-julys-sharp-selloff-heres-what-investors-should-know-250749/",
+      "published": "2026-08-01T01:34:13Z",
+      "description": "Nasdaq Future Today Live: Nasdaq Jumps 1.2% as Amazon Surges 13%, Tech Stocks Lead Wall Street Higher & Oil Prices Rises After July’s Sharp Selloffsundayguardianlive.com"
+    },
+    {
+      "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3920241240419720",
+      "published": "2026-08-01T00:38:59Z",
+      "description": "今日热点导览\n 字节跳动发布视频创作模型Seedance 2.5\n 长鑫科技市值突破4万亿\n 人形机器人现“电量焦虑”，行业正在积极探索换电等不同路线\n 韩国KOSPI指数上涨18%\n Anthropic称AI模型在测试期间误侵三家真实机构系统\n TOP3大新闻\n 马斯克回应特斯拉剥离中国业务\n 7月31日，对于特斯拉正考虑拆分中国业务的消息，特斯拉CEO马斯克在回应第三方转发评论时回复：“这是假"
+    },
+    {
+      "title": "ORVANA SUBSIDIARY IN BOLIVIA REPORTS Q3 FY2026 FINANCIAL RESULTS",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/orvana-subsidiary-in-bolivia-reports-q3-fy2026-financial-results-302840428.html",
+      "published": "2026-07-31T23:30:00Z",
+      "description": "TSX:ORV OTCQX: ORVMF TORONTO, July 31, 2026 /PRNewswire/ -- Orvana Minerals Corp. (TSX: ORV) (OTCQX: ORVMF) (\"Orvana\" or the \"Company\") announces the filing at the Bolivian stock market by its subsidi"
+    },
+    {
+      "title": "DENARIUS METALS ANNOUNCES CLOSING OF TRANSACTION TO RETIRE ITS CONVERTIBLE DEBENTURES",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/denarius-metals-announces-closing-of-transaction-to-retire-its-convertible-debentures-302840408.html",
+      "published": "2026-07-31T21:58:00Z",
+      "description": "TORONTO, July 31, 2026 /PRNewswire/ -- Denarius Metals Corp. (Cboe CA: DMET) (OTCQX: DNRSF) (\"Denarius Metals\" or the \"Company\") announced today the closing of the previously announced transaction (th"
+    },
+    {
+      "title": "Skull Ridge Gold Corp. Closes Second and Final Tranche, Completing $122,500 Non-Brokered Private Placement",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/skull-ridge-gold-corp-closes-second-and-final-tranche-completing-122500-non-brokered-private-placement",
+      "published": "2026-07-31T21:38:47Z",
+      "description": "VANCOUVER, British Columbia, July 31, 2026 (GLOBE NEWSWIRE) — Skull Ridge Gold Corp. (CSE: SKUL) (”Skull Ridge” or the “Company”) is pleased to announce that it has closed the second and final tranche"
+    },
+    {
+      "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3919378312670857",
+      "published": "2026-07-31T10:01:34Z",
+      "description": "大公司：\n 途牛：8月中上旬或将迎新一轮客流高峰\n 36氪获悉，进入8月后，学生假期仍有充足余量，亲子游、避暑游、海滨海岛游等需求持续释放，预计将在8月中上旬迎来新一轮客流高峰。途牛截至目前最新预订数据显示，暑期后半程，上海、北京、成都、三亚、广州、南京、贵阳、杭州、重庆、青岛等目的地预计将成为途牛境内游用户更为热门的选择。\n Prada集团上半年营收增长16%，Miu Miu增速显著放缓\n 20"
     },
     {
       "title": "Copper may hit new high as AI demand collides with deadly storms, strategists say",
@@ -102,48 +144,6 @@
       "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-share-price-target-why-brokerages-see-up-to-24-upside-after-q1-earnings/articleshow/132755711.cms",
       "published": "2026-07-31T04:10:49Z",
       "description": "Vedanta's net profit surged 72% year-on-year to Rs 5,473 crore. EBITDA also jumped 98% to a record Rs 8,469 crore. The company announced Arun Misra as its new CEO, effective August first. Nuvama maint"
-    },
-    {
-      "title": "Korea’s leverage trap has an echo in India",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/koreas-leverage-trap-has-an-echo-in-india/articleshow/132753077.cms",
-      "published": "2026-07-31T01:04:31Z",
-      "description": "Indian brokers are lending large sums to retail investors, creating systemic risk.  Retail investors are borrowing heavily to buy stocks at stretched valuations.  This margin debt has ballooned signif"
-    },
-    {
-      "title": "8点1氪丨宇树科技：8月10日网下申购；字节跳动成立新的豆包产品团队；美股三大指数集体收涨，微软创近18年以来最大单日涨幅",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3918776472022402",
-      "published": "2026-07-30T23:48:40Z",
-      "description": "今日热点导览\n 韩股创纪录的重挫，全球投资者却未进场抄底\n 月之暗面变更为股份公司\n 国内品牌金饰价格集体上涨\n 高通9月1日起上调芯片价格，涨幅达到两位数\n 特斯拉全球第1000万辆电动车下线\n TOP3大新闻\n 宇树科技：初步询价日为8月5日，网下申购日为8月10日\n 7月30日，宇树科技公告，公司首次公开发行股票并在科创板上市，本次发行采用战略配售、网下发行与网上发行相结合的方式进行。本次拟"
-    },
-    {
-      "title": "Eldorado Gold Announces Board Leadership Transition",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/30/3336498/0/en/Eldorado-Gold-Announces-Board-Leadership-Transition.html",
-      "published": "2026-07-30T21:02:00Z",
-      "description": "Eldorado completes its Board transition, appointing Dan Myerson Chair and Patrick Godin Lead Independent Director as Steven Reid steps down...."
-    },
-    {
-      "title": "Eldorado Gold Reports Solid Q2 2026 Financial and Operational Results; Skouries On Track for Q3 2026",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/eldorado-gold-reports-solid-q2-2026-financial-and-operational-results-skouries-on-track-for-q3-2026",
-      "published": "2026-07-30T21:01:55Z",
-      "description": "(All amounts expressed in U.S. dollars unless otherwise noted) VANCOUVER, British Columbia, July 30, 2026 (GLOBE NEWSWIRE) — Eldorado Gold Corporation (“Eldorado”, “Eldorado Gold” or “the Company”) (T"
-    },
-    {
-      "title": "DPM Metals Reports Record Q2 2026 Free Cash Flow and Earnings; Vareš On-Track to Achieve Full Production by Year-end 2026",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/dpm-metals-reports-record-q2-2026-free-cash-flow-and-earnings-vares-on-track-to-achieve-full-production-by-year-end-2026",
-      "published": "2026-07-30T21:01:13Z",
-      "description": "TORONTO, July 30, 2026 (GLOBE NEWSWIRE) — DPM Metals Inc. (TSX: DPM, ASX: DPM) (ARBN: 689370894) (“DPM” or the “Company”) announced its operating and financial results for the second quarter and first"
-    },
-    {
-      "title": "Eldorado Gold Provides Update on Executive Leadership Transition",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/07/30/3336496/0/en/Eldorado-Gold-Provides-Update-on-Executive-Leadership-Transition.html",
-      "published": "2026-07-30T21:01:00Z",
-      "description": "Eldorado confirms Sept. 30 leadership changes: Milau becomes CEO, Burns joins the Board, and executive responsibilities are realigned...."
     }
   ],
   "tweets": []
