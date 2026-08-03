@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-08-02 08:09:46 UTC",
+  "updated_at": "2026-08-03 09:29:29 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4043.21,
+      "price_usd": 4052.5,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 57.56,
+      "price_usd": 58.17,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1640.1,
+      "price_usd": 1654,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1279.99,
+      "price_usd": 1279.77,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.54,
+      "price_usd": 0.53,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,25 +76,39 @@
   ],
   "news": [
     {
+      "title": "Muthoot Finance reports 25% rise in Q1 profit, announces leadership transition",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/muthoot-finance-reports-25-rise-in-q1-profit-announces-leadership-transition/articleshow/132803408.cms",
+      "published": "2026-08-02T08:06:08Z",
+      "description": "Muthoot Finance reported a 25% year-on-year rise in standalone net profit to Rs 2,550 crore for the June quarter, driven by robust growth in its gold loan business. The company also announced a leader"
+    },
+    {
+      "title": "Indian cigarette makers ITC, Godfrey Phillips, VST Industries see revenue and profit decline after tax hike",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/tobacco/indian-cigarette-makers-itc-godfrey-phillips-vst-industries-see-revenue-and-profit-decline-after-tax-hike/articleshow/132802271.cms",
+      "published": "2026-08-02T07:18:13Z",
+      "description": "Leading Indian cigarette firms reported revenue and profit declines in the recent quarter. This downturn followed significant government tax increases on tobacco products. ITC, Godfrey Phillips India,"
+    },
+    {
+      "title": "Higher tobacco taxes weigh on cigarette makers’ Q1 performance",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/companies/higher-tobacco-taxes-weigh-on-cigarette-makers-q1-performance/article71297276.ece",
+      "published": "2026-08-02T06:54:53Z",
+      "description": "ITC, Godfrey Phillips India, and VST Industries reported declines in net revenue, volumes and profitability"
+    },
+    {
+      "title": "谁能拯救信仰崩塌的投资者？",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001110493",
+      "published": "2026-08-01T16:00:00Z",
+      "description": "更新于2026年8月2日 20:42\nFT中文网经济主编、公号econhomo主理人徐瑾\n\r\n\n\n\n如何看当下的市场？尤其在7月大跌之后。\r\n\n高情商会说，这是一轮科技牛市；低情商会说，这是一场结构性熊市。而真正残酷的，是夹在中间的那群人——那些刚刚自以为建立自身投资体系的人，却可能正在经历一场无声的信仰崩解，无论是信仰价值投资的还是拥抱科技坚定站在“光”中的，都在遭遇了残酷的现实。\r\n\n牛市中，"
+    },
+    {
       "title": "多家品牌金饰价格下调 老凤祥克价1225元",
       "source": "36kr.com",
       "url": "https://36kr.com/newsflashes/3920385804922498",
       "published": "2026-08-01T03:30:32Z",
       "description": "国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所下调，老凤祥报价1225元/克，单日降14元；老庙黄金报价1226元/克，单日降14元；周生生报价1225元/克，单日降15元；周大福报价1226元/克，单日降12元。"
-    },
-    {
-      "title": "Forex kitty grows $6 billion as dollar count rises",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/forex/forex-news/forex-kitty-grows-6-billion-as-dollar-count-rises/articleshow/132779664.cms",
-      "published": "2026-08-01T02:04:40Z",
-      "description": "India's foreign exchange reserves saw a significant rise of $6.1 billion. This increase occurred in the week ending July 24, reaching $682.3 billion. Inflows from the RBI's FCNR(B) deposit scheme cont"
-    },
-    {
-      "title": "Nasdaq Future Today Live: Nasdaq Jumps 1.2% as Amazon Surges 13%, Tech Stocks Lead Wall Street Higher & Oil Prices Rises After July’s Sharp Selloff",
-      "source": "The Sunday Guardian",
-      "url": "https://sundayguardianlive.com/business/nasdaq-future-today-live-nasdaq-jumps-12-as-amazon-surges-13-tech-stocks-lead-wall-street-higher-oil-prices-rises-after-julys-sharp-selloff-heres-what-investors-should-know-250749/",
-      "published": "2026-08-01T01:34:13Z",
-      "description": "Nasdaq Future Today Live: Nasdaq Jumps 1.2% as Amazon Surges 13%, Tech Stocks Lead Wall Street Higher & Oil Prices Rises After July’s Sharp Selloffsundayguardianlive.com"
     },
     {
       "title": "9点1氪丨马斯克回应特斯拉剥离中国业务；国内航线燃油附加费将再次下调；中国最高薪本科专业易主",
@@ -109,20 +123,6 @@
       "url": "https://www.prnewswire.com/news-releases/orvana-subsidiary-in-bolivia-reports-q3-fy2026-financial-results-302840428.html",
       "published": "2026-07-31T23:30:00Z",
       "description": "TSX:ORV OTCQX: ORVMF TORONTO, July 31, 2026 /PRNewswire/ -- Orvana Minerals Corp. (TSX: ORV) (OTCQX: ORVMF) (\"Orvana\" or the \"Company\") announces the filing at the Bolivian stock market by its subsidi"
-    },
-    {
-      "title": "DENARIUS METALS ANNOUNCES CLOSING OF TRANSACTION TO RETIRE ITS CONVERTIBLE DEBENTURES",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/denarius-metals-announces-closing-of-transaction-to-retire-its-convertible-debentures-302840408.html",
-      "published": "2026-07-31T21:58:00Z",
-      "description": "TORONTO, July 31, 2026 /PRNewswire/ -- Denarius Metals Corp. (Cboe CA: DMET) (OTCQX: DNRSF) (\"Denarius Metals\" or the \"Company\") announced today the closing of the previously announced transaction (th"
-    },
-    {
-      "title": "Skull Ridge Gold Corp. Closes Second and Final Tranche, Completing $122,500 Non-Brokered Private Placement",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/skull-ridge-gold-corp-closes-second-and-final-tranche-completing-122500-non-brokered-private-placement",
-      "published": "2026-07-31T21:38:47Z",
-      "description": "VANCOUVER, British Columbia, July 31, 2026 (GLOBE NEWSWIRE) — Skull Ridge Gold Corp. (CSE: SKUL) (”Skull Ridge” or the “Company”) is pleased to announce that it has closed the second and final tranche"
     },
     {
       "title": "氪星晚报 ｜Prada集团上半年营收增长16%，Miu Miu增速显著放缓；浪潮数据发布自研AI数据操作系统",
