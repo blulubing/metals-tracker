@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-08-04 08:25:30 UTC",
+  "updated_at": "2026-08-05 08:23:54 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4062.36,
+      "price_usd": 4164.99,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 58.97,
+      "price_usd": 61.54,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1662.3,
+      "price_usd": 1760.46,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1287.65,
+      "price_usd": 1377.47,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.54,
+      "price_usd": 0.53,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.53,
+      "price_usd": 0.54,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.43,
+      "price_usd": 0.44,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Zinc India to remain at the driver seat for Vedanta, says ICICI Securities but cuts target price to Rs 345",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/zinc-india-to-remain-at-the-driver-seat-for-vedanta-says-icici-securities-but-cuts-target-price-to-rs-345/articleshow/132825125.cms",
-      "published": "2026-08-03T08:13:31Z",
-      "description": "ICICI Securities cut Vedanta’s target price to Rs 345 from Rs 369, while retaining a positive view on zinc and silver prices. Zinc India remains the key growth driver, contributing 95% of Vedanta’s EB"
-    },
-    {
-      "title": "Gold rate today (August 3, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJA, Joyalukkas, Tanishq, Kalyan Jewellers and Malabar Gold & Diamonds in Delhi, Mumbai, Hyderabad, other cities",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-august-3-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-ibja-joyalukkas-tanishq-kalyan-jewellers-and-malabar-gold-diamonds-in-delhi-mumbai-hyderabad-other-cities/articleshow/132824731.cms",
-      "published": "2026-08-03T08:05:09Z",
-      "description": "Gold price today: Gold prices remained steady on Monday, August 3, 2026, across major Indian jewelry brands. The India Bullion and Jewellers Association provided indicative rates for various gold puri"
-    },
-    {
-      "title": "Muthoot Finance shares crash 10% after Q1 results. What Motilal, other brokerages said",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-shares-crash-10-after-q1-results-what-motilal-other-brokerages-said/articleshow/132823062.cms",
-      "published": "2026-08-03T06:59:24Z",
-      "description": "Muthoot Finance shares tumbled over 10% after the gold loan lender reported slower AUM growth and margin pressure in the June quarter. While brokerages flagged intensifying competition and weaker prof"
-    },
-    {
-      "title": "India’s gold headache far from cured after 60 days of breather",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/indias-gold-headache-far-from-cured-after-60-days-of-breather/articleshow/132820704.cms",
-      "published": "2026-08-03T06:28:31Z",
-      "description": "India's gold jewellery demand is rebounding after a weak first half hit by soaring prices, higher import duties and Adhik Maas. Retailers report stronger footfall, wedding demand and rising festive bo"
-    },
-    {
-      "title": "Thangamayil Jewellery shares crash 32% in a week. What should investors do?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/thangamayil-jewellery-shares-crash-32-in-a-week-what-should-investors-do/articleshow/132821479.cms",
-      "published": "2026-08-03T06:20:54Z",
-      "description": "Thangamayil Jewellery shares fell 5%, extending their one-week decline to 32%, after the company said it saw no visible improvement in sales during the first 28 days of Q2 FY27. The jeweller attribute"
-    },
-    {
-      "title": "Inside information: The Board of Directors of Aspo Plc has approved a demerger plan concerning the separation of ESL Shipping into a new listed company",
-      "source": "GlobeNewswire",
-      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337215/0/en/Inside-information-The-Board-of-Directors-of-Aspo-Plc-has-approved-a-demerger-plan-concerning-the-separation-of-ESL-Shipping-into-a-new-listed-company.html",
-      "published": "2026-08-03T05:50:00Z",
-      "description": "Aspo Plc                Inside information                3 August 2026 at 8:50 EEST  Inside information: The Board of Directors of Aspo Plc has approved a..."
-    },
-    {
-      "title": "36氪专访 | 对话大疆系Ebike公司：卖4万一辆的高端车，营收突破10亿，今年要翻四倍",
+      "title": "东山精密涨停背后：36氪企业全情报捕捉市场机会",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3923367465266824",
-      "published": "2026-08-03T05:36:21Z",
-      "description": "文｜张子怡\n 编辑｜袁斯来\n 从大疆走出的 Ebike 公司 Amflow 进入赛道的时机谈不上好，那一年，不少中国Ebike厂商已选择战略性放弃或者转向美国市场。没人想到，它能将6499欧元起的高端Ebike卖出3万辆。\n 36氪独家获悉，从大疆独立的Ebike公司Amflow，整体营收已突破10亿元。同样从大疆诞生的Ebike助力系统品牌Avinox，已经有60多个客户，目前也已从大疆拆分独立"
+      "url": "https://36kr.com/p/3924913931679877",
+      "published": "2026-08-04T08:18:21Z",
+      "description": "36氪企业全情报带你发现涨停背后的机会\n 开篇，先给大家送个福利\n 最近不少朋友在体验企业全情报，我们也准备了一波奖品回馈大家。\n 体验小程序，完成15秒阅读+任意订阅一家企业即可免费参与抽奖。\n 奖品有影石Insta360 Luna Ultra、运动相机挂脖支架、36氪航天徽章。\n 祝大家都能中奖，点击即可参与：\n https://lucky.nocode.com/v2/s/8VhKju6Ehg"
     },
     {
-      "title": "Gold gains as oil slumps after Trump holds off on Iran attack",
+      "title": "SGB redemption August 2026: RBI lists 6 Sovereign Gold Bond series eligible for early exit; check dates and eligibility",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/sgb-redemption-august-2026-rbi-lists-6-sovereign-gold-bond-series-eligible-for-early-exit-check-dates-and-eligibility-11785827611701.html",
+      "published": "2026-08-04T07:26:15Z",
+      "description": "RBI's August 2026 redemption calendar lists six Sovereign Gold Bond tranches eligible for premature exit after the mandatory five-year holding period. Investors must apply within the prescribed window"
+    },
+    {
+      "title": "MPC can judiciously use its tolerance band to look past temporary, supply-driven inflation spikes",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/columns/rbi-mpc-august-2026-rate-hike-outlook-inflation-oil-prices-11785817937029.html",
+      "published": "2026-08-04T06:22:23Z",
+      "description": "Rate hikes are more likely to be reactive than proactive, becoming a real possibility only if core inflation sustains above 4.5% in a broad-based manner.&nbsp;"
+    },
+    {
+      "title": "Thangamayil share selloff continues: Stock drops 5% despite Rs 344 crore sales in first 3 days of August",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-gains-as-oil-slumps-after-trump-holds-off-on-iran-attack/articleshow/132816408.cms",
-      "published": "2026-08-03T01:58:25Z",
-      "description": "Gold prices saw an increase on Monday as oil prices declined. This shift occurred after President Donald Trump delayed further action against Iran. Eased concerns about inflation and interest rates in"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/thangamayil-share-selloff-continues-stock-drops-5-despite-rs-344-crore-sales-in-first-3-days-of-august/articleshow/132847383.cms",
+      "published": "2026-08-04T05:31:43Z",
+      "description": "Thangamayil Jewellery shares fell significantly despite robust August sales figures. The company reported strong sales during the auspicious Aadi Perukku festival. However, weak guidance and market un"
     },
     {
-      "title": "Another batch of high-grade assays for FireFly’s resource update and economic studies",
+      "title": "Chinese Dip-Buying Bolsters Gold as Prices Find Floor at $4,000",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/another-batch-of-high-grade-assays-for-fireflys-resource-update-and-economic-studies",
-      "published": "2026-08-03T01:56:51Z",
-      "description": "Latest high-grade results such as 11.5m @ 11.1% copper and 2.1g/t gold (13.2% CuEq) are expected to form part of the production profile for the early years of a Green Bay re-start KEY POINTS Latest dr"
+      "url": "https://financialpost.com/pmn/business-pmn/chinese-dip-buying-bolsters-gold-as-prices-find-floor-at-4000",
+      "published": "2026-08-04T05:08:12Z",
+      "description": "Chinese institutional investors have swooped on gold in recent weeks, helping to arrest the precious metal’s decline and keep prices above the key threshold of $4,000 an ounce."
     },
     {
-      "title": "一周世界舆论聚焦：特朗普与李在明的麻烦",
-      "source": "Ftchinese.com",
-      "url": "https://www.ftchinese.com/story/001110507",
-      "published": "2026-08-02T16:00:00Z",
-      "description": "更新于2026年8月3日 12:20\nFT中文网专栏作家曹辛\n\r\n\n\n\n上周，特朗普声称哈马斯与以色列已达成哈马斯解除武装、以色列从加沙撤军的协议，以及韩国总统李在明民意下跌并有意修宪连任这两件事，成为世界乃至域内舆论的焦点之一。\r\n\n巴以冲突问题上，事实证明，加沙战争的结束仍然面临诸多障碍和各方的附加条件，同时实施起来时间周期漫长。韩国问题上，李在明支持率下跌以及似乎有意修宪连任这两件事，既是公"
+      "title": "ETMarkets NRI Talk| Valuation reset and cooling AI trade are bringing global investors back to India: Mitesh Shah",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/etmarkets-nri-talk-valuation-reset-and-cooling-ai-trade-are-bringing-global-investors-back-to-india-mitesh-shah/articleshow/132844303.cms",
+      "published": "2026-08-04T02:23:39Z",
+      "description": "A moderation in valuations, coupled with the cooling of the global AI-driven rally, has made India a more compelling investment destination, according to Mitesh Shah, Chief Executive Officer, Equirus "
+    },
+    {
+      "title": "中金：8月A股行情可能进入大幅回调后的修复阶段",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3924502785095816",
+      "published": "2026-08-04T00:59:36Z",
+      "description": "36氪获悉，中金公司指出，7月下旬以来指数震荡盘整，行情可能进入大幅回调后的修复阶段。建议近期开始关注两条主线：1、景气成长仍需要精挑细选：科技风格剧烈调整之后拥挤度已经有明显回落，景气度足够高的产业能够实现分子端高增长对冲分母端拖累的效果，AI基础设施相关环节，如光通信、PCB等环节，高景气状态在今年确定性仍较强，半导体及算力等领域较多公司则仍需要关注基本面与估值的匹配程度，科技成长后市或呈现分"
+    },
+    {
+      "title": "8点1氪丨宗馥莉同父异母兄弟出任新公司董事长；DeepSeek升至全球调用量第一；iPhone被曝最高或涨价超千元",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3924467692927369",
+      "published": "2026-08-04T00:18:04Z",
+      "description": "今日热点导览\n OpenAI下一代模型Astra曝光，以2000美元算力成本破解十项数学难题\n 江小白起诉东方甄选结果公布：东方甄选构成商业诋毁判赔30万\n iPhone被曝最高或涨价超千元，折叠屏iPhone至少2000美元起售\n 多平台牛蛙抽检抗生素超标，有样本检测出禁用兽药\n 王思聪卸任万达产业投资公司董事\n TOP3大新闻\n 宗馥莉同父异母兄弟出任新公司董事长，实际控制人为杜建英\n 据天眼"
+    },
+    {
+      "title": "Metallus Announces Second-Quarter 2026 Results",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/metallus-announces-second-quarter-2026-results-302841486.html",
+      "published": "2026-08-03T20:10:00Z",
+      "description": "Net sales of $341.0 million, up 11% sequentially and 12% year over year, while net income increased to $8.9 million from $5.4 million in the first quarter and $3.7 million in the prior-year quarter Ad"
+    },
+    {
+      "title": "Bitget Integrates TradingView Charts for Commodities (CFD) Market",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/08/03/3337823/0/en/Bitget-Integrates-TradingView-Charts-for-Commodities-CFD-Market.html",
+      "published": "2026-08-03T17:58:00Z",
+      "description": "Bitget upgrades its CFD platform with native TradingView integration, combining advanced charting and order execution in one interface...."
     }
   ],
   "tweets": []
