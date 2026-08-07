@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-08-06 08:21:14 UTC",
+  "updated_at": "2026-08-07 07:02:51 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4269.07,
+      "price_usd": 4294.86,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 61.9,
+      "price_usd": 63.61,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1750.64,
+      "price_usd": 1754.53,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1372.22,
+      "price_usd": 1379.36,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.46,
+      "price_usd": 0.47,
       "unit": "USD/吨 mt"
     },
     {
@@ -58,13 +58,13 @@
     {
       "code": "lme_zinc",
       "name": "LME锌 Zinc 3M",
-      "price_usd": 0.11,
+      "price_usd": 0.12,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.53,
+      "price_usd": 0.52,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "22k gold rate today: Check 18k, 20k, 22k, 24k gold prices (August 5, 2026) at Tanishq, Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers and IBJA",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-18k-20k-22k-24k-gold-prices-august-5-2026-at-tanishq-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-ibja/articleshow/132902661.cms",
-      "published": "2026-08-05T07:41:05Z",
-      "description": "On Wednesday, August 5, 2026, gold prices surged, catching the attention of both buyers and investors alike. Tanishq and Malabar Gold & Diamonds, two prominent names in the jewellery industry, announc"
+      "title": "Narwal Launches New Freo 20, Bringing Flagship Real-Time Self-Cleaning Mopping to More Homes with a Distinctive Woven-Textured Finish",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/narwal-launches-new-freo-20-bringing-flagship-real-time-self-cleaning-mopping-to-more-homes-with-a-distinctive-woven-textured-finish-302844652.html",
+      "published": "2026-08-06T07:00:00Z",
+      "description": "The Freo 20 Combines FlowWash Mopping System and Industry-First Dock Design with a Limited-Time Launch Price of $899.99, Marking the Strategic Adjustment of Its Classic Freo Series NEW YORK, Aug. 6, 2"
     },
     {
-      "title": "Trident Resources Provides La Ronge Gold Belt Exploration Update and Appoints Indigenous Engagement Consultant",
+      "title": "HTET 2025 result update: BSEH announces biometric verification dates for candidates; check here",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/htet-2025-result-update-bseh-announces-biometric-verification-dates-for-candidates-check-here/articleshow/132987460.cms",
+      "published": "2026-08-06T06:59:49Z",
+      "description": "HTET 2025 result: The Haryana Board of School Education has announced biometric verification for HTET 2025 candidates from August 10 to August 12, 2026. The process is mandatory before result declarat"
+    },
+    {
+      "title": "Global Market: China stocks hold steady as gold miners gain, tech shares slip; Hong Kong dragged by insurers",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-hold-steady-as-gold-miners-gain-tech-shares-slip-hong-kong-dragged-by-insurers/articleshow/132986610.cms",
+      "published": "2026-08-06T06:47:50Z",
+      "description": "The Chinese stock market showed minimal fluctuation as gold shares increased, counteracting declines in tech. Meanwhile, Hong Kong faced market pressure as insurer stocks plummeted sharply. Investors "
+    },
+    {
+      "title": "'Will move SC': Tarun Tejpal after Bombay HC conviction in rape case",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/goa/will-move-sc-tarun-tejpal-after-bombay-hc-conviction-in-rape-case/articleshow/132985865.cms",
+      "published": "2026-08-06T06:38:38Z",
+      "description": "The Bombay high court convicted Tarun Tejpal of rape and outraging modesty. This verdict overturned his previous acquittal by a Goa sessions court. Tejpal stated he is a political victim and will appe"
+    },
+    {
+      "title": "Assam MBBS admission 2026 begins for special quota seats; DME sets August 11 deadline",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/assam-mbbs-admission-2026-begins-for-special-quota-seats-dme-sets-august-11-deadline/articleshow/132985550.cms",
+      "published": "2026-08-06T06:35:20Z",
+      "description": "The Directorate of Medical Education (DME), Assam, has invited applications for MBBS and BDS admissions under special quota categories for the 2026–27 academic session. Eligible candidates must submit"
+    },
+    {
+      "title": "Gold prices jump Rs 6,400/10 grams in 3 days, silver soars Rs 11,000/kg as oil slide continues. Big rally ahead?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-jump-rs-6400/10-grams-in-3-days-silver-soars-rs-11000/kg-as-oil-slide-continues-big-rally-ahead/articleshow/132983009.cms",
+      "published": "2026-08-06T05:26:04Z",
+      "description": "Gold and silver prices rose for the third straight session on MCX, helped by a weaker US dollar, lower Treasury yields and easing oil prices amid hopes of the Strait of Hormuz reopening. Silver gained"
+    },
+    {
+      "title": "Predictive Discovery Limited: General Meeting Webinar Invite",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/trident-resources-provides-la-ronge-gold-belt-exploration-update-and-appoints-indigenous-engagement-consultant",
-      "published": "2026-08-05T07:32:31Z",
-      "description": "Vancouver, BC, Aug. 05, 2026 (GLOBE NEWSWIRE) — Trident Resources Corp. (TSXV: ROCK) (OTCQB: TRDTF) (Frankfurt: 6BP0) (“Trident” or the “Company”) is pleased to provide an update on the current drilli"
+      "url": "https://financialpost.com/globe-newswire/predictive-discovery-limited-general-meeting-webinar-invite",
+      "published": "2026-08-06T05:17:53Z",
+      "description": "QUEBEC CITY, Aug. 06, 2026 (GLOBE NEWSWIRE) — Predictive Discovery Limited (ASX:PDI, TSX:PDI) (“PDI” or the “Company”) advises shareholders that registration is now open to attend the webinar of the C"
     },
     {
-      "title": "HSBC picks ICICI Bank, Titan, 8 other stocks to ride a potential $25 billion FII inflow as AI trade volatility looms",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hsbc-picks-icici-bank-titan-8-other-stocks-to-ride-a-potential-25-billion-fii-inflow-as-ai-trade-volatility-looms/articleshow/132902179.cms",
-      "published": "2026-08-05T07:30:02Z",
-      "description": "HSBC expects India to attract up to $25 billion in foreign equity inflows if global investors rebalance portfolios away from volatile AI-driven markets. The brokerage has identified 10 preferred stock"
-    },
-    {
-      "title": "MCX shares fall 4% after Q1 profit falls 22% QoQ to Rs 413 crore. What should investors do?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/mcx-shares-fall-4-after-q1-profit-falls-22-qoq-to-rs-413-crore-what-should-investors-do/articleshow/132900030.cms",
-      "published": "2026-08-05T07:03:21Z",
-      "description": "Multi Commodity Exchange shares fell after reporting lower June quarter profit and revenue.  Profit after tax declined twenty-two percent sequentially while revenue also dropped.  However, profit surg"
-    },
-    {
-      "title": "Gold prices rise Rs 3,000/ 10 grams, silver jumps Rs 8,400/kg in 2 days on Iran peace deal hopes. What should you do?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-3000/-10-grams-silver-jumps-rs-8400/kg-in-2-days-on-iran-peace-deal-hopes-what-should-you-do/articleshow/132897729.cms",
-      "published": "2026-08-05T06:34:56Z",
-      "description": "Gold and silver prices extended gains for a second straight session as easing oil prices and hopes of a U.S.-Iran peace deal lifted sentiment. Gold has risen Rs 3,000 per 10 grams and silver Rs 8,400 "
-    },
-    {
-      "title": "印度央行连续第五次会议维持基准利率不变，称核心通胀仍“温和”",
+      "title": "A股三大指数午间休盘涨跌不一，煤炭股走强",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3926196525529217?f=rss",
-      "published": "2026-08-05T05:33:38Z",
-      "description": "印度央行周三连续第五次会议将基准利率维持在5.25%不变，尽管该国零售通胀已超过印度央行设定的4%中期目标。印度央行这一决定符合市场预期，该行指出，总体通胀 “如预期般小幅升至目标水平上方”，但剔除贵金属后的核心通胀依旧 “保持温和”。（新浪财经）"
+      "url": "https://36kr.com/newsflashes/3927493382420872?f=rss",
+      "published": "2026-08-06T03:32:52Z",
+      "description": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指涨0.01%，深成指跌0.52%，创业板指跌0.67%；煤炭、贵金属、石油化工板块领涨，昊华能源涨停，招金黄金涨超4%，恒力石化涨超1%；教育、电工电网、汽车板块跌幅居前，中公教育跌超6%，北汽蓝谷、长城电工跌超5%。"
     },
     {
-      "title": "RBI's rate, GDP and inflation verdict also comes with a stark warning",
+      "title": "Ardee Industries IPO Day 2: GMP at 29%; issue subscribed 3.08 times so far. Should you subscribe?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/rbis-rate-gdp-inflation-verdict-comes-with-a-stark-warning-mpc-meeting-rbi-repo-rate-rbi-measures-on-war-gdp-inflation-rbi-warning-on-war-measures-amid-iran-us/articleshow/132889324.cms",
-      "published": "2026-08-05T05:23:34Z",
-      "description": "2026 RBI MPC Meeting: The Reserve Bank of India maintained its repo rate at 5.25 percent on Wednesday. This decision marks the fourth consecutive meeting without a change in the key interest rate. The"
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-day-2-gmp-at-29-issue-subscribed-3-08-times-so-far-should-you-subscribe/articleshow/132979574.cms",
+      "published": "2026-08-06T02:51:08Z",
+      "description": "On the first day of bidding, the IPO was subscribed 3.08 times, with bids received for more than 17.98 crore shares against the 5.84 crore shares on offer. Retail investors showed strong enthusiasm, w"
     },
     {
-      "title": "RBI Inflation FY2026-27: Malhotra & Co trim FY27 inflation forecast to 5% as easing crude prices offer relief",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/rbi-inflation-fy2026-27-malhotra-co-trim-fy27-inflation-forecast-to-5-as-easing-crude-prices-offer-relief/articleshow/132889736.cms",
-      "published": "2026-08-05T04:43:50Z",
-      "description": "RBI Inflation 2026-27 Forecast: The RBI's Monetary Policy Committee cut its FY27 inflation forecast to 5% from 5.1%, citing softer global crude oil prices and easing supply-side pressures. RBI Governo"
-    },
-    {
-      "title": "恒指午间休盘涨0.11%，恒生科技指数涨1.09%",
+      "title": "36氪首发 | 清华系物理AI基建初创再融数千万美元，数据设备进入全球化规模交付",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3926106980284803?f=rss",
-      "published": "2026-08-05T04:02:32Z",
-      "description": "36氪获悉，恒指午间休盘涨0.11%，恒生科技指数涨1.09%；半导体、贵金属板块领涨，龙资源涨近40%，中国黄金国际涨超10%，兆易创新涨超8%，澜起科技涨超5%；石油石化、银行板块跌幅居前，中华燃气跌超6%，山东墨龙跌超3%；南向资金净买入7029.51万港元。"
-    },
-    {
-      "title": "A股三大指数午间休盘集体上涨，半导体板块走强",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3926077838112896?f=rss",
-      "published": "2026-08-05T03:32:54Z",
-      "description": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨1.34%，深成指涨1.56%，创业板涨0.89%；贵金属板块领涨，四川黄金、盛达资源涨停，赤峰黄金涨近7%；半导体板块走强，中巨芯、正帆科技涨停，中微公司、长川科技涨超10%；银行股走弱，中信银行跌超2%。"
+      "url": "https://36kr.com/p/3927411140425861?f=rss",
+      "published": "2026-08-06T02:09:31Z",
+      "description": "图源/企业\n \n 本文约3100字，建议阅读6分钟\r\n\n \n 作者丨欧雪\n 编辑丨袁斯来\n 硬氪获悉，Physical AI数据基础设施服务商Ropedia近期已完成数千万美元天使轮融资。本轮融资由多家深耕东南亚市场的头部风险投资机构领投，多家一线美元基金及智能制造、大模型产业方共同参与投资。在此前一轮融资中，与Google、a16z、NVIDIA、Amazon相关的投资人亦有参与，由深渡资本担任"
     }
   ],
   "tweets": []
