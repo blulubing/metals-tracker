@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-08-07 07:02:51 UTC",
+  "updated_at": "2026-08-08 06:38:42 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4294.86,
+      "price_usd": 4341.91,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 63.61,
+      "price_usd": 63.6,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1754.53,
+      "price_usd": 1736.4,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1379.36,
+      "price_usd": 1379.44,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.47,
+      "price_usd": 0.46,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,13 +40,13 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.52,
+      "price_usd": 0.53,
       "unit": "USD/吨 mt"
     },
     {
       "code": "zinc",
       "name": "锌 Zinc",
-      "price_usd": 0.12,
+      "price_usd": 0.11,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.52,
+      "price_usd": 0.53,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Narwal Launches New Freo 20, Bringing Flagship Real-Time Self-Cleaning Mopping to More Homes with a Distinctive Woven-Textured Finish",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/narwal-launches-new-freo-20-bringing-flagship-real-time-self-cleaning-mopping-to-more-homes-with-a-distinctive-woven-textured-finish-302844652.html",
-      "published": "2026-08-06T07:00:00Z",
-      "description": "The Freo 20 Combines FlowWash Mopping System and Industry-First Dock Design with a Limited-Time Launch Price of $899.99, Marking the Strategic Adjustment of Its Classic Freo Series NEW YORK, Aug. 6, 2"
-    },
-    {
-      "title": "HTET 2025 result update: BSEH announces biometric verification dates for candidates; check here",
+      "title": "Gold prices jump Rs 6,400/10 grams this week, silver soars Rs 11,502/kg amid peace deal optimism. Big rally ahead?",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/htet-2025-result-update-bseh-announces-biometric-verification-dates-for-candidates-check-here/articleshow/132987460.cms",
-      "published": "2026-08-06T06:59:49Z",
-      "description": "HTET 2025 result: The Haryana Board of School Education has announced biometric verification for HTET 2025 candidates from August 10 to August 12, 2026. The process is mandatory before result declarat"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-jump-rs-6400/10-grams-this-week-silver-soars-rs-11502/kg-amid-peace-deal-optimism-big-rally-ahead/articleshow/133023913.cms",
+      "published": "2026-08-07T06:06:25Z",
+      "description": "Gold and silver prices climbed on the MCX on Friday, extending their recent gains as easing oil prices and expectations around U.S. interest rates supported sentiment. Investors are now awaiting the U"
     },
     {
-      "title": "Global Market: China stocks hold steady as gold miners gain, tech shares slip; Hong Kong dragged by insurers",
+      "title": "200% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into nearly Rs 3 lakh",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-stocks-hold-steady-as-gold-miners-gain-tech-shares-slip-hong-kong-dragged-by-insurers/articleshow/132986610.cms",
-      "published": "2026-08-06T06:47:50Z",
-      "description": "The Chinese stock market showed minimal fluctuation as gold shares increased, counteracting declines in tech. Meanwhile, Hong Kong faced market pressure as insurer stocks plummeted sharply. Investors "
+      "url": "https://economictimes.indiatimes.com/wealth/invest/200-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-lakh/articleshow/133023610.cms",
+      "published": "2026-08-07T06:03:33Z",
+      "description": "The Reserve Bank of India has announced the redemption price for the SGB 2020-21 Series-XI, set at Rs 14,564 per unit. Investors seeking to redeem their bonds beforehand can do so starting August 7, 2"
     },
     {
-      "title": "'Will move SC': Tarun Tejpal after Bombay HC conviction in rape case",
+      "title": "22k gold rate today: Check 18k, 20k, 22k, 24k gold prices (August 7, 2026) at Tanishq, Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers and IBJA",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/goa/will-move-sc-tarun-tejpal-after-bombay-hc-conviction-in-rape-case/articleshow/132985865.cms",
-      "published": "2026-08-06T06:38:38Z",
-      "description": "The Bombay high court convicted Tarun Tejpal of rape and outraging modesty. This verdict overturned his previous acquittal by a Goa sessions court. Tejpal stated he is a political victim and will appe"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/22k-gold-rate-today-check-18k-20k-22k-24k-gold-prices-august-7-2026-at-tanishq-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-ibja/articleshow/133022764.cms",
+      "published": "2026-08-07T05:31:47Z",
+      "description": "GOld rate today: Gold prices saw a slight decrease today, August 7, 2026. Leading jewellery brands like Tanishq and Malabar Gold & Diamonds adjusted their rates. Tanishq maintained its 22-karat gold p"
     },
     {
-      "title": "Assam MBBS admission 2026 begins for special quota seats; DME sets August 11 deadline",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/assam-mbbs-admission-2026-begins-for-special-quota-seats-dme-sets-august-11-deadline/articleshow/132985550.cms",
-      "published": "2026-08-06T06:35:20Z",
-      "description": "The Directorate of Medical Education (DME), Assam, has invited applications for MBBS and BDS admissions under special quota categories for the 2026–27 academic session. Eligible candidates must submit"
-    },
-    {
-      "title": "Gold prices jump Rs 6,400/10 grams in 3 days, silver soars Rs 11,000/kg as oil slide continues. Big rally ahead?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-jump-rs-6400/10-grams-in-3-days-silver-soars-rs-11000/kg-as-oil-slide-continues-big-rally-ahead/articleshow/132983009.cms",
-      "published": "2026-08-06T05:26:04Z",
-      "description": "Gold and silver prices rose for the third straight session on MCX, helped by a weaker US dollar, lower Treasury yields and easing oil prices amid hopes of the Strait of Hormuz reopening. Silver gained"
-    },
-    {
-      "title": "Predictive Discovery Limited: General Meeting Webinar Invite",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/predictive-discovery-limited-general-meeting-webinar-invite",
-      "published": "2026-08-06T05:17:53Z",
-      "description": "QUEBEC CITY, Aug. 06, 2026 (GLOBE NEWSWIRE) — Predictive Discovery Limited (ASX:PDI, TSX:PDI) (“PDI” or the “Company”) advises shareholders that registration is now open to attend the webinar of the C"
-    },
-    {
-      "title": "A股三大指数午间休盘涨跌不一，煤炭股走强",
+      "title": "齿科3D打印龙头下场做消费级产品，众筹超7000万元｜Insight全球",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3927493382420872?f=rss",
-      "published": "2026-08-06T03:32:52Z",
-      "description": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指涨0.01%，深成指跌0.52%，创业板指跌0.67%；煤炭、贵金属、石油化工板块领涨，昊华能源涨停，招金黄金涨超4%，恒力石化涨超1%；教育、电工电网、汽车板块跌幅居前，中公教育跌超6%，北汽蓝谷、长城电工跌超5%。"
+      "url": "https://36kr.com/p/3928866062416001?f=rss",
+      "published": "2026-08-07T02:49:37Z",
+      "description": "作者 | 张子怡\n 编辑 | 袁斯来\n \n 编者按：当出海越来越成为一家中国公司核心战略时，如何征战全球市场就成为一个极其专业的话题。在全球化的演变中，已有不少中国品牌站立潮头。鉴于此，硬氪特推出「Insight全球」专栏，从品牌成长与变迁，探索中国品牌出海的前沿方向与时代契机，为出海玩家与行业提供思考与启发。\r\n\n 这是我们专栏第63期——黑格科技从齿科数字化市场起步，在一次次产品调整和技术迭代"
     },
     {
-      "title": "Ardee Industries IPO Day 2: GMP at 29%; issue subscribed 3.08 times so far. Should you subscribe?",
+      "title": "Ardee Industries IPO Day 3: GMP at 27%; issue subscribed over 14 times so far. Should you subscribe?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-day-2-gmp-at-29-issue-subscribed-3-08-times-so-far-should-you-subscribe/articleshow/132979574.cms",
-      "published": "2026-08-06T02:51:08Z",
-      "description": "On the first day of bidding, the IPO was subscribed 3.08 times, with bids received for more than 17.98 crore shares against the 5.84 crore shares on offer. Retail investors showed strong enthusiasm, w"
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/ardee-industries-ipo-day-3-gmp-at-27-issue-subscribed-over-14-times-so-far-should-you-subscribe/articleshow/133019197.cms",
+      "published": "2026-08-07T02:24:05Z",
+      "description": "By the close of the second day, the public issue had been subscribed 14.16 times, with bids received for significantly more than the 5.84 crore shares available. Retail investors remained particularly"
     },
     {
-      "title": "36氪首发 | 清华系物理AI基建初创再融数千万美元，数据设备进入全球化规模交付",
+      "title": "Gold heads for strongest week since January, US payrolls data in focus",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-heads-for-strongest-week-since-january-us-payrolls-data-in-focus/articleshow/133018951.cms",
+      "published": "2026-08-07T02:01:01Z",
+      "description": "Gold prices found stability on Friday, approaching their most significant weekly increase since January. Soothing concerns over inflation, a drop in oil prices has influenced interest rate expectation"
+    },
+    {
+      "title": "PU Prime 推出 XAUUSD247，扩大黄金交易机遇",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/08/07/3340905/0/zh-hans/pu-prime-%E6%8E%A8%E5%87%BA-xauusd247-%E6%89%A9%E5%A4%A7%E9%BB%84%E9%87%91%E4%BA%A4%E6%98%93%E6%9C%BA%E9%81%87.html",
+      "published": "2026-08-07T02:00:00Z",
+      "description": "毛里求斯埃贝内, Aug. 07, 2026 (GLOBE NEWSWIRE) -- 黄金依然是全球交易最活跃的避险资产之一，其价格持续对地缘政治局势发展、央行政策决策、通胀预期以及投资者情绪变化作出快速反应。投资者日益需要应对全天候波动的市场，为此 PU Prime 推出了 XAUUSD247，使客户能够在 MT5 上每周 7 天、每天 24 小时交易黄金。"
+    },
+    {
+      "title": "36氪首发 | 拿下头部消费电子客户订单，这家超高精度金属3D打印公司完成Pre-A轮融资",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3927411140425861?f=rss",
-      "published": "2026-08-06T02:09:31Z",
-      "description": "图源/企业\n \n 本文约3100字，建议阅读6分钟\r\n\n \n 作者丨欧雪\n 编辑丨袁斯来\n 硬氪获悉，Physical AI数据基础设施服务商Ropedia近期已完成数千万美元天使轮融资。本轮融资由多家深耕东南亚市场的头部风险投资机构领投，多家一线美元基金及智能制造、大模型产业方共同参与投资。在此前一轮融资中，与Google、a16z、NVIDIA、Amazon相关的投资人亦有参与，由深渡资本担任"
+      "url": "https://36kr.com/p/3928769679686019?f=rss",
+      "published": "2026-08-07T01:11:41Z",
+      "description": "图源/企业\n \n 本文约2600字，建议阅读6分钟\r\n\n \n 作者丨欧雪\n 编辑丨袁斯来\n 硬氪获悉，苏州德悟科技有限公司（下称“德悟科技”）已于近期完成数千万元Pre-A轮融资，本轮由金沙江联合资本和金投致源共同投资。资金将主要用于超高精度SLM设备的迭代研发、打印服务产线扩产及市场拓展。\n 德悟科技2024年5月成立于苏州，专注于超高精度金属3D打印SLM（选区激光熔化）设备的研发、生产、销售"
+    },
+    {
+      "title": "全球流动性收紧节奏暂缓，券商研判下半年或出现边际改善",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3928760461998466?f=rss",
+      "published": "2026-08-07T01:11:09Z",
+      "description": "国际油价大涨引发通胀数据走强，使得市场对全球流动性收紧预期不断升温，但随着国际油价回落，美联储、日本央行、欧洲央行、英国央行等全球主要经济体央行7月均宣布按兵不动，一定程度上使得市场的忧虑有所降温。下半年全球流动性环境还将出现怎样的变化？多位业内人士表示，若地缘局势缓和带动油价下行、通胀压力缓解，那么市场此前过度定价的加息预期可能会有修正，流动性收紧压力有望得到阶段性缓解。对投资者而言，科技与高端"
+    },
+    {
+      "title": "India to launch digital gold regulatory framework next year",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/india-to-launch-digital-gold-regulatory-framework-next-year/articleshow/133018302.cms",
+      "published": "2026-08-07T00:46:47Z",
+      "description": "The Indian government is likely to roll out regulations for digital gold in the coming year, backed by discussions involving critical ministries and the Reserve Bank of India. The Digital Precious Met"
     }
   ],
   "tweets": []
