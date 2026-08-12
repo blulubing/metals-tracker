@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-08-11 06:53:37 UTC",
+  "updated_at": "2026-08-12 07:13:13 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4365.39,
+      "price_usd": 4404.51,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 64.53,
+      "price_usd": 66.0,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1744.2,
+      "price_usd": 1755.63,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1370.81,
+      "price_usd": 1370.89,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.53,
+      "price_usd": 0.52,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.53,
+      "price_usd": 0.52,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Gold rate today (August 10, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJA, Joyalukkas, Tanishq, Kalyan Jewellers and Malabar Gold & Diamonds in Delhi, Mumbai, Hyderabad, other cities",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-august-10-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-ibja-joyalukkas-tanishq-kalyan-jewellers-and-malabar-gold-diamonds-in-delhi-mumbai-hyderabad-other-cities/articleshow/133088158.cms",
-      "published": "2026-08-10T06:51:42Z",
-      "description": "Gold rates today: Gold prices saw an increase on Monday, August 10, 2026. If you are planning to buy gold jewellery, here is a look at the latest 22K gold rates at Tanishq, Malabar Gold & Diamonds, Jo"
-    },
-    {
-      "title": "Global stock rally extends, oil advances on Iran: Markets Wrap",
-      "source": "Bloomberg",
-      "url": "https://www.bloomberg.com/news/articles/2026-08-09/stock-market-today-dow-s-p-live-updates",
-      "published": "2026-08-10T06:26:27Z",
-      "description": "Global stocks traded near a record high as Asian shares tracked Wall Street higher after soft US jobs data eased expectations for a Federal Reserve interest-rate hike"
-    },
-    {
-      "title": "Gold eases from seven-week peak, US inflation data looms",
+      "title": "India bonds skid as crude soars, Treasuries fall",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-eases-from-seven-week-peak-us-inflation-data-looms/article71327016.ece",
-      "published": "2026-08-10T05:27:21Z",
-      "description": "Gold ‌slipped on Monday as investors took profits after prices ​hit a seven-week high in the ⁠previous\nsession; US gold futures ‌fell ⁠0.2 per cent to $4,390.60 on Monday"
+      "url": "https://www.thehindubusinessline.com/markets/india-bonds-skid-as-crude-soars-treasuries-fall/article71331293.ece",
+      "published": "2026-08-11T07:10:57Z",
+      "description": "Indian government bonds decline, following a sell-off in US Treasuries as rising crude oil prices stoked inflation fears ahead of the release of inflation data"
     },
     {
-      "title": "Gold looks beyond war as inflation, monetary policy steer prices: Report",
+      "title": "Today’s Gold Rate in India August 11: Gold prices up in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-looks-beyond-war-as-inflation-monetary-policy-steer-prices-report/article71327006.ece",
-      "published": "2026-08-10T05:07:02Z",
-      "description": "Markets increasingly focused less on the geopolitical headlines themselves and more on their impact on inflation, real interest rates and monetary policy expectations"
+      "url": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-mumbai-chennai-ahmedabad-delhi-hyderabad-bengaluru-kolkata-gold-rates-august-11-2026/article71331334.ece",
+      "published": "2026-08-11T07:04:14Z",
+      "description": "Gold, Silver Rate Today: Today's gold prices of 22, 24 up across Indian cities on August 11"
     },
     {
-      "title": "Silver climbs Rs 2,100/kg, but gold prices fall as focus shifts to inflation data amid Iran war. Key levels to track",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-climbs-rs-2100/kg-but-gold-prices-fall-as-focus-shifts-to-inflation-data-amid-iran-war-key-levels-to-track/articleshow/133081450.cms",
-      "published": "2026-08-10T04:18:48Z",
-      "description": "Gold and silver prices traded mixed on the MCX, with silver extending gains while gold edged lower as investors booked profits after last week’s sharp rally. Focus shifted to upcoming US inflation dat"
-    },
-    {
-      "title": "Gold, silver prices may continue rally; US inflation, Iran tensions and more in focus",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/133078438.cms",
-      "published": "2026-08-10T02:46:55Z",
-      "description": "Gold and silver metals are increasingly being shaped by a mix of global macroeconomic shifts, geopolitical risks and changing domestic demand. Gold h"
-    },
-    {
-      "title": "Nifty, Sensex set for flat opening amid CAS rollout",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/nifty-sensex-set-for-flat-opening-amid-cas-rollout/article71326825.ece",
-      "published": "2026-08-10T02:06:09Z",
-      "description": "Stock market today: Nifty and Sensex may open flat as investors track FPI flows, the new closing auction session, Middle East tensions and US inflation."
-    },
-    {
-      "title": "Gold holds steady after scaling 7-week high, US inflation data in focus",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-steady-after-scaling-7-week-high-us-inflation-data-in-focus/articleshow/133077441.cms",
-      "published": "2026-08-10T02:02:08Z",
-      "description": "Gold prices remained stable during the early Asian trading hours on Monday, as investors gear up for significant inflation reports set to be released later this week. The recent underwhelming U.S. job"
-    },
-    {
-      "title": "黄金ETF7月以来揽金超百亿，公募称短期磨底不改长期“黄金牛”",
+      "title": "A股三大指数收盘涨跌不一，新股N超纯应材上市首日暴涨662.24%",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3932935867169924?f=rss",
-      "published": "2026-08-09T23:55:15Z",
-      "description": "经历近半年深度回调，国际金价迎来强势反攻，8月7日伦敦现货黄金再度站上4300美元/盎司，此前一日更是录得下半年最大单日涨幅。伴随价格回暖，资金加速布局国内黄金ETF，7月以来主流产品合计净流入超百亿元，黄金ETF华安更创下连续18个交易日净流入的纪录。回顾此轮行情，金价自年内高点最大回撤超26%，流动性环境变化成为调整主因；在全球央行持续购金的支撑下，机构判断黄金短期或延续磨底，长期牛市基础并未"
+      "url": "https://36kr.com/newsflashes/3934776483167624?f=rss",
+      "published": "2026-08-11T07:01:37Z",
+      "description": "36氪获悉，A股三大指数收盘涨跌不一，沪指跌0.82%，深成指跌0.4%，创业板指涨0.34%；贵金属、海运跌幅居前，招商轮船跌超9%，赤峰黄金、四川黄金跌超7%；光伏、机器人领涨，中大力德涨近8%，德业股份涨超6%，阳光电源涨超5%；新股N超纯应材上市首日暴涨662.24%，N国仪涨419.46%，N珈凯涨138.53%。"
     },
     {
-      "title": "8点1氪丨宇树科技今日申购，中一签或赚20万元；胖东来关闭许昌24年老店，于东来回应；拜登前列腺癌持续恶化，癌细胞已扩散",
+      "title": "Clarification of a fallacy",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/speaking-tree/daily-ecstasy/clarification-of-a-fallacy/articleshow/133144992.cms",
+      "published": "2026-08-11T06:55:26Z",
+      "description": "There are certain verses in the Quran which convey injunctions similar to the following: ‘kill them wherever you find them.’ (2:191) These commands, being specific to certain circumstances, had no gen"
+    },
+    {
+      "title": "RPSC 1st Grade result 2026 out for English and Commerce at rpsc.rajasthan.gov.in: Direct link to download scorecards",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/rpsc-1st-grade-result-2026-out-at-rpsc-rajasthan-gov-in-direct-link-to-download-scorecards/articleshow/133144111.cms",
+      "published": "2026-08-11T06:31:52Z",
+      "description": "The Rajasthan Public Service Commission has announced the Grade 1 Teacher results for English and Commerce under the School Lecturer recruitment. Released on August 10, the merit lists and cut-off mar"
+    },
+    {
+      "title": "Sovereign Gold Bond premature redemption date today: Check August 11, 2026, SGB redemption price, returns on Rs 1 investments",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/sovereign-gold-bond-premature-redemption-date-today-check-august-11-2026-sgb-redemption-price-returns-on-rs-1-investments/articleshow/133144056.cms",
+      "published": "2026-08-11T06:27:00Z",
+      "description": "Sovereign Gold Bond: The Reserve Bank of India has revealed the redemption prices for select gold bond series, which can be redeemed prematurely after a five-year period from their issuance. The redem"
+    },
+    {
+      "title": "Gold prices rise Rs 6,600/10g in 3 days; silver jumps Rs 16,200/kg ahead of US inflation data. Big rally brewing?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-6600/10g-in-3-days-silver-jumps-rs-16200/kg-ahead-of-us-inflation-data-big-rally-brewing/articleshow/133141863.cms",
+      "published": "2026-08-11T04:12:05Z",
+      "description": "Gold and silver prices surged on the MCX, with silver gaining over 7% in three days and gold rising more than 4%, as investors awaited US inflation data and assessed the outlook for Federal Reserve po"
+    },
+    {
+      "title": "又融了1亿美金的AI公司，说AlphaFold不是生物世界天花板",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3932930478587010?f=rss",
-      "published": "2026-08-09T23:47:47Z",
-      "description": "今日热点导览\n <ul>\n <li>苹果回应删除接入千问手册</li>\n <li>影片《八仙！》票房突破14亿元</li>\n <li>理想汽车-W于8月6日斥资361.82万美元回购57.27万股</li>\n <li>消息称SpaceX收购Cursor交易最快下周完成</li>\n <li>英特尔任命Dean Jarnac为首席销售官</li>\n </ul>\n TOP 3大新闻\n 宇树科技今日申购，"
+      "url": "https://36kr.com/p/3933494167108738?f=rss",
+      "published": "2026-08-11T03:57:17Z",
+      "description": "文｜胡香赟\n 编辑｜海若镜\n 到了2026年8月，如果一家公司只想用AI“降本增效”，那很难吃到AI最大的红利。\n 这个观点从寻明生科创始人赵伟安口中说出，多少有些反常识，毕竟“降本增效”是过去几年AI制药公司最熟悉的脚本。他坦承，现阶段AI其实是“增本降效”的游戏：AI人才、算力和实验验证很昂贵；在传统大药企，给予AI更高决策权限，还可能产生额外的组织摩擦。\n 但是，今天AI能力已足够强，生物基"
+    },
+    {
+      "title": "A股三大指数午间休盘涨跌不一，百花医药涨停",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3934570657906051?f=rss",
+      "published": "2026-08-11T03:32:14Z",
+      "description": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指跌0.05%，深成指涨0.65%，创业板指涨1.41%；油气、通信设备、制药板块领涨，百花医药、武汉凡谷涨停，中国石油涨超2%；航天军工、发电设备、贵金属板块跌幅居前，中国卫星跌超6%，海力风电跌超5%，紫金矿业跌超2%。"
+    },
+    {
+      "title": "金饰克价涨至1336元",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3934522603584901?f=rss",
+      "published": "2026-08-11T02:43:21Z",
+      "description": "国内黄金饰品价格对比显示，多家黄金珠宝品牌当日公布的境内足金首饰价格较昨日有所上调，老凤祥报价1330元/克，老庙黄金报价1332元/克，周生生报价1336元/克，周大福报价1336元/克。（财联社）"
     }
   ],
   "tweets": []
