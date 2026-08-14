@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-08-13 07:15:32 UTC",
+  "updated_at": "2026-08-14 07:13:36 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4376.6,
+      "price_usd": 4334.32,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 64.69,
+      "price_usd": 64.35,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1733.94,
+      "price_usd": 1718.47,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1345.51,
+      "price_usd": 1304.55,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.45,
+      "price_usd": 0.46,
       "unit": "USD/吨 mt"
     },
     {
@@ -46,7 +46,7 @@
     {
       "code": "zinc",
       "name": "锌 Zinc",
-      "price_usd": 0.11,
+      "price_usd": 0.12,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.53,
+      "price_usd": 0.52,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "For kidney patients, the biggest change may be coming: New artificial kidney implant will filter blood continuosly without regular hospital dialysis",
+      "title": "Gold rate today (August 13, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from IBJA, Joyalukkas, Tanishq, Kalyan Jewellers and Malabar Gold & Diamonds in Delhi, Mumbai, Hyderabad, other cities",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/new-updates/for-kidney-patients-the-biggest-change-may-be-coming-new-artificial-kidney-implant-will-filter-blood-continuosly-without-regular-hospital-dialysis/articleshow/133173750.cms",
-      "published": "2026-08-12T06:46:54Z",
-      "description": "For kidney patients, the biggest change may be coming in the form of Holly, a surgically implanted artificial kidney designed to filter blood continuously without hospital dialysis sessions. Developed"
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-august-13-2026-check-24k-22k-20k-and-18k-gold-jewellery-prices-from-ibja-joyalukkas-tanishq-kalyan-jewellers-and-malabar-gold-diamonds-in-delhi-mumbai-hyderabad-other-cities/articleshow/133202523.cms",
+      "published": "2026-08-13T06:51:51Z",
+      "description": "Gold rates today:Here is a look at the latest 22k gold jewellery prices at Tanishq, Joyalukkas, Malabar Gold & Diamonds and Kalyan Jewellers across major cities such as Delhi, Mumbai, Chennai, Kolkata"
     },
     {
-      "title": "Akola police form SIT to probe soybean seed poor germination cases",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/pune/akola-police-form-sit-to-probe-soybean-seed-poor-germination-cases/articleshow/133173755.cms",
-      "published": "2026-08-12T06:38:46Z",
-      "description": "Akola police form SIT led by Addl SP B Chandrakant Reddy to probe 13 soybean seed germination FIRs, tracking dealers, firms and money trail."
+      "title": "三大指数尾盘集体翻绿",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3937591700389001?f=rss",
+      "published": "2026-08-13T06:45:24Z",
+      "description": "36氪获悉，A股三大指数尾盘集体翻绿，贵金属、教育、光伏设备、房地产等板块跌幅居前，沪深京三市下跌个股超4300只。"
     },
     {
-      "title": "Aditi Malik reacts to pregnancy rumours after being trolled for her weight: It’s a mother’s body, I don’t take shortcuts",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/aditi-malik-slams-body-shaming-and-pregnancy-rumors-its-a-mothers-body-i-dont-take-shortcuts/articleshow/133173404.cms",
-      "published": "2026-08-12T06:32:48Z",
-      "description": "Actress Aditi Malik bravely confronted the negativity she's faced on social media, advocating for empathy over judgment when it comes to appearances. Misinterpretations related to her pregnancy were s"
-    },
-    {
-      "title": "MHT CET 2026 CAP Round 2 seat allotment result to be released today: Check steps to download",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/mht-cet-2026-cap-round-2-seat-allotment-result-to-be-released-today-check-steps-to-download/articleshow/133152924.cms",
-      "published": "2026-08-12T06:22:29Z",
-      "description": "Maharashtra CET Cell will release MHT CET 2026 CAP Round 2 seat allotment today. Candidates can check their allotment status on the official fe2026.mahacet.org website. Required login details include "
-    },
-    {
-      "title": "Former min’s gunman suspended over alleged misconduct with woman on bus",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/thiruvananthapuram/former-mins-gunman-suspended-over-alleged-misconduct-with-woman-on-bus/articleshow/133173192.cms",
-      "published": "2026-08-12T06:19:23Z",
-      "description": "Former minister V Sivankutty’s ex-gunman Prajeesh S Nair suspended after inquiry found alleged bus misconduct toward a woman; video prompted probe."
-    },
-    {
-      "title": "SEBI proposes broader vault rules for gold, silver ETFs and bullion derivatives",
+      "title": "Gold touches two-month peak, then slips as traders pause for inflation cues",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sebi-proposes-broader-vault-rules-for-gold-silver-etfs-and-bullion-derivatives/article71334831.ece",
-      "published": "2026-08-12T02:33:18Z",
-      "description": "SEBI proposes a common vaulting framework for physical gold, silver and other precious metals underlying ETFs, bullion derivatives and regulated products."
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-touches-two-month-peak-then-slips-as-traders-pause-for-inflation-cues/article71339831.ece",
+      "published": "2026-08-13T06:44:27Z",
+      "description": "Gold peaks at two-month high before declining as traders await inflation data, impacting Federal Reserve rate hike expectations."
     },
     {
-      "title": "Precious metals rate today: Gold holds near 10-week high; silver rises",
+      "title": "Parliamentary panel flags gap between curriculum design and textbook availability for classes 9-12",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/133167886.cms",
-      "published": "2026-08-12T01:56:17Z",
-      "description": "Gold prices are trading near multi-week highs on Wednesday as investors weigh competing signals from the US economy and the ongoing Middle East confl"
+      "url": "https://timesofindia.indiatimes.com/education/news/parliamentary-panel-flags-gap-between-curriculum-design-and-textbook-availability-for-classes-9-12/articleshow/133202502.cms",
+      "published": "2026-08-13T06:42:47Z",
+      "description": "A parliamentary panel has flagged delays in aligning CBSE’s Classes 9–12 curriculum with NEP 2020 and NCF 2023, noting that pending NCERT textbooks are burdening board students. The committee also sou"
     },
     {
-      "title": "西湖大学教授创业做具身通用大脑，半年完成4轮5亿元融资｜硬氪首发",
+      "title": "FWICE accuses Poonam Dhillon of arrogance, dissolves CINTAA committee, sets new election date",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/tv/news/hindi/fwice-accuses-poonam-dhillon-of-arrogance-dissolves-cintaa-committee-sets-new-election-date/articleshow/133200375.cms",
+      "published": "2026-08-13T06:30:35Z",
+      "description": "The CINTAA dispute intensifies as the association disaffiliates from FWICE, even as the federation announces September 12 for fresh elections. FWICE president BN Tiwari defends the federation’s interv"
+    },
+    {
+      "title": "NCERT has over 1,500 vacant posts, 44% positions unfilled at CBSE, parliamentary panel says",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/ncert-has-over-1500-vacant-posts-44-positions-unfilled-at-cbse-parliamentary-panel-says/articleshow/133200053.cms",
+      "published": "2026-08-13T06:09:00Z",
+      "description": "NCERT faces over half its sanctioned posts vacant, impacting its key educational roles. CBSE also has 44 percent of its positions unfilled, raising concerns. The parliamentary committee highlighted th"
+    },
+    {
+      "title": "Gold prices rise Rs 1,400/gram in 2 days; silver dips marginally despite soft US inflation. What should investors do?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-1400/gram-in-2-days-silver-dips-marginally-despite-soft-us-inflation-what-should-investors-do/articleshow/133197523.cms",
+      "published": "2026-08-13T04:12:04Z",
+      "description": "Gold prices rose Rs 1,400 in two sessions, while MCX silver slipped marginally as softer US inflation lowered expectations of a near-term Fed rate hike. Investors now await US PPI data for further cue"
+    },
+    {
+      "title": "A股三大指数午间休盘集体上涨，CRO概念走强",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3924908647577732?f=rss",
-      "published": "2026-08-12T01:30:00Z",
-      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，具身智能通用大脑公司「西湖机器人」近日完成A轮融资，6个月募资5亿元，至此投资方阵容已涵盖赛富、小苗朗程、河南投资集团汇融基金、海愿基金等多家知名机构；资金将重点投向人形机器人全身统一大模型的研发，并着力打造具身智能人才高地，加速实现具身智能GPT时刻，以原创技术推动产业变革。 \n 此次融资距离企业上一轮交割不足一个月，短短半年内，西湖机器人已完成4轮融资。"
+      "url": "https://36kr.com/newsflashes/3937402948091013?f=rss",
+      "published": "2026-08-13T03:33:24Z",
+      "description": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.42%，深成指涨0.73%，创业板涨1.61%；CPO、半导体领涨，天孚通信、必易微涨超10%，源杰科技、沐曦股份涨超8%；CRO概念走强，博济医药涨停，毕得医药、药石科技涨超10%；贵金属、油气板块跌幅居前，晓程科技跌超6%，中国海油跌超2%。"
     },
     {
-      "title": "宏观利好叠加工业需求加持，银价短期有望偏强震荡",
+      "title": "8点1氪丨星巴克中国否认为降成本取消14薪；DeepSeek V4 Pro正式版上线；“阿里最年轻P10”林俊旸创业，新公司估值20亿美元",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3935776656751753?f=rss",
-      "published": "2026-08-12T00:22:01Z",
-      "description": "近期，国际贵金属市场热度升温。伦敦现货黄金价格从3940美元/盎司附近一路冲高至4400美元/盎司上方，伦敦现货白银价格也由54美元/盎司附近最高升破66美元/盎司，两者区间累计最大涨幅分别超12%、21%。本轮上涨行情中，白银市场呈现行情启动滞后、价格涨势更猛的特征。业内人士认为，美国非农就业数据等表现不及预期、美债收益率下行、美元指数回落以及市场对美联储货币政策预期调整，共同改善了近期贵金属价"
+      "url": "https://36kr.com/p/3937187153132680?f=rss",
+      "published": "2026-08-12T23:56:32Z",
+      "description": "今日热点导览\n 国际能源署：霍尔木兹海峡持续关闭冲击全球石油市场\n Anthropic将在AI生成文本中嵌入隐形水印\n C919完成首次国际商业航线飞行\n 三星在半导体研发中引入Claude模型\n 段永平大幅加仓泡泡玛特\n TOP 3大新闻\n 星巴克中国否认为降成本取消14薪\n 近日，有传闻称星巴克中国已开启裁员和降低人工成本，比如取消14薪、修改员工合同，除店经理以外的大部分员工改为兼职合同、取"
     },
     {
-      "title": "Equity MF bets lose some zip, seasonal debt flow lifts AUM",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/mf/analysis/equity-mf-bets-lose-some-zip-seasonal-debt-flow-lifts-aum/articleshow/133167381.cms",
-      "published": "2026-08-12T00:12:40Z",
-      "description": "Retail investor activity in equity funds dipped by almost fifteen percent in July, indicating a cautious approach towards market trends. Conversely, systematic investment plans enjoyed positive growth"
+      "title": "A股“再平衡”进行时，从赛道集中到行业均衡",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3937131880676482?f=rss",
+      "published": "2026-08-12T23:30:31Z",
+      "description": "近期，A股市场持续轮动，领涨板块持续变动，市场出现“再平衡”，从上半年AI硬件及上游板块的“一枝独秀”到近期市场的“多点开花”。分析人士认为，这种“再平衡”属于存量资金高低切换的阶段性风格收敛，既不是成长主线的彻底终结，也不是价值板块的全面上行行情。短期内，A股市场或继续反弹。秋季行情逐渐进入布局阶段，市场已从单一科技抱团转向多条配置主线共同展开。（中证报）"
     }
   ],
   "tweets": []
