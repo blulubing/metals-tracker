@@ -1,9 +1,5 @@
 [
   {
-    "date": "2026-06-20",
-    "prices": {}
-  },
-  {
     "date": "2026-06-21",
     "prices": {}
   },
@@ -965,6 +961,23 @@
       "lme_zinc": 0.12,
       "lme_nickel": 0.53,
       "lme_copper": 0.45
+    }
+  },
+  {
+    "date": "2026-08-19",
+    "prices": {
+      "gold": 4342.96,
+      "silver": 62.9,
+      "platinum": 1715.9,
+      "palladium": 1286.95,
+      "copper": 0.45,
+      "aluminum": 0.1,
+      "nickel": 0.52,
+      "zinc": 0.11,
+      "lead": 0.06,
+      "lme_zinc": 0.12,
+      "lme_nickel": 0.53,
+      "lme_copper": 0.44
     }
   }
 ]
