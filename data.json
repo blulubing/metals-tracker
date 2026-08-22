@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-08-21 06:33:00 UTC",
+  "updated_at": "2026-08-22 06:26:31 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4556.96,
+      "price_usd": 4603.14,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 68.92,
+      "price_usd": 68.97,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1870,
+      "price_usd": 1877,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1349.49,
+      "price_usd": 1344.12,
       "unit": "USD/盎司 oz"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.52,
+      "price_usd": 0.53,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.43,
+      "price_usd": 0.44,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Oldest evidence of life on Earth has been discovered in India: A 3.4 billion-year-old layered rock shows signs of microbial life",
+      "title": "Hindustan Zinc shares jump 7% in two sessions. What’s triggering the rally?",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/science/oldest-evidence-of-life-on-earth-has-been-discovered-in-india-a-3-4-billion-year-old-layered-rock-shows-signs-of-microbial-life/articleshow/133365920.cms",
-      "published": "2026-08-20T05:57:10Z",
-      "description": "Recent discoveries in India have unveiled biological traces that date back approximately 3.5 billion years, indicating a significantly ancient origin of life on Earth. Researchers have confirmed the p"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-jump-7-in-two-sessions-whats-triggering-the-rally/articleshow/133393717.cms",
+      "published": "2026-08-21T05:00:38Z",
+      "description": "Hindustan Zinc shares rose 4% as silver prices climbed for a third straight session, taking the stock’s two-day gain to 7%. The company, one of the world’s leading silver producers, continues to benef"
     },
     {
-      "title": "The enclave and its limits",
+      "title": "Gold prices rise Rs 6,400/10g in 3 days; silver jumps Rs 13,000/kg despite Middle East tensions. Big rally brewing?",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/toi-blogs/power-policy/the-enclave-and-its-limits/articleshow/133365143.cms",
-      "published": "2026-08-20T05:55:03Z",
-      "description": "Policy & Prices News: The International Financial Services Centres Authority Act, 2019 — Act 50 of 2019, assented on 19 December 2019 and commenced in three tranches throug."
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-6400/10g-in-3-days-silver-jumps-rs-13000/kg-despite-middle-east-tensions-big-rally-brewing/articleshow/133393150.cms",
+      "published": "2026-08-21T04:35:45Z",
+      "description": "Gold and silver prices rose for a third straight session on the MCX on Friday, supported by a weaker U.S. dollar and expectations of controlled longer-term Treasury yields. MCX silver surged Rs 13,000"
     },
     {
-      "title": "Bhubaneswar cab, auto drivers’ stir: 113 arrested after violence, 354 vehicles seized",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/bhubaneswar-cab-auto-drivers-stir-113-arrested-after-violence-354-vehicles-seized/articleshow/133365404.cms",
-      "published": "2026-08-20T05:49:08Z",
-      "description": "Odisha Police arrested 113 individuals for alleged involvement in protest violence. Another sixty detained protesters were released on bonds for good behavior. Police seized 354 vehicles and registere"
-    },
-    {
-      "title": "A UK solar farm began generating electricity in 2013; 12 years later its biodiversity had risen 41 per cent",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/uk/a-uk-solar-farm-began-generating-electricity-in-2013-12-years-later-its-biodiversity-had-risen-41-per-cent/articleshow/133365712.cms",
-      "published": "2026-08-20T05:48:20Z",
-      "description": "UK News: In 2011, planning began for a solar farm on the Broxted Estate in Suffolk, and by December 2013, the site was generating electricity for the first tim."
-    },
-    {
-      "title": "Pradeep Rai elected Supreme Court Bar Association president; replaces advocate Vikas Singh",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/legal/news/pradeep-rai-elected-supreme-court-bar-association-president-replaces-advocate-vikas-singh/articleshow/133365521.cms",
-      "published": "2026-08-20T05:44:59Z",
-      "description": "Senior advocate Pradeep Rai won the Supreme Court Bar Association presidential election. He secured 822 votes, succeeding Vikas Singh as the new president. Rahul Kaushik was elected vice-president, an"
-    },
-    {
-      "title": "Florida police officer arrested after using Flock surveillance cameras 717 times to track estranged wife",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/florida-police-officer-arrested-after-using-flock-surveillance-cameras-717-times-to-track-estranged-wife/articleshow/133365109.cms",
-      "published": "2026-08-20T05:44:51Z",
-      "description": "US News: A Florida police officer has been arrested after allegedly using his department's Flock licence-plate surveillance system 717 times to track a vehicle."
-    },
-    {
-      "title": "Chandrapur hamlet gets road fund after TOI report on 'mountain man'",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/chandrapur-hamlet-gets-road-fund-after-toi-report-on-mountain-man/articleshow/133365222.cms",
-      "published": "2026-08-20T05:39:24Z",
-      "description": "District administration approved funding for a road connecting Kolamguda to Ghodankappi. This action followed a woman's death due to lack of medical access. Residents had previously undertaken volunta"
-    },
-    {
-      "title": "Muthoot Finance, Manappuram, other gold financier stocks jump up to 4% as gold prices rise above Rs 1.58 lakh/10 grams",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/muthoot-finance-manappuram-other-gold-financier-stocks-jump-up-to-4-as-gold-prices-rise-above-rs-1-58-lakh/10-grams/articleshow/133364875.cms",
-      "published": "2026-08-20T05:09:10Z",
-      "description": "Shares of gold loan companies Muthoot Finance, Manappuram Finance and IIFL Finance rose as much as 4% as gold prices surged following the US Treasury’s decision to increase longer-dated bond buybacks."
-    },
-    {
-      "title": "Gold rebounds above Rs 1.58 lakh/10 grams as US bond yields decline. What lies ahead?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rebounds-above-rs-1-58-lakh/10-grams-as-us-bond-yields-decline-what-lies-ahead/articleshow/133364074.cms",
-      "published": "2026-08-20T04:26:59Z",
-      "description": "Gold prices rose above Rs 1.58 lakh per 10 grams on the MCX as US Treasury yields fell and the dollar remained subdued following increased liquidity support. With geopolitical uncertainty, crude price"
-    },
-    {
-      "title": "A股三大指数午间休盘集体上涨，三元基因涨停",
+      "title": "专访任利锋：那个曾做出抖音的人，如今在工厂里做AI",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3947310867414146?f=rss",
-      "published": "2026-08-20T03:32:15Z",
-      "description": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.28%，深成指涨0.97%，创业板指涨1.03%；生物科技、贵金属、医疗保健板块领涨，三元基因、金域医学涨停，山东黄金涨超6%；饮料、发电设备、油气板块跌幅居前，金风科技跌超8%，养元饮品跌超7%，中国石油跌超2%。"
+      "url": "https://36kr.com/p/3948773732728195?f=rss",
+      "published": "2026-08-21T04:23:50Z",
+      "description": "文｜温丽虹\n 编辑｜张雨忻\n 位于北京海淀的互联网金融中心，任利锋创办的“数美万物”在这里有3个办公地点。其中的一间不是办公室而是实验室，他们采购来市面上主流的3D打印机，在实验室桌面上次第排开，每天打印自研生成式3D模型生成的东西。经自研模型Hi3D生成的图纸打印出的实物有没有破面或其它瑕疵，又如何改进、修补，都在这间屋内见分晓。\n 8月中旬，“数美万物”自研的Hi3D V3.0模型走入公开发布"
+    },
+    {
+      "title": "Gold heads for third weekly gain on softer dollar, lower US yields",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-heads-for-third-weekly-gain-on-softer-dollar-lower-us-yields/article71372098.ece",
+      "published": "2026-08-21T04:12:14Z",
+      "description": "Gold prices rise for a third week on a weaker dollar and lower US yields, up 3.6% this week."
+    },
+    {
+      "title": "恒指午间休盘涨0.72%，恒生科技指数涨0.5%",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3948757104540807?f=rss",
+      "published": "2026-08-21T04:03:26Z",
+      "description": "36氪获悉，恒指午间休盘涨0.72%，恒生科技指数涨0.5%；消费、科技股跌幅居前，阿里巴巴、泡泡玛特跌超3%，美团跌超2%；贵金属板块领涨，天齐锂业涨超8%，赣锋锂业涨超7%；半导体板块走强，壁仞科技涨近8%，天数智芯、爱芯元智涨超4%；南向资金净流出16.91亿港元。"
+    },
+    {
+      "title": "Institutional-Grade Allocation in a Single Account: BiFu's Wealth Suite Takes Shape, Bringing Managed Funds and RWA Under One Roof",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/institutional-grade-allocation-in-a-single-account-bifus-wealth-suite-takes-shape-bringing-managed-funds-and-rwa-under-one-roof-302856285.html",
+      "published": "2026-08-21T04:00:00Z",
+      "description": "HONG KONG, Aug. 21, 2026 /PRNewswire/ -- BiFu, an all-asset trading platform, has completed the build-out of its Wealth suite, which runs on two product lines: a Wealth product line offering five fund"
+    },
+    {
+      "title": "Augmont Enterprises IPO opens today: GMP signals 38% listing gains. Should you subscribe?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-ipo-opens-today-gmp-signals-38-listing-gains-should-you-subscribe/articleshow/133391085.cms",
+      "published": "2026-08-21T02:38:55Z",
+      "description": "The Rs 825 crore Augmont Enterprises IPO comprises a fresh issue of 79 lakh shares worth Rs 620 crore and an offer for sale (OFS) of 26 lakh shares aggregating to Rs 205 crore."
+    },
+    {
+      "title": "跳槽去机器人吗？赚一波快钱 ｜深氪",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3947887902194823?f=rss",
+      "published": "2026-08-21T02:23:40Z",
+      "description": "来源：电影敦刻尔克剧照\n 文 ｜ 肖漫\n 编辑 ｜ 杨轩 李勤\n “再不跳，可能就晚了。”“留在这里会越来越不值钱。”\n 这些话，孙新阳越来越高频地听猎头、离职同事说起。这种紧迫感，也促使他今年春天开始认真考虑离开小鹏。\n 离职前的三四个月里，他每个月都会迎来一个新的直属领导，工位满了又空。许舟同在小鹏，他所在的团队也是如此：半年时间，他送走了9个同事，每个月都要在群里说一次“祝前程似锦”。他们去"
+    },
+    {
+      "title": "Gold steadies, heads for third straight weekly gain",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-steadies-heads-for-third-straight-weekly-gain/articleshow/133390749.cms",
+      "published": "2026-08-21T01:52:49Z",
+      "description": "Gold prices maintained stability, closing in on a potential third consecutive weekly rise. The support came from a weaker dollar and Treasury measures aimed at reducing yields. Furthermore, a decrease"
+    },
+    {
+      "title": "Bullion rates today: Gold eyes third straight weekly gain; silver remains flat",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/133390745.cms",
+      "published": "2026-08-21T01:50:43Z",
+      "description": "Gold prices remained steady on Friday as the precious metal headed for a third consecutive weekly gain, supported by a weaker US dollar and US treasu"
     }
   ],
   "tweets": []
