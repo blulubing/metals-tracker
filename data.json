@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-08-23 06:27:53 UTC",
+  "updated_at": "2026-08-24 06:40:45 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4603.14,
+      "price_usd": 4651.16,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 68.97,
+      "price_usd": 69.18,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1877,
+      "price_usd": 1891.8,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1344.12,
+      "price_usd": 1355.47,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,6 +76,34 @@
   ],
   "news": [
     {
+      "title": "Metals sector outlook improves as non-ferrous earnings lead recovery: Systematix",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/metals-sector-outlook-improves-as-non-ferrous-earnings-lead-recovery-systematix/articleshow/133434940.cms",
+      "published": "2026-08-23T05:37:17Z",
+      "description": "India's metals and mining sector outlook is improving significantly. Non-ferrous companies are expected to lead earnings growth and performance. Select primary steel producers will see support from ca"
+    },
+    {
+      "title": "A 70:30 strategy could help investors balance gold and silver exposure: Tata Mutual Fund",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/mf/analysis/a-7030-strategy-could-help-investors-balance-gold-and-silver-exposure-tata-mutual-fund/articleshow/133434410.cms",
+      "published": "2026-08-23T04:49:21Z",
+      "description": "Tata Mutual Fund recommends a 70:30 strategic allocation between gold and silver for investors looking to balance stability with growth. The fund house remains bullish on both precious metals over the"
+    },
+    {
+      "title": "Which asset class will outperform next? Experts say investors should focus on asset allocation instead of chasing winner",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/which-asset-class-will-outperform-next-experts-say-investors-should-focus-on-asset-allocation-instead-of-chasing-winner-11787421218526.html",
+      "published": "2026-08-23T02:36:22Z",
+      "description": "Equities, debt and precious metals are moving through different cycles, making it difficult for investors to identify the next winning asset class. Here is why multi-asset allocation can help investor"
+    },
+    {
+      "title": "Bullion Cues: Gold futures and silver futures could gain more",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-strong-momentum/article71376869.ece",
+      "published": "2026-08-22T15:37:51Z",
+      "description": "Bullion insights reveal strong momentum in gold and silver; traders encouraged to consider long positions with strategic buy targets."
+    },
+    {
       "title": "金饰克价逼近1400元",
       "source": "36kr.com",
       "url": "https://36kr.com/newsflashes/3950184094842242?f=rss",
@@ -104,27 +132,6 @@
       "description": "TORONTO, Aug. 21, 2026 /PRNewswire/ -- Denarius Metals Corp. (Cboe CA: DMET) (OTCQX: DNRSF) (\"Denarius Metals\" or the \"Company\") announced today that it has closed its previously announced strategic e"
     },
     {
-      "title": "This sleepy sector could offer big returns, says Mike Khouw",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/08/21/this-sleepy-sector-could-offer-big-returns-says-mike-khouw.html",
-      "published": "2026-08-21T17:31:40Z",
-      "description": "The options market rarely gives you a gift, but it might be doing that right now."
-    },
-    {
-      "title": "Gold, silver shine brighter: Bullion prices hit 3-month highs as weak dollar boosts demand",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-shine-brighter-bullion-prices-hit-3-month-highs-as-weak-dollar-boosts-demand/articleshow/133408301.cms",
-      "published": "2026-08-21T15:52:06Z",
-      "description": "Gold and silver prices climbed significantly on Friday, reaching levels not seen in over three months. A weaker US dollar and positive global market trends encouraged buying in both precious metals. G"
-    },
-    {
-      "title": "Gold rallies to 3-month high on weaker dollar, bullish technicals",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/gold-rallies-to-3-month-high-on-weaker-dollar-bullish-technicals/articleshow/133407758.cms",
-      "published": "2026-08-21T15:06:47Z",
-      "description": "Gold prices soared to a three-month high on Friday, marking its third consecutive weekly increase. This rally was driven by a softer U.S. dollar influenced by Treasury buyback strategies. Analysts ide"
-    },
-    {
       "title": "Global Tungsten Market Size Projected to Reach $9.62 Billion By 2030",
       "source": "PRNewswire",
       "url": "https://www.prnewswire.com/news-releases/global-tungsten-market-size-projected-to-reach-9-62-billion-by-2030--302857226.html",
@@ -137,13 +144,6 @@
       "url": "https://36kr.com/p/3949238923181444?f=rss",
       "published": "2026-08-21T12:21:36Z",
       "description": "文丨果脯\n 由同名IP小说改编的MMO网游《诡秘之主》，今天终于端上桌了。\n 自2023年首曝以来，《诡秘之主》游戏就已经收获了大量关注，其首曝视频在B站获得了超600万的播放量，不久后的实机场景演示更是突破700万。\n 上线前，这款产品还在TapTap收获了210万的预约，成为TapTap里市场预约量最高的MMO新作。在MMO逐步式微的当下，这数据显然相当难得。而上线后，这款产品也不出预料登顶了"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Nifty ends marginally higher, Sensex flat as markets post weekly losses",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-21st-august-2026/article71368928.ece",
-      "published": "2026-08-21T10:42:24Z",
-      "description": "Sensex Today, Nifty 50 | Stock Market Highlights, 21st August  2026: Indian equities ended largely flat on Friday, with the Nifty 50 edging up 0.08% to 24,252 and the BSE Sensex closing flat at 77,540"
     }
   ],
   "tweets": []
