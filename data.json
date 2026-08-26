@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-08-25 06:33:00 UTC",
+  "updated_at": "2026-08-26 06:35:01 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4650.16,
+      "price_usd": 4629.02,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 68.53,
+      "price_usd": 68.75,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1860.2,
+      "price_usd": 1862.8,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1340.78,
+      "price_usd": 1336.04,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.46,
+      "price_usd": 0.47,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Gold price prediction today: Worst of gold price dips over? Check outlook for August 24, 2026 week",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-price-prediction-today-what-is-the-gold-rate-outlook-for-august-24-2026-week-should-you-buy-or-sell-mcx-gold-us-iran-war-middle-east/articleshow/133453711.cms",
-      "published": "2026-08-24T06:29:55Z",
-      "description": "Gold price prediction today: Looking ahead, market participants will closely monitor further developments in US Treasury operations, fiscal policy discussions, and upcoming economic data releases, whi"
+      "title": "Inflation puzzle: India's three main price gauges are diverging—RBI must read the signals right",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/online-views/inflation-puzzle-india-three-price-gauges-diverging-rbi-consumer-price-wholesale-retail-11787563249664.html",
+      "published": "2026-08-25T06:30:45Z",
+      "description": "The country's major indicators of inflation are showing varied inclines as they measure different sets of prices. The Reserve Bank of India (RBI) must stay vigilant over signs of price pressures in a "
     },
     {
-      "title": "Weather tomorrow: IMD warns of heavy rain, thunderstorms across several states; winds up to 60 kmph likely",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/weather-tomorrow-imd-warns-of-heavy-rain-thunderstorms-across-several-states-winds-up-to-60-kmph-likely/articleshow/133453360.cms",
-      "published": "2026-08-24T06:26:57Z",
-      "description": "The India Meteorological Department forecasts heavy rain and thunderstorms across several states. Isolated very heavy rainfall is expected in parts of Madhya Pradesh, Odisha, and Uttarakhand. Kerala w"
-    },
-    {
-      "title": "Priority Jewels sets IPO price band at ₹190-200/share; issue to open on Aug 28",
+      "title": "Gold Rate Today, Aug 25: Gold prices up in Delhi, Mumbai, Kolkata, Bengaluru, Ahmedabad",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/priority-jewels-sets-ipo-price-band-at-190-200share-issue-to-open-on-aug-28/article71383380.ece",
-      "published": "2026-08-24T06:17:50Z",
-      "description": "The three-day public issue will close on September 1, while bidding by anchor investors will take place on August 27, according to an announcement by the company."
+      "url": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-mumbai-chennai-ahmedabad-delhi-hyderabad-bengaluru-kolkata-gold-rates-august-25-2026/article71387306.ece",
+      "published": "2026-08-25T05:19:34Z",
+      "description": "Gold, Silver Rate Today: Check Today's Gold, Silver Rates or prices of 22, 24 down across Indian cities on August 25 at Businessline."
     },
     {
-      "title": "Lalithaa Jewellery Mart shares surge 36% from IPO price after strong market debut. Should you buy, sell or hold?",
+      "title": "Gold, silver prices today, 25 August: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-25-august-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11787539217497.html",
+      "published": "2026-08-25T04:22:03Z",
+      "description": "Gold and silver prices today, 25 August: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates."
+    },
+    {
+      "title": "Gold prices fall after 4 days; silver dips Rs 4,300/kg ahead of inflation data, Warsh speech at Jackson Hole",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/lalithaa-jewellery-mart-shares-surge-36-from-ipo-price-after-strong-market-debut-should-you-buy-sell-or-hold/articleshow/133452015.cms",
-      "published": "2026-08-24T05:23:44Z",
-      "description": "Lalithaa Jewellery Mart shares surged after debuting at a 32% premium to the IPO price, reaching over 36% gains. Strong subscription, attractive valuations versus peers and expansion plans have suppor"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-after-4-days-silver-dips-rs-4300/kg-ahead-of-inflation-data-warsh-speech-at-jackson-hole/articleshow/133491244.cms",
+      "published": "2026-08-25T04:20:24Z",
+      "description": "Gold and silver prices opened lower on the MCX on Tuesday as investors awaited key US inflation data and Federal Reserve Chair Kevin Warsh’s speech at Jackson Hole later this week. Gold had rallied sh"
     },
     {
-      "title": "Lalithaa Jewellery Mart shares list at 32% premium, Horizon Industrial makes muted debut: Should you buy?",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/lalithaa-jewellery-mart-shares-debut-at-32-premium-over-ipo-price-should-you-buy-blackstone-backed-horizon-industrial-parks-makes-muted-debut/article71383216.ece",
-      "published": "2026-08-24T05:02:58Z",
-      "description": "Lalithaa Jewellery Mart debuts at a 32% premium, while Horizon Industrial's IPO sees a muted start; should investors consider buying?"
-    },
-    {
-      "title": "Augmont Enterprises IPO Day 2: GMP jumps to 48%, issue subscribed 2.74x — Should you subscribe?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-ipo-day-2-gmp-jumps-to-48-issue-subscribed-2-74x-should-you-subscribe/articleshow/133450931.cms",
-      "published": "2026-08-24T04:14:50Z",
-      "description": "Augmont Enterprises IPO entered its second day with strong demand, reaching 2.74 times subscription on Day 1. GMP climbed to 48%, indicating potential listing gains. The Rs 825 crore issue benefits fr"
-    },
-    {
-      "title": "Gold prices rise Rs 8,200/10g in 4 days; silver falls Rs 1,800/kg ahead of US inflation data. Buy, sell or hold?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-8200/10g-in-4-days-silver-falls-rs-1800/kg-ahead-of-us-inflation-data-buy-sell-or-hold/articleshow/133450787.cms",
-      "published": "2026-08-24T04:03:22Z",
-      "description": "Gold extended its winning streak on MCX, rising for a fourth straight session, while silver snapped a three-day rally as investors tracked the dollar and awaited key US inflation data and Federal Rese"
-    },
-    {
-      "title": "AI时代，长视频要换增长逻辑",
+      "title": "恒指午间休盘跌0.25%，恒生科技指数跌0.75%",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3952907050613888?f=rss",
-      "published": "2026-08-24T02:30:42Z",
-      "description": "8月18日，爱奇艺发布了2026年第二季度的财务报告。数据显示，报告期内，爱奇艺录得总收入62.9亿元人民币，其中，会员服务收入40.1亿元，在线广告服务收入12.5亿元，内容发行收入6.8亿元，其他收入3.4亿元；同期Non-GAAP运营亏损较上季度大幅收窄，接近盈亏平衡。\n 过去一年，市场对于爱奇艺的判断主要集中在两件事：如何减亏、如何避免用户流失。从二季度财报表现来看，这些挑战依然客观存在。"
+      "url": "https://36kr.com/newsflashes/3954419679182208?f=rss",
+      "published": "2026-08-25T04:03:42Z",
+      "description": "36氪获悉，恒指午间休盘跌0.25%，恒生科技指数跌0.75%；贵金属、汽车板块领跌，小鹏集团跌超9%，零跑汽车、灵宝黄金、万国黄金集团跌超7%，蔚来、赤峰黄金跌超5%；\n医药、半导体板块涨幅居前，凯莱英、药明合联涨超10%，兆易创新、澜起科技涨超2%；南向资金净流出30.51亿港元。"
     },
     {
-      "title": "Nifty, Sensex may open weak as crude, West Asia tensions weigh",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/nifty-sensex-may-open-weak-as-crude-west-asia-tensions-weigh/article71383024.ece",
-      "published": "2026-08-24T02:07:17Z",
-      "description": "Investors are likely to remain cautious as geopolitical risks, firm oil prices and derivatives positioning shape trading sentiment at the start of week."
-    },
-    {
-      "title": "方正证券：美财政部加大长债回购力度，贵金属逻辑持续增强",
+      "title": "A股三大指数午间休盘集体下跌，半导体领跌",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3952812257262982?f=rss",
-      "published": "2026-08-24T00:48:33Z",
-      "description": "36氪获悉，方正证券研报称，美国财政部加大长债回购力度，弱化远端收益率上行动能，叠加美国经济数据疲软打压美联储加息预期及美元走强动能，金价顺势突破4600美元/盎司，贵金属权益市场颇具弹性。静待年内加息预期及美元走强逻辑进一步松动，带来贵金属权益市场的结构性机会；往后看，AI通胀和美国财政端有望继续创造黄金的利多环境，对后续的市场流动性保持乐观，并建议持续关注贵金属板块的高配置价值。"
+      "url": "https://36kr.com/newsflashes/3954390149021061?f=rss",
+      "published": "2026-08-25T03:33:40Z",
+      "description": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.14%，深成指跌0.78%，创业板指跌1.43%；半导体、算力概念领跌，康希通信跌超8%，臻宝科技跌超6%，中际旭创跌超3%；贵金属板块走弱，盛达资源跌超8%，西部黄金、招金黄金跌超7%；日用化工、零售板块涨幅居前，上海九百涨停，中百集团、珀莱雅涨超7%。"
+    },
+    {
+      "title": "Augmont Enterprises IPO Day 3: GMP at 42%, issue subscribed 14.46x. Should you apply?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/augmont-enterprises-ipo-day-3-gmp-at-42-issue-subscribed-14-46x-should-you-apply/articleshow/133489339.cms",
+      "published": "2026-08-25T03:30:25Z",
+      "description": "Today marks the end of bidding for Augmont Enterprises' IPO, which has attracted considerable interest from investors. The grey market premium forecasts promising gains upon listing. Retail and non-in"
+    },
+    {
+      "title": "国内品牌金饰克价重回1400元",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3954377570499716?f=rss",
+      "published": "2026-08-25T03:26:34Z",
+      "description": "今日国内黄金饰品价格对比显示，多家品牌金饰价格较昨日上涨近20元/克，升至1400元/克上方，其中周大福、周大生足金饰品报价1410元/克。（界面）"
+    },
+    {
+      "title": "36氪首发｜东方非遗香氛品牌「呈白」完成数千万元Pre-A轮融资，上影新视野独家投资",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3947925280832901?f=rss",
+      "published": "2026-08-25T02:00:00Z",
+      "description": "36氪获悉，东方非遗香氛品牌「呈白」近日完成数千万元Pre-A轮融资，由上影新视野基金独家投资，领甪资本担任长期财务顾问。本轮融资资金将主要用于非遗香及非遗器的研发、重点渠道开拓与核心人才引进，并有计划地铺垫品牌基础声量。\n 「呈白」创立于东方香氛赛道快速演进的周期中，从非遗瓷花香薰切入，逐步搭建起涵盖中式线香、毛绒香挂、非遗香器在内的产品矩阵。自2024年起，品牌近三年每年GSV（实际销售收入）"
+    },
+    {
+      "title": "A股三大指数集体低开，新股N高凯上市首日高开240.61%",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3954265693469826?f=rss",
+      "published": "2026-08-25T01:27:04Z",
+      "description": "36氪获悉，A股三大指数集体低开，沪指低开0.48%，深成指低开0.8%，创业板指低开0.84%；算力、半导体板块领跌，普然股份跌超6%，兆易创新跌超3%，中际旭创、长鑫科技跌超2%；贵金属、日用化工板块涨幅居前，贝泰妮涨超3%，珀莱雅涨近2%；新股N高凯上市首日高开240.61%。"
     }
   ],
   "tweets": []
