@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-08-27 17:11:13 UTC",
+  "updated_at": "2026-08-28 17:58:07 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4610.31,
+      "price_usd": 4466.91,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 69.46,
+      "price_usd": 66.8,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1846,
+      "price_usd": 1837.8,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1336.49,
+      "price_usd": 1420.31,
       "unit": "USD/盎司 oz"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.53,
+      "price_usd": 0.52,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.45,
+      "price_usd": 0.44,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Gold vs silver: Which precious metal offers better shield during market volatility? What 26 years of data reveals",
+      "title": "Why are Indian investors increasingly choosing index funds over their 'cheaper cousin' ETFs?",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-vs-silver-which-precious-metal-offers-better-shield-during-market-volatility-what-26-years-of-data-reveals-11787753015259.html",
-      "published": "2026-08-26T16:39:24Z",
-      "description": "Gold, silver and equities have behaved differently across market cycles. A look at 26 years of data reveals how precious metals performed during equity downturns, their return patterns, and what their"
+      "url": "https://www.livemint.com/money/personal-finance/why-are-indian-investors-increasingly-choosing-index-funds-over-their-cheaper-cousin-etfs-experts-explain-11787821917190.html",
+      "published": "2026-08-27T17:44:43Z",
+      "description": "Index funds are becoming increasingly popular among retail investors in the passive investing segment. Here's why Indian investors are choosing index funds over ETFs despite the latter being a cheaper"
     },
     {
-      "title": "PURECORE PROVIDES CORPORATE UPDATE HIGHLIGHTING EXECUTION ACROSS URANIUM, COPPER AND CAPITAL MARKETS",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/purecore-provides-corporate-update-highlighting-execution-across-uranium-copper-and-capital-markets-302860771.html",
-      "published": "2026-08-26T16:14:00Z",
-      "description": "CSE: PURE | FSE: J8Y | OTCQB: PPURF VANCOUVER, BC, Aug. 26, 2026 /PRNewswire/ -- Purecore Metals Inc. (CSE: PURE) (FSE: J8Y) (OTCQB: PPURF) (\"Purecore\" or the \"Company\") is pleased to provide a corpor"
-    },
-    {
-      "title": "《国富论》250岁之后，斯密过时了吗？",
+      "title": "靠“毛骨悚然”以小博大：恐怖片缘何可以不断逆袭？",
       "source": "Ftchinese.com",
-      "url": "https://www.ftchinese.com/story/001110727",
-      "published": "2026-08-26T16:00:00Z",
-      "description": "更新于2026年8月27日 11:46\n北京大学宪法学教授张千帆为FT中文网撰稿\n\r\n\n\n\n亚当•斯密的《国富论》和美国《独立宣言》都先后发表在1776年，前后相差不到四个月。作为两起“平行事件”，《国富论》显然没有对《独立宣言》产生什么影响，就和洛克的《政府二论》没有对1688-89年发生的英国“光荣革命”产生影响一样。相比之下，《政府二论》对美国独立革命的影响大得多。不仅独立革命继承了《二论》"
+      "url": "https://www.ftchinese.com/story/001110716",
+      "published": "2026-08-27T16:00:00Z",
+      "description": "图片：《痴迷》（Obsession）剧照\r\n\n\r\n\n\n更新于2026年8月28日 07:38\n魏宁均为FT中文网撰稿\n\r\n\n\n\n今年，大洋彼岸的YouTuber（指在影音网站YouTube平台发布原创影片的独立创作者）靠两部恐怖电影完成了自己的“创作阶级”跃迁---《后室》与《痴迷》在全球分别斩获4亿与5亿美元票房，这原本是知名IP续作、超英电影或者动画巨制才能在院线市场收获的数字。\r\n\n“电影已"
     },
     {
-      "title": "国产游戏，坐上了科隆C位",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3956400723869056?f=rss",
-      "published": "2026-08-26T14:59:53Z",
-      "description": "文丨二几 果脯 刘士武\n 8月26日凌晨，2026年科隆游戏展（Gamescom）开幕夜直播（Opening Night Live）落下帷幕。\n 作为全球最受游戏关注的游戏发布会之一，今年的直播在国内外玩家与媒体中引发了截然不同的反响。有外媒指出，发布会中大批游戏在氛围营造、玩法循环及美术风格上趋同，黑暗奇幻题材与硬核射击类作品扎堆出现，不免令人产生审美疲劳。能引起台下欢呼的作品，大多来自经典IP"
+      "title": "《护工不是人》：人类能否接受自己既是“主人”又是“被淘汰者”？",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001110731",
+      "published": "2026-08-27T16:00:00Z",
+      "description": "更新于2026年8月28日 07:29\nFT中文网专栏作家非非马\n\r\n\n\n\n作为一个中年丁克，我真心期待机器人养老能早日成为现实。所以，最近播出的一部近未来情景喜剧《护工不是人》（Ann Droid ），从题材上就吸引了我：把养老生活托付给一台仿真护理机器人，到底会是什么样子？\r\n\n事实上，这部剧集最初的创作灵感也正来自于相似的养老焦虑。没有孩子的Diane Morgan是该剧的创意发起人、联合编"
     },
     {
-      "title": "Gold, silver price prediction: Will gold hit Rs 1.7 lakh/10 gms soon? Check outlook on August 27, 2026",
+      "title": "“令人痛苦的技术”是如何炼成的？",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001110666",
+      "published": "2026-08-27T16:00:00Z",
+      "description": "那些阻止一家公司把产品做坏的力量，是如何一个接一个失去威慑力的？人类又将怎样从机器的支配者，逐步走向“被机器征用”的风险？\r\n\n\r\n\n\r\n\n\n\n\n\n\n\n《逆向半人马》的作者认为，技术并不具有无法改变的邪恶属性，问题在于技术的受众没有改变和调整它的权利：当有人把糟糕的设计强加给用户，用户只能被困其中。\r\n\n\r\n\n\n更新于2026年8月28日 08:39\n崔莹为FT中文网撰稿\n\r\n\n\n\n两个月前，科幻"
+    },
+    {
+      "title": "A Metal With Few Substitutes, a Supply Chain Dominated by One Country, and a Historic Canadian Tungsten Zone Being Drill-Tested Again",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/a-metal-with-few-substitutes-a-supply-chain-dominated-by-one-country-and-a-historic-canadian-tungsten-zone-being-drill-tested-again-302861615.html",
+      "published": "2026-08-27T12:53:00Z",
+      "description": "VANCOUVER, BC, Aug. 27, 2026 /PRNewswire/ -- Equity Insider News Commentary - Of all the critical minerals now caught up in the race for supply-chain security, tungsten may be the one with the widest "
+    },
+    {
+      "title": "GoldHaven Commences Maiden Drill Program at Magno Project, Targeting Historic Kuhn Tungsten Zone",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/goldhaven-commences-maiden-drill-program-at-magno-project-targeting-historic-kuhn-tungsten-zone",
+      "published": "2026-08-27T12:01:20Z",
+      "description": "VANCOUVER, British Columbia, Aug. 27, 2026 (GLOBE NEWSWIRE) — GoldHaven Resources Corp. (CSE: GOH) (OTCQB: GHVNF) (FSE: 4QS) (“GoldHaven” or the “Company”) is pleased to announce that drilling has com"
+    },
+    {
+      "title": "Kundan Refinery Wins Two Awards at The IGC Excellence Awards 2026, Marking a Decade of Continued Recognition",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/kundan-refinery-wins-two-awards-at-the-igc-excellence-awards-2026-marking-a-decade-of-continued-recognition/article71395286.ece",
+      "published": "2026-08-27T11:30:01Z",
+      "description": "Kundan Refinery Wins Two Awards at The IGC Excellence Awards 2026, Marking a Decade of Continued Recognition"
+    },
+    {
+      "title": "Astra Exploration Inc. Begins Trading on OTCQX Best Market",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/astra-exploration-inc-begins-trading-on-otcqx-best-market",
+      "published": "2026-08-27T11:05:36Z",
+      "description": "NEW YORK, Aug. 27, 2026 (GLOBE NEWSWIRE) — OTC Markets Group Inc. (OTCQX: OTCM), operator of regulated markets for trading 12,000 U.S. and international securities, today announced Astra Exploration I"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex slips below 77,000, Nifty ends at 24,091 amid market volatility",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-27th-august-2026/article71392989.ece",
+      "published": "2026-08-27T10:58:25Z",
+      "description": "Sensex, Nifty, Share Prices Highlights: Indian equities closed lower on Thursday as traders navigated expiry-related volatility and persistent geopolitical uncertainty, with the Sensex slipping below "
+    },
+    {
+      "title": "Kundan Refinery Wins Two Awards at IGC Excellence Awards 2026, Marking a Decade of Continued Recognition",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-price-prediction-today-what-is-the-gold-rate-outlook-for-august-27-2026-should-you-buy-or-sell-mcx-gold-mcx-silver/articleshow/133543737.cms",
-      "published": "2026-08-26T14:47:00Z",
-      "description": "Gold and silver price prediction today: MCX Gold has entered a consolidation phase at the start of the week after testing the May 2026 highs, but the fact that prices are continuing to hold around tho"
-    },
-    {
-      "title": "紫金矿业等在龙岩成立资源投资公司，注册资本1亿",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3956044909018243?f=rss",
-      "published": "2026-08-26T07:39:00Z",
-      "description": "36氪获悉，天眼查工商信息显示，近日，福建龙钽资源投资有限公司成立，注册资本1亿元人民币，法定代表人为官荣柱，经营范围涵盖以自有资金从事投资活动、选矿、常用有色金属冶炼、贵金属冶炼、金属矿石销售、地质勘查技术服务等，由紫金矿业旗下福建紫金稀贵金属有限公司、永定红（福建）有色金属有限公司、福建省龙岩工程勘察院共同持股。"
-    },
-    {
-      "title": "Hindustan Zinc vs Hindalco: Why Jefferies raised target prices for both, but prefers one over the other",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-vs-hindalco-why-jefferies-raised-target-prices-for-both-but-prefers-one-over-the-other/articleshow/133533623.cms",
-      "published": "2026-08-26T07:32:10Z",
-      "description": "Jefferies has raised its target prices for Hindustan Zinc and Hindalco Industries, but prefers the former, retaining a Buy rating versus Hold on Hindalco. The brokerage expects stronger zinc and silve"
-    },
-    {
-      "title": "对话深之蓝董事长魏建仓：海洋产业有其特殊性，单靠资本和规模无法快速获得竞争力｜产业专访",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3956030865931397?f=rss",
-      "published": "2026-08-26T07:26:03Z",
-      "description": "文 | 婧琼\n 编辑 | 阿至\n 在三亚亚特兰蒂斯酒店的水族馆里，潜水员手持一台白色水下推进器，平稳滑行在超过86000只海洋生物之间。为他提供动力的设备，是SUBLUE品牌推出的便携式水下助推机器人，白鲨Mix——一款在亚马逊卖成“冷门爆款”，销售覆盖全球70多个国家的消费级水下装备产品。\n 2017年5月，白鲨Mix第一次上线美国众筹平台Indiegogo，原计划2个月的众筹期，不到40个小时"
-    },
-    {
-      "title": "首发｜星邑空间完成数亿元A轮融资，一家商业航天测运控公司的八年长跑与「重生」",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3956027533507970?f=rss",
-      "published": "2026-08-26T07:21:22Z",
-      "description": "文 | 阿至\n “做隐姓埋名人，干惊天动地事。这是我们这个赛道特别明显的写照。”星邑空间成立八年，创始人王铮很少走到台前。\n 今年商业航天再次成为一级市场焦点。火箭公司冲刺IPO，卫星创企批量涌现，太空算力成为时下最有想象空间的概念，但在一轮又一轮热潮中，航天测运控，这个连接航天天地系统的关键一环，更多处于聚光灯的边缘。\n 作为一个幕后环节，它没有火箭发射时的烈焰与轰鸣，也不容易成为资本故事里的主"
-    },
-    {
-      "title": "坏天气，正在「点燃」黄金行情",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3955937575402881?f=rss",
-      "published": "2026-08-26T05:53:03Z",
-      "description": "作者 | 黄绎达\n 编辑 | 张帆\n 近期，全球资本市场正在经历一轮由真实世界物理约束与金融条件持续收紧交织所引发的剧烈震荡。\n 由于强厄尔尼诺乃至“超强厄尔尼诺”导致农产品减产的预期持续升温，今年以来农产品价格集体走强。截至8月25日，农产品中表现最为突出的CBOT豆油、CBOT稻谷、CBOT小麦和ICE2号棉花年初至今分别上涨了45%、35%、30%和24%。\n \n 图：年初至今主要农产品期货"
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/kundan-refinery-wins-two-awards-at-igc-excellence-awards-2026-marking-a-decade-of-continued-recognition/articleshow/133565270.cms",
+      "published": "2026-08-27T10:37:08Z",
+      "description": "Kundan Refinery achieved a remarkable milestone by winning two IGC Excellence Awards during the 2025-26 period, celebrating ten consecutive years of being recognized in the industry. The awards were p"
     }
   ],
   "tweets": []
