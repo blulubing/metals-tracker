@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-09-02 10:20:09 UTC",
+  "updated_at": "2026-09-03 10:29:30 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4308.18,
+      "price_usd": 4422.05,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 63.76,
+      "price_usd": 65.47,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1718.3,
+      "price_usd": 1760.59,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1307.06,
+      "price_usd": 1363.7,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.51,
+      "price_usd": 0.52,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Kharge dismisses Modi's GDP video as 'PR on economy', flags rise in prices, joblessness",
+      "title": "万向德农这波上涨，早有信号？",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3966082304089352?f=rss",
+      "published": "2026-09-02T10:00:58Z",
+      "description": "头图\n 今日A股收盘数据\n 上证指数：3941.39 点，-0.97%\n 深证成指：13611.55 点，-1.88%\n 创业板指：3312.24 点，-2.39%\n  \n 从一则市场信号，提前发现万向德农的上涨机会\n 14.42  +0.46  +3.30%\n 当日开盘价14.20元；交易量101.99万手；换手率34.86%；成交额14.53亿元；总市值42.19亿元。\n 值得关注的是，万向德"
+    },
+    {
+      "title": "TFP Software FZCO Launches The Friendly PARTNER Trading Software to Address Execution Distortion and Missed Market Moves",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/tfp-software-fzco-launches-the-friendly-partner-trading-software-to-address-execution-distortion-and-missed-market-moves-302867558.html",
+      "published": "2026-09-02T09:20:00Z",
+      "description": "DUBAI, UAE, Sept. 2, 2026 /PRNewswire/ -- TFP Software today announced the launch of The Friendly PARTNER, a world-first, native MT4 and MT5 trading execution suite engineered to solve some of the mos"
+    },
+    {
+      "title": "国内多家品牌金饰价格再次大幅下调",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3965807378423041?f=rss",
+      "published": "2026-09-02T05:43:43Z",
+      "description": "国内多家品牌金饰价格再次大幅下调，老庙黄金足金饰品报1303元/克，单日大跌37元；周生生足金饰品报1302元/克，单日大跌36元；老凤祥足金饰品报1307元/克，单日大跌35元。记者梳理发现，相较8月25日各品牌足金饰品最高点，周生生、老庙黄金、老凤祥足金饰品克价一周内分别累计下跌106元、104元和99元。（中新经纬）"
+    },
+    {
+      "title": "A股三大指数午间休盘集体下跌，航天军工逆势大涨",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3965714372877575?f=rss",
+      "published": "2026-09-02T03:33:16Z",
+      "description": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.82%，深成指跌1.71%，创业板指跌2.18%；农业板块领跌，、敦煌种业、新农种业跌停，华绿生物跌超11%，贵金属板块走弱，华锡有色、中金黄金跌超4%，通信设备板块下挫，“易中天”均跌超4%；航天军工、日用化工板块领涨，晟楠科技、长城军工涨停，珈凯生物涨超8%。"
+    },
+    {
+      "title": "Gold hits over two-week low, US jobs data in focus",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/kharge-dismisses-modis-gdp-video-as-pr-on-economy-flags-rise-in-prices-joblessness/articleshow/133675143.cms",
-      "published": "2026-09-01T09:17:40Z",
-      "description": "Criticising PM Modi's economic claims, Kharge said common people face unemployment, price rise and inequality. He highlighted unemployment at a fifty-year high and rising inflation, and alleged rampan"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-over-two-week-low-us-jobs-data-in-focus/articleshow/133695175.cms",
+      "published": "2026-09-02T01:52:52Z",
+      "description": "On Wednesday, gold prices hit their lowest point in two weeks, driven down by rising Treasury yields and a stronger dollar that made the metal pricier for international customers. As investors look ah"
     },
     {
-      "title": "芒果超媒20CM涨停背后：如何从企业动态中提前发现市场信号？",
+      "title": "创业板指跌超2%",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3964575113436680?f=rss",
-      "published": "2026-09-01T08:25:07Z",
-      "description": "图1\n 今日A股收盘数据\n 上证指数：3979.89 点，-0.16%\n 深证成指：13872.38 点，-1.02%\n 创业板指：3393.43 点，-1.32%\n 更多芒果超媒相关信息点击进入36氪企业全情报小程序查看\n  \n 芒果超媒9月1日上涨20.02%\n 20.38  +3.40  +20.02%\n 当日开盘价20.38；交易量137.38万手；\n 换手率13.45%；放量幅度1.10"
+      "url": "https://36kr.com/newsflashes/3965602825575682?f=rss",
+      "published": "2026-09-02T01:39:48Z",
+      "description": "36氪获悉，创业板指跌超2%，沪指跌0.64%，深成指跌1.47%，贵金属、算力硬件板块跌幅居前，沪深京超4700股下跌。"
     },
     {
-      "title": "Why your first Rs 25 lakh investment is a major wealth-creation milestone",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/why-your-first-rs-25-lakh-investment-is-a-major-wealth-creation-milestone/articleshow/133671309.cms",
-      "published": "2026-09-01T07:00:10Z",
-      "description": "Reaching the Rs 25 lakh milestone signifies a transformative moment in wealth creation for young investors. It indicates that accumulated capital is now playing a crucial role in enhancing portfolio g"
-    },
-    {
-      "title": "Battle of metals: Gold or silver? What should investors choose as Warsh stokes rate hike fears?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/battle-of-metals-gold-or-silver-what-should-investors-choose-as-warsh-stokes-rate-hike-fears/articleshow/133669988.cms",
-      "published": "2026-09-01T06:01:56Z",
-      "description": "Gold and silver have rallied sharply, but renewed US rate hike fears following Fed Chief Kevin Warsh’s Jackson Hole remarks have clouded the near-term outlook. While experts remain bullish on both met"
-    },
-    {
-      "title": "众筹超千万美金，桌面CNC品牌完成数亿元天使轮系列融资，红杉、蓝驰等押注｜产品观察",
+      "title": "外卖大战后，“不参战”的霸王茶姬手里握着什么牌？",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3962818472901761?f=rss",
-      "published": "2026-09-01T04:36:50Z",
-      "description": "作者｜黄楠\n 编辑｜袁斯来\n 智能硬件赛道融资遇冷时，一家CNC公司却拿下了头部机构的数亿融资。\n 硬氪独家获悉，桌面CNC品牌巢匠科技NestWorks（以下简称NestWorks）日前已完成数亿元天使轮及天使+轮融资，投资方为红杉中国、蓝驰创投、钟鼎资本、祥峰投资与元璟资本，高鹄资本担任后续融资的独家财务顾问。\n 作为大象机器人内部孵化的新品牌，NestWorks于2025年11月正式成立。这"
+      "url": "https://36kr.com/p/3965565272579331?f=rss",
+      "published": "2026-09-02T01:03:42Z",
+      "description": "作者 | 杨烁\n 2025年，互联网大厂掀起了一场前所未有的奶茶补贴大战。\n 去年4月，京东宣布进军外卖生意。随后，奶茶、咖啡等高频消费品类，被互联网大厂们当作争夺用户和订单的入口。疯狂补贴下，“免费喝”“0元购”“1分钱喝奶茶”一度成为社交平台上的热门话题。\n 流量是平台的，代价却由行业分摊。这导致，本就处于存量竞争、刺刀见红的新茶饮市场，被这场大战搅得更“卷”。\n 今年8月以来，茶饮上市公司陆"
     },
     {
-      "title": "硬氪首发 | 前META、XREAL产品负责人创业可穿戴硬件，获美国顶级VC数千万种子轮融资",
+      "title": "中信建投：9月均衡配置，重视机构低配品种",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3964360609275392?f=rss",
-      "published": "2026-09-01T04:36:42Z",
-      "description": "硬氪获悉，近日可穿戴AI硬件Nirva完成数千万元元种子轮融资，由美国顶级VC光速（Lightspeed）领投，South Park Commons跟投，由深渡资本担任长期独家财务顾问。此次融资主要用来扩充团队、量产准备和新品研发。\n 这是一家成长于硅谷的AI可穿戴公司，创始人吕唯是前META和XREAL产品负责人，深耕可穿戴设备研发近十年，CTO Jason则是前META REALITY LAB"
+      "url": "https://36kr.com/newsflashes/3965518468848898?f=rss",
+      "published": "2026-09-02T00:28:57Z",
+      "description": "36氪获悉，中信建投研报称，展望9月，市场仍处存量博弈、结构性行情占优的环境，配置上：建议一方面保留AI算力、有色、创新药及部分出海制造等景气持续验证方向；另一方面重视机构低配品种，关注银行、保险、证券等兼具高股息防御属性方向，电池、工业金属、能源金属、基础化工等兼具盈利改善的方向和钢铁、生猪养殖等周期拐点渐进的方向。"
     },
     {
-      "title": "8点1氪丨片仔癀市值蒸发超2100亿；苹果换帅，特努斯接替库克任苹果CEO；Anthropic签署由英伟达支持的350亿美元云计算协议",
+      "title": "8点1氪丨宇树回应“报销超100元需王兴兴亲自审批”；Manus恢复独立运营；蔚来发布二季度财报，营收增长69.1%",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3964101092236803?f=rss",
-      "published": "2026-09-01T00:14:51Z",
-      "description": "今日热点导览\n AI客服“转人工”难？“新国标”来了\n 消息称字节上调豆包股价格至17.02美元\n AI公司每赚100美元近40美元流向云巨头亚马逊、微软、谷歌\n 小红书内测“发日常”新功能，可设“三天可见”\n 中国成功建立地月双向高速激光通信，月球传回照片仅用12秒\n TOP3大新闻\n 片仔癀市值蒸发超2100亿 \n 有“药茅”之称的老牌中药龙头片仔癀（600436.SH）业绩持续承压。8月31"
+      "url": "https://36kr.com/p/3965525489491463?f=rss",
+      "published": "2026-09-02T00:24:54Z",
+      "description": "今日热点导览\n 华为小米荣耀回应手机涨价\n 抖音客服回应突发大面积服务异常\n 苹果市值一夜飙升8000亿\n “豆包手机”获入网许可，9月上市销售\n Anthropic发布Claude Fable 5.1\n TOP3大新闻\n 宇树回应“报销超100元需王兴兴审批”：很多内容不实，切勿当真\n 9月1日，宇树科技内部管理模式引发热议。网传称“单笔超100元报销需王兴兴亲自审批”，且其细节管理极为严苛。对"
     },
     {
-      "title": "券商9月“金股”扎堆四大行业，机构看好核心资产配置价值",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3964088870067464?f=rss",
-      "published": "2026-09-01T00:07:32Z",
-      "description": "8月31日，A股三大股指集体上涨，8月月线集体翻红，带动券商8月“金股”指数多数实现正收益。从券商推荐的9月“金股”组合看，截至8月31日发稿时，已有近70只A股及港股标的获得券商青睐，其中宁德时代、药明康德关注度最高；从券商“金股”的行业分布情况看，电子、机械设备、医药生物、有色金属等行业受到青睐。展望9月行情，业内人士认为，在多方因素共同作用下，短期市场大概率维持区间震荡走势。风格上，大盘价值"
-    },
-    {
-      "title": "Mundoro Reports Progress on Exploration Programs and Financial Results",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/mundoro-reports-progress-on-exploration-programs-and-financial-results",
-      "published": "2026-08-31T15:37:30Z",
-      "description": "VANCOUVER, British Columbia, Aug. 31, 2026 (GLOBE NEWSWIRE) — Mundoro Capital Inc. (TSXV: MUN | OTCQB: MUNMF | www.mundoro.com) (“Mundoro” or the “Company“) is pleased to announce an update regarding "
-    },
-    {
-      "title": "Nevgold Files NI 43-101 Technical Report For Mineral Resource Estimate on the Limousine Butte Gold-Antimony Project, Nevada",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/nevgold-files-ni-43-101-technical-report-for-mineral-resource-estimate-on-the-limousine-butte-gold-antimony-project-nevada",
-      "published": "2026-08-31T12:44:12Z",
-      "description": "Vancouver, British Columbia, Aug. 31, 2026 (GLOBE NEWSWIRE) — NevGold Corp. (“NevGold” or the “Company”) (TSXV:NAU) (OTCQX:NAUFF) (Frankfurt:5E50) is pleased to announce that it has filed a Technical "
+      "title": "美国债要崩？想多了",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001110740",
+      "published": "2026-09-01T16:00:00Z",
+      "description": "更新于2026年9月2日 06:59\n独立经济学人古尧\n\r\n\n\n\n美国债发行和规模控制等管理工作，主要是基于美元管理的需要，而非财政均衡管理需要。在国债发行上，美国作为金融强国，可以说是长袖善舞。美债的高利率，不仅是外生性通胀扰动的结果，更是当今金融战背景下政策的有意为之。\r\n\n美国国债突破40万亿美元大关，市场警惕、担忧之声鹊起：如此巨额国债压力下，美国财政体系将不堪重负，美金融市场平稳繁荣局面"
     }
   ],
   "tweets": []
