@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-09-03 10:29:30 UTC",
+  "updated_at": "2026-09-04 10:18:15 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4422.05,
+      "price_usd": 4472.64,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 65.47,
+      "price_usd": 66.86,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1760.59,
+      "price_usd": 1809.77,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1363.7,
+      "price_usd": 1402.75,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.45,
+      "price_usd": 0.46,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "万向德农这波上涨，早有信号？",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3966082304089352?f=rss",
-      "published": "2026-09-02T10:00:58Z",
-      "description": "头图\n 今日A股收盘数据\n 上证指数：3941.39 点，-0.97%\n 深证成指：13611.55 点，-1.88%\n 创业板指：3312.24 点，-2.39%\n  \n 从一则市场信号，提前发现万向德农的上涨机会\n 14.42  +0.46  +3.30%\n 当日开盘价14.20元；交易量101.99万手；换手率34.86%；成交额14.53亿元；总市值42.19亿元。\n 值得关注的是，万向德"
+      "title": "The gold trade is dead. Long live gold.",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/the-gold-trade-is-dead-long-live-gold-etfs-jewellery-demand-buyers-investors-inflation-oil-shock-markets-11788338533918.html",
+      "published": "2026-09-03T09:53:45Z",
+      "description": "Record US borrowing, weaker Treasury demand and rising fiscal pressures could eventually force policymakers to tolerate inflation and negative real rates—conditions that favour gold."
     },
     {
-      "title": "TFP Software FZCO Launches The Friendly PARTNER Trading Software to Address Execution Distortion and Missed Market Moves",
+      "title": "Gold price today: Futures rise ₹1,029 to ₹1.53 lakh/10 gm on firm spot demand",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-price-today-futures-rise-1029-to-153-lakh10-gm-on-firm-spot-demand/article71423153.ece",
+      "published": "2026-09-03T09:33:45Z",
+      "description": "Gold futures increase to ₹1.53 lakh per 10 grams due to strong spot demand and fresh positions by speculators."
+    },
+    {
+      "title": "杭州小团队做了台「AI对讲机」，3天众筹了1000%",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3967445813468681?f=rss",
+      "published": "2026-09-03T09:01:35Z",
+      "description": "文丨刘士武\n GENiEX的屏幕亮起，一行英文写着：“THE FUTURE IS ALREADY BROKEN。 WE‘RE SENDING A MESSAGE BACK。”（未来已经破碎，我们正在往回发送信息。）\n \n GENiEX\n 截至发稿，这款AI 潮玩硬件「GENiEX」，已经在全球知名众筹平台Kickstarter上筹到13.45万美元（约105万港币）。相比上架时的目标1.27万美元"
+    },
+    {
+      "title": "Sensex, Nifty trim morning gains by midday; Banking holds firm as IT, Pharma, Consumer stocks weigh",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-trim-morning-gains-by-midday-banking-holds-firm-as-it-pharma-consumer-stocks-weigh/article71422838.ece",
+      "published": "2026-09-03T07:42:33Z",
+      "description": "Axis Bank rises 1.55% to ₹1,273.30, ICICI Bank gains 1.04% to ₹1,441.30, SBI advances 0.84% to ₹1,029.50, and HDFC Bank adds 0.84% to ₹706.70"
+    },
+    {
+      "title": "Aurra Markets Receives 'Most Transparent Broker' Award in Mumbai",
       "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/tfp-software-fzco-launches-the-friendly-partner-trading-software-to-address-execution-distortion-and-missed-market-moves-302867558.html",
-      "published": "2026-09-02T09:20:00Z",
-      "description": "DUBAI, UAE, Sept. 2, 2026 /PRNewswire/ -- TFP Software today announced the launch of The Friendly PARTNER, a world-first, native MT4 and MT5 trading execution suite engineered to solve some of the mos"
+      "url": "https://www.prnewswire.com/news-releases/aurra-markets-receives-most-transparent-broker-award-in-mumbai-302868741.html",
+      "published": "2026-09-03T06:56:00Z",
+      "description": "Aurra Markets wins the 'Most Transparent Broker' award at Money Expo Mumbai 2026. Read about our MT5 infrastructure and Aurra Wallet. MUMBAI, India, Sept. 3, 2026 /PRNewswire/ -- Aurra Markets Wins 'M"
     },
     {
-      "title": "国内多家品牌金饰价格再次大幅下调",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3965807378423041?f=rss",
-      "published": "2026-09-02T05:43:43Z",
-      "description": "国内多家品牌金饰价格再次大幅下调，老庙黄金足金饰品报1303元/克，单日大跌37元；周生生足金饰品报1302元/克，单日大跌36元；老凤祥足金饰品报1307元/克，单日大跌35元。记者梳理发现，相较8月25日各品牌足金饰品最高点，周生生、老庙黄金、老凤祥足金饰品克价一周内分别累计下跌106元、104元和99元。（中新经纬）"
-    },
-    {
-      "title": "A股三大指数午间休盘集体下跌，航天军工逆势大涨",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3965714372877575?f=rss",
-      "published": "2026-09-02T03:33:16Z",
-      "description": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.82%，深成指跌1.71%，创业板指跌2.18%；农业板块领跌，、敦煌种业、新农种业跌停，华绿生物跌超11%，贵金属板块走弱，华锡有色、中金黄金跌超4%，通信设备板块下挫，“易中天”均跌超4%；航天军工、日用化工板块领涨，晟楠科技、长城军工涨停，珈凯生物涨超8%。"
-    },
-    {
-      "title": "Gold hits over two-week low, US jobs data in focus",
+      "title": "Gold prices rise 2,300/10 gram in 2 days; silver gains Rs 3,300/kg as yields, dollar soften. Key levels to watch",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-hits-over-two-week-low-us-jobs-data-in-focus/articleshow/133695175.cms",
-      "published": "2026-09-02T01:52:52Z",
-      "description": "On Wednesday, gold prices hit their lowest point in two weeks, driven down by rising Treasury yields and a stronger dollar that made the metal pricier for international customers. As investors look ah"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-2300/10-gram-in-2-days-silver-gains-rs-3300/kg-as-yields-dollar-soften-key-levels-to-watch/articleshow/133724993.cms",
+      "published": "2026-09-03T04:13:26Z",
+      "description": "Gold and silver prices rose for a second straight session on MCX as the US dollar weakened and bond yields eased. Investors now await US nonfarm payrolls data for clues on the Federal Reserve’s policy"
     },
     {
-      "title": "创业板指跌超2%",
+      "title": "A股三大指数午间休盘集体上涨，培育钻石概念走强",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3965602825575682?f=rss",
-      "published": "2026-09-02T01:39:48Z",
-      "description": "36氪获悉，创业板指跌超2%，沪指跌0.64%，深成指跌1.47%，贵金属、算力硬件板块跌幅居前，沪深京超4700股下跌。"
+      "url": "https://36kr.com/newsflashes/3967129843457284?f=rss",
+      "published": "2026-09-03T03:33:09Z",
+      "description": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.43%，深成指涨0.39%，创业板指涨0.43%；海运、贵金属板块领涨，中远海能、凤凰航运、海通发展涨停，湖南黄金涨超5%；培育钻石概念走强，黄河旋风、恒盛能源涨停；农业、稳定币跌幅居前，万向德农跌超9%，楚天龙跌超8%。"
     },
     {
-      "title": "外卖大战后，“不参战”的霸王茶姬手里握着什么牌？",
+      "title": "Gold treads water ahead of US nonfarm payrolls report",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-treads-water-ahead-of-us-nonfarm-payrolls-report/articleshow/133723178.cms",
+      "published": "2026-09-03T01:55:30Z",
+      "description": "Gold prices held steady during the early hours of Thursday’s Asian trading. Investors are closely monitoring the upcoming U.S. nonfarm payrolls data, as it may impact the Federal Reserve's policy dire"
+    },
+    {
+      "title": "创业板指涨超1%",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3965565272579331?f=rss",
-      "published": "2026-09-02T01:03:42Z",
-      "description": "作者 | 杨烁\n 2025年，互联网大厂掀起了一场前所未有的奶茶补贴大战。\n 去年4月，京东宣布进军外卖生意。随后，奶茶、咖啡等高频消费品类，被互联网大厂们当作争夺用户和订单的入口。疯狂补贴下，“免费喝”“0元购”“1分钱喝奶茶”一度成为社交平台上的热门话题。\n 流量是平台的，代价却由行业分摊。这导致，本就处于存量竞争、刺刀见红的新茶饮市场，被这场大战搅得更“卷”。\n 今年8月以来，茶饮上市公司陆"
+      "url": "https://36kr.com/newsflashes/3967015074946312?f=rss",
+      "published": "2026-09-03T01:36:24Z",
+      "description": "创业板指涨超1%，沪指涨0.64%，深成指涨0.93%；贵金属、半导体板块领涨；沪深京三市超3300股上涨。"
     },
     {
-      "title": "中信建投：9月均衡配置，重视机构低配品种",
+      "title": "A股三大指数集体高开，芯朋微涨超6%",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3965518468848898?f=rss",
-      "published": "2026-09-02T00:28:57Z",
-      "description": "36氪获悉，中信建投研报称，展望9月，市场仍处存量博弈、结构性行情占优的环境，配置上：建议一方面保留AI算力、有色、创新药及部分出海制造等景气持续验证方向；另一方面重视机构低配品种，关注银行、保险、证券等兼具高股息防御属性方向，电池、工业金属、能源金属、基础化工等兼具盈利改善的方向和钢铁、生猪养殖等周期拐点渐进的方向。"
-    },
-    {
-      "title": "8点1氪丨宇树回应“报销超100元需王兴兴亲自审批”；Manus恢复独立运营；蔚来发布二季度财报，营收增长69.1%",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3965525489491463?f=rss",
-      "published": "2026-09-02T00:24:54Z",
-      "description": "今日热点导览\n 华为小米荣耀回应手机涨价\n 抖音客服回应突发大面积服务异常\n 苹果市值一夜飙升8000亿\n “豆包手机”获入网许可，9月上市销售\n Anthropic发布Claude Fable 5.1\n TOP3大新闻\n 宇树回应“报销超100元需王兴兴审批”：很多内容不实，切勿当真\n 9月1日，宇树科技内部管理模式引发热议。网传称“单笔超100元报销需王兴兴亲自审批”，且其细节管理极为严苛。对"
-    },
-    {
-      "title": "美国债要崩？想多了",
-      "source": "Ftchinese.com",
-      "url": "https://www.ftchinese.com/story/001110740",
-      "published": "2026-09-01T16:00:00Z",
-      "description": "更新于2026年9月2日 06:59\n独立经济学人古尧\n\r\n\n\n\n美国债发行和规模控制等管理工作，主要是基于美元管理的需要，而非财政均衡管理需要。在国债发行上，美国作为金融强国，可以说是长袖善舞。美债的高利率，不仅是外生性通胀扰动的结果，更是当今金融战背景下政策的有意为之。\r\n\n美国国债突破40万亿美元大关，市场警惕、担忧之声鹊起：如此巨额国债压力下，美国财政体系将不堪重负，美金融市场平稳繁荣局面"
+      "url": "https://36kr.com/newsflashes/3967007569337863?f=rss",
+      "published": "2026-09-03T01:28:46Z",
+      "description": "36氪获悉，A股三大指数集体高开，沪指高开0.29%，深成指高开0.73%，创业板指高开0.9%。贵金属、半导体板块领涨；芯朋微、矽电股份涨超6%，湖南黄金涨超2%；日用化工、石油天然气板块跌幅居前。"
     }
   ],
   "tweets": []
