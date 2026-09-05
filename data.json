@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-09-04 10:18:15 UTC",
+  "updated_at": "2026-09-05 09:46:10 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4472.64,
+      "price_usd": 4430.18,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 66.86,
+      "price_usd": 66.2,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1809.77,
+      "price_usd": 1819.6,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1402.75,
+      "price_usd": 1382.51,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "The gold trade is dead. Long live gold.",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/the-gold-trade-is-dead-long-live-gold-etfs-jewellery-demand-buyers-investors-inflation-oil-shock-markets-11788338533918.html",
-      "published": "2026-09-03T09:53:45Z",
-      "description": "Record US borrowing, weaker Treasury demand and rising fiscal pressures could eventually force policymakers to tolerate inflation and negative real rates—conditions that favour gold."
-    },
-    {
-      "title": "Gold price today: Futures rise ₹1,029 to ₹1.53 lakh/10 gm on firm spot demand",
+      "title": "Gold price falls ₹431 to ₹1.55 lakh/10g in futures trade; snaps two-day rise",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-price-today-futures-rise-1029-to-153-lakh10-gm-on-firm-spot-demand/article71423153.ece",
-      "published": "2026-09-03T09:33:45Z",
-      "description": "Gold futures increase to ₹1.53 lakh per 10 grams due to strong spot demand and fresh positions by speculators."
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-price-falls-431-to-155-lakh10g-in-futures-trade-snaps-two-day-rise/article71427695.ece",
+      "published": "2026-09-04T09:24:03Z",
+      "description": "On MCX, the yellow metal futures for October delivery declined ₹431, or 0.28% to ₹1,55,344 per 10 grams."
     },
     {
-      "title": "杭州小团队做了台「AI对讲机」，3天众筹了1000%",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3967445813468681?f=rss",
-      "published": "2026-09-03T09:01:35Z",
-      "description": "文丨刘士武\n GENiEX的屏幕亮起，一行英文写着：“THE FUTURE IS ALREADY BROKEN。 WE‘RE SENDING A MESSAGE BACK。”（未来已经破碎，我们正在往回发送信息。）\n \n GENiEX\n 截至发稿，这款AI 潮玩硬件「GENiEX」，已经在全球知名众筹平台Kickstarter上筹到13.45万美元（约105万港币）。相比上架时的目标1.27万美元"
-    },
-    {
-      "title": "Sensex, Nifty trim morning gains by midday; Banking holds firm as IT, Pharma, Consumer stocks weigh",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty-trim-morning-gains-by-midday-banking-holds-firm-as-it-pharma-consumer-stocks-weigh/article71422838.ece",
-      "published": "2026-09-03T07:42:33Z",
-      "description": "Axis Bank rises 1.55% to ₹1,273.30, ICICI Bank gains 1.04% to ₹1,441.30, SBI advances 0.84% to ₹1,029.50, and HDFC Bank adds 0.84% to ₹706.70"
-    },
-    {
-      "title": "Aurra Markets Receives 'Most Transparent Broker' Award in Mumbai",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/aurra-markets-receives-most-transparent-broker-award-in-mumbai-302868741.html",
-      "published": "2026-09-03T06:56:00Z",
-      "description": "Aurra Markets wins the 'Most Transparent Broker' award at Money Expo Mumbai 2026. Read about our MT5 infrastructure and Aurra Wallet. MUMBAI, India, Sept. 3, 2026 /PRNewswire/ -- Aurra Markets Wins 'M"
-    },
-    {
-      "title": "Gold prices rise 2,300/10 gram in 2 days; silver gains Rs 3,300/kg as yields, dollar soften. Key levels to watch",
+      "title": "After Adani, Tata feels the heat: Indian firms under fire in Kenya?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-2300/10-gram-in-2-days-silver-gains-rs-3300/kg-as-yields-dollar-soften-key-levels-to-watch/articleshow/133724993.cms",
-      "published": "2026-09-03T04:13:26Z",
-      "description": "Gold and silver prices rose for a second straight session on MCX as the US dollar weakened and bond yields eased. Investors now await US nonfarm payrolls data for clues on the Federal Reserve’s policy"
+      "url": "https://economictimes.indiatimes.com/news/company/corporate-trends/after-adani-tata-feels-the-heat-indian-firms-under-fire-in-kenya/articleshow/133757332.cms",
+      "published": "2026-09-04T08:50:54Z",
+      "description": "Kenya’s dispute with Tata Chemicals has revived concerns about Indian businesses in the country after Adani’s exit. But Kenya continues to attract Indian investment, suggesting the Tata confrontation "
     },
     {
-      "title": "A股三大指数午间休盘集体上涨，培育钻石概念走强",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3967129843457284?f=rss",
-      "published": "2026-09-03T03:33:09Z",
-      "description": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.43%，深成指涨0.39%，创业板指涨0.43%；海运、贵金属板块领涨，中远海能、凤凰航运、海通发展涨停，湖南黄金涨超5%；培育钻石概念走强，黄河旋风、恒盛能源涨停；农业、稳定币跌幅居前，万向德农跌超9%，楚天龙跌超8%。"
-    },
-    {
-      "title": "Gold treads water ahead of US nonfarm payrolls report",
+      "title": "Jefferies’ Chris Wood sees a structural bear market in US bonds. What it means for stocks and gold",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-treads-water-ahead-of-us-nonfarm-payrolls-report/articleshow/133723178.cms",
-      "published": "2026-09-03T01:55:30Z",
-      "description": "Gold prices held steady during the early hours of Thursday’s Asian trading. Investors are closely monitoring the upcoming U.S. nonfarm payrolls data, as it may impact the Federal Reserve's policy dire"
+      "url": "https://economictimes.indiatimes.com/markets/bonds/jefferies-chris-wood-sees-a-structural-bear-market-in-us-bonds-what-it-means-for-stocks-and-gold/articleshow/133756104.cms",
+      "published": "2026-09-04T07:53:21Z",
+      "description": "Jefferies warned that persistent pressure on US Treasury yields could create a challenging environment for equity markets, particularly for bond-sensitive assets such as REITs. While higher yields hav"
     },
     {
-      "title": "创业板指涨超1%",
+      "title": "那些「不日常」的衣服，买了到底要穿去哪？",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3967015074946312?f=rss",
-      "published": "2026-09-03T01:36:24Z",
-      "description": "创业板指涨超1%，沪指涨0.64%，深成指涨0.93%；贵金属、半导体板块领涨；沪深京三市超3300股上涨。"
+      "url": "https://36kr.com/p/3968795250946565?f=rss",
+      "published": "2026-09-04T07:50:55Z",
+      "description": "01 不日常单品，年轻人留给生活的彩蛋\n 女生的衣柜总是不够用的，倒不是因为真的缺衣服，只是女孩们总在尝试风格变换，而每种风格的自己都想拥有一件对应的搭配。\n 衣柜里总是会住进不少心血来潮拍下的单品，它们往往没那么日常，但在你付款的那一刻，就已经被安排好未来的出场剧本。这是年轻女孩们留给自己的生活彩蛋，有这样一件单品在，打开衣柜，就总会唤起那颗向往“非日常情景”的、躁动的心。\n 比如，一条黄色波点"
     },
     {
-      "title": "A股三大指数集体高开，芯朋微涨超6%",
+      "title": "NTA issues important advisory on grievances; check what candidates need to include",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/nta-issues-important-advisory-on-grievances-check-what-candidates-need-to-include/articleshow/133754595.cms",
+      "published": "2026-09-04T07:00:53Z",
+      "description": "The National Testing Agency has issued an advisory for candidates. Applicants must provide complete details when submitting grievances to NTA. This ensures officials can quickly identify and address i"
+    },
+    {
+      "title": "三大指数午后集体翻绿",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3967007569337863?f=rss",
-      "published": "2026-09-03T01:28:46Z",
-      "description": "36氪获悉，A股三大指数集体高开，沪指高开0.29%，深成指高开0.73%，创业板指高开0.9%。贵金属、半导体板块领涨；芯朋微、矽电股份涨超6%，湖南黄金涨超2%；日用化工、石油天然气板块跌幅居前。"
+      "url": "https://36kr.com/newsflashes/3968699025961478?f=rss",
+      "published": "2026-09-04T06:09:25Z",
+      "description": "36氪获悉，三大指数午后集体翻绿，半导体芯片、算力硬件、贵金属、消费电子等方向跌幅居前，沪深京三市下跌个股超2300只。"
+    },
+    {
+      "title": "Gold prices fall Rs 2,100/10 gram after 2 days; silver down Rs 1,500/kg ahead of US payrolls data. Important levels for today",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-fall-rs-2100/10-gram-after-2-days-silver-down-rs-1500/kg-ahead-of-us-payrolls-data-important-levels-for-today/articleshow/133752723.cms",
+      "published": "2026-09-04T05:20:28Z",
+      "description": "Following a brief rally, gold and silver prices opened lower on Friday, sparking caution among investors. The market is now focused on the US payrolls report, which may provide insights into Federal R"
+    },
+    {
+      "title": "动力电池回收利用产业标准体系建设指南有望今年发布",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3968588448592136?f=rss",
+      "published": "2026-09-04T04:49:43Z",
+      "description": "动力电池回收利用产业标准体系建设指南正在研究编制，有望今年出台。据悉，动力电池回收利用产业标准体系建设指南主要涉及绿色低碳、收集分类、材料再生等方面。其中绿色低碳方面，包含节能减碳、核查核算、绿色设计。随着新能源汽车产业高速发展，动力电池报废量将大幅增长。工信部数据显示，2025年，我国新能源汽车废旧动力电池综合利用量超过40万吨，同比增长32.9%。业内专家表示，随着早期推广的新能源汽车逐步进入"
+    },
+    {
+      "title": "金饰克价继续反弹，周生生两日涨47元",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3968483737891074?f=rss",
+      "published": "2026-09-04T02:30:25Z",
+      "description": "国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所上调，在经历9月2日阶段低点后继续反弹，其中老凤祥报价1351元/克，两日涨44元；老庙黄金报价1350元/克，两日涨47元；周生生报价1349元/克，两日涨47元。（财联社）"
+    },
+    {
+      "title": "硬氪首发 | 解决钙钛矿材料涂布难题，中科院系企业完成数千万元Pre-A轮融资",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3963287086496899?f=rss",
+      "published": "2026-09-04T02:22:52Z",
+      "description": "作者｜乔钰杰\n 编辑｜袁斯来\n \n 本文1500字，预计阅读4分钟\r\n\n \n 硬氪获悉，钙钛矿太阳能电池企业长春日耀光电科技有限公司（以下简称“日耀光电”）完成数千万元Pre-A轮融资，由天津创业投资管理有限公司（天创资本）与吉林省科技投资基金有限公司（吉林省科投）联合出资。此前，公司曾获长兴基金数千万元天使轮独家投资。\n 日耀光电成立于2023年，依托中国科学院长春应用化学研究所秦川江研究员团队"
     }
   ],
   "tweets": []
