@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-09-06 10:02:15 UTC",
+  "updated_at": "2026-09-07 11:14:33 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4430.18,
+      "price_usd": 4393.19,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 66.2,
+      "price_usd": 65.55,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1819.6,
+      "price_usd": 1811.56,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1382.51,
+      "price_usd": 1392.84,
       "unit": "USD/盎司 oz"
     },
     {
@@ -70,38 +70,31 @@
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.44,
+      "price_usd": 0.45,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Stocks struggle, but these multi-asset funds score big: What’s driving returns?",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/mf/analysis/stocks-struggle-but-these-multi-asset-funds-score-big-whats-driving-returns/multi-asset-allocation-funds-vs-nifty/slideshow/133792563.cms",
-      "published": "2026-09-05T07:17:59Z",
-      "description": "Multi-asset funds have outperformed the Nifty over the past one- and three-year periods with the category delivering an average returns of 11.44% and 14.45%, respectively, compared with a 1.26% declin"
-    },
-    {
-      "title": "Gold rate today: Check 18k, 20k, 22k, 24k gold prices (September 5, 2026) at Tanishq, Malabar Gold & Diamonds, Kalyan Jewellers, Joyalukkas and IBJA",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-check-18k-20k-22k-24k-gold-prices-september-5-2026-at-tanishq-malabar-gold-diamonds-kalyan-jewellers-joyalukkas-and-ibja/articleshow/133790268.cms",
-      "published": "2026-09-05T06:40:18Z",
-      "description": "Gold rate today: Consumers are encouraged to verify purity and any additional fees prior to purchasing. The Indian Bullion & Jewellers Association also offers guidance on indicative rates for assorted"
-    },
-    {
-      "title": "FCNR inflows push short-term borrowing costs lower amid rising liquidity: ICICI Bank",
+      "title": "FCNR-led rupee rally makes gold cheaper, weighs on prices",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/fcnr-inflows-push-short-term-borrowing-costs-lower-amid-rising-liquidity-icici-bank/article71431147.ece",
-      "published": "2026-09-05T06:32:15Z",
-      "description": "The report said the rise in liquidity could have implications beyond short-term borrowing costs, as historical data show a relationship between liquidity and inflation with a lag"
+      "url": "https://www.thehindubusinessline.com/news/fcnr-led-rupee-rally-makes-gold-cheaper-weighs-on-prices/article71432327.ece",
+      "published": "2026-09-06T10:34:28Z",
+      "description": "FCNR-led rupee appreciation drops gold prices, impacting consumer purchases amid festive season uncertainty and selective demand trends."
     },
     {
-      "title": "SGB 2021-22 Series VI: RBI fixes ₹15,334 redemption price, ₹1 lakh investment gains over 227% in 5 years",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/sgb-2021-22-series-vi-rbi-fixes-15-334-redemption-price-1-lakh-investment-gains-over-227-in-5-years-11788587456573.html",
-      "published": "2026-09-05T06:02:17Z",
-      "description": "SGB 2021-22 Series VI investors can opt for premature redemption on 7 September 2026 at  ₹15,334 per unit. The gold bond was issued at  ₹4,682 for online investors, translating into a 227% price gain,"
+      "title": "Gold bond bought at Rs 4,682 now worth Rs 15,334: SGB gives 228% return, Rs 1 lakh becomes Rs 3.28 lakh, plus 2.5% annual interest; premature redemption due September 7",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-bond-bought-at-rs-4682-now-worth-rs-15334-sgb-gives-228-return-rs-1-lakh-becomes-rs-3-28-lakh-plus-2-5-annual-interest-premature-redemption-due-september-7/articleshow/133827872.cms",
+      "published": "2026-09-06T07:55:42Z",
+      "description": "The Reserve Bank of India (RBI) has announced the premature redemption price for the SGB 2021-22 Series VI, which was issued on September 7, 2021. In a statement, the RBI has said that investors in th"
+    },
+    {
+      "title": "当孙宇晨遇见亚当•斯密",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001110803",
+      "published": "2026-09-05T16:00:00Z",
+      "description": "徐瑾：今年是《国富论》出版250周年，斯密会如何评价孙宇晨？也许不会反对他的自利，但会对成功凌驾于道德感摇头。以自利为驱动的商业社会，如何维持道德秩序？\r\n\n\r\n\n\r\n\n\n\n\n\n\n\n更新于2026年9月6日 21:59\nFT中文网经济主编、公号econhomo主理人徐瑾\n\r\n\n\n\n2026年，是一个值得停下来想一想的年份。\r\n\n《国富论》出版250周年，亚当•斯密的老朋友大卫•休谟，去世也整整25"
     },
     {
       "title": "金价深陷拉锯战，市场分析：与美国债务风险升温等多重因素变化密切相关",
@@ -109,27 +102,6 @@
       "url": "https://36kr.com/newsflashes/3970055631270144?f=rss",
       "published": "2026-09-05T05:09:25Z",
       "description": "9月4日，美国纽约商品交易所黄金期货价格一度失守每盎司4400美元关口，随后小幅回弹。近期，国际金价的走势可谓跌宕起伏。市场分析认为，金价目前受到多重力量的拉扯。金价震荡的背后究竟在发生什么？市场分析指出，本轮金价的震荡，与美国债务风险升温、全球投资预期等多重因素变化密切相关。美国财政部发布数据显示，截至8月18日，美国联邦政府未偿还公共债务总额已突破40万亿美元。机构预测，2027年，美国债务或"
-    },
-    {
-      "title": "Festive stock picks: 10 stocks to buy ahead of the festive season. Do you own any?",
-      "source": "Economictimes.com",
-      "url": "https://m.economictimes.com/markets/stocks/news/festive-stock-picks-10-stocks-to-buy-ahead-of-the-festive-season-do-you-own-any/festive-season-picks/slideshow/133788821.cms",
-      "published": "2026-09-05T05:08:54Z",
-      "description": "Every year, the festive season shines up with Ganesh Chaturthi, with the crescendo building up through Navratri and Durga Puja, and the finale landing on Dhanteras and Diwali before the wedding season"
-    },
-    {
-      "title": "228% return on SGB premature redemption date today: Gold bond turns Rs 1 lakh investment into nearly Rs 3.28 lakh",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/228-return-on-sgb-premature-redemption-date-today-gold-bond-turns-rs-1-lakh-investment-into-nearly-rs-3-28-lakh/articleshow/133786729.cms",
-      "published": "2026-09-05T04:12:06Z",
-      "description": "The Reserve Bank of India has announced the premature redemption terms for the SGB 2021-22 Series VI gold bond. Investors can redeem this series starting September 7, 2026, with the redemption value c"
-    },
-    {
-      "title": "Gold slides after robust US payrolls boosts rate hike bets",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-slides-after-robust-us-payrolls-boosts-rate-hike-bets/articleshow/133787001.cms",
-      "published": "2026-09-05T04:00:52Z",
-      "description": "Gold prices experienced a downturn on Friday, setting the stage for a weekly loss as solid US job data raised the bar for anticipated rate hikes by the Federal Reserve. This shift has rendered the non"
     },
     {
       "title": "India’s critical minerals mission needs institution builders, not mine operators",
@@ -144,6 +116,34 @@
       "url": "https://36kr.com/p/3969804742111746?f=rss",
       "published": "2026-09-05T00:57:02Z",
       "description": "今日热点导览\n 苹果Face ID技术被控专利侵权\n 持股市值超100亿，腾讯成燧原科技IPO最大赢家\n 字节新一代豆包手机采用长鑫科技LPDDR5X内存\n 美国零售柴油价格创历史新高\n 消息人士：玛莎拉蒂正与华为、江淮汽车洽谈合作项目\n TOP3大新闻\n 大众汽车全球裁员10万\n 北京时间9月4日，受大众集团宣布重组计划消息影响，大众汽车股价大涨近10%，截至发稿，涨幅回落至5%左右。消息面上，"
+    },
+    {
+      "title": "那些「不日常」的衣服，买了到底要穿去哪？",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3968795250946565?f=rss",
+      "published": "2026-09-04T07:50:55Z",
+      "description": "01 不日常单品，年轻人留给生活的彩蛋\n 女生的衣柜总是不够用的，倒不是因为真的缺衣服，只是女孩们总在尝试风格变换，而每种风格的自己都想拥有一件对应的搭配。\n 衣柜里总是会住进不少心血来潮拍下的单品，它们往往没那么日常，但在你付款的那一刻，就已经被安排好未来的出场剧本。这是年轻女孩们留给自己的生活彩蛋，有这样一件单品在，打开衣柜，就总会唤起那颗向往“非日常情景”的、躁动的心。\n 比如，一条黄色波点"
+    },
+    {
+      "title": "三大指数午后集体翻绿",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3968699025961478?f=rss",
+      "published": "2026-09-04T06:09:25Z",
+      "description": "36氪获悉，三大指数午后集体翻绿，半导体芯片、算力硬件、贵金属、消费电子等方向跌幅居前，沪深京三市下跌个股超2300只。"
+    },
+    {
+      "title": "动力电池回收利用产业标准体系建设指南有望今年发布",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3968588448592136?f=rss",
+      "published": "2026-09-04T04:49:43Z",
+      "description": "动力电池回收利用产业标准体系建设指南正在研究编制，有望今年出台。据悉，动力电池回收利用产业标准体系建设指南主要涉及绿色低碳、收集分类、材料再生等方面。其中绿色低碳方面，包含节能减碳、核查核算、绿色设计。随着新能源汽车产业高速发展，动力电池报废量将大幅增长。工信部数据显示，2025年，我国新能源汽车废旧动力电池综合利用量超过40万吨，同比增长32.9%。业内专家表示，随着早期推广的新能源汽车逐步进入"
+    },
+    {
+      "title": "金饰克价继续反弹，周生生两日涨47元",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3968483737891074?f=rss",
+      "published": "2026-09-04T02:30:25Z",
+      "description": "国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所上调，在经历9月2日阶段低点后继续反弹，其中老凤祥报价1351元/克，两日涨44元；老庙黄金报价1350元/克，两日涨47元；周生生报价1349元/克，两日涨47元。（财联社）"
     }
   ],
   "tweets": []
