@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-09-09 10:32:35 UTC",
+  "updated_at": "2026-09-10 10:21:21 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4395.94,
+      "price_usd": 4398.76,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 66.29,
+      "price_usd": 66.55,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1856.91,
+      "price_usd": 1868.9,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1356.04,
+      "price_usd": 1349.47,
       "unit": "USD/盎司 oz"
     },
     {
@@ -58,7 +58,7 @@
     {
       "code": "lme_zinc",
       "name": "LME锌 Zinc 3M",
-      "price_usd": 0.12,
+      "price_usd": 0.13,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "MAYFAIR GOLD ADVANCES EXPLORATION TARGETS AND PROJECT GEOLOGY AT FENN-GIB",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/mayfair-gold-advances-exploration-targets-and-project-geology-at-fenn-gib-302871837.html",
-      "published": "2026-09-08T10:30:00Z",
-      "description": "TORONTO, Sept. 8, 2026 /PRNewswire/ -- Mayfair Gold Corp. (\"Mayfair\", \"Mayfair Gold\", or the \"Company\") (TSXV: MFG) (NYSE American: MINE) is pleased to report on its summer exploration program progres"
+      "title": "湖南黄金：重大资产重组获得湖南省国资委批复",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3976007736422913?f=rss",
+      "published": "2026-09-09T10:04:13Z",
+      "description": "36氪获悉，湖南黄金公告，公司收到控股股东湖南省矿产资源集团有限责任公司转发的湖南省国资委的批复，原则同意公司通过发行股份的方式购买湖南黄金天岳矿业有限公司100%股权及湖南中南黄金冶炼有限公司100%股权，购买价格不低于经湖南省国资委备案的资产评估值；原则同意公司非公开发行股票募集配套资金不超过10.5亿元。"
     },
     {
-      "title": "Today’s Gold Rate: Latest gold prices in Coimbatore, Nagpur, Jaipur & other cities",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-coimbatore-nagpur-visakhapatnam-surat-jaipur-lucknow-chandigarh-gold-rates-other-cities-september-8-2026/article71441755.ece",
-      "published": "2026-09-08T08:47:09Z",
-      "description": "Gold Price Today, September 8, 2026: Check 22K and 24K gold rates in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow and Chandigarh."
+      "title": "India's retail credit market shifts to rural, GenZ borrowers via digital platforms",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/banking/finance/indias-retail-credit-market-shifts-to-rural-genz-borrowers-via-digital-platforms/articleshow/133961053.cms",
+      "published": "2026-09-09T08:52:28Z",
+      "description": "Younger consumers and rural households are driving India's retail credit market growth. These aspirational borrowers now account for most new credit originations. Digital platforms and alternative dat"
     },
     {
-      "title": "SGB premature redemption today: ₹1 lakh investment rises to ₹3.04 lakh as RBI fixes exit price at ₹15,384 per gram",
+      "title": "一档卖文具的综艺，为什么让年轻人停不下来？",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3975874591748357?f=rss",
+      "published": "2026-09-09T07:50:42Z",
+      "description": "谁的青春记忆里，没有晨光呢？\n 撰文｜J\n 封面来源｜晨光\n 谁能想到，2026年的“电子榨菜”里，竟然藏着一档卖文具的综艺。 \n 让明星开餐厅、开民宿、带娃旅行的综艺，大家都见过；但一群艺人开着文具车满街跑，一边研究怎么把笔卖出去，一边和路人唠嗑、写信、做游戏，甚至干脆把文具摊支进了校园……这种不按常理出牌的“独一份”，反而成了它在一众综艺里的记忆点。 \n 但偏偏，就是这档不拼大场面和强冲突的慢"
+    },
+    {
+      "title": "Gold ETF inflows halve in July as profit-booking and price volatility cool investor appetite",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/sgb-premature-redemption-today-1-lakh-investment-rises-to-3-04-lakh-as-rbi-fixes-exit-price-at-15-384-per-gram-11788854707147.html",
-      "published": "2026-09-08T08:12:23Z",
-      "description": "SGB 2020-21 Series VI investors can redeem their bonds prematurely from 8 September 2026 at  ₹15,384 per gram. The redemption price represents a 203.6% capital gain over the  ₹5,067 online issue price"
+      "url": "https://www.livemint.com/money/personal-finance/gold-etf-inflows-precious-metals-gold-prices-silver-gold-investment-etf-investment-mutual-funds-11788864204735.html",
+      "published": "2026-09-09T07:03:24Z",
+      "description": "Gold ETF inflows fell 55% in July after a sharp correction in precious metals. Experts see profit-booking and leverage unwinding, but say diversification and de-dollarization support long-term demand."
     },
     {
-      "title": "从实习生日薪5000，到上亿年薪，AI人才争夺陷入疯狂丨深氪",
+      "title": "36氪首发丨镭萌科技获千万融资，AI陪伴或许还有另一种可能？",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3974476864876801?f=rss",
-      "published": "2026-09-08T08:08:11Z",
-      "description": "文｜王毓婵 温丽虹\n 编辑｜张雨忻 杨轩\n 来源｜智能涌现（ID：AIEmergence）\n 封面来源｜AI生成\n 热钱\n 得知那位98年的同事，一位一线算法研究员跳槽去一家头部大厂后的年薪时，朱可欣觉得眩晕。\n 涨幅高达3倍——朱可欣和同事们在聚餐上猜测对方拿了多少时，“大胆猜测涨50%”。但答案揭晓，是从100万涨到300万，这远超他们预料。一顿饭的时间，饭桌上所有人对自我定价都重估了一遍。\n"
+      "url": "https://36kr.com/p/3975777320284422?f=rss",
+      "published": "2026-09-09T06:30:00Z",
+      "description": "文丨果脯\n 36氪获悉，2026年9月9日，AI机器人研发公司杭州镭萌科技在Inclusion外滩大会现场，宣布完成千万级天使轮融资。本轮融资由时尚传媒集团与弘颐资管集团联合领投。\n 其中，领投方时尚传媒集团成立于1993年，旗下品牌覆盖服装、珠宝等多个领域。本轮投资是他们首次在AI机器人方向布局。9月25日，镭萌旗下AI潮玩bibo将作为“快乐星球专属领航员”参加2026时尚芭莎之夜。届时，双方"
     },
     {
-      "title": "浦发银行：将自9月25日后择时停办代理上海黄金交易所个人贵金属业务",
+      "title": "Gold firms on softer dollar, inflation data and Mideast risks in focus",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-firms-on-softer-dollar-inflation-data-and-mideast-risks-in-focus/article71445616.ece",
+      "published": "2026-09-09T05:00:20Z",
+      "description": "Gold prices ‌firmed on Wednesday as the dollar remained muted, while ​renewed attacks between the U.S. and Iran and ⁠upcoming inflation data kept the focus on the interest-rate outlook."
+    },
+    {
+      "title": "Gold prices fall for 2nd day, silver at Rs 2.39 lakh/kg ahead of key US data. Key levels to track on Wednesday",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-for-2nd-day-silver-at-rs-2-39-lakh/kg-ahead-of-key-us-data-key-levels-to-track-on-wednesday/articleshow/133951997.cms",
+      "published": "2026-09-09T04:08:18Z",
+      "description": "Gold and silver prices opened lower on MCX as investors assessed renewed Middle East tensions, higher crude prices and expectations for US inflation data. Traders are pricing in around a 60% chance of"
+    },
+    {
+      "title": "Gold prices ease as Middle East tensions fuel rate hike concerns",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/133950133.cms",
+      "published": "2026-09-09T02:53:07Z",
+      "description": "Gold prices edged lower on Wednesday as escalating tensions in the Middle East raised concerns over higher inflation and reinforced expectations of e"
+    },
+    {
+      "title": "半年融资三轮，这家公司以AI和数据切入儿童成长交互赛道丨36氪首发",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3974431416463619?f=rss",
-      "published": "2026-09-08T07:28:32Z",
-      "description": "36氪获悉，浦发银行发布公告称，该行将自2026年9月25日后择时停办代理上海黄金交易所个人贵金属业务，并关闭手机银行、网上银行、网点柜面等渠道的代理上海黄金交易所个人贵金属业务交易权限。关闭后，持仓客户的平仓、卖出和提货等操作权限将受到限制。为保障客户权益，建议存量持仓客户于2026年9月25日前，通过手机银行、网上银行、网点柜面等渠道，对所持有的各类合约进行卖出、平仓或提货操作。"
+      "url": "https://36kr.com/p/3975552848589056?f=rss",
+      "published": "2026-09-09T02:21:46Z",
+      "description": "图源/企业\n \n 本文约3000字，建议阅读7分钟\r\n\n \n 作者丨欧雪\n 编辑丨袁斯来\n 硬氪获悉，风峦数字科技（下称“风峦科技”）近期已完成数千万元天使+轮融资，由鸿瑞达投资领投，苏州怡达基金及Hexa Capital跟投。资金将主要用于首代教育机器人的样机研发、技术团队扩建及销售体系建设。\n 风峦成立于2025年10月，是一家聚焦儿童成长数据资产的数字科技公司。创始人蒋肖迪毕业于美国康奈尔大"
     },
     {
-      "title": "Hindustan Copper shares jump 4% as copper prices surge to all-time high. What’s driving the red metal’s red hot rally?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-copper-shares-jump-4-as-copper-prices-surge-to-all-time-high-whats-driving-the-red-metals-red-hot-rally/articleshow/133907702.cms",
-      "published": "2026-09-08T04:54:26Z",
-      "description": "Hindustan Copper shares jumped over 4% as copper prices hit record highs amid supply concerns and a weaker US dollar. LME copper touched $14,533 per tonne, while MCX futures neared lifetime highs. Hin"
-    },
-    {
-      "title": "Gold prices rise for 2nd day, silver up Rs 3,500/kg on soft dollar ahead of inflation data",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-for-2nd-day-silver-up-rs-3500/kg-on-soft-dollar-ahead-of-inflation-data/articleshow/133907394.cms",
-      "published": "2026-09-08T04:41:49Z",
-      "description": "Gold and silver traded higher internationally as the US dollar weakened, while MCX prices were mixed, with silver gaining and gold declining. Investors awaited US inflation data for clues about the Fe"
-    },
-    {
-      "title": "Discovery Announces Management Changes",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/discovery-announces-management-changes-2",
-      "published": "2026-09-08T03:29:39Z",
-      "description": "TORONTO, Sept. 07, 2026 (GLOBE NEWSWIRE) — Discovery Mining Ltd. (TSX: DSV, OTCQX: DSVSF) (“Discovery” or the “Company”) is pleased to announce the appointment of William (“Bill”) Shaver to the Compan"
-    },
-    {
-      "title": "把现实世界“搬进”3D，这家公司融资数亿元｜36氪首发",
+      "title": "头部智能眼镜品牌完成近10亿C轮融资，已正式启动上市筹备工作｜硬氪首发",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3974164394438918?f=rss",
-      "published": "2026-09-08T02:49:24Z",
-      "description": "作者 | 张子怡\n 编辑 | 袁斯来\n 硬氪获悉，专注于3D重建技术的麒砺创新（KIRI Innovations）于近期完成A轮系列融资，累计融资金额数亿元，本轮投资机构包括华为哈勃、东证资本、同创伟业、君科丹木、力合金控、高新投、合世家资本、三七互娱。融资资金将用于继续降低3D重建使用门槛、持续提升3D重建清晰度、探索4D动态重建和市场推广等用途。\n KIRI目前有两条产品线：面向普通消费者的3"
-    },
-    {
-      "title": "Gold rises as dollar eases; US inflation data on radar",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-rises-as-dollar-eases-us-inflation-data-on-radar/articleshow/133903479.cms",
-      "published": "2026-09-08T02:05:05Z",
-      "description": "Gold prices edged higher on Tuesday due to a weakening U.S. dollar, as investors gear up for crucial inflation data that could sway the Federal Reserve's policy direction. A 60% likelihood of an impen"
+      "url": "https://36kr.com/p/3974730056757511?f=rss",
+      "published": "2026-09-09T01:00:00Z",
+      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，全球智能眼镜品牌「影目科技」近日完成C3轮融资，由四川振兴科创基金领投，静安资本、市北高新、广州产投、四川中试、眉山中试及东坡国投跟投。继年初完成C1、C2轮融资后，公司C轮融资累计金额近10亿元。\n 本轮资金将主要用于新一代空间智能硬件产品线的研发落地，及INMO AIOS 系统的持续迭代升级，加强硬件与软件底层核心能力构建；同时，加大品牌建设与全渠道布局"
     }
   ],
   "tweets": []
