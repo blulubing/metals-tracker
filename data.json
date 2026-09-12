@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-09-11 10:22:48 UTC",
+  "updated_at": "2026-09-12 09:53:37 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4348.61,
+      "price_usd": 4348.99,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 64.06,
+      "price_usd": 64.49,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1805.2,
+      "price_usd": 1791.5,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1319.06,
+      "price_usd": 1297.2,
       "unit": "USD/盎司 oz"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.52,
+      "price_usd": 0.51,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.45,
+      "price_usd": 0.44,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Goliath Intersects 26.80 g/t Au Over 2.30 Meters Within 14.28 g/t Au Over 4.32 Meters From The New Volcanic Wedge Zone Between The Bonanza And Golden Gate Zones That Remains Open For Expansion, On The High-Grade Gold Surebet Discovery, Golden Triangle, B.C.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/goliath-intersects-26-80-g-t-au-over-2-30-meters-within-14-28-g-t-au-over-4-32-meters-from-the-new-volcanic-wedge-zone-between-the-bonanza-and-golden-gate-zones-that-remains-open-for-expansion-on-the",
-      "published": "2026-09-10T10:14:25Z",
-      "description": "Drill holes GD-26-425 and GD-26-462 mark the presence of the volcanic Wedge Zone in the western and north-eastern fringes of the mineralized system, respectively. These two newly discovered mineralize"
-    },
-    {
-      "title": "一年融3轮，哈工程海洋工程团队「工至海洋」打造深海机器人，已获亿元意向订单 | 水下项目",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3977372742250756?f=rss",
-      "published": "2026-09-10T09:47:32Z",
-      "description": "1854年，一个叫菲尔德的年轻人决定用海底电缆横贯大西洋。经过数次失败，几乎所有股东要求终止计划后，1858年8月，电缆终于铺通，英国女王的声音通过电缆传到美国，人类第一次以分钟为单位，跨越大洋传递信息。\n 169年后的今天，全球海底光缆的总长度已经超过140万公里，承载95%以上的跨洲数据传输，但人类对海缆的日常维护能力还停留在“石器时代”。\n “全球所有海缆的日常运维几乎是零。”深海具身智能机"
-    },
-    {
-      "title": "ExGen Closes Second and Final Tranche of Upsized Private Placement",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/exgen-closes-second-and-final-tranche-of-upsized-private-placement",
-      "published": "2026-09-10T09:33:41Z",
-      "description": "NOT FOR DISTRIBUTION TO UNITED STATES NEWSWIRE SERVICES OR FOR DISSEMINATION IN THE UNITED STATES VANCOUVER, British Columbia, Sept. 10, 2026 (GLOBE NEWSWIRE) — ExGen Resources Inc. (TSX.V: EXG; OTC: "
-    },
-    {
-      "title": "苹果新CEO上任第一枪：15999元起的折叠屏，要把高端市场吃干抹净",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3977379721818626?f=rss",
-      "published": "2026-09-10T09:22:03Z",
-      "description": "文｜肖漫\n 编辑｜袁斯来\n 9月10日凌晨，苹果举办了近年来最特别的一次iPhone发布会。\n 8月末，蒂姆库克卸任CEO，结束了苹果又一段辉煌时代。\n 低调的硬件工程师John Ternus（约翰·特努斯）正式接任一把手位置。而这次，是他第一场重大新品发布会。这位长期负责硬件工程、熟悉苹果产品体系的内部继任者，推出了苹果过去几年最大胆的一款iPhone。\n 苹果似乎正逼迫自己更激进。过去十多年，"
-    },
-    {
-      "title": "硬氪直击IFA——AI硬件不再只会回答问题",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3975817977868549?f=rss",
-      "published": "2026-09-10T08:06:24Z",
-      "description": "如果说过去两年的消费电子展，所有产品都急着证明自己“接入了AI”，那么到了IFA 2026，一个变化正在发生：AI不再只是被塞进电视、冰箱和电脑里的附加功能，而是开始成为硬件运行的底层逻辑。\n 9月4日至8日，IFA 2026在德国柏林举行。根据官方数据，本届展会聚集超过1900个品牌，机器人、人工智能、智能家居乃至飞行汽车都成为展示重点。\n 但比新品数量更值得关注的是，AI硬件的竞争问题已经变了"
-    },
-    {
-      "title": "成立不到一年，AI潮玩品牌「IPTAG」完成千万级战略融资",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3977219182342401?f=rss",
-      "published": "2026-09-10T06:37:02Z",
-      "description": "文｜李小霞\n 36氪获悉，AI潮玩与高端收藏卡品牌IPTAG宣布已完成千万级战略融资，由高投集团策源资本旗下成都策源高都共创股权投资基金（简称“策源高都基金”）独家投资。\n 本轮融资主要用于AI技术研发、优质IP合作拓展、产品体验升级以及渠道与供应链建设。\n 据悉，本轮投资方成都策源高都基金，是成都高新区与都江堰市携手打造的首支跨区域产业基金，由高投集团策源资本旗下成都高新新经济创业投资有限公司与"
-    },
-    {
-      "title": "baraka launches investments on DFM and ADX for UAE investors",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/baraka-launches-investments-on-dfm-and-adx-for-uae-investors-302874084.html",
-      "published": "2026-09-10T06:30:00Z",
-      "description": "Eligible customers can invest in companies listed on Dubai Financial Market and Abu Dhabi Securities Exchange through baraka, with local investments funded in AED. More than 70% of baraka investors ar"
-    },
-    {
-      "title": "Gold prices dip to Rs 1.53 lakh, silver falls Rs 1,500/kg ahead of US inflation data. What should you do?",
+      "title": "Jefferies' 25% CAGR club: Paytm, Groww among 5 financial stocks that can deliver up to 25% returns",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-to-rs-1-53-lakh-silver-falls-rs-1500/kg-ahead-of-us-inflation-data-what-should-you-do/articleshow/133994056.cms",
-      "published": "2026-09-10T04:37:41Z",
-      "description": "Gold and silver prices fell on MCX, with silver declining Rs 1,500 per kg and gold slipping to Rs 1.53 lakh ahead of key US inflation data. With rate-hike expectations elevated and geopolitical tensio"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/jefferies-25-cagr-club-paytm-groww-among-5-financial-stocks-that-can-deliver-up-to-25-returns/articleshow/134055438.cms",
+      "published": "2026-09-11T08:51:40Z",
+      "description": "Jefferies has identified Paytm, Groww, PB Fintech, AU Small Finance Bank and Poonawalla Fincorp as its 25% CAGR club of Indian financial stocks. The brokerage expects strong earnings and revenue growt"
     },
     {
-      "title": "Commodity Talk| Equities, bonds... and commodities? Why investors may need a third pillar for diversification, Navneet Damani decodes",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/commodity-talk-equities-bonds-and-commodities-why-investors-may-need-a-third-pillar-for-diversification-navneet-damani-decodes/articleshow/133992518.cms",
-      "published": "2026-09-10T03:37:51Z",
-      "description": "Once seen largely as a cyclical trading opportunity or an inflation hedge, commodities are increasingly finding a place in long-term portfolio allocation. From gold's role as a hedge against currency "
-    },
-    {
-      "title": "「山系机能风」过气了，但萨洛蒙CEO说他们的增长才刚开始｜New Look 专访",
+      "title": "「星测未来」连续完成两轮数亿元融资：37张先进制程GPU稳定在轨运行，布局首个云端协同太空算力星座「扶摇计划」",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3976156078699012?f=rss",
-      "published": "2026-09-10T02:52:44Z",
-      "description": "文｜贺哲馨\n 编辑｜乔芊\n 2016年，一副跑鞋模具差点被送进焚化炉。\n 它属于萨洛蒙的XT-6，一款为在严苛环境跑完超长距离而设计的越野跑鞋。拦下这副模具的是Jean-Philippe Lalonde，一个曾经负责始祖鸟高端时尚线的法国人。他觉得这款鞋型“极富潜力”——把比赛配色的红黑白换成低饱和或运动色，就能衍生出无穷组合。从这副没被烧掉的模具开始，他一点一点搭起了萨洛蒙的户外风尚（Sport"
+      "url": "https://36kr.com/p/3978756821842688?f=rss",
+      "published": "2026-09-11T08:49:53Z",
+      "description": "文 | 阿至\n 9月11日中国算力大会·太空算力创新发展专题论坛现场，「星测未来」正式宣布完成A+、A++两轮累计数亿元融资，北创投、华映资本、新尚资本、新鼎资本等多家知名产业及财务投资机构联合投资，老股东锡创投、厚天资本持续加持。\n 半年数亿，这个体量是星测未来过去5年5轮融资总额的3倍还多。\n 这一幕对比更像整个赛道的情绪缩影。\n 马斯克用AI+太空的逻辑把SpaceX估值的天花板捅破，甚至放"
+    },
+    {
+      "title": "This 47-year-old Badlapur man drives cab in Mumbai by day and has 4 gold, 10 silver and 8 bronze international sports medals for India",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/new-updates/this-47-year-old-badlapur-man-drives-a-mumbai-cab-by-day-and-has-4-gold-10-silver-and-8-bronze-international-sports-medals-for-india/articleshow/134051994.cms",
+      "published": "2026-09-11T08:34:10Z",
+      "description": "Parag Patil, a 47-year-old athlete from Badlapur, has won 22 international Masters athletics medals for India, including four gold, 10 silver and eight bronze. Despite his achievements, he works as a "
+    },
+    {
+      "title": "Gold rate today (September 11, 2026): Check 24k, 22k, 20k, 18k gold jewellery prices from IBJA, Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers and Tanishq",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-rate-today-september-11-2026-check-24k-22k-20k-18k-gold-jewellery-prices-from-ibja-malabar-gold-diamonds-joyalukkas-kalyan-jewellers-and-tanishq/articleshow/134053307.cms",
+      "published": "2026-09-11T07:54:48Z",
+      "description": "Gold and silver prices fell on Friday, September 11, 2026, as fluctuations in the global market took their toll. The release of strong US PPI data heightened expectations of a Federal Reserve rate inc"
+    },
+    {
+      "title": "Kansas student lost his class ring during a snowball fight with his future wife: 53 years later, when campus workers dug it out, the couple happened to be passing through the city",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/kansas-student-lost-his-class-ring-during-a-snowball-fight-with-his-future-wife-53-years-later-when-campus-workers-dug-it-out-the-couple-happened-to-be-passing-through-the-city/articleshow/134052768.cms",
+      "published": "2026-09-11T07:41:00Z",
+      "description": "In 1973, a Kansas student misplaced his class ring during an epic snowball fight. Fast forward fifty-three years later, campus workers discovered the ring while tending to the grounds. Interestingly, "
+    },
+    {
+      "title": "UGCET 2026: KEA completes final allocation, 24,283 engineering seats remain vacant",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/education/news/ugcet-2026-kea-completes-final-allocation-24283-engineering-seats-remain-vacant/articleshow/134052722.cms",
+      "published": "2026-09-11T07:37:39Z",
+      "description": "UGCET 2026: KEA has completed the third and final round of UGCET-2026 seat allocation and handed remaining seats to respective college governing boards. A total of 24,283 engineering and 252 architect"
+    },
+    {
+      "title": "A股三大指数集体收跌，全市场超4800股飘绿",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3978659646929927?f=rss",
+      "published": "2026-09-11T07:01:53Z",
+      "description": "36氪获悉，A股三大指数集体收跌，沪指跌1.18%，深成指跌1.08%，创业板指跌0.49%；大金融、贵金属领跌，新力金融、翠微股份跌停，紫金矿业跌超5%；玻纤、覆铜板概念涨幅居前，九鼎新材、超声电子涨停，山东玻纤涨超6%；N燧原上市首日收涨179.22%。"
+    },
+    {
+      "title": "A股三大指数午间休盘集体下跌，全市场下跌个股近5200只",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3978454061972487?f=rss",
+      "published": "2026-09-11T03:32:45Z",
+      "description": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌1.82%，深成指跌2.34%，创业板指跌2.04%；贵金属、石油化工、多元金融板块跌幅居前，湖南白银跌超8%，新凤鸣跌超5%，弘业期货跌超4%；油气、电信、电力板块走强，杭州热电涨停，中国海油涨超2%，中国电信涨超1%；全市场下跌个股近5200只。"
+    },
+    {
+      "title": "Gold, Silver Rate Today Live Updates: Gold heads for third weekly loss as US rate hike bets strengthen",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-silver-rate-today-live-updates-18k-22-carat-24k-gold-price-10g-silver-cost-per-kg-mcx-comex-etf-stock-precious-metal-gold-prediction-city-wise-cost-latest-gold-news/liveblog/134041964.cms",
+      "published": "2026-09-11T02:52:12Z",
+      "description": "The precious-metals market faces a mixed setup, with gold struggling to sustain safe-haven demand even as geopolitical risks remain elevated.Gold’s n"
+    },
+    {
+      "title": "A股三大指数集体低开，燧原科技上市首日高开188.37%",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3978331433089795?f=rss",
+      "published": "2026-09-11T01:28:00Z",
+      "description": "36氪获悉，A股三大指数集体低开，沪指低开0.6%，深成指低开0.98%，创业板指低开0.85%；燧原科技上市首日高开188.37%；油气、能源设备板块领涨，科力股份涨超6%，中国海油涨超1%；贵金属、电脑硬件、半导体板块下挫，湖南白银跌超5%，德明利跌超3%，浪潮信息跌超2%。"
     }
   ],
   "tweets": []
