@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-09-15 10:47:52 UTC",
+  "updated_at": "2026-09-16 10:36:50 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4276.27,
+      "price_usd": 4346.99,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 63.08,
+      "price_usd": 64.56,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1764.3,
+      "price_usd": 1784.8,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1291.44,
+      "price_usd": 1314.35,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.44,
+      "price_usd": 0.45,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "India's retail inflation quickens to 4.8% in August from 4.45% in July as food prices exert pressure",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/indias-retail-inflation-quickened-to-4-8-in-august-from-4-45-in-july-food-inflation-potato-onion-sugar-prices/articleshow/134238582.cms",
-      "published": "2026-09-14T10:36:36Z",
-      "description": "India's retail inflation rose to 4.82% in August 2026 from 4.45% in July. Food prices and jewellery significantly contributed to this recent inflationary pressure. The Reserve Bank of India has lowere"
-    },
-    {
-      "title": "TRX Gold Announces Major Milestone with Addition to the MVIS® Global Junior Gold Miners Index",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/trx-gold-announces-major-milestone-with-addition-to-the-mvis-global-junior-gold-miners-index",
-      "published": "2026-09-14T10:34:19Z",
-      "description": "TORONTO, Sept. 14, 2026 (GLOBE NEWSWIRE) — TRX Gold Corporation (TSX: TRX) (NYSE American: TRX) (the “Company” or “TRX Gold”) is pleased to report that the Company has been added to the MVIS® Global J"
-    },
-    {
-      "title": "WPI inflation rises to 9.92% in Aug on costlier food, fuel, manufactured items",
+      "title": "Rupee drops with stocks, bonds as oil, inflation and Fed worries mount",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/wpi-inflation-rises-to-992-in-aug-on-costlier-food-fuel-manufactured-items/article71465855.ece",
-      "published": "2026-09-14T10:08:14Z",
-      "description": "Wholesale price inflation in India rises to 9.92% in August, driven by higher food, fuel, and manufactured goods costs."
+      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-drops-with-stocks-bonds-as-oil-inflation-and-fed-worries-mount/article71467588.ece",
+      "published": "2026-09-15T10:31:29Z",
+      "description": "The rupee falls to 95.9550 per dollar amid rising oil prices and inflation concerns, marking its largest drop since July."
     },
     {
-      "title": "Leading Independent Proxy Advisor ISS Issues Condemnation of TNR Gold's Record; Eucalyptus Resources Thanks Shareholders For Outstanding Support to Date",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/leading-independent-proxy-advisor-iss-issues-condemnation-of-tnr-golds-record-eucalyptus-resources-thanks-shareholders-for-outstanding-support-to-date-302877264.html",
-      "published": "2026-09-14T10:06:00Z",
-      "description": "ISS determines \"the board has made numerous missteps since Kirill became CEO/chair\", cites TNR's \"concerning track record of disenfranchising shareholders\" in recommending Shareholders vote on Eucalyp"
-    },
-    {
-      "title": "昀冢科技：目前公司MLCC产品主要应用于消费电子领域，暂未应用于AI算力服务器",
+      "title": "圆桌：落地·量子计算的场景涌现——如果量子算力明天就可用，谁会第一个买单 | 36氪 2026产业未来大会",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3983063084284934?f=rss",
-      "published": "2026-09-14T09:57:03Z",
-      "description": "36氪获悉，昀冢科技公告，股票于2026年9月10日、9月11日、9月14日连续三个交易日内收盘价格涨幅偏离值累计达到30%，属于股票交易异常波动情形。公司MLCC业务具有前期资金投入大、投资周期长等特点。目前公司MLCC产品主要应用于消费电子领域，暂未应用于AI算力服务器。MLCC业务虽为公司重点拓展的业务板块，但后续该业务发展受下游行业需求变化、市场竞争态势、产能爬坡及订单落地等多重因素影响，"
-    },
-    {
-      "title": "主题演讲：AI，驱动流程工业的下一站 | 36氪2026产业未来大会",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3978416117464071?f=rss",
-      "published": "2026-09-14T08:46:06Z",
+      "url": "https://36kr.com/p/3984504530615299?f=rss",
+      "published": "2026-09-15T10:08:52Z",
       "description": "2026年，产业投资进入深水区，资本、技术与产业加速融合，旧的投资逻辑不再使用，新的共识正在诞生。2026产业未来大会聚焦新周期机遇，共探产业未来与“中国之光”的诞生。 9月9日至10日，由36氪主办的2026产业未来大会以“深水之上，共振新生”为主题的在北京亦庄举行。来自国资平台、产业投资基金、企业CVC、创新企业及专家学者走到一起，聚焦量子科技等未来产业走向产业化。大会深度探讨当下前沿技术与产"
     },
     {
-      "title": "Bloomberg Electronic Markets Bring Full Programmatic Execution Support to FX Options Trading",
+      "title": "Today’s Gold Rate: Latest gold prices in Coimbatore, Nagpur, Jaipur & other cities",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-coimbatore-nagpur-visakhapatnam-surat-jaipur-lucknow-chandigarh-gold-rates-other-cities-september-15-2026/article71467231.ece",
+      "published": "2026-09-15T10:04:49Z",
+      "description": "Gold Price Today, September 15, 2026: Check 22K and 24K gold rates in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow and Chandigarh."
+    },
+    {
+      "title": "圆桌：智能向实，产业向新——AI如何进入真实世界 | 36氪 2026产业未来大会",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3984496514759689?f=rss",
+      "published": "2026-09-15T10:00:08Z",
+      "description": "2026年，产业投资进入深水区，资本、技术与产业加速融合，旧的投资逻辑不再使用，新的共识正在诞生。2026产业未来大会聚焦新周期机遇，共探产业未来与“中国之光”的诞生。 9月9日至10日，由36氪主办的2026产业未来大会以“深水之上，共振新生”为主题的在北京亦庄举行。来自国资平台、产业投资基金、企业CVC、创新企业及专家学者走到一起，聚焦量子科技等未来产业走向产业化。大会深度探讨当下前沿技术与产"
+    },
+    {
+      "title": "圆桌：新能源：后时代的深水淘金 | 36氪 2026产业未来大会",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3984491452824578?f=rss",
+      "published": "2026-09-15T09:56:29Z",
+      "description": "2026年，产业投资进入深水区，资本、技术与产业加速融合，旧的投资逻辑不再使用，新的共识正在诞生。2026产业未来大会聚焦新周期机遇，共探产业未来与“中国之光”的诞生。 9月9日至10日，由36氪主办的2026产业未来大会以“深水之上，共振新生”为主题的在北京亦庄举行。来自国资平台、产业投资基金、企业CVC、创新企业及专家学者走到一起，聚焦量子科技等未来产业走向产业化。大会深度探讨当下前沿技术与产"
+    },
+    {
+      "title": "圆桌：探路·产业分工的新图谱，看到新未来——国家力量如何转化为产业价值 | 36氪 2026产业未来大会",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3984472921783045?f=rss",
+      "published": "2026-09-15T09:39:17Z",
+      "description": "2026年，产业投资进入深水区，资本、技术与产业加速融合，旧的投资逻辑不再使用，新的共识正在诞生。2026产业未来大会聚焦新周期机遇，共探产业未来与“中国之光”的诞生。 9月9日至10日，由36氪主办的2026产业未来大会以“深水之上，共振新生”为主题的在北京亦庄举行。来自国资平台、产业投资基金、企业CVC、创新企业及专家学者走到一起，聚焦量子科技等未来产业走向产业化。大会深度探讨当下前沿技术与产"
+    },
+    {
+      "title": "Gold rates today in Abu Dhabi, Dubai, Riyadh, Doha, Kuwait City, Muscat: Check 24K, 22K, 18K gold rates on September 15, 2026",
+      "source": "Economictimes.com",
+      "url": "https://m.economictimes.com/wealth/invest/gold-rates-today-in-abu-dhabi-dubai-riyadh-doha-kuwait-city-muscat-check-24k-22k-18k-gold-rates-on-september-15-2026/gold-rates-in-dubai-and-abu-dhabi/slideshow/134257759.cms",
+      "published": "2026-09-15T09:35:46Z",
+      "description": "As per the Joyalukkas website, the Dubai and Abu Dhabi gold rates updated on September 15, 2026, at 9:15 AM, indicate that the price of 24-karat gold is AED 518.75, 22-karat gold is AED 480.50, and 18"
+    },
+    {
+      "title": "圆桌：CVC的全面崛起 | 36氪 2026产业未来大会",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3984437017246725?f=rss",
+      "published": "2026-09-15T08:59:22Z",
+      "description": "2026年，产业投资进入深水区，资本、技术与产业加速融合，旧的投资逻辑不再使用，新的共识正在诞生。2026产业未来大会聚焦新周期机遇，共探产业未来与“中国之光”的诞生。 9月9日至10日，由36氪主办的2026产业未来大会以“深水之上，共振新生”为主题的在北京亦庄举行。来自国资平台、产业投资基金、企业CVC、创新企业及专家学者走到一起，聚焦量子科技等未来产业走向产业化。大会深度探讨当下前沿技术与产"
+    },
+    {
+      "title": "圆桌：量智共振·多元路径：共筑中国量子产业下一个十年 | 36氪 2026产业未来大会",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3984335944252165?f=rss",
+      "published": "2026-09-15T07:35:03Z",
+      "description": "2026年，产业投资进入深水区，资本、技术与产业加速融合，旧的投资逻辑不再使用，新的共识正在诞生。2026产业未来大会聚焦新周期机遇，共探产业未来与“中国之光”的诞生。 9月9日至10日，由36氪主办的2026产业未来大会以“深水之上，共振新生”为主题的在北京亦庄举行。来自国资平台、产业投资基金、企业CVC、创新企业及专家学者走到一起，聚焦量子科技等未来产业走向产业化。大会深度探讨当下前沿技术与产"
+    },
+    {
+      "title": "Fastmarkets strengthens Saudi steel scrap price transparency through engagement with National Industrial Development Center",
       "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/bloomberg-electronic-markets-bring-full-programmatic-execution-support-to-fx-options-trading-302877140.html",
-      "published": "2026-09-14T08:00:00Z",
-      "description": "LONDON, Sept. 14, 2026 /PRNewswire/ -- Bloomberg today launched its FX Options RFQ API on FXGO, its award-winning electronic foreign exchange trading solution. FXGO is part of Bloomberg Electronic Mar"
-    },
-    {
-      "title": "28年老牌高尔夫科技公司，自研AI模拟器，营收数亿｜Insight全球",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3962843190738311?f=rss",
-      "published": "2026-09-14T05:10:50Z",
-      "description": "作者 | 黄楠\n 编辑 | 袁斯来\n \n 编者按：当出海越来越成为一家中国公司核心战略时，如何征战全球市场就成为一个极其专业的话题。在全球化的演变中，已有不少中国品牌站立潮头。鉴于此，硬氪特推出「Insight全球」专栏，从品牌成长与变迁，探索中国品牌出海的前沿方向与时代契机，为出海玩家与行业提供思考与启发。\r\n\n 这是我们专栏第64期——从打击垫起步，深耕近三十年的衡泰信已构筑起硬件感测与AI全"
-    },
-    {
-      "title": "Commodity Talk| “The conversation is shifting from ‘Can I trade commodities?’ to ‘What role should commodities play?’: Sunil Katke",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/commodity-talk-the-conversation-is-shifting-from-can-i-trade-commodities-to-what-role-should-commodities-play-sunil-katke/articleshow/134231738.cms",
-      "published": "2026-09-14T03:37:08Z",
-      "description": "Gold has already established itself as a strategic asset for Indian investors, but the opportunity is increasingly extending to silver, copper and other critical commodities. At the same time, the tra"
-    },
-    {
-      "title": "中信建投：聚焦红利增强逻辑，关注散奶价格上涨和新兴原料机会",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3982518887939075?f=rss",
-      "published": "2026-09-14T00:39:41Z",
-      "description": "36氪获悉，中信建投研报称，茅台落地市场化改革，自营店实现双向调价，打破行业只涨不跌魔咒，同时升级i茅台投放规则，弱化产品金融属性、深耕C端市场。金种子酒业迎来核心人事换届，依托国企改革契机，有望提速渠道与产品革新，助力区域市场回暖。9月西北华北多地散奶价格上涨明显，奶价拐点渐近，厄尔尼诺推动继续出清，看好乳业反转年。量贩称重舆情影响有限，股价调整出现布局良机，继续推荐零售连锁变革投资机会。关注财"
+      "url": "https://www.prnewswire.com/news-releases/fastmarkets-strengthens-saudi-steel-scrap-price-transparency-through-engagement-with-national-industrial-development-center-302877671.html",
+      "published": "2026-09-15T07:00:00Z",
+      "description": "LONDON, Sept. 15, 2026 /PRNewswire/ -- Fastmarkets, a leading cross-commodity price reporting and analytics provider, today announced its stakeholder engagement with the Saudi Arabian government's Nat"
     }
   ],
   "tweets": []
