@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-09-17 10:45:52 UTC",
+  "updated_at": "2026-09-18 10:21:13 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4316.41,
+      "price_usd": 4379.56,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 63.99,
+      "price_usd": 66.94,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1777.5,
+      "price_usd": 1815.2,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1291.71,
+      "price_usd": 1323.32,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.45,
+      "price_usd": 0.46,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.51,
+      "price_usd": 0.5,
       "unit": "USD/吨 mt"
     },
     {
@@ -70,80 +70,80 @@
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.44,
+      "price_usd": 0.45,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex gains 333 points, Nifty rises 99 points; FMCG, PSU banks outperform",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-16th-september-2026/article71468722.ece",
-      "published": "2026-09-16T10:42:35Z",
-      "description": "Sensex Today, Nifty 50 | Stock Market Highlights, 16th September 2026: Indian equity markets closed higher on Wednesday, tracking gains across regional markets as investor sentiment remained supported"
-    },
-    {
-      "title": "Goliath Reports Multiple Holes With Visible Gold And Up To 13.81 g/t Au Over 4.85 Meters From Golden Gate Zone, 5.27 g/t AuEq Over 9.85 Meters From Surebet Zone At The High-Grade Gold Surebet Discovery that Remains Open for Expansion, Golden Triangle, B.C.",
+      "title": "Cambria Gold Mines to Retain Mt. Margaret Copper-Gold Porphyry in Portfolio; Announces New Director Kim Colloton and Cleve Rueckert as VP Corporate Development and Announces Equity Grants",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/goliath-reports-multiple-holes-with-visible-gold-and-up-to-13-81-g-t-au-over-4-85-meters-from-golden-gate-zone-5-27-g-t-aueq-over-9-85-meters-from-surebet-zone-at-the-high-grade-gold-surebet-discover",
-      "published": "2026-09-16T10:20:11Z",
-      "description": "Assay results for drill holes GD-26-414, GD-26-426, GD-26-439, GD-26-450, and GD-26-478 confirm mineable widths and grades of gold-mineralization over broad intervals confirming the continuity that ha"
+      "url": "https://financialpost.com/globe-newswire/cambria-gold-mines-to-retain-mt-margaret-copper-gold-porphyry-in-portfolio-announces-new-director-kim-colloton-and-cleve-rueckert-as-vp-corporate-development-and-announces-equity-grants",
+      "published": "2026-09-17T10:04:18Z",
+      "description": "VANCOUVER, British Columbia, Sept. 17, 2026 (GLOBE NEWSWIRE) — Cambria Gold Mines Inc. (TSXV: CAMB; OTCQX: CAMVF) (“Cambria” or the “Company”) announces that due to the opportunity to realize signific"
     },
     {
-      "title": "Gold medal, tough cases and forensic acumen: Here's why Seema Pahuja is leading Disha Salian death probe",
+      "title": "Newcore Gold Drilling Intersects 2.59 g/t Gold over 69 Metres, Including 6.41 g/t Gold over 24 Metres, at the Enchi Gold Project, Ghana",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/newcore-gold-drilling-intersects-2-59-g-t-gold-over-69-metres-including-6-41-g-t-gold-over-24-metres-at-the-enchi-gold-project-ghana",
+      "published": "2026-09-17T10:03:59Z",
+      "description": "RC Drilling Intersects one of Widest and Highest Grade-Thickness Intercepts to Date at the Boin Gold Deposit VANCOUVER, British Columbia, Sept. 17, 2026 (GLOBE NEWSWIRE) — Newcore Gold Ltd. (“Newcore”"
+    },
+    {
+      "title": "Homebuyers remain bullish on real estate despite rising prices; premium homes, new launches gain traction: Anarock survey",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/gold-medal-tough-cases-and-forensic-acumen-heres-why-seema-pahuja-is-leading-disha-salian-death-probe/articleshow/134284694.cms",
-      "published": "2026-09-16T10:14:29Z",
-      "description": "CBI officer Seema Pahuja will supervise the Disha Salian death investigation. Pahuja has previously handled sensitive cases like Hathras and RG Kar. The FIR names several individuals for investigation"
+      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/homebuyers-remain-bullish-on-real-estate-despite-rising-prices-premium-homes-new-launches-gain-traction-anarock-survey/articleshow/134307002.cms",
+      "published": "2026-09-17T09:07:19Z",
+      "description": "Anarock’s H1 2026 survey shows homebuyers remain committed to residential property despite rising prices, with growing preference for larger homes, premium housing, new launches and established develo"
     },
     {
-      "title": "Eucalyptus Resources Reminds TNR Gold Shareholders of Voting Deadline; Warns of TNR's Playbook to Disenfranchise Over 45% of Shares Supporting Change",
+      "title": "A股三大指数集体收跌，农业股逆势走强",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3987152751803138?f=rss",
+      "published": "2026-09-17T07:01:31Z",
+      "description": "36氪获悉，A股三大指数集体收跌，沪指跌0.41%，深成指跌0.33%，创业板指跌0.4%；贵金属、油气、券商板块跌幅居前，山东黄金跌超6%，泰山石油跌超3%，哈投股份跌超2%；海运、机械、农业板块领涨，招商轮船、敦煌种业、万向德农涨停，潍柴动力涨超4%；新股N沈鼓涨超373%。"
+    },
+    {
+      "title": "Global Market: China, Hong Kong markets slip as Fed signals more rate hikes",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-markets-slip-as-fed-signals-more-rate-hikes/articleshow/134304213.cms",
+      "published": "2026-09-17T07:01:02Z",
+      "description": "China and Hong Kong stocks fell on Thursday after the US Federal Reserve raised interest rates by 25 basis points and signalled another hike could come this year. Rate-sensitive sectors, including gol"
+    },
+    {
+      "title": "36氪项目开麦：来开麦，把项目聊明白",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3987097781861383?f=rss",
+      "published": "2026-09-17T06:16:44Z",
+      "description": "项目推荐\n 一个项目到底有没有机会，很多时候聊上十分钟就能看出端倪。\n 但现实是，很多早期团队并不缺产品，也不缺故事，缺的是一次真正把业务讲清楚的机会。\n 讲技术，容易把人带进专业细节；\n 讲愿景，又很容易落到“未来市场有多大”。\n 聊到最后，投资人和客户还是会问：产品到底解决谁的问题？为什么客户愿意买？替代了原来的哪一步？这笔账又怎么算？\n 所以，「36氪项目推荐」推出深度视频专访栏目——「36"
+    },
+    {
+      "title": "ACG METALS LIMITED ACG Delivers Material Uplift in Gediktepe NPV to US$1.2bn ACG Metals Limited",
       "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/eucalyptus-resources-reminds-tnr-gold-shareholders-of-voting-deadline-warns-of-tnrs-playbook-to-disenfranchise-over-45-of-shares-supporting-change-302880217.html",
-      "published": "2026-09-16T10:06:00Z",
-      "description": "Eucalyptus Resources mails a reminder letter highlighting the stark choice before Shareholders Shareholders have until 9:00 p.m. (Eastern Time) on September 17, 2026, to cast their vote on the GREEN p"
+      "url": "https://www.prnewswire.com/news-releases/acg-metals-limited-acg-delivers-material-uplift-in-gediktepe-npv-to-us1-2bn-acg-metals-limited-302881068.html",
+      "published": "2026-09-17T06:10:00Z",
+      "description": "LONDON, Sept. 17, 2026 /PRNewswire/ -- ACG Metals Limited (LSE: ACG) (\"ACG\" or the \"Company\") announces updated Mineral Resource and Ore Reserve estimates and the publication of an updated Competent P"
     },
     {
-      "title": "Gold mining stocks offer better returns than bullion: Rational Equity Asset Management",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/gold-mining-stocks-offer-better-returns-than-bullion-rational-equity-asset-management/article71471795.ece",
-      "published": "2026-09-16T09:27:29Z",
-      "description": "₹1 lakh invested in gold mining equities returned 278% since August 2023, compared to 153% for Indian gold ETFs and 130% for physical gold over the same period: Report"
-    },
-    {
-      "title": "和Jeff Dean押注同一方向，27岁清华助理教授创业，两个月融资数亿",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3985787773402120?f=rss",
-      "published": "2026-09-16T07:58:46Z",
-      "description": "文｜王欣逸\n 编辑｜张雨忻\n 今年，用AI自我改进AI，几乎成了海内外头部实验室的共识。\n 近一年来，OpenAI创始成员Andrej Karpathy、前Meta FAIR研究总监田渊栋、前DeepMind首席科学家Jeff Dean都相继加入RSI（Recursive Self-Improvement，递归自进化）创业的热潮。\n 发生在RSI身上的，几乎是一个和世界模型高度相似的故事——即使是"
-    },
-    {
-      "title": "Sensex, Nifty hold morning gains at midday; IT drags as metals, FMCG shine ahead of Fed call",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/stock-markets/sensex-nifty-hold-morning-gains-at-midday-it-drags-as-metals-fmcg-shine-ahead-of-fed-call/article71471537.ece",
-      "published": "2026-09-16T07:36:25Z",
-      "description": "Equity benchmarks were holding onto moderate gains at midday on Wednesday, though the rally remained selective and uneven, with information technology stocks emerging as the session’s key drag while m"
-    },
-    {
-      "title": "Gold prices at Rs 1,300/10 gram, silver rallies Rs 4,000/kg. Key levels to track ahead of US Fed decision",
+      "title": "Gold prices fall Rs 2,000/10 gram, silver dips Rs 4,600/kg as US Fed hikes rate after 3 years. Time to sell?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-at-rs-1300/10-gram-silver-rallies-rs-4000/kg-key-levels-to-track-ahead-of-us-fed-decision/articleshow/134277724.cms",
-      "published": "2026-09-16T04:07:09Z",
-      "description": "Gold and silver prices rose in domestic markets on Wednesday, with MCX gold futures gaining Rs 1,300 per 10 grams and silver climbing Rs 4,000 per kg. Precious metals remained in focus ahead of the US"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-fall-rs-2000/10-gram-silver-dips-rs-4600/kg-as-us-fed-hikes-rate-after-3-years-time-to-sell/articleshow/134301686.cms",
+      "published": "2026-09-17T04:31:05Z",
+      "description": "Gold and silver prices fell sharply on the MCX on Thursday after the US Federal Reserve raised interest rates and signalled further tightening.  Easing oil supply concerns also weighed on bullion sent"
     },
     {
-      "title": "Gold and silver price today, Sept 16: Check retail rates of 24K, 22K gold and 999 silver in Delhi, Mumbai, other cities",
+      "title": "Gold, silver prices today, 17 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/gold-and-silver-price-today-sept-16-check-retail-rates-of-24k-22k-gold-and-999-silver-in-delhi-mumbai-other-cities-11789526888052.html",
-      "published": "2026-09-16T03:47:08Z",
-      "description": "Gold prices in India rose nearly 0.65% today amid US-Iran conflict uncertainties. Check retail rates of both gold and silver in top metro cities of India today.&nbsp;"
+      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-17-september-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11789615272951.html",
+      "published": "2026-09-17T03:46:48Z",
+      "description": "Gold and silver prices remained volatile on September 17 after the US Federal Reserve raised interest rates by 25 basis points, with global bullion prices recovering after the previous session’s fall."
     },
     {
-      "title": "A股三大指数午间休盘集体上涨，半导体板块领涨",
+      "title": "A股三大指数午间休盘集体下跌，贵金属板块领跌",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3985532255222534?f=rss",
-      "published": "2026-09-16T03:33:03Z",
-      "description": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.57%，深成指涨1.42%，创业板指涨2.35%；半导体、算力硬件、贵金属板块领涨，致尚科技涨停，长芯博创涨近15%，长光华芯涨超11%，协创数据涨超3%，云南锗业涨超5%；工程机械、家用电器、石油天然气板块跌幅居前，三一重工跌超8%，海信家电跌超3%，中国石化跌超1%。"
+      "url": "https://36kr.com/newsflashes/3986947464395524?f=rss",
+      "published": "2026-09-17T03:32:41Z",
+      "description": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.36%，深成指跌0.29%，创业板指跌0.12%；CRO概念领涨，金石亚药、百花医药涨停，万邦医药涨超10%；汽车产业链走强，众泰汽车、海马汽车、北特科技等多股涨停；贵金属、油气板块跌幅居前，盛达资源、山东黄金跌超7%，泰山石油、统一股份跌超4%；全市场超3100股下跌。"
     }
   ],
   "tweets": []
