@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-09-18 10:21:13 UTC",
+  "updated_at": "2026-09-19 10:04:41 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4379.56,
+      "price_usd": 4378.8,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 66.94,
+      "price_usd": 66.26,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1815.2,
+      "price_usd": 1800.4,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1323.32,
+      "price_usd": 1297.46,
       "unit": "USD/盎司 oz"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.51,
+      "price_usd": 0.5,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Cambria Gold Mines to Retain Mt. Margaret Copper-Gold Porphyry in Portfolio; Announces New Director Kim Colloton and Cleve Rueckert as VP Corporate Development and Announces Equity Grants",
+      "title": "Goliath Drills Up To 9.12 g/t AuEq Over 11.27 Meters With Visible Gold And Expands Bonanza Zone At The High-Grade Gold Surebet Discovery That Remains Open For Expansion, Golden Triangle, B.C.",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/cambria-gold-mines-to-retain-mt-margaret-copper-gold-porphyry-in-portfolio-announces-new-director-kim-colloton-and-cleve-rueckert-as-vp-corporate-development-and-announces-equity-grants",
-      "published": "2026-09-17T10:04:18Z",
-      "description": "VANCOUVER, British Columbia, Sept. 17, 2026 (GLOBE NEWSWIRE) — Cambria Gold Mines Inc. (TSXV: CAMB; OTCQX: CAMVF) (“Cambria” or the “Company”) announces that due to the opportunity to realize signific"
+      "url": "https://financialpost.com/globe-newswire/goliath-drills-up-to-9-12-g-t-aueq-over-11-27-meters-with-visible-gold-and-expands-bonanza-zone-at-the-high-grade-gold-surebet-discovery-that-remains-open-for-expansion-golden-triangle-b-c",
+      "published": "2026-09-18T09:19:19Z",
+      "description": "Drill hole GD-26-431 intersected two neighbouring broad mineralized intervals that are part of the Bonanza Zone in the western fringes of the mineralized system, see Figures 1a – 1c.: The first interv"
     },
     {
-      "title": "Newcore Gold Drilling Intersects 2.59 g/t Gold over 69 Metres, Including 6.41 g/t Gold over 24 Metres, at the Enchi Gold Project, Ghana",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/newcore-gold-drilling-intersects-2-59-g-t-gold-over-69-metres-including-6-41-g-t-gold-over-24-metres-at-the-enchi-gold-project-ghana",
-      "published": "2026-09-17T10:03:59Z",
-      "description": "RC Drilling Intersects one of Widest and Highest Grade-Thickness Intercepts to Date at the Boin Gold Deposit VANCOUVER, British Columbia, Sept. 17, 2026 (GLOBE NEWSWIRE) — Newcore Gold Ltd. (“Newcore”"
-    },
-    {
-      "title": "Homebuyers remain bullish on real estate despite rising prices; premium homes, new launches gain traction: Anarock survey",
+      "title": "From historical solidarity to strategic trade: The India–South Africa opportunity",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/homebuyers-remain-bullish-on-real-estate-despite-rising-prices-premium-homes-new-launches-gain-traction-anarock-survey/articleshow/134307002.cms",
-      "published": "2026-09-17T09:07:19Z",
-      "description": "Anarock’s H1 2026 survey shows homebuyers remain committed to residential property despite rising prices, with growing preference for larger homes, premium housing, new launches and established develo"
+      "url": "https://economictimes.indiatimes.com/news/politics-and-nation/from-historical-solidarity-to-strategic-trade-the-indiasouth-africa-opportunity/articleshow/134329881.cms",
+      "published": "2026-09-18T08:19:55Z",
+      "description": "Eight decades of political trust and complementary economies have long made the case for deeper India-South Africa trade. A new preferential trade agreement and India's 2026 BRICS chairship now supply"
     },
     {
-      "title": "A股三大指数集体收跌，农业股逆势走强",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3987152751803138?f=rss",
-      "published": "2026-09-17T07:01:31Z",
-      "description": "36氪获悉，A股三大指数集体收跌，沪指跌0.41%，深成指跌0.33%，创业板指跌0.4%；贵金属、油气、券商板块跌幅居前，山东黄金跌超6%，泰山石油跌超3%，哈投股份跌超2%；海运、机械、农业板块领涨，招商轮船、敦煌种业、万向德农涨停，潍柴动力涨超4%；新股N沈鼓涨超373%。"
+      "title": "Gold price today: Futures rise to ₹1.54 lakh/10 gm on firm spot demand",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-price-today-futures-rise-to-154-lakh10-gm-on-firm-spot-demand/article71479796.ece",
+      "published": "2026-09-18T07:41:33Z",
+      "description": "Gold futures increase to ₹1.54 lakh per 10 grams as speculators respond to strong spot demand, rising by ₹1,309."
     },
     {
-      "title": "Global Market: China, Hong Kong markets slip as Fed signals more rate hikes",
+      "title": "As wedding shopping begins, gold exchange can help families manage jewellery budgets",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-market-china-hong-kong-markets-slip-as-fed-signals-more-rate-hikes/articleshow/134304213.cms",
-      "published": "2026-09-17T07:01:02Z",
-      "description": "China and Hong Kong stocks fell on Thursday after the US Federal Reserve raised interest rates by 25 basis points and signalled another hike could come this year. Rate-sensitive sectors, including gol"
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/as-wedding-shopping-begins-gold-exchange-can-help-families-manage-jewellery-budgets/articleshow/134328842.cms",
+      "published": "2026-09-18T07:34:05Z",
+      "description": "As the wedding season draws near, families are turning to gold exchange as a savvy way to manage the costs of new jewellery. By trading in old pieces for fresh designs, they can alleviate financial st"
     },
     {
-      "title": "36氪项目开麦：来开麦，把项目聊明白",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3987097781861383?f=rss",
-      "published": "2026-09-17T06:16:44Z",
-      "description": "项目推荐\n 一个项目到底有没有机会，很多时候聊上十分钟就能看出端倪。\n 但现实是，很多早期团队并不缺产品，也不缺故事，缺的是一次真正把业务讲清楚的机会。\n 讲技术，容易把人带进专业细节；\n 讲愿景，又很容易落到“未来市场有多大”。\n 聊到最后，投资人和客户还是会问：产品到底解决谁的问题？为什么客户愿意买？替代了原来的哪一步？这笔账又怎么算？\n 所以，「36氪项目推荐」推出深度视频专访栏目——「36"
-    },
-    {
-      "title": "ACG METALS LIMITED ACG Delivers Material Uplift in Gediktepe NPV to US$1.2bn ACG Metals Limited",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/acg-metals-limited-acg-delivers-material-uplift-in-gediktepe-npv-to-us1-2bn-acg-metals-limited-302881068.html",
-      "published": "2026-09-17T06:10:00Z",
-      "description": "LONDON, Sept. 17, 2026 /PRNewswire/ -- ACG Metals Limited (LSE: ACG) (\"ACG\" or the \"Company\") announces updated Mineral Resource and Ore Reserve estimates and the publication of an updated Competent P"
-    },
-    {
-      "title": "Gold prices fall Rs 2,000/10 gram, silver dips Rs 4,600/kg as US Fed hikes rate after 3 years. Time to sell?",
+      "title": "How Vidyut Sakhis are empowering rural women in Uttar Pradesh",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/gold-prices-fall-rs-2000/10-gram-silver-dips-rs-4600/kg-as-us-fed-hikes-rate-after-3-years-time-to-sell/articleshow/134301686.cms",
-      "published": "2026-09-17T04:31:05Z",
-      "description": "Gold and silver prices fell sharply on the MCX on Thursday after the US Federal Reserve raised interest rates and signalled further tightening.  Easing oil supply concerns also weighed on bullion sent"
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/how-vidyut-sakhis-are-empowering-rural-women-in-uttar-pradesh/articleshow/134328488.cms",
+      "published": "2026-09-18T07:28:50Z",
+      "description": "In rural Uttar Pradesh, an electricity bill is acquiring a new meaning. It is no longer merely a monthly household expense or a reminder of consumptio."
     },
     {
-      "title": "Gold, silver prices today, 17 September: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-17-september-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11789615272951.html",
-      "published": "2026-09-17T03:46:48Z",
-      "description": "Gold and silver prices remained volatile on September 17 after the US Federal Reserve raised interest rates by 25 basis points, with global bullion prices recovering after the previous session’s fall."
-    },
-    {
-      "title": "A股三大指数午间休盘集体下跌，贵金属板块领跌",
+      "title": "理想新MEGA上市72小时：褪去网红气质，命中老车主",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3986947464395524?f=rss",
-      "published": "2026-09-17T03:32:41Z",
-      "description": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.36%，深成指跌0.29%，创业板指跌0.12%；CRO概念领涨，金石亚药、百花医药涨停，万邦医药涨超10%；汽车产业链走强，众泰汽车、海马汽车、北特科技等多股涨停；贵金属、油气板块跌幅居前，盛达资源、山东黄金跌超7%，泰山石油、统一股份跌超4%；全市场超3100股下跌。"
+      "url": "https://36kr.com/p/3967826379977218?f=rss",
+      "published": "2026-09-18T05:14:54Z",
+      "description": "两年前，MEGA第一次上市，理想为这款旗舰纯电在北京SKP等核心商圈开了店，当时，理想的目标是让MEGA成为50万元以上不分能源、不分车身形式的销量第一。\n 36氪曾探访了这家旗舰门店，当时流量虽然不多，但前卫的造型吸引了不少出圈客户。一位喜欢马术的年轻女孩就在华贸店成交，并带动她的马术群友们成交了20台。\n 今年，新一代MEGA再次上市后，36氪发现，这家旗舰店面已经不在。理想公司对新款MEGA"
+    },
+    {
+      "title": "Gold prices at Rs 1.52 lakh/10 gram, silver gains Rs 1,000/kg as falling oil lends support. Key levels to track",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-at-rs-1-52-lakh/10-gram-silver-gains-rs-1000/kg-as-falling-oil-lends-support-key-levels-to-track/articleshow/134326398.cms",
+      "published": "2026-09-18T05:03:52Z",
+      "description": "Gold and silver traded mixed on the MCX as a subdued dollar and weaker crude prices offered support amid uncertainty over global interest rates. Silver gained Rs 1,000 per kg, while gold fell Rs 800 p"
+    },
+    {
+      "title": "委内瑞拉即将达成协议，将黄金储备从英国转移至美国",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3988411624274695?f=rss",
+      "published": "2026-09-18T04:30:32Z",
+      "description": "据知情人士透露，委内瑞拉政府与反对派即将达成一项协议，把价值约40亿美元的黄金储备从英格兰银行转移至纽约联邦储备银行。根据正在磋商的条款，这批黄金有可能被用作政府借贷的抵押品，为财政开支提供资金。政府不得立即出售所持黄金，但将拥有对其的法定控制权。英格兰银行表示，除非英国法院出具裁定，明确账户的法定归属方，否则该行无法执行相关操作。（新浪财经）"
+    },
+    {
+      "title": "A股三大指数集体高开，中晶科技涨停",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3988240978688770?f=rss",
+      "published": "2026-09-18T01:28:31Z",
+      "description": "36氪获悉，A股三大指数集体高开，沪指涨0.42%，深成指涨1.15%，创业板指涨1.61%。贵金属、半导体领涨，中晶科技涨停，盛达资源涨超4%；农业、海运跌幅居前，万德农业跌超85，中远海能跌超2%。"
+    },
+    {
+      "title": "钨价暴涨后深度回调，概念股上半年业绩集体高增",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3988148448230408?f=rss",
+      "published": "2026-09-18T00:05:07Z",
+      "description": "钨价经历年初冲高、二季度大幅回调后，三季度转入高位窄幅震荡。虽然当前价格较3月历史高点显著回调，但相比两年前涨幅仍接近2倍。受国内开采配额管控，钨供给增长空间有限，在战略金属属性加持下钨价格中枢仍有支撑。A股市场钨矿概念股共计6只，随着钨价持续高位运行，产业链企业盈利能力大幅释放，上半年板块业绩集体迎来爆发。从净利润规模看，洛阳钼业、厦门钨业、中钨高新排名前三，依次为161.52亿元、22.01亿"
     }
   ],
   "tweets": []
