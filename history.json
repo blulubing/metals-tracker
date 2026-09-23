@@ -1,22 +1,5 @@
 [
   {
-    "date": "2026-07-25",
-    "prices": {
-      "gold": 4052.78,
-      "silver": 58.2,
-      "platinum": 1590,
-      "palladium": 1244.8,
-      "copper": 0.44,
-      "aluminum": 0.1,
-      "nickel": 0.54,
-      "zinc": 0.11,
-      "lead": 0.06,
-      "lme_zinc": 0.11,
-      "lme_nickel": 0.54,
-      "lme_copper": 0.42
-    }
-  },
-  {
     "date": "2026-07-26",
     "prices": {
       "gold": 4052.78,
@@ -1009,6 +992,23 @@
       "silver": 65.69,
       "platinum": 1795.9,
       "palladium": 1296.36,
+      "copper": 0.47,
+      "aluminum": 0.1,
+      "nickel": 0.51,
+      "zinc": 0.12,
+      "lead": 0.06,
+      "lme_zinc": 0.12,
+      "lme_nickel": 0.51,
+      "lme_copper": 0.46
+    }
+  },
+  {
+    "date": "2026-09-23",
+    "prices": {
+      "gold": 4318.41,
+      "silver": 65.29,
+      "platinum": 1790.5,
+      "palladium": 1283.07,
       "copper": 0.47,
       "aluminum": 0.1,
       "nickel": 0.51,

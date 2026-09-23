@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-09-22 10:43:23 UTC",
+  "updated_at": "2026-09-23 10:34:08 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4333.69,
+      "price_usd": 4318.41,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 65.69,
+      "price_usd": 65.29,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1795.9,
+      "price_usd": 1790.5,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1296.36,
+      "price_usd": 1283.07,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex rises 564 pts, Nifty closes at 23,414; Rupee ends at 95.81 in subdued trade",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-21st-september-2026/article71488721.ece",
-      "published": "2026-09-21T10:38:06Z",
-      "description": "Sensex, Nifty, Stock Price Highlights: Indian shares edged higher on Monday, ​aided by bargain-buying following recent losses, while elevated crude prices ‌and heightened primary market activity limit"
-    },
-    {
-      "title": "Equinox Gold Announces Redemption of its Outstanding 4.75% Convertible Senior Notes Due October 2028",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/equinox-gold-announces-redemption-of-its-outstanding-4-75-convertible-senior-notes-due-october-2028",
-      "published": "2026-09-21T10:33:23Z",
-      "description": "VANCOUVER, British Columbia, Sept. 21, 2026 (GLOBE NEWSWIRE) — Equinox Gold Corp. (TSX: EQX, NYSE American: EQX) (“Equinox Gold” or the “Company”) announces that it has elected to exercise its right t"
-    },
-    {
-      "title": "ORVANA ANNOUNCES NEW STRATEGIC THREE-TIERED EXPLORATION PROGRAM FOR ITS TAGUAS PROJECT IN ARGENTINA",
+      "title": "NEVADA KING ANNOUNCES GOLD BULLION HOLDINGS AS PART OF TREASURY MANAGEMENT PROGRAM",
       "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/orvana-announces-new-strategic-three-tiered-exploration-program-for-its-taguas-project-in-argentina-302884191.html",
-      "published": "2026-09-21T10:30:00Z",
-      "description": "TSX: ORV OTCQX: ORVMF And Participation in the Precious Metals Summit and Mining Forum Americas 2026 TORONTO, Sept. 21, 2026 /PRNewswire/ -- Orvana Minerals Corp. (TSX: ORV) (OTCQX: ORVMF) (the \"Compa"
+      "url": "https://www.prnewswire.com/news-releases/nevada-king-announces-gold-bullion-holdings-as-part-of-treasury-management-program-302885476.html",
+      "published": "2026-09-22T10:30:00Z",
+      "description": "VANCOUVER, BC, Sept. 22, 2026 /PRNewswire/ -- Nevada King Gold Corp. (TSXV: NKG) (OTCQX: NKGFF) (\"Nevada King\" or the \"Company\") is pleased to announce that, as part of a treasury management program a"
     },
     {
-      "title": "Soach Global Set for Nearly 25x Gains in Partial Exit from National Stock Exchange",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/soach-global-set-for-nearly-25x-gains-in-partial-exit-from-national-stock-exchange/article71490779.ece",
-      "published": "2026-09-21T09:00:22Z",
-      "description": "Soach Global Set for Nearly 25x Gains in Partial Exit from National Stock Exchange"
+      "title": "Hemlo Mining Corp. Announces Refined Porphyry Model Supporting District-Scale Potential Across its 45,000-Hectare Land Package",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hemlo-mining-corp-announces-refined-porphyry-model-supporting-district-scale-potential-across-its-45-000-hectare-land-package-302885703.html",
+      "published": "2026-09-22T10:30:00Z",
+      "description": "TORONTO, Sept. 22, 2026 /PRNewswire/ -- Hemlo Mining Corp. (TSX: HMMC) (OTCQX: HMMCF) (\"Hemlo Mining\" or the \"Company\") is pleased to announce a refined regional exploration strategy across its land p"
     },
     {
-      "title": "圆桌：从出口到扎根：中国企业如何完成海外本地化？｜36氪2026 East Forward 出海大会",
+      "title": "CAS chaos: Nifty’s indicative price drops 1% in seconds to fall below 23,150 on F&O expiry day, Sensex closes 330 pts lower",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-niftys-indicative-price-drops-1-in-seconds-to-fall-below-23150-on-fo-expiry-day-sensex-closes-330-pts-lower/articleshow/134409443.cms",
+      "published": "2026-09-22T10:20:14Z",
+      "description": "Indian equities ended lower on Tuesday after morning gains faded, with Sensex dropping 330 points and Nifty witnessing a sharp closing-auction swing on expiry day. Broader markets also declined, while"
+    },
+    {
+      "title": "i-80 Gold Announces Initial Assay Results From Mineral Point Open Pit Project in Nevada Including a Step-Out Hole of 1.33 g/t Au and 39.2 g/t Ag Over 225.6 Meters",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/i-80-gold-announces-initial-assay-results-from-mineral-point-open-pit-project-in-nevada-including-a-step-out-hole-of-1-33-gt-au-and-39-2-gt-ag-over-225-6-meters-302885961.html",
+      "published": "2026-09-22T10:00:00Z",
+      "description": "TORONTO, Sept. 22, 2026 /PRNewswire/ -- i-80 GOLD CORP. (NYSE: IAUX) (TSX: IAU) (\"i-80 Gold\", or the \"Company\") is pleased to announce initial drill results from the ongoing 2026 infill drilling campa"
+    },
+    {
+      "title": "Goliath Successfully Completes 48,443 Meters Of Drilling in 97 Drill Holes in 94 Days, With A 100% Hit Rate And Expands Footprint Of High-Grade Surebet Gold Discovery To 2.01 Km2 That Remains Open, Golddigger Property, Golden Triangle, B.C.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/goliath-successfully-completes-48443-meters-of-drilling-in-97-drill-holes-in-94-days-with-a-100-hit-rate-and-expands-footprint-of-high-grade-surebet-gold-discovery-to-2-01-km2-that-remains-open-gol",
+      "published": "2026-09-22T09:23:54Z",
+      "description": "83 holes drilled in 2026 are still pending for assays that should provide a steady stream of news flow into the new year. With 48,443 meters drilled in 97 holes utilizing 7 drill rigs turning 24 hours"
+    },
+    {
+      "title": "圆桌：速度与人心：AI让内容无限生成，\"打动人心\"归谁管｜36氪2026 East Forward 出海大会",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3992878800256007?f=rss",
-      "published": "2026-09-21T08:10:54Z",
+      "url": "https://36kr.com/p/3994215677590279?f=rss",
+      "published": "2026-09-22T07:04:40Z",
       "description": "2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。9月17日，以“潮起之时，靠岸相见”为主题的2026 East Forward第二届·36氪出海大会在上海举行。来自消费、科技、制造等领域的出海企业、投资机构，以及全球化服务商汇聚现场，围绕本地化经营、用户洞察、供应链、合规、渠道与全球组织等现实问题展开讨论。当“走出去”已不再是少数选择，企业需要面对真正的问题：如何在海外市场活下来"
     },
     {
-      "title": "A股三大指数集体收涨，医药股走强",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3992815140272901?f=rss",
-      "published": "2026-09-21T07:01:35Z",
-      "description": "36氪获悉，A股三大指数集体收涨，沪指涨0.97%，深成指涨0.65%，创业板指涨0.8%；医药、房地产、海运板块领涨，近岸蛋白、华仁药业、万科A涨停，宁波远洋涨超4%；家电、贵金属、工程机械板块跌幅居前，海信家电跌超5%，赤峰黄金跌超2%，徐工机械跌近1%。"
-    },
-    {
-      "title": "Crude above $100 may push India inflation to 6%, RBI could hike rates 50 bps: Kotak",
+      "title": "Sensex rises 110 points, Nifty above 23,450 as oil prices, bond yields cool down. Time for a sectoral pivot?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/crude-above-100-may-push-india-inflation-to-6-rbi-could-hike-rates-50-bps-kotak/articleshow/134382333.cms",
-      "published": "2026-09-21T06:55:08Z",
-      "description": "The elevated crude oil prices pose a direct threat to India's macroeconomic stability, with retail inflation projected to inch toward the 5.8 to 6.0 per cent mark by next quarter if prices stay elevat"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-110-points-nifty-above-23450-as-oil-prices-bond-yields-cool-down-time-for-a-sectoral-pivot/articleshow/134403150.cms",
+      "published": "2026-09-22T05:20:09Z",
+      "description": "Indian equities traded higher as softer crude prices and easing bond yields improved sentiment. Sensex and Nifty extended gains, while broader markets also advanced. Analysts highlighted a possible se"
     },
     {
-      "title": "Gold prices fall Rs 1,331/10 gram, silver dips Rs 1,600/kg as Mideast tensions outweigh oil fall: Key levels to track",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-1331/10-gram-silver-dips-rs-1600/kg-as-mideast-tensions-outweigh-oil-fall-key-levels-to-track/articleshow/134379699.cms",
-      "published": "2026-09-21T04:25:34Z",
-      "description": "Gold and silver prices snapped a two-day rally on Monday, dropping on the MCX amid escalating US-Iran geopolitical tensions and central bank rate hikes. Gold dropped Rs 1,331 per 10 grams while silver"
-    },
-    {
-      "title": "Gold and silver price today, Sept 21: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/gold-and-silver-price-today-sept-21-check-retail-rates-of-24k-22k-gold-and-999-silver-in-mumbai-delhi-other-cities-11789958591941.html",
-      "published": "2026-09-21T03:47:32Z",
-      "description": "Gold prices in India fell nearly 0.5% today during early trading hours amid US-Iran conflict uncertainties. Check retail rates of both gold and silver in top metro cities of India today."
-    },
-    {
-      "title": "A股三大指数午间休盘集体上涨，医药股大涨",
+      "title": "圆桌：产业资本的新航线：出海下半场，钱该投向哪里｜36氪2026 East Forward 出海大会",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3992611251649542?f=rss",
-      "published": "2026-09-21T03:34:11Z",
-      "description": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨0.55%，深成指涨0.57%，创业板指涨0.93%；医药股大涨，近岸蛋白、透景生命、百花医药涨停，成都先导、万邦医药涨超10%；地产股走强，华丽家族涨停，我爱我家、华发股份涨超6%；家电板块领跌，海尔智家、美的集团跌超3%；贵金属板块走弱，赤峰黄金、中金黄金跌超1%。"
+      "url": "https://36kr.com/p/3994057351953411?f=rss",
+      "published": "2026-09-22T04:08:01Z",
+      "description": "2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。9月17日，以“潮起之时，靠岸相见”为主题的2026 East Forward第二届·36氪出海大会在上海举行。来自消费、科技、制造等领域的出海企业、投资机构，以及全球化服务商汇聚现场，围绕本地化经营、用户洞察、供应链、合规、渠道与全球组织等现实问题展开讨论。当“走出去”已不再是少数选择，企业需要面对真正的问题：如何在海外市场活下来"
+    },
+    {
+      "title": "港科大团队推冷原子系统标准化方案，获量旋科技等两轮数千万融资丨36氪首发",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3993888512801792?f=rss",
+      "published": "2026-09-22T01:13:56Z",
+      "description": "图源/企业\n \n 本文约2400字，建议阅读5分钟\r\n\n \n 作者丨欧雪\n 编辑丨袁斯来\n 硬氪获悉，深圳市冰辰量子技术有限公司（下称“冰辰量子”）已于近期连续完成两轮数千万元级天使系列融资。天使轮由元禾璞华、产业投资方量旋科技联合领投，天使+轮由中赢创投领投，金雨茂物、祥峰投资、辰峰资本、源来资本跟投，产业方璇相科技跟投，翊荣资本担任长期财务顾问。融资资金将主要用于场地建设、人才引进及核心产品迭"
+    },
+    {
+      "title": "8点1氪丨闲鱼回应“暗藏涉黄产业链”；西贝被传倒闭后，贾国龙最新发声；AMD总市值首次突破1万亿美元",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3993831103347713?f=rss",
+      "published": "2026-09-22T00:15:14Z",
+      "description": "今日热点导览\n <ul>\n <li>OpenAI敦促美国牵头为人工智能制定全球标准</li>\n <li>钟南山团队发现肺结节发病新趋势</li>\n <li>黄仁勋：没有什么比能够缴纳更多税款更让我感到快乐的了</li>\n <li>抖音“试水”基金跳转入口</li>\n <li>五角大楼“披萨指数”飙升</li>\n <li>A股“股王”联讯仪器市值距高点蒸发超400亿元</li>\n </ul>\n TO"
     }
   ],
   "tweets": []
