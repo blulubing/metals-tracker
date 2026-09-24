@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-09-23 10:34:08 UTC",
+  "updated_at": "2026-09-24 10:53:00 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4318.41,
+      "price_usd": 4258.93,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 65.29,
+      "price_usd": 63.65,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1790.5,
+      "price_usd": 1745.4,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1283.07,
+      "price_usd": 1260.99,
       "unit": "USD/盎司 oz"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.51,
+      "price_usd": 0.52,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "NEVADA KING ANNOUNCES GOLD BULLION HOLDINGS AS PART OF TREASURY MANAGEMENT PROGRAM",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/nevada-king-announces-gold-bullion-holdings-as-part-of-treasury-management-program-302885476.html",
-      "published": "2026-09-22T10:30:00Z",
-      "description": "VANCOUVER, BC, Sept. 22, 2026 /PRNewswire/ -- Nevada King Gold Corp. (TSXV: NKG) (OTCQX: NKGFF) (\"Nevada King\" or the \"Company\") is pleased to announce that, as part of a treasury management program a"
+      "title": "Sensex today | Stock Market Highlights: Nifty closes at 23,446, gains 118 points, Sensex ends at 74,828 on stronger domestic growth momentum",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-september-2026/article71495500.ece",
+      "published": "2026-09-23T10:49:05Z",
+      "description": "Sensex, Nifty, Stock Price Highlights: Indian equity markets closed higher on Wednesday, with the Nifty 50 gaining 117.80 points, or 0.50%, to close at 23,446.80, while the BSE Sensex rose 299.17 poin"
     },
     {
-      "title": "Hemlo Mining Corp. Announces Refined Porphyry Model Supporting District-Scale Potential Across its 45,000-Hectare Land Package",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/hemlo-mining-corp-announces-refined-porphyry-model-supporting-district-scale-potential-across-its-45-000-hectare-land-package-302885703.html",
-      "published": "2026-09-22T10:30:00Z",
-      "description": "TORONTO, Sept. 22, 2026 /PRNewswire/ -- Hemlo Mining Corp. (TSX: HMMC) (OTCQX: HMMCF) (\"Hemlo Mining\" or the \"Company\") is pleased to announce a refined regional exploration strategy across its land p"
-    },
-    {
-      "title": "CAS chaos: Nifty’s indicative price drops 1% in seconds to fall below 23,150 on F&O expiry day, Sensex closes 330 pts lower",
+      "title": "‘Dune Cottage’ sells for $72M after $120M asking price",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/cas-chaos-niftys-indicative-price-drops-1-in-seconds-to-fall-below-23150-on-fo-expiry-day-sensex-closes-330-pts-lower/articleshow/134409443.cms",
-      "published": "2026-09-22T10:20:14Z",
-      "description": "Indian equities ended lower on Tuesday after morning gains faded, with Sensex dropping 330 points and Nifty witnessing a sharp closing-auction swing on expiry day. Broader markets also declined, while"
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/once-part-of-the-historic-wiborg-estate-lee-radziwills-east-hampton-home-sold-for-16-2m-in-2001-rebuilt-after-a-2013-fire-dune-cottage-was-listed-for-120m-before-selling-for-72m/articleshow/134431576.cms",
+      "published": "2026-09-23T10:39:27Z",
+      "description": "Dune Cottage in East Hampton has changed hands for an impressive $72 million, demonstrating a notable shift in the high-end real estate landscape. Initially hitting the market at $120 million, the ask"
     },
     {
-      "title": "i-80 Gold Announces Initial Assay Results From Mineral Point Open Pit Project in Nevada Including a Step-Out Hole of 1.33 g/t Au and 39.2 g/t Ag Over 225.6 Meters",
+      "title": "Integra Identifies New Near-Mine Gold Growth Targets at Florida Canyon, including 1.30 g/t Au over 62.5 m and 0.59 g/t Au over 167.6 m Inter-Pit and 0.48 g/t Au over 54.9 m in New Madre Shear North Target",
       "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/i-80-gold-announces-initial-assay-results-from-mineral-point-open-pit-project-in-nevada-including-a-step-out-hole-of-1-33-gt-au-and-39-2-gt-ag-over-225-6-meters-302885961.html",
-      "published": "2026-09-22T10:00:00Z",
-      "description": "TORONTO, Sept. 22, 2026 /PRNewswire/ -- i-80 GOLD CORP. (NYSE: IAUX) (TSX: IAU) (\"i-80 Gold\", or the \"Company\") is pleased to announce initial drill results from the ongoing 2026 infill drilling campa"
+      "url": "https://www.prnewswire.com/news-releases/integra-identifies-new-near-mine-gold-growth-targets-at-florida-canyon-including-1-30-gt-au-over-62-5-m-and-0-59-gt-au-over-167-6-m-inter-pit-and-0-48-gt-au-over-54-9-m-in-new-madre-shear-north-target-302886854.html",
+      "published": "2026-09-23T10:30:00Z",
+      "description": "TSXV: ITR; NYSE American: ITRG www.integraresources.com VANCOUVER, BC, Sept. 23, 2026 /PRNewswire/ -- Integra Resources Corp. (\"Integra\" or the \"Company\") (TSXV: ITR) (NYSE American: ITRG) is pleased "
     },
     {
-      "title": "Goliath Successfully Completes 48,443 Meters Of Drilling in 97 Drill Holes in 94 Days, With A 100% Hit Rate And Expands Footprint Of High-Grade Surebet Gold Discovery To 2.01 Km2 That Remains Open, Golddigger Property, Golden Triangle, B.C.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/goliath-successfully-completes-48443-meters-of-drilling-in-97-drill-holes-in-94-days-with-a-100-hit-rate-and-expands-footprint-of-high-grade-surebet-gold-discovery-to-2-01-km2-that-remains-open-gol",
-      "published": "2026-09-22T09:23:54Z",
-      "description": "83 holes drilled in 2026 are still pending for assays that should provide a steady stream of news flow into the new year. With 48,443 meters drilled in 97 holes utilizing 7 drill rigs turning 24 hours"
+      "title": "Gold retreats as hawkish Fed comments reinforce policy tightening bets",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-retreats-as-hawkish-fed-comments-reinforce-policy-tightening-bets/article71499225.ece",
+      "published": "2026-09-23T10:08:15Z",
+      "description": "Spot gold fell 0.9% to $4,316.78 per ounce, as ‌of 0847 GMT. US gold futures for December delivery were down 0.5% at $4,354"
     },
     {
-      "title": "圆桌：速度与人心：AI让内容无限生成，\"打动人心\"归谁管｜36氪2026 East Forward 出海大会",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3994215677590279?f=rss",
-      "published": "2026-09-22T07:04:40Z",
-      "description": "2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。9月17日，以“潮起之时，靠岸相见”为主题的2026 East Forward第二届·36氪出海大会在上海举行。来自消费、科技、制造等领域的出海企业、投资机构，以及全球化服务商汇聚现场，围绕本地化经营、用户洞察、供应链、合规、渠道与全球组织等现实问题展开讨论。当“走出去”已不再是少数选择，企业需要面对真正的问题：如何在海外市场活下来"
+      "title": "Today’s Gold Rate: Latest gold prices in Coimbatore, Nagpur, Jaipur & other cities",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-coimbatore-nagpur-visakhapatnam-surat-jaipur-lucknow-chandigarh-gold-rates-other-cities-september-23-2026/article71498966.ece",
+      "published": "2026-09-23T09:50:41Z",
+      "description": "Gold Price Today, August 26, 2026: Check 22K and 24K gold rates in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow and Chandigarh."
     },
     {
-      "title": "Sensex rises 110 points, Nifty above 23,450 as oil prices, bond yields cool down. Time for a sectoral pivot?",
+      "title": "How one email cost a 77-year-old retiree $390,000 and his retirement plans",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/sensex-rises-110-points-nifty-above-23450-as-oil-prices-bond-yields-cool-down-time-for-a-sectoral-pivot/articleshow/134403150.cms",
-      "published": "2026-09-22T05:20:09Z",
-      "description": "Indian equities traded higher as softer crude prices and easing bond yields improved sentiment. Sensex and Nifty extended gains, while broader markets also advanced. Analysts highlighted a possible se"
+      "url": "https://economictimes.indiatimes.com/news/international/global-trends/how-one-email-cost-a-77-year-old-retiree-390000-and-his-retirement-plans/articleshow/134429590.cms",
+      "published": "2026-09-23T09:05:01Z",
+      "description": "Jeffrey Maas, a 77-year-old retiree, lost his life savings after falling for a scam. He received a fake email about an antivirus charge that led to a phone call with a scammer. Maas was manipulated in"
     },
     {
-      "title": "圆桌：产业资本的新航线：出海下半场，钱该投向哪里｜36氪2026 East Forward 出海大会",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3994057351953411?f=rss",
-      "published": "2026-09-22T04:08:01Z",
-      "description": "2026年，中国企业出海正在从“寻找增量”，走向更长期的全球经营。9月17日，以“潮起之时，靠岸相见”为主题的2026 East Forward第二届·36氪出海大会在上海举行。来自消费、科技、制造等领域的出海企业、投资机构，以及全球化服务商汇聚现场，围绕本地化经营、用户洞察、供应链、合规、渠道与全球组织等现实问题展开讨论。当“走出去”已不再是少数选择，企业需要面对真正的问题：如何在海外市场活下来"
+      "title": "ADB raises India's GDP growth forecast to 7% on stronger-than-expected Q1 growth",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/adb-raises-indias-gdp-growth-forecast-to-7-on-stronger-than-expected-q1-growth/article71498802.ece",
+      "published": "2026-09-23T07:30:15Z",
+      "description": "India’s economy has also benefited from lower-than-expected supply disruptions, sustained capital inflows, and limited pass-through of higher input cost to consumer prices, ADB says"
     },
     {
-      "title": "港科大团队推冷原子系统标准化方案，获量旋科技等两轮数千万融资丨36氪首发",
+      "title": "超10家银行清退炒金通道 知情人士：是上金所发起的，实物黄金代销不受影响",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3993888512801792?f=rss",
-      "published": "2026-09-22T01:13:56Z",
-      "description": "图源/企业\n \n 本文约2400字，建议阅读5分钟\r\n\n \n 作者丨欧雪\n 编辑丨袁斯来\n 硬氪获悉，深圳市冰辰量子技术有限公司（下称“冰辰量子”）已于近期连续完成两轮数千万元级天使系列融资。天使轮由元禾璞华、产业投资方量旋科技联合领投，天使+轮由中赢创投领投，金雨茂物、祥峰投资、辰峰资本、源来资本跟投，产业方璇相科技跟投，翊荣资本担任长期财务顾问。融资资金将主要用于场地建设、人才引进及核心产品迭"
+      "url": "https://36kr.com/newsflashes/3995660266475397?f=rss",
+      "published": "2026-09-23T07:15:48Z",
+      "description": "近日，光大银行宣布，自10月19日起停办代理上海黄金交易所个人贵金属业务。银行代理的个人贵金属交易业务中，贵金属现货延期交易业务具有杠杆特征，风险较高。知情人士表示，银行代理上金所个人贵金属交易业务的停办，是上金所发起的。自上金所此前提出并正式确立停止这项业务代理后，客户就不能再从银行买入了。不再买入后这段时间，银行在持续推进清仓。目前，已超10家银行宣布停办该业务。（每经）"
     },
     {
-      "title": "8点1氪丨闲鱼回应“暗藏涉黄产业链”；西贝被传倒闭后，贾国龙最新发声；AMD总市值首次突破1万亿美元",
+      "title": "港交所：陆续推出更多人民币计价贵金属等商品投资产品",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3993831103347713?f=rss",
-      "published": "2026-09-22T00:15:14Z",
-      "description": "今日热点导览\n <ul>\n <li>OpenAI敦促美国牵头为人工智能制定全球标准</li>\n <li>钟南山团队发现肺结节发病新趋势</li>\n <li>黄仁勋：没有什么比能够缴纳更多税款更让我感到快乐的了</li>\n <li>抖音“试水”基金跳转入口</li>\n <li>五角大楼“披萨指数”飙升</li>\n <li>A股“股王”联讯仪器市值距高点蒸发超400亿元</li>\n </ul>\n TO"
+      "url": "https://36kr.com/newsflashes/3995499854778241?f=rss",
+      "published": "2026-09-23T04:32:37Z",
+      "description": "港交所董事总经理兼市场主管余学勤表示，金管局与证监会去年共同制定固定收益及货币市场发展路线图，当中很多细节经港交所落实。他提到今年8月推出5年期国债期货，未平仓合约由推出首个星期约900张，增至目前近3000张，吸引来自中东、欧美、东南亚等地的市场参与者，反映是值得发展的方向。他在财资市场高峰会上透露，预计明年初将推出以人民币计价、在香港交收的黄金期货合约，并陆续推出更多以人民币计价贵金属等商品的"
+    },
+    {
+      "title": "昔日女鞋第一，卷土重来",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3988505287211779?f=rss",
+      "published": "2026-09-23T04:17:14Z",
+      "description": "文｜贺哲馨\n 编辑｜乔芊\n 传奇\n 上个世纪 90 年代，每个美国女人的鞋柜里都有一双 Nine West。\n 这不是夸张的说法，《纽约时报》1997 年就是这么写的。在女鞋这个品类里，Nine West 是全球产业链分工最早、也最彻底的受益者。在 Zara、H&M、优衣库席卷世界之前，它已经提前二十年践行了这套打法。\n 1969 年，意大利裔美国人 Vince Camuto 接到了来自日本住友银"
     }
   ],
   "tweets": []
