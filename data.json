@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-09-24 10:53:00 UTC",
+  "updated_at": "2026-09-25 10:55:11 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4258.93,
+      "price_usd": 4306.35,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 63.65,
+      "price_usd": 65.0,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1745.4,
+      "price_usd": 1776.36,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1260.99,
+      "price_usd": 1271.18,
       "unit": "USD/盎司 oz"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.52,
+      "price_usd": 0.51,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Sensex today | Stock Market Highlights: Nifty closes at 23,446, gains 118 points, Sensex ends at 74,828 on stronger domestic growth momentum",
+      "title": "Sensex today | Stock Market Highlights: Dalal Street hit by crude fire, US yield surge, Nifty closes 1.64% lower at 23,063, Sensex lost 1,247 points",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-23rd-september-2026/article71495500.ece",
-      "published": "2026-09-23T10:49:05Z",
-      "description": "Sensex, Nifty, Stock Price Highlights: Indian equity markets closed higher on Wednesday, with the Nifty 50 gaining 117.80 points, or 0.50%, to close at 23,446.80, while the BSE Sensex rose 299.17 poin"
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-24-september-2026/article71499498.ece",
+      "published": "2026-09-24T10:41:00Z",
+      "description": "Sensex, Nifty, Share Prices Highlights: Indian equity markets witnessed sharp selling pressure on Thursday as rising US bond yields, renewed strength in crude oil prices and persistent geopolitical un"
     },
     {
-      "title": "‘Dune Cottage’ sells for $72M after $120M asking price",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/once-part-of-the-historic-wiborg-estate-lee-radziwills-east-hampton-home-sold-for-16-2m-in-2001-rebuilt-after-a-2013-fire-dune-cottage-was-listed-for-120m-before-selling-for-72m/articleshow/134431576.cms",
-      "published": "2026-09-23T10:39:27Z",
-      "description": "Dune Cottage in East Hampton has changed hands for an impressive $72 million, demonstrating a notable shift in the high-end real estate landscape. Initially hitting the market at $120 million, the ask"
+      "title": "GoldHaven Intersects New Skarn Zone at Kuhn; Drilling Underway from Second Pad",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/goldhaven-intersects-new-skarn-zone-at-kuhn-drilling-underway-from-second-pad",
+      "published": "2026-09-24T10:34:47Z",
+      "description": "Extended drilling adds a new skarn horizon beneath the previously reported down-dip extension VANCOUVER, British Columbia, Sept. 24, 2026 (GLOBE NEWSWIRE) — GoldHaven Resources Corp. (“GoldHaven” or t"
     },
     {
-      "title": "Integra Identifies New Near-Mine Gold Growth Targets at Florida Canyon, including 1.30 g/t Au over 62.5 m and 0.59 g/t Au over 167.6 m Inter-Pit and 0.48 g/t Au over 54.9 m in New Madre Shear North Target",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/integra-identifies-new-near-mine-gold-growth-targets-at-florida-canyon-including-1-30-gt-au-over-62-5-m-and-0-59-gt-au-over-167-6-m-inter-pit-and-0-48-gt-au-over-54-9-m-in-new-madre-shear-north-target-302886854.html",
-      "published": "2026-09-23T10:30:00Z",
-      "description": "TSXV: ITR; NYSE American: ITRG www.integraresources.com VANCOUVER, BC, Sept. 23, 2026 /PRNewswire/ -- Integra Resources Corp. (\"Integra\" or the \"Company\") (TSXV: ITR) (NYSE American: ITRG) is pleased "
-    },
-    {
-      "title": "Gold retreats as hawkish Fed comments reinforce policy tightening bets",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-retreats-as-hawkish-fed-comments-reinforce-policy-tightening-bets/article71499225.ece",
-      "published": "2026-09-23T10:08:15Z",
-      "description": "Spot gold fell 0.9% to $4,316.78 per ounce, as ‌of 0847 GMT. US gold futures for December delivery were down 0.5% at $4,354"
-    },
-    {
-      "title": "Today’s Gold Rate: Latest gold prices in Coimbatore, Nagpur, Jaipur & other cities",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-coimbatore-nagpur-visakhapatnam-surat-jaipur-lucknow-chandigarh-gold-rates-other-cities-september-23-2026/article71498966.ece",
-      "published": "2026-09-23T09:50:41Z",
-      "description": "Gold Price Today, August 26, 2026: Check 22K and 24K gold rates in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow and Chandigarh."
-    },
-    {
-      "title": "How one email cost a 77-year-old retiree $390,000 and his retirement plans",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/global-trends/how-one-email-cost-a-77-year-old-retiree-390000-and-his-retirement-plans/articleshow/134429590.cms",
-      "published": "2026-09-23T09:05:01Z",
-      "description": "Jeffrey Maas, a 77-year-old retiree, lost his life savings after falling for a scam. He received a fake email about an antivirus charge that led to a phone call with a scammer. Maas was manipulated in"
-    },
-    {
-      "title": "ADB raises India's GDP growth forecast to 7% on stronger-than-expected Q1 growth",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/economy/adb-raises-indias-gdp-growth-forecast-to-7-on-stronger-than-expected-q1-growth/article71498802.ece",
-      "published": "2026-09-23T07:30:15Z",
-      "description": "India’s economy has also benefited from lower-than-expected supply disruptions, sustained capital inflows, and limited pass-through of higher input cost to consumer prices, ADB says"
-    },
-    {
-      "title": "超10家银行清退炒金通道 知情人士：是上金所发起的，实物黄金代销不受影响",
+      "title": "A股三大指数集体收跌，奥浦迈跌超8%",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3995660266475397?f=rss",
-      "published": "2026-09-23T07:15:48Z",
-      "description": "近日，光大银行宣布，自10月19日起停办代理上海黄金交易所个人贵金属业务。银行代理的个人贵金属交易业务中，贵金属现货延期交易业务具有杠杆特征，风险较高。知情人士表示，银行代理上金所个人贵金属交易业务的停办，是上金所发起的。自上金所此前提出并正式确立停止这项业务代理后，客户就不能再从银行买入了。不再买入后这段时间，银行在持续推进清仓。目前，已超10家银行宣布停办该业务。（每经）"
+      "url": "https://36kr.com/newsflashes/3997061715382152?f=rss",
+      "published": "2026-09-24T07:01:26Z",
+      "description": "36氪获悉，A股三大指数集体收跌，沪指跌1.22%，深成指跌2.34%，创业板指跌2.68%；贵金属、电子元器件、生物科技板块领跌，视涯科技跌超12%，奥浦迈跌超8%，山东黄金跌超6%；林木、教育、石油天然气板块涨幅居前，科德教育涨超10%，天振股份涨超4%，中国石油涨超2%。"
     },
     {
-      "title": "港交所：陆续推出更多人民币计价贵金属等商品投资产品",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/3995499854778241?f=rss",
-      "published": "2026-09-23T04:32:37Z",
-      "description": "港交所董事总经理兼市场主管余学勤表示，金管局与证监会去年共同制定固定收益及货币市场发展路线图，当中很多细节经港交所落实。他提到今年8月推出5年期国债期货，未平仓合约由推出首个星期约900张，增至目前近3000张，吸引来自中东、欧美、东南亚等地的市场参与者，反映是值得发展的方向。他在财资市场高峰会上透露，预计明年初将推出以人民币计价、在香港交收的黄金期货合约，并陆续推出更多以人民币计价贵金属等商品的"
+      "title": "Gold muted on US Fed policy tightening bets, decline in oil",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-muted-on-us-fed-policy-tightening-bets-decline-in-oil/article71502941.ece",
+      "published": "2026-09-24T06:01:20Z",
+      "description": "Spot gold was little changed at $4,291.48 per ounce, by 0512 GMT. US gold futures ‌for December delivery rose 0.2% to $4,326.30."
     },
     {
-      "title": "昔日女鞋第一，卷土重来",
+      "title": "Greenland Mines Completes $12-Per-Share Equity Financing, Fully Funded Through 2027 Milestones with $42 Million, Terminates ATM, and Completes Sarfartoq Rare Earth Field Program",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/greenland-mines-completes-12-per-share-equity-financing-fully-funded-through-2027-milestones-with-42-million-terminates-atm-and-completes-sarfartoq-rare-earth-field-program",
+      "published": "2026-09-24T04:22:28Z",
+      "description": "CHARLOTTE, N.C., Sept. 24, 2026 (GLOBE NEWSWIRE) — via IBN — Greenland Mines Ltd (Nasdaq: GRML) (“Greenland Mines” or the “Company”), a Western-aligned critical-minerals developer, today announced tha"
+    },
+    {
+      "title": "Gold and silver price today, Sept 24: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/gold-and-silver-price-today-sept-24-check-retail-rates-of-24k-22k-gold-and-999-silver-in-mumbai-delhi-other-cities-11790218419546.html",
+      "published": "2026-09-24T03:51:58Z",
+      "description": "Gold and silver prices in India dropped slightly during early trading hours on Thursday. Check retail rates of the precious metals in top metro cities of the country."
+    },
+    {
+      "title": "A股三大指数午间休盘集体下跌，教育股走强",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/3988505287211779?f=rss",
-      "published": "2026-09-23T04:17:14Z",
-      "description": "文｜贺哲馨\n 编辑｜乔芊\n 传奇\n 上个世纪 90 年代，每个美国女人的鞋柜里都有一双 Nine West。\n 这不是夸张的说法，《纽约时报》1997 年就是这么写的。在女鞋这个品类里，Nine West 是全球产业链分工最早、也最彻底的受益者。在 Zara、H&M、优衣库席卷世界之前，它已经提前二十年践行了这套打法。\n 1969 年，意大利裔美国人 Vince Camuto 接到了来自日本住友银"
+      "url": "https://36kr.com/newsflashes/3996855144501379?f=rss",
+      "published": "2026-09-24T03:31:18Z",
+      "description": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.93%，深成指跌1.74%，创业板指跌1.84%；贵金属、电子元器件、建材板块领跌，楚天龙跌超8%，福建水泥跌超7%，山东黄金跌超4%；教育、银行、发电设备板块涨幅居前，科德教育涨超13%，威力传动涨超11%，江苏银行涨超2%。"
+    },
+    {
+      "title": "多家品牌金饰价格下调，老庙黄金克价1293元",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3996742096818311?f=rss",
+      "published": "2026-09-24T01:36:18Z",
+      "description": "9月24日，国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所调整，老凤祥报价1300元/克，较前一日跌17元；老庙黄金报价1293元/克，较前一日跌17元；周生生报价1297元/克，前一日跌12元。（界面）"
+    },
+    {
+      "title": "A股三大指数集体低开，贵金属板块下挫",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/3996734122676105?f=rss",
+      "published": "2026-09-24T01:28:11Z",
+      "description": "36氪获悉，A股三大指数集体低开，沪指低开0.28%，深成指低开0.45%，创业板指低开0.38%；贵金属、房地产、电脑硬件板块跌幅居前，世联行、中金黄金跌超2%，江波龙、同有科技跌超1%；能源设备、海运、油气板块领涨，科力股份涨超2%，招商轮船、 博汇股份涨近1%；新股N百瑞吉开涨347%。"
+    },
+    {
+      "title": "8点1氪丨苹果出手限制“摇一摇”广告；王慧文称想组局买下西贝：喜欢这个品牌；Meta测试真人代Muse拨打电话，引发内部隐私争议",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/3996646362747015?f=rss",
+      "published": "2026-09-24T00:01:26Z",
+      "description": "今日热点导览\n 微软、亚马逊、Adobe等集体降价挽留企业客户\n 消息称豆包开始收缩对话团队\n 闲鱼：“涉未成年人淫秽”系不实消息\n 未来四年“双一流”高校本科招生数还将扩容7.6万人\n 王兴兴再登《财富》40岁以下商界精英榜，张雪、姚顺雨等首次入选\n TOP3大新闻\n 苹果出手限制“摇一摇”广告\n 据界面新闻，大量iPhone用户反馈，苹果在最新发布的iOS 27.2 Beta 2测试版系统中，"
     }
   ],
   "tweets": []
