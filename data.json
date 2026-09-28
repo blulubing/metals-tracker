@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-09-27 11:08:19 UTC",
+  "updated_at": "2026-09-28 12:33:51 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4284.68,
+      "price_usd": 4150.18,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 64.3,
+      "price_usd": 61.41,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1777.8,
+      "price_usd": 1735.2,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1265.24,
+      "price_usd": 1223.53,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.47,
+      "price_usd": 0.46,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.51,
+      "price_usd": 0.5,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,39 +76,53 @@
   ],
   "news": [
     {
-      "title": "Today’s Gold Rate: Latest Gold prices in Coimbatore, Nagpur, Jaipur & Other Cities",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-coimbatore-nagpur-visakhapatnam-surat-jaipur-lucknow-chandigarh-gold-rates-other-cities-september-26-2026/article71512149.ece",
-      "published": "2026-09-26T10:29:52Z",
-      "description": "Gold Price Today, September 26, 2026: Check 22K and 24K gold rates in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow and Chandigarh."
-    },
-    {
-      "title": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/26/audemars-piguet-and-royal-pop-defy-luxury-watch-slump-and-tariffs.html",
-      "published": "2026-09-26T10:00:01Z",
-      "description": "Swiss luxury watchmaker Audemars Piguet says its sales and engagement are breaking records after its risky, eye-catching Royal Pop collaboration with Swatch."
-    },
-    {
-      "title": "NSE partners with Augmont to simplify Electronic Gold Receipts, boost gold market participation",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/nse-partners-with-augmont-to-simplify-electronic-gold-receipts-boost-gold-market-participation/article71512306.ece",
-      "published": "2026-09-26T09:32:27Z",
-      "description": "Partnership expected to make it easier to convert physical gold into EGRs and convert the receipts back into physical gold within the regulated ecosystem"
-    },
-    {
-      "title": "Bigg Boss Telugu 10: Mukesh Gowda becomes captain, Apoorva creates a stir with immunity win",
+      "title": "ETMarkets Smart Talk | The next 12 months may be about capital saved, not returns made: Praveen Jagwani",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/tv/news/telugu/bigg-boss-telugu-10-mukesh-gowda-becomes-captain-apoorva-creates-a-stir-with-immunity-win/articleshow/134500287.cms",
-      "published": "2026-09-26T08:03:21Z",
-      "description": "Apoorva manages to gain immunity even though she is one of the most recent contestants to have joined the house. In a short amount of time, she has not only become a topic of discussion among the othe"
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-the-next-12-months-may-be-about-capital-saved-not-returns-made-praveen-jagwani/articleshow/134516792.cms",
+      "published": "2026-09-27T08:01:58Z",
+      "description": "Praveen Jagwani advises investors to prioritize capital preservation over chasing high returns. Highlighting the need for extensive diversification among asset classes, he warns that a forthcoming Fed"
     },
     {
-      "title": "‘Tried to strangle me’: Woman attacked by husband, 2 others inside UP court",
+      "title": "ETMarkets Smart Talk| How to find India’s next multibaggers? Pritam Deuskar explains his GIANTS framework",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/lucknow/tried-to-strangle-me-woman-attacked-by-husband-2-others-inside-up-court/articleshow/134499972.cms",
-      "published": "2026-09-26T08:02:30Z",
-      "description": "During a maintenance case hearing on September 24, Priya Tripathi alleged that her husband Manish Kumar Mishra and two accomplices assaulted her on the Family Court premises. She reported that her fat"
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-how-to-find-indias-next-multibaggers-pritam-deuskar-explains-his-giants-framework/articleshow/134516232.cms",
+      "published": "2026-09-27T07:07:06Z",
+      "description": "To achieve successful long-term investments, investors should target companies with a competitive edge. Pritam Deuskar introduces the GIANTS framework, emphasizing the importance of evaluating market "
+    },
+    {
+      "title": "Will Nifty, Sensex tumble on Monday? 5 factors which will drive D-Street action this week",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-tumble-on-monday-5-factors-which-will-drive-d-street-action-this-week/articleshow/134515821.cms",
+      "published": "2026-09-27T06:24:51Z",
+      "description": "Following a 7-week decline in Nifty, Dalal Street faces a holiday-shortened week driven by five key factors: escalating US-Iran conflict, Brent crude trading above $104, US 10-year Treasury yields abo"
+    },
+    {
+      "title": "ETMarkets Smart Talk: RBI may hike 50-75 bps; Archit Shah on what’s next for bonds",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-rbi-may-hike-50-75-bps-archit-shah-on-whats-next-for-bonds/articleshow/134515044.cms",
+      "published": "2026-09-27T05:15:50Z",
+      "description": "Archit Shah, CIO at Zurich Kotak General Insurance, expects the RBI to hike repo rates by 50-75 bps towards 5.75-6% if inflation, crude, and global yields remain under pressure. Advising patience on d"
+    },
+    {
+      "title": "里昂：安踏体育为首选股之一，维持“跑赢大市”评级，目标价110港元",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4001181964325000?f=rss",
+      "published": "2026-09-27T04:52:46Z",
+      "description": "里昂发布研报称，维持安踏体育“跑赢大市”评级，目标价110港元，并将其列为首选股之一。该行认为，公司拥有全球化布局，加上严谨的执行能力及稳健的资产负债表。该行预计，安踏受惠于门店生产力提升、户外品牌表现优于大市、Jack Wolfskin明年的中国市场业务或转亏为盈，以及Amer Sports净利润提升，预计其2026至2028财年销售额及经调整纯利复合年增长率将分别为7%及12%。该行指出，持有"
+    },
+    {
+      "title": "气候技术融资还能被传统金融青睐吗？",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001110986",
+      "published": "2026-09-26T16:00:00Z",
+      "description": "气候技术融资还能被传统金融青睐吗？\r\n\n陈钰什：传统金融持续奖励近期可验证的确定性，气候风险却沿着更长周期累积。\r\n\n\r\n\n\n更新于2026年9月27日 21:11\nFT中文网专栏作家陈钰什\n\r\n\n\n\n2026年9月1日，谷歌与美国地热开发商Fervo签署396兆瓦购电协议，相关项目预计于2028年投运。谷歌为拟建数据中心提前锁定电力采购，Fervo由此获得了一家信用强、需求明确的长期客户。长期采"
+    },
+    {
+      "title": "金融机构如何参与碳市场？",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001110993",
+      "published": "2026-09-26T16:00:00Z",
+      "description": "更新于2026年9月27日 20:42\n姜梦楠为环境网站“对话地球”撰稿\n\r\n\n\n\n今年上半年，生态环境部副部长李高在一场发言中提到，要“争取年内引入首批金融机构参与全国碳排放权交易市场”。\r\n\n全国碳市场目前的主要参与者，是被强制纳入、每年须按核定排放量清缴配额的高排放企业，也被称为“重点排放企业”。此前，以银行为代表的金融机构只能依托碳市场为企业提供一些金融服务，例如，兴业银行曾于2021年为"
     },
     {
       "title": "Mounting rate hike bets keep weekly loss in sight for gold",
@@ -130,20 +144,6 @@
       "url": "https://economictimes.indiatimes.com/news/international/us/silver-price-today-silver-hits-64-78-on-september-25-heres-why-63-and-70-are-the-key-levels-to-watch/articleshow/134490064.cms",
       "published": "2026-09-25T17:25:48Z",
       "description": "Silver was trading at $64.78 per ounce on September 25, remaining range-bound amid high interest rates. Analysts predict continued strength for silver due to increasing demand and limited supply. Key "
-    },
-    {
-      "title": "Gold price prediction: Gold rate down for weekly loss, silver price is up. Here's what to expect",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-gold-rate-down-for-weekly-loss-silver-price-is-up-heres-what-to-expect/articleshow/134485234.cms",
-      "published": "2026-09-25T12:19:36Z",
-      "description": "Gold rate prediction: Gold prices rose on Friday but was on track for a weekly loss, as rising US Treasury yields and growing expectations of Federal Reserve rate hikes weighed on the metal."
-    },
-    {
-      "title": "Abaxx Exchange Gold Kilobar Futures Named Best Innovation by an Exchange or Clearing House at 2026 FOW Asia Pacific Awards",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/abaxx-exchange-gold-kilobar-futures-named-best-innovation-by-an-exchange-or-clearing-house-at-2026-fow-asia-pacific-awards",
-      "published": "2026-09-25T11:31:13Z",
-      "description": "TORONTO and SINGAPORE, Sept. 25, 2026 (GLOBE NEWSWIRE) — Abaxx Technologies Inc. (TSX:ABXX)(OTCQX:ABXXF) (“Abaxx” or the “Company”), a financial software and market infrastructure company, majority sh"
     }
   ],
   "tweets": []
