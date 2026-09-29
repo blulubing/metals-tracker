@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-09-28 12:33:51 UTC",
+  "updated_at": "2026-09-29 11:54:55 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4150.18,
+      "price_usd": 4155.79,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 61.41,
+      "price_usd": 61.02,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1735.2,
+      "price_usd": 1703.7,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1223.53,
+      "price_usd": 1232.02,
       "unit": "USD/盎司 oz"
     },
     {
@@ -70,80 +70,80 @@
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.46,
+      "price_usd": 0.45,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "ETMarkets Smart Talk | The next 12 months may be about capital saved, not returns made: Praveen Jagwani",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-the-next-12-months-may-be-about-capital-saved-not-returns-made-praveen-jagwani/articleshow/134516792.cms",
-      "published": "2026-09-27T08:01:58Z",
-      "description": "Praveen Jagwani advises investors to prioritize capital preservation over chasing high returns. Highlighting the need for extensive diversification among asset classes, he warns that a forthcoming Fed"
+      "title": "Shanti Gold International Invests INR 8.83 Crore in Ratnaveer Precision Engineering; Corporate Investment Brings Fresh Investor Attention",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/shanti-gold-international-invests-inr-883-crore-in-ratnaveer-precision-engineering-corporate-investment-brings-fresh-investor-attention/article71519071.ece",
+      "published": "2026-09-28T11:43:44Z",
+      "description": "Shanti Gold International Invests INR 8.83 Crore in Ratnaveer Precision Engineering; Corporate Investment Brings Fresh Investor Attention"
     },
     {
-      "title": "ETMarkets Smart Talk| How to find India’s next multibaggers? Pritam Deuskar explains his GIANTS framework",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/etmarkets-smart-talk-how-to-find-indias-next-multibaggers-pritam-deuskar-explains-his-giants-framework/articleshow/134516232.cms",
-      "published": "2026-09-27T07:07:06Z",
-      "description": "To achieve successful long-term investments, investors should target companies with a competitive edge. Pritam Deuskar introduces the GIANTS framework, emphasizing the importance of evaluating market "
+      "title": "Gold price falls ₹2,600, silver plunges ₹5,000 amid crude oil surge",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-price-falls-2600-silver-plunges-5000-amid-crude-oil-surge/article71519585.ece",
+      "published": "2026-09-28T11:31:07Z",
+      "description": "Precious metals came under pressure as global markets faced renewed volatility, with crude oil rising sharply amid heightened US-Iran tensions."
     },
     {
-      "title": "Will Nifty, Sensex tumble on Monday? 5 factors which will drive D-Street action this week",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/will-nifty-sensex-tumble-on-monday-5-factors-which-will-drive-d-street-action-this-week/articleshow/134515821.cms",
-      "published": "2026-09-27T06:24:51Z",
-      "description": "Following a 7-week decline in Nifty, Dalal Street faces a holiday-shortened week driven by five key factors: escalating US-Iran conflict, Brent crude trading above $104, US 10-year Treasury yields abo"
+      "title": "A2GOLD COMMENCES RC DRILLING AT TARGET PENTE AT EASTSIDE GOLD-SILVER PROJECT",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/a2gold-commences-rc-drilling-at-target-pente-at-eastside-gold-silver-project-302891070.html",
+      "published": "2026-09-28T11:30:00Z",
+      "description": "3,700 METRE PROGRAM TO TEST FOR HIGH-GRADE EPITHERMAL VEIN POTENTIAL TONOPAH, Nev., Sept. 28, 2026 /PRNewswire/ -- A2Gold Corp. (\"A2Gold\" or the \"Company\") (TSX-V: AUAU) (OTCQX: AUXXF) (FRA: RR7) is p"
     },
     {
-      "title": "ETMarkets Smart Talk: RBI may hike 50-75 bps; Archit Shah on what’s next for bonds",
+      "title": "U.S Stock Market prediction for Monday: Dow, S&P, Nasdaq, Russell 2000 set for low opening, Meta, Tesla, other stocks, factors to watch out today",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/bonds/etmarkets-smart-talk-rbi-may-hike-50-75-bps-archit-shah-on-whats-next-for-bonds/articleshow/134515044.cms",
-      "published": "2026-09-27T05:15:50Z",
-      "description": "Archit Shah, CIO at Zurich Kotak General Insurance, expects the RBI to hike repo rates by 50-75 bps towards 5.75-6% if inflation, crude, and global yields remain under pressure. Advising patience on d"
+      "url": "https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-prediction-for-monday-dow-sp-nasdaq-russell-2000-set-for-low-opening-meta-tesla-other-stocks-factors-to-watch-out-today/articleshow/134540874.cms",
+      "published": "2026-09-28T11:25:34Z",
+      "description": "U.S. Stock Market today, September 28: Tesla dipped 1 per cent after brokerage J.P.Morgan lowered its price target on the stock citing weak deliveries in the third quarter. Meta eased 2.2 per cent aft"
     },
     {
-      "title": "里昂：安踏体育为首选股之一，维持“跑赢大市”评级，目标价110港元",
+      "title": "Since 1989, a Birmingham artist has spent 30-plus years turning a half-acre beside a cemetery into a walk-through history of Black America",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/uk/since-1989-a-birmingham-artist-has-spent-30-plus-years-turning-a-half-acre-beside-a-cemetery-into-a-walk-through-history-of-black-america/articleshow/134537612.cms",
+      "published": "2026-09-28T11:19:18Z",
+      "description": "Joe Minter has dedicated several decades to creating the African Village in America, a sculptural landscape in Birmingham. Initiated in 1989, this project chronicles 400 years of Black American histor"
+    },
+    {
+      "title": "Over 20 years, a New York painter hand-dug a lake and planted thousands of native trees; the private landscape survives as Olana State Historic Site",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/over-20-years-a-new-york-painter-hand-dug-a-lake-and-planted-thousands-of-native-trees-the-private-landscape-survives-as-olana-state-historic-site/articleshow/134537460.cms",
+      "published": "2026-09-28T11:18:43Z",
+      "description": "Frederic Edwin Church, a prominent figure in the Hudson River School of painting, meticulously crafted the Olana landscape surrounding his New York residence. He hand-excavated a 10-acre lake and intr"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex tanks 1,124 points, Nifty ends below 22,800",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-stock-market-highlights-28-septmeber-2026/article71515691.ece",
+      "published": "2026-09-28T11:03:35Z",
+      "description": "Sensex, Nifty 50 | Stock Market Highlights 28th September 2026: Stock markets tumbled on Monday, with the Sensex plunging 1,124.02 points, or 1.52 per cent, to 72,771.72, its lowest closing level sinc"
+    },
+    {
+      "title": "Markets sink to April lows at noon; crude surge, FII selling batter sentiment across sectors",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/markets-sink-to-april-lows-at-noon-crude-surge-fii-selling-batter-sentiment-across-sectors/article71518803.ece",
+      "published": "2026-09-28T07:35:00Z",
+      "description": "FIIs continued their selling trend, offloading equities worth ₹3,694 crore in the previous session, while DIIs purchased approximately ₹2,838 crore"
+    },
+    {
+      "title": "导演陆川写了3个AI工具：我想弄清楚人到底哪儿不可替代",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4001181964325000?f=rss",
-      "published": "2026-09-27T04:52:46Z",
-      "description": "里昂发布研报称，维持安踏体育“跑赢大市”评级，目标价110港元，并将其列为首选股之一。该行认为，公司拥有全球化布局，加上严谨的执行能力及稳健的资产负债表。该行预计，安踏受惠于门店生产力提升、户外品牌表现优于大市、Jack Wolfskin明年的中国市场业务或转亏为盈，以及Amer Sports净利润提升，预计其2026至2028财年销售额及经调整纯利复合年增长率将分别为7%及12%。该行指出，持有"
+      "url": "https://36kr.com/p/4002747396378757?f=rss",
+      "published": "2026-09-28T07:28:22Z",
+      "description": "陆川\n 文｜温丽虹\n 编辑｜张雨忻\n 9月份，导演陆川让AI完全接管了自己的一台电脑。他移除了电脑上所有敏感、保密的信息，训练AI使用那台电脑上的剪辑软件、三维制作软件与后期制作软件。他计划着，要在那台电脑上做一个实验，让AI从一部一分钟的片子开始，尝试自主创作。\n 在陆川的定义里，制作和创作是两件事。\n 制作，AI可以做得很好，甚至超出大多数人的想象。“AI出手，基本能做到80分。因为它汲取了—"
     },
     {
-      "title": "气候技术融资还能被传统金融青睐吗？",
-      "source": "Ftchinese.com",
-      "url": "https://www.ftchinese.com/story/001110986",
-      "published": "2026-09-26T16:00:00Z",
-      "description": "气候技术融资还能被传统金融青睐吗？\r\n\n陈钰什：传统金融持续奖励近期可验证的确定性，气候风险却沿着更长周期累积。\r\n\n\r\n\n\n更新于2026年9月27日 21:11\nFT中文网专栏作家陈钰什\n\r\n\n\n\n2026年9月1日，谷歌与美国地热开发商Fervo签署396兆瓦购电协议，相关项目预计于2028年投运。谷歌为拟建数据中心提前锁定电力采购，Fervo由此获得了一家信用强、需求明确的长期客户。长期采"
-    },
-    {
-      "title": "金融机构如何参与碳市场？",
-      "source": "Ftchinese.com",
-      "url": "https://www.ftchinese.com/story/001110993",
-      "published": "2026-09-26T16:00:00Z",
-      "description": "更新于2026年9月27日 20:42\n姜梦楠为环境网站“对话地球”撰稿\n\r\n\n\n\n今年上半年，生态环境部副部长李高在一场发言中提到，要“争取年内引入首批金融机构参与全国碳排放权交易市场”。\r\n\n全国碳市场目前的主要参与者，是被强制纳入、每年须按核定排放量清缴配额的高排放企业，也被称为“重点排放企业”。此前，以银行为代表的金融机构只能依托碳市场为企业提供一些金融服务，例如，兴业银行曾于2021年为"
-    },
-    {
-      "title": "Mounting rate hike bets keep weekly loss in sight for gold",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/mounting-rate-hike-bets-keep-weekly-loss-in-sight-for-gold/articleshow/134496698.cms",
-      "published": "2026-09-26T03:53:54Z",
-      "description": "Gold prices rose slightly on Friday but are set for a weekly decline of 2.1 percent. Factors such as inflation worries and rising US Treasury yields have negatively impacted the allure of gold as a sa"
-    },
-    {
-      "title": "This TSX top gainer rose 13% this week as it looks to ride Meta's wave",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/investing/tsx-top-gainer-rose-ride-meta-wave",
-      "published": "2026-09-25T22:02:39Z",
-      "description": "The Week in Stocks: How bond yields are hitting utility stocks, why this REIT suspended its cash distribution and more. Read on."
-    },
-    {
-      "title": "Silver price today: Silver hits $64.78 on September 25 - here's why $63 and $70 are the key levels to watch",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/silver-price-today-silver-hits-64-78-on-september-25-heres-why-63-and-70-are-the-key-levels-to-watch/articleshow/134490064.cms",
-      "published": "2026-09-25T17:25:48Z",
-      "description": "Silver was trading at $64.78 per ounce on September 25, remaining range-bound amid high interest rates. Analysts predict continued strength for silver due to increasing demand and limited supply. Key "
+      "title": "现货白银跌幅扩大至5%",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4002740351848320?f=rss",
+      "published": "2026-09-28T07:18:02Z",
+      "description": "36氪获悉，现货黄金价格跌2.90%，报4161.02美元/盎司；现货白银价格跌5.01%，报61.08美元/盎司。"
     }
   ],
   "tweets": []
