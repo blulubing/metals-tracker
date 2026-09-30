@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-09-29 11:54:55 UTC",
+  "updated_at": "2026-09-30 11:42:27 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4155.79,
+      "price_usd": 4187.12,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 61.02,
+      "price_usd": 60.7,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1703.7,
+      "price_usd": 1710.4,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1232.02,
+      "price_usd": 1216.42,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Shanti Gold International Invests INR 8.83 Crore in Ratnaveer Precision Engineering; Corporate Investment Brings Fresh Investor Attention",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/brandhub/pr-release/shanti-gold-international-invests-inr-883-crore-in-ratnaveer-precision-engineering-corporate-investment-brings-fresh-investor-attention/article71519071.ece",
-      "published": "2026-09-28T11:43:44Z",
-      "description": "Shanti Gold International Invests INR 8.83 Crore in Ratnaveer Precision Engineering; Corporate Investment Brings Fresh Investor Attention"
+      "title": "GoldHaven Highlights Multi-Target Drill Opportunity Across Permitted Magno Project",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/goldhaven-highlights-multi-target-drill-opportunity-across-permitted-magno-project",
+      "published": "2026-09-29T11:28:41Z",
+      "description": "VANCOUVER, British Columbia, Sept. 29, 2026 (GLOBE NEWSWIRE) — GoldHaven Resources Corp. (CSE: GOH) (OTCQB: GHVNF) (FSE: 4QS) (“GoldHaven” or the “Company”) is pleased to highlight that, while current"
     },
     {
-      "title": "Gold price falls ₹2,600, silver plunges ₹5,000 amid crude oil surge",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-price-falls-2600-silver-plunges-5000-amid-crude-oil-surge/article71519585.ece",
-      "published": "2026-09-28T11:31:07Z",
-      "description": "Precious metals came under pressure as global markets faced renewed volatility, with crude oil rising sharply amid heightened US-Iran tensions."
+      "title": "Higher rates are wreaking havoc on these two ETFs. Traders see one bouncing back",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/09/29/higher-rates-are-wreaking-havoc-on-these-two-etfs-traders-see-one-bouncing-back.html",
+      "published": "2026-09-29T11:28:27Z",
+      "description": "The relentless surge in rates is breaking the back of two key macro trades that had been holding firm."
     },
     {
-      "title": "A2GOLD COMMENCES RC DRILLING AT TARGET PENTE AT EASTSIDE GOLD-SILVER PROJECT",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/a2gold-commences-rc-drilling-at-target-pente-at-eastside-gold-silver-project-302891070.html",
-      "published": "2026-09-28T11:30:00Z",
-      "description": "3,700 METRE PROGRAM TO TEST FOR HIGH-GRADE EPITHERMAL VEIN POTENTIAL TONOPAH, Nev., Sept. 28, 2026 /PRNewswire/ -- A2Gold Corp. (\"A2Gold\" or the \"Company\") (TSX-V: AUAU) (OTCQX: AUXXF) (FRA: RR7) is p"
-    },
-    {
-      "title": "U.S Stock Market prediction for Monday: Dow, S&P, Nasdaq, Russell 2000 set for low opening, Meta, Tesla, other stocks, factors to watch out today",
+      "title": "From diamond-studded Hermès Birkins to a $10 million fashion icon: 10 of the world’s most expensive handbags",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/u-s-stock-market-prediction-for-monday-dow-sp-nasdaq-russell-2000-set-for-low-opening-meta-tesla-other-stocks-factors-to-watch-out-today/articleshow/134540874.cms",
-      "published": "2026-09-28T11:25:34Z",
-      "description": "U.S. Stock Market today, September 28: Tesla dipped 1 per cent after brokerage J.P.Morgan lowered its price target on the stock citing weak deliveries in the third quarter. Meta eased 2.2 per cent aft"
+      "url": "https://timesofindia.indiatimes.com/life-style/fashion/from-diamond-studded-herms-birkins-to-a-10-million-fashion-icon-10-of-the-worlds-most-expensive-handbags/photostory/134563586.cms",
+      "published": "2026-09-29T10:35:28Z",
+      "description": "A handbag can be much more than a fashion accessory. At the very top end of the luxury market, some bags are crafted from rare crocodile skins, platinum and precious metals, while others are covered i"
     },
     {
-      "title": "Since 1989, a Birmingham artist has spent 30-plus years turning a half-acre beside a cemetery into a walk-through history of Black America",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/uk/since-1989-a-birmingham-artist-has-spent-30-plus-years-turning-a-half-acre-beside-a-cemetery-into-a-walk-through-history-of-black-america/articleshow/134537612.cms",
-      "published": "2026-09-28T11:19:18Z",
-      "description": "Joe Minter has dedicated several decades to creating the African Village in America, a sculptural landscape in Birmingham. Initiated in 1989, this project chronicles 400 years of Black American histor"
-    },
-    {
-      "title": "Over 20 years, a New York painter hand-dug a lake and planted thousands of native trees; the private landscape survives as Olana State Historic Site",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/us/over-20-years-a-new-york-painter-hand-dug-a-lake-and-planted-thousands-of-native-trees-the-private-landscape-survives-as-olana-state-historic-site/articleshow/134537460.cms",
-      "published": "2026-09-28T11:18:43Z",
-      "description": "Frederic Edwin Church, a prominent figure in the Hudson River School of painting, meticulously crafted the Olana landscape surrounding his New York residence. He hand-excavated a 10-acre lake and intr"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Sensex tanks 1,124 points, Nifty ends below 22,800",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-stock-market-highlights-28-septmeber-2026/article71515691.ece",
-      "published": "2026-09-28T11:03:35Z",
-      "description": "Sensex, Nifty 50 | Stock Market Highlights 28th September 2026: Stock markets tumbled on Monday, with the Sensex plunging 1,124.02 points, or 1.52 per cent, to 72,771.72, its lowest closing level sinc"
-    },
-    {
-      "title": "Markets sink to April lows at noon; crude surge, FII selling batter sentiment across sectors",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/markets-sink-to-april-lows-at-noon-crude-surge-fii-selling-batter-sentiment-across-sectors/article71518803.ece",
-      "published": "2026-09-28T07:35:00Z",
-      "description": "FIIs continued their selling trend, offloading equities worth ₹3,694 crore in the previous session, while DIIs purchased approximately ₹2,838 crore"
-    },
-    {
-      "title": "导演陆川写了3个AI工具：我想弄清楚人到底哪儿不可替代",
+      "title": "山东黄金：拟以人民币3亿元（含）-4亿元（含）回购公司A股股份",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/4002747396378757?f=rss",
-      "published": "2026-09-28T07:28:22Z",
-      "description": "陆川\n 文｜温丽虹\n 编辑｜张雨忻\n 9月份，导演陆川让AI完全接管了自己的一台电脑。他移除了电脑上所有敏感、保密的信息，训练AI使用那台电脑上的剪辑软件、三维制作软件与后期制作软件。他计划着，要在那台电脑上做一个实验，让AI从一部一分钟的片子开始，尝试自主创作。\n 在陆川的定义里，制作和创作是两件事。\n 制作，AI可以做得很好，甚至超出大多数人的想象。“AI出手，基本能做到80分。因为它汲取了—"
+      "url": "https://36kr.com/newsflashes/4004247653830535?f=rss",
+      "published": "2026-09-29T08:57:15Z",
+      "description": "36氪获悉，山东黄金公告，公司董事长王成龙于2026年9月29日提议使用自有资金及自筹资金回购公司A股股份，回购股份将全部用于注销并减少公司注册资本。回购价格上限不高于公司董事会审议通过回购股份方案决议前30个交易日公司股票交易均价的150%，回购期限为自股东会审议通过方案之日起12个月内。"
     },
     {
-      "title": "现货白银跌幅扩大至5%",
+      "title": "Equity vs gold vs silver: Which asset class delivered the most returns in H1 FY27? Here's what data shows",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/equity-vs-gold-vs-silver-which-asset-class-delivered-the-most-returns-in-h1-fy27-heres-what-data-shows-11790667687518.html",
+      "published": "2026-09-29T07:59:24Z",
+      "description": "Small-cap equities led the asset-class performance in H1 FY27, delivering 23% returns, ahead of mid-caps at 13% and the Nifty 50 at 2%. Gold and silver declined 10% and 15%, respectively, reversing th"
+    },
+    {
+      "title": "Poor man’s gold may become India's next big story as the silver horse rises",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/silver-prices-poor-mans-gold-may-become-indias-next-big-story-as-the-silver-horse-rises/articleshow/134556840.cms",
+      "published": "2026-09-29T06:43:41Z",
+      "description": "Silver is gaining ground in India as record gold prices push consumers towards a more affordable precious metal. Prices have surged 160% in two years, boosting interest in jewellery, gifting and inves"
+    },
+    {
+      "title": "从欧洲到大湾区：香港如何打造全球硬科技人才的\"超级通道\"",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4002740351848320?f=rss",
-      "published": "2026-09-28T07:18:02Z",
-      "description": "36氪获悉，现货黄金价格跌2.90%，报4161.02美元/盎司；现货白银价格跌5.01%，报61.08美元/盎司。"
+      "url": "https://36kr.com/p/3995406571933824?f=rss",
+      "published": "2026-09-29T06:00:59Z",
+      "description": "九月上旬，Aleksandr Gorbunov 从德国远赴中国香港，参与大湾区考察之旅。访问行程第三天，他在前海与机械人互动，又搭乘无人驾驶出租车穿梭深圳街道，近距离体验大湾区前沿科技的落地应用。\n 三个月前，他还在德国慕尼黑的会场里，为一座从未到访的城市设计创科解决方案。九月，他已踏上行程，用五天时间走过香港、前海与南沙。\n 这是香港人才服务办公室（香港人才办）与欧洲科技联合会（EuroTech"
+    },
+    {
+      "title": "Gold prices dip Rs 4,300/10g in 2 days; silver falls Rs 8,800/kg as traders expect US Fed to hike rates again. Buy, sell or hold?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-4300/10g-in-2-days-silver-falls-rs-8800/kg-as-traders-expect-us-fed-to-hike-rates-again-buy-sell-or-hold/articleshow/134556082.cms",
+      "published": "2026-09-29T04:29:56Z",
+      "description": "Gold and silver prices extended losses on MCX as higher oil prices fuelled inflation concerns and raised expectations of further Fed rate hikes. Analysts expect near-term pressure on precious metals, "
+    },
+    {
+      "title": "Gold and silver price today, Sept 29: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-and-silver-price-today-sept-29-check-retail-rates-of-24k-22k-gold-and-999-silver-in-mumbai-delhi-other-cities-11790650580591.html",
+      "published": "2026-09-29T03:58:23Z",
+      "description": "Gold and silver prices in India witnessed a sharp drop during early trading hours on Tuesday. Check retail rates of the precious metals in top metro cities of the country."
+    },
+    {
+      "title": "斯坦福博士后做柔性触觉传感器，再获亿元级融资｜硬氪首发",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/4001313474645888?f=rss",
+      "published": "2026-09-29T02:30:00Z",
+      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，途见科技（北京）有限公司（以下简称“途见科技”）近日完成亿元级Pre-A++轮融资，由顺禧资本所管理北京市人工智能产业投资基金和北京市新材料产业投资基金联合领投。资金将重点用于底层核心技术研发、自动化产线建设和工艺迭代，并完善具身智能数据采集工具与消费级终端的供应链配套，加快技术成果向终端产品转化。\n 自成立以来，途见科技聚焦可拉伸多模态柔性电子皮肤及触觉感"
     }
   ],
   "tweets": []
