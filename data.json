@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-09-30 11:42:27 UTC",
+  "updated_at": "2026-10-01 12:11:23 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4187.12,
+      "price_usd": 4176.84,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 60.7,
+      "price_usd": 61.0,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1710.4,
+      "price_usd": 1725.54,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1216.42,
+      "price_usd": 1198.95,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.46,
+      "price_usd": 0.45,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.5,
+      "price_usd": 0.49,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "GoldHaven Highlights Multi-Target Drill Opportunity Across Permitted Magno Project",
+      "title": "Aris Mining Announces Major Developments at Soto Norte",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/goldhaven-highlights-multi-target-drill-opportunity-across-permitted-magno-project",
-      "published": "2026-09-29T11:28:41Z",
-      "description": "VANCOUVER, British Columbia, Sept. 29, 2026 (GLOBE NEWSWIRE) — GoldHaven Resources Corp. (CSE: GOH) (OTCQB: GHVNF) (FSE: 4QS) (“GoldHaven” or the “Company”) is pleased to highlight that, while current"
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/aris-mining-announces-major-developments-at-soto-norte",
+      "published": "2026-09-30T12:08:48Z",
+      "description": "ESIA preparation complete and community engagement to be launched; recent government actions remove key regulatory constraints VANCOUVER, British Columbia — Aris Mining Corporation (Aris Mining or the"
     },
     {
-      "title": "Higher rates are wreaking havoc on these two ETFs. Traders see one bouncing back",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/09/29/higher-rates-are-wreaking-havoc-on-these-two-etfs-traders-see-one-bouncing-back.html",
-      "published": "2026-09-29T11:28:27Z",
-      "description": "The relentless surge in rates is breaking the back of two key macro trades that had been holding firm."
-    },
-    {
-      "title": "From diamond-studded Hermès Birkins to a $10 million fashion icon: 10 of the world’s most expensive handbags",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/life-style/fashion/from-diamond-studded-herms-birkins-to-a-10-million-fashion-icon-10-of-the-worlds-most-expensive-handbags/photostory/134563586.cms",
-      "published": "2026-09-29T10:35:28Z",
-      "description": "A handbag can be much more than a fashion accessory. At the very top end of the luxury market, some bags are crafted from rare crocodile skins, platinum and precious metals, while others are covered i"
-    },
-    {
-      "title": "山东黄金：拟以人民币3亿元（含）-4亿元（含）回购公司A股股份",
+      "title": "三天四千万，一周破亿：琳朝现象的背后，是一场文化品牌的静默崛起",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4004247653830535?f=rss",
-      "published": "2026-09-29T08:57:15Z",
-      "description": "36氪获悉，山东黄金公告，公司董事长王成龙于2026年9月29日提议使用自有资金及自筹资金回购公司A股股份，回购股份将全部用于注销并减少公司注册资本。回购价格上限不高于公司董事会审议通过回购股份方案决议前30个交易日公司股票交易均价的150%，回购期限为自股东会审议通过方案之日起12个月内。"
+      "url": "https://36kr.com/p/4005786829312136?f=rss",
+      "published": "2026-09-30T11:38:45Z",
+      "description": "未来真正的奢侈，是文化、价值观的输出，是中国特有的文化叙事。 \n 9月25日，琳朝南京德基店正式开业。但真正的震动，发生在更早之前。\n 试营业三天，仅对德基广场少量VIP会员开放，单日营业额连续突破千万，三天累计四千万多万。正式开业后，热度不减反增。每天店外都在排队，平均等待进店时间超过3小时。在德基广场，这条队伍成了一道独特的景观——有人早上商场刚开门就在排队，有人下午排到晚上才进得去，还有人自"
     },
     {
-      "title": "Equity vs gold vs silver: Which asset class delivered the most returns in H1 FY27? Here's what data shows",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/equity-vs-gold-vs-silver-which-asset-class-delivered-the-most-returns-in-h1-fy27-heres-what-data-shows-11790667687518.html",
-      "published": "2026-09-29T07:59:24Z",
-      "description": "Small-cap equities led the asset-class performance in H1 FY27, delivering 23% returns, ahead of mid-caps at 13% and the Nifty 50 at 2%. Gold and silver declined 10% and 15%, respectively, reversing th"
+      "title": "Brutus Mining Announces Appointment of Gordon Robb and Luke van der Meer as Advisors",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/brutus-mining-announces-appointment-of-gordon-robb-and-luke-van-der-meer-as-advisors",
+      "published": "2026-09-30T11:34:35Z",
+      "description": "VANCOUVER, British Columbia, Sept. 30, 2026 (GLOBE NEWSWIRE) — Brutus Mining Inc. (“Brutus” or the “Company”) (CSE: BRU) (FSE: ZI3) is pleased to announce the appointments of Gordon Robb and Luke van "
     },
     {
-      "title": "Poor man’s gold may become India's next big story as the silver horse rises",
+      "title": "Visible Gold Names Carl Caumartin as Director",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/visible-gold-names-carl-caumartin-as-director",
+      "published": "2026-09-30T11:31:00Z",
+      "description": "ROUYN-NORANDA, Québec — Visible Gold Mines Inc. (“Visible Gold” or the “Company”) (TSXV: VGD) (FRANKFURT: 3V41) is pleased to announce the appointment of Carl Caumartin, P.Eng, MBA, to its Board of Di"
+    },
+    {
+      "title": "Sunil Kumar wins second Asian Games medal with bronze; Nisha Dahiya knocked out",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/silver-prices-poor-mans-gold-may-become-indias-next-big-story-as-the-silver-horse-rises/articleshow/134556840.cms",
-      "published": "2026-09-29T06:43:41Z",
-      "description": "Silver is gaining ground in India as record gold prices push consumers towards a more affordable precious metal. Prices have surged 160% in two years, boosting interest in jewellery, gifting and inves"
+      "url": "https://economictimes.indiatimes.com/news/sports/other-sports/sunil-kumar-wins-second-asian-games-medal-with-bronze-nisha-dahiya-knocked-out/articleshow/134591839.cms",
+      "published": "2026-09-30T11:04:31Z",
+      "description": "Sunil Kumar became the first Indian Greco Roman wrestler to win two Asian Games medals. He secured a bronze in the men's 87kg event after defeating Philippines' Roberts Callum Johnston. Nisha Dahiya f"
     },
     {
-      "title": "从欧洲到大湾区：香港如何打造全球硬科技人才的\"超级通道\"",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/3995406571933824?f=rss",
-      "published": "2026-09-29T06:00:59Z",
-      "description": "九月上旬，Aleksandr Gorbunov 从德国远赴中国香港，参与大湾区考察之旅。访问行程第三天，他在前海与机械人互动，又搭乘无人驾驶出租车穿梭深圳街道，近距离体验大湾区前沿科技的落地应用。\n 三个月前，他还在德国慕尼黑的会场里，为一座从未到访的城市设计创科解决方案。九月，他已踏上行程，用五天时间走过香港、前海与南沙。\n 这是香港人才服务办公室（香港人才办）与欧洲科技联合会（EuroTech"
+      "title": "Generation Mining Announces Acquisition of Shares of Elton Resources Corp.",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/generation-mining-announces-acquisition-of-shares-of-elton-resources-corp",
+      "published": "2026-09-30T11:00:27Z",
+      "description": "TORONTO — Generation Mining Limited (TSX: GENM) (OTCQB: GENMF) (the “Acquiror”) announces that it has acquired 39,268,426 common shares (each, a “Common Share“) of Elton Resources Corp. (“Elton“) in c"
     },
     {
-      "title": "Gold prices dip Rs 4,300/10g in 2 days; silver falls Rs 8,800/kg as traders expect US Fed to hike rates again. Buy, sell or hold?",
+      "title": "Sensex today | Stock Market Highlights: Stock markets fall for 3rd day; Nifty down 96 points, Sensex slips to 72,480",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-30-september-2026/article71523523.ece",
+      "published": "2026-09-30T10:58:42Z",
+      "description": "Sensex, Nifty, Share Prices Highlights: Market benchmark indices Sensex and Nifty ended lower on Wednesday, extending losses for the third straight day, as firm crude oil prices, elevated global bond "
+    },
+    {
+      "title": "Italpreziosi Official Sponsor of the Gala Dinner at the LBMA & LPPM Global Precious Metals Conference 2026",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/italpreziosi-official-sponsor-of-the-gala-dinner-at-the-lbma-lppm-global-precious-metals-conference-2026",
+      "published": "2026-09-30T10:36:08Z",
+      "description": "AREZZO, Italy, Sept. 30, 2026 (GLOBE NEWSWIRE) — Italpreziosi S.p.A. will attend the Global Precious Metals Conference 2026, taking place from 4 to 6 October at the Hilton Sorrento Palace in Sorrento,"
+    },
+    {
+      "title": "Q2 earnings: Can India Inc repeat Q1, or will Q3 erase the base-effect tailwind?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-4300/10g-in-2-days-silver-falls-rs-8800/kg-as-traders-expect-us-fed-to-hike-rates-again-buy-sell-or-hold/articleshow/134556082.cms",
-      "published": "2026-09-29T04:29:56Z",
-      "description": "Gold and silver prices extended losses on MCX as higher oil prices fuelled inflation concerns and raised expectations of further Fed rate hikes. Analysts expect near-term pressure on precious metals, "
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/q2-earnings-can-india-inc-repeat-q1-or-will-q3-erase-the-base-effect-tailwind/articleshow/134584545.cms",
+      "published": "2026-09-30T07:13:26Z",
+      "description": "India Inc is likely to see a dip in earnings performance for Q2 in comparison to Q1, with analysts forecasting a growth slowdown of roughly 13-14%. Rising costs and margin pressures are key contributo"
     },
     {
-      "title": "Gold and silver price today, Sept 29: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-and-silver-price-today-sept-29-check-retail-rates-of-24k-22k-gold-and-999-silver-in-mumbai-delhi-other-cities-11790650580591.html",
-      "published": "2026-09-29T03:58:23Z",
-      "description": "Gold and silver prices in India witnessed a sharp drop during early trading hours on Tuesday. Check retail rates of the precious metals in top metro cities of the country."
-    },
-    {
-      "title": "斯坦福博士后做柔性触觉传感器，再获亿元级融资｜硬氪首发",
+      "title": "韩国央行将于12月购买1吨黄金",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/4001313474645888?f=rss",
-      "published": "2026-09-29T02:30:00Z",
-      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，途见科技（北京）有限公司（以下简称“途见科技”）近日完成亿元级Pre-A++轮融资，由顺禧资本所管理北京市人工智能产业投资基金和北京市新材料产业投资基金联合领投。资金将重点用于底层核心技术研发、自动化产线建设和工艺迭代，并完善具身智能数据采集工具与消费级终端的供应链配套，加快技术成果向终端产品转化。\n 自成立以来，途见科技聚焦可拉伸多模态柔性电子皮肤及触觉感"
+      "url": "https://36kr.com/newsflashes/4005469378367623?f=rss",
+      "published": "2026-09-30T05:58:53Z",
+      "description": "据媒体报道，根据韩国央行提交给执政党议员的报告，韩国央行将于12月购买约1吨国产黄金，价值2000亿韩元。这是该行13年来的首次实物黄金购买。韩国央行在建立国内黄金交易所需系统后，将于12月14日进行首次交易。韩国央行在今年第二季度已通过购买2.5亿美元的黄金ETF开启了间接黄金投资。韩国央行此次购买的可能是国内生产商原本计划出口的黄金，这使得央行能够以韩元支付，而无需动用外汇。截至8月底，该央行"
     }
   ],
   "tweets": []
