@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-10-01 12:11:23 UTC",
+  "updated_at": "2026-10-02 11:41:09 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4176.84,
+      "price_usd": 4180.27,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 61.0,
+      "price_usd": 61.02,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1725.54,
+      "price_usd": 1728.6,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1198.95,
+      "price_usd": 1190.2,
       "unit": "USD/盎司 oz"
     },
     {
@@ -64,17 +64,66 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.5,
+      "price_usd": 0.49,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.45,
+      "price_usd": 0.44,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
+    {
+      "title": "DEEP SEA MINERALS CORP. WELCOMES CONTINUED U.S. EFFORTS TO MAP OFFSHORE CRITICAL MINERAL RESOURCES",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/deep-sea-minerals-corp-welcomes-continued-u-s-efforts-to-map-offshore-critical-mineral-resources",
+      "published": "2026-10-01T11:39:53Z",
+      "description": "Vancouver, British Columbia, Oct. 01, 2026 (GLOBE NEWSWIRE) — Deep Sea Minerals Corp. (CSE: SEAS) (OTCQB: DSEAF) (FSE: X450) (“Deep Sea Minerals” or the “Company“), welcomes the continued expansion of"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex falls 571 points, Nifty slips 0.88% as auto stocks drag markets",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-stock-market-highlights-1-october-2026/article71528461.ece",
+      "published": "2026-10-01T10:36:25Z",
+      "description": "Sensex Today, Nifty 50 | Stock Market Highlights:  Indian equities ended lower on Thursday, weighed by losses in auto stocks, while the rupee weakened to a two-month low against the dollar."
+    },
+    {
+      "title": "Waste Heat Recovery Market worth $135.33 billion by 2031 - Exclusive Report by MarketsandMarkets™",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/waste-heat-recovery-market-worth-135-33-billion-by-2031---exclusive-report-by-marketsandmarkets-302895605.html",
+      "published": "2026-10-01T10:15:00Z",
+      "description": "DELRAY BEACH, Fla., Oct. 1, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Waste Heat Recovery Market is projected to reach USD 135.33 billion in 2031 from USD 92.99 billion in 2026, at a C"
+    },
+    {
+      "title": "Holy Cross Cemetery Unveils New Mosaic Collection at Open House Weekend, October 10 and 11",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/holy-cross-cemetery-unveils-new-mosaic-collection-at-open-house-weekend-october-10-and-11-302895430.html",
+      "published": "2026-10-01T10:10:00Z",
+      "description": "Visitors can tour the Open-Air Mausoleum of the Holy Spirit, preview the Chapel Mausoleum of Our Lady, and take advantage of 0% interest financing for 48 months through October 11. NORTH ARLINGTON, N."
+    },
+    {
+      "title": "MAYFAIR GOLD ENTERS INTO C$310 MILLION ENGAGEMENT LETTER AND NON-BINDING PROJECT FINANCING AND EQUITY INVESTMENT TERM SHEET WITH MACQUARIE FOR FENN-GIB",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/mayfair-gold-enters-into-c310-million-engagement-letter-and-non-binding-project-financing-and-equity-investment-term-sheet-with-macquarie-for-fenn-gib-302895271.html",
+      "published": "2026-10-01T10:00:00Z",
+      "description": "TORONTO, Oct. 1, 2026 /PRNewswire/ -- Mayfair Gold Corp. (\"Mayfair\" or the \"Company\") (TSXV: MFG) (NYSE American: MINE) is pleased to announce that it has entered into a subscription agreement in conn"
+    },
+    {
+      "title": "Gold and silver price today, Oct 1: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/gold-and-silver-price-today-oct-1-check-retail-rates-of-24k-22k-gold-and-999-silver-in-mumbai-delhi-other-cities-11790821117747.html",
+      "published": "2026-10-01T03:41:43Z",
+      "description": "Gold and silver prices in India witnessed a xx during early trading hours on Thursday. Check retail rates of the precious metals in top metro cities of the country."
+    },
+    {
+      "title": "American Lithium Minerals, Inc. Announces Completion of PCAOB Audit and Planned Uplisting to OTCQB in Fourth Quarter 2026",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/american-lithium-minerals-inc-announces-completion-of-pcaob-audit-and-planned-uplisting-to-otcqb-in-fourth-quarter-2026",
+      "published": "2026-09-30T12:11:51Z",
+      "description": "CARSON CITY, Nev., Sept. 30, 2026 (GLOBE NEWSWIRE) — American Lithium Minerals, Inc. (OTC: AMLM) today announced that it has successfully completed its PCAOB-standard financial audit, marking a major "
+    },
     {
       "title": "Aris Mining Announces Major Developments at Soto Norte",
       "source": "Financial Post",
@@ -90,60 +139,11 @@
       "description": "未来真正的奢侈，是文化、价值观的输出，是中国特有的文化叙事。 \n 9月25日，琳朝南京德基店正式开业。但真正的震动，发生在更早之前。\n 试营业三天，仅对德基广场少量VIP会员开放，单日营业额连续突破千万，三天累计四千万多万。正式开业后，热度不减反增。每天店外都在排队，平均等待进店时间超过3小时。在德基广场，这条队伍成了一道独特的景观——有人早上商场刚开门就在排队，有人下午排到晚上才进得去，还有人自"
     },
     {
-      "title": "Brutus Mining Announces Appointment of Gordon Robb and Luke van der Meer as Advisors",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/brutus-mining-announces-appointment-of-gordon-robb-and-luke-van-der-meer-as-advisors",
-      "published": "2026-09-30T11:34:35Z",
-      "description": "VANCOUVER, British Columbia, Sept. 30, 2026 (GLOBE NEWSWIRE) — Brutus Mining Inc. (“Brutus” or the “Company”) (CSE: BRU) (FSE: ZI3) is pleased to announce the appointments of Gordon Robb and Luke van "
-    },
-    {
-      "title": "Visible Gold Names Carl Caumartin as Director",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/visible-gold-names-carl-caumartin-as-director",
-      "published": "2026-09-30T11:31:00Z",
-      "description": "ROUYN-NORANDA, Québec — Visible Gold Mines Inc. (“Visible Gold” or the “Company”) (TSXV: VGD) (FRANKFURT: 3V41) is pleased to announce the appointment of Carl Caumartin, P.Eng, MBA, to its Board of Di"
-    },
-    {
-      "title": "Sunil Kumar wins second Asian Games medal with bronze; Nisha Dahiya knocked out",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/sports/other-sports/sunil-kumar-wins-second-asian-games-medal-with-bronze-nisha-dahiya-knocked-out/articleshow/134591839.cms",
-      "published": "2026-09-30T11:04:31Z",
-      "description": "Sunil Kumar became the first Indian Greco Roman wrestler to win two Asian Games medals. He secured a bronze in the men's 87kg event after defeating Philippines' Roberts Callum Johnston. Nisha Dahiya f"
-    },
-    {
       "title": "Generation Mining Announces Acquisition of Shares of Elton Resources Corp.",
       "source": "Financial Post",
       "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/generation-mining-announces-acquisition-of-shares-of-elton-resources-corp",
       "published": "2026-09-30T11:00:27Z",
       "description": "TORONTO — Generation Mining Limited (TSX: GENM) (OTCQB: GENMF) (the “Acquiror”) announces that it has acquired 39,268,426 common shares (each, a “Common Share“) of Elton Resources Corp. (“Elton“) in c"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Stock markets fall for 3rd day; Nifty down 96 points, Sensex slips to 72,480",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-30-september-2026/article71523523.ece",
-      "published": "2026-09-30T10:58:42Z",
-      "description": "Sensex, Nifty, Share Prices Highlights: Market benchmark indices Sensex and Nifty ended lower on Wednesday, extending losses for the third straight day, as firm crude oil prices, elevated global bond "
-    },
-    {
-      "title": "Italpreziosi Official Sponsor of the Gala Dinner at the LBMA & LPPM Global Precious Metals Conference 2026",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/italpreziosi-official-sponsor-of-the-gala-dinner-at-the-lbma-lppm-global-precious-metals-conference-2026",
-      "published": "2026-09-30T10:36:08Z",
-      "description": "AREZZO, Italy, Sept. 30, 2026 (GLOBE NEWSWIRE) — Italpreziosi S.p.A. will attend the Global Precious Metals Conference 2026, taking place from 4 to 6 October at the Hilton Sorrento Palace in Sorrento,"
-    },
-    {
-      "title": "Q2 earnings: Can India Inc repeat Q1, or will Q3 erase the base-effect tailwind?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/q2-earnings-can-india-inc-repeat-q1-or-will-q3-erase-the-base-effect-tailwind/articleshow/134584545.cms",
-      "published": "2026-09-30T07:13:26Z",
-      "description": "India Inc is likely to see a dip in earnings performance for Q2 in comparison to Q1, with analysts forecasting a growth slowdown of roughly 13-14%. Rising costs and margin pressures are key contributo"
-    },
-    {
-      "title": "韩国央行将于12月购买1吨黄金",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4005469378367623?f=rss",
-      "published": "2026-09-30T05:58:53Z",
-      "description": "据媒体报道，根据韩国央行提交给执政党议员的报告，韩国央行将于12月购买约1吨国产黄金，价值2000亿韩元。这是该行13年来的首次实物黄金购买。韩国央行在建立国内黄金交易所需系统后，将于12月14日进行首次交易。韩国央行在今年第二季度已通过购买2.5亿美元的黄金ETF开启了间接黄金投资。韩国央行此次购买的可能是国内生产商原本计划出口的黄金，这使得央行能够以韩元支付，而无需动用外汇。截至8月底，该央行"
     }
   ],
   "tweets": []
