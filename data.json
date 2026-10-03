@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-10-02 11:41:09 UTC",
+  "updated_at": "2026-10-03 10:54:50 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4180.27,
+      "price_usd": 4142.33,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 61.02,
+      "price_usd": 60.38,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1728.6,
+      "price_usd": 1699.7,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1190.2,
+      "price_usd": 1167.76,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.49,
+      "price_usd": 0.48,
       "unit": "USD/吨 mt"
     },
     {
@@ -70,80 +70,80 @@
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.44,
+      "price_usd": 0.45,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
+    {
+      "title": "Texas is putting hundreds of tons of concrete and railroad ties into the Gulf; the material is being turned into new fish habitat",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/texas-is-putting-hundreds-of-tons-of-concrete-and-railroad-ties-into-the-gulf-the-material-is-being-turned-into-new-fish-habitat/articleshow/134637375.cms",
+      "published": "2026-10-02T10:49:19Z",
+      "description": "Off the Texas coast, hundreds of tons of cement railroad ties, concrete structures and other durable materials are being placed on the floor of the Gulf"
+    },
+    {
+      "title": "Trilogy Metals Reports Third Quarter Fiscal 2026 Financial Results",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/trilogy-metals-reports-third-quarter-fiscal-2026-financial-results-302896962.html",
+      "published": "2026-10-02T10:30:00Z",
+      "description": "NYSE American / TSX Symbol: TMQ VANCOUVER, BC, Oct. 2, 2026 /PRNewswire/ -- Trilogy Metals Inc. (NYSE American: TMQ) (TSX: TMQ) (\"Trilogy Metals\", \"Trilogy\" or the \"Company\") announces its financial r"
+    },
+    {
+      "title": "In 1977, an Illinois man built an underground house with rocks he collected on trips to Colorado to fight rising energy costs; nearly 50 years later, the 2,300-sq-ft 'caveman' home is listed for just $59,000",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/in-1977-an-illinois-man-built-an-underground-house-with-rocks-he-collected-on-trips-to-colorado-to-fight-rising-energy-costs-nearly-50-years-later-the-2300-sq-ft-caveman-home-is-listed-for-just-59000/articleshow/134636170.cms",
+      "published": "2026-10-02T09:35:52Z",
+      "description": "An underground house located in Armington, Illinois, is currently on the market for $59,000. Built in the 1970s, the home features unique rock-lined interiors and circular windows. While the home offe"
+    },
+    {
+      "title": "Today’s Gold Rate: Latest gold prices in Coimbatore, Nagpur, Jaipur & other cities",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/gold-rate-today/gold-price-today-in-coimbatore-nagpur-visakhapatnam-surat-jaipur-lucknow-chandigarh-gold-rates-other-cities-october-2-2026/article71536292.ece",
+      "published": "2026-10-02T09:07:58Z",
+      "description": "Gold Price Today, August 26, 2026: Check 22K and 24K gold rates in Coimbatore, Nagpur, Visakhapatnam, Surat, Jaipur, Lucknow and Chandigarh."
+    },
+    {
+      "title": "Nifty valuations near post-Covid lows. Alchemy Capital’s Alok Agarwal explains what investors should buy now",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/expert-view/nifty-valuations-near-post-covid-lows-alchemy-capitals-alok-agarwal-explains-what-investors-should-buy-now/articleshow/134631194.cms",
+      "published": "2026-10-02T03:38:25Z",
+      "description": "Nifty valuations have reset sharply from 2024 levels and are now near post-Covid lows, says Alchemy Capital’s Alok Agarwal. He sees the next phase of market growth broadening beyond large caps. Mid- a"
+    },
+    {
+      "title": "Electroplating Market to Reach USD 21.26 Billion by 2034, Driven by Automotive, Electronics and Sustainable Surface-Finishing Technologies, reports Maximize Market Research",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/electroplating-market-to-reach-usd-21-26-billion-by-2034--driven-by-automotive-electronics-and-sustainable-surface-finishing-technologies-reports-maximize-market-research-302895935.html",
+      "published": "2026-10-01T21:45:00Z",
+      "description": "PUNE, India, Oct. 1, 2026 /PRNewswire/ -- The Global Electroplating Market was valued at USD 16.45 Billion in 2025 and is projected to expand at a CAGR of 2.89% from 2026 to 2034, reaching USD 21.26 B"
+    },
+    {
+      "title": "Weekly Losses Deepen As Small Caps Lag And Yields Edge Higher Into Earnings Gauntlet",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/weekly-losses-deepen-as-small-caps-lag-and-yields-edge-higher-into-earnings-gauntlet-302896471.html",
+      "published": "2026-10-01T19:12:00Z",
+      "description": "Stock Preachers News Commentary NEW YORK, Oct. 1, 2026 /PRNewswire/ -- Stocks closed out a choppy week on the back foot, with the Dow shedding nearly 2% and small caps underperforming as the Russell 2"
+    },
+    {
+      "title": "Record Gold Miner Cash Flow Puts Near-Surface Discoveries in Focus",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/record-gold-miner-cash-flow-puts-near-surface-discoveries-in-focus",
+      "published": "2026-10-01T17:28:36Z",
+      "description": "News Provided by US Metal News on behalf of Yukon Metals Corp. VANCOUVER, British Columbia, Oct. 01, 2026 (GLOBE NEWSWIRE) — US Metal News News Commentary – Major gold producers, including Agnico Eagl"
+    },
+    {
+      "title": "Mutual fund portfolio: How conservative, moderate and aggressive investors can allocate in current scenario",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/mutual-fund-portfolio-how-conservative-moderate-and-aggressive-investors-can-allocate-in-current-scenario-11790861478242.html",
+      "published": "2026-10-01T15:22:30Z",
+      "description": "Large- and small-cap mutual funds are seeing different investor interest, raising questions about how you should allocate across equity and other asset classes. A September report outlines how conserv"
+    },
     {
       "title": "DEEP SEA MINERALS CORP. WELCOMES CONTINUED U.S. EFFORTS TO MAP OFFSHORE CRITICAL MINERAL RESOURCES",
       "source": "Financial Post",
       "url": "https://financialpost.com/globe-newswire/deep-sea-minerals-corp-welcomes-continued-u-s-efforts-to-map-offshore-critical-mineral-resources",
       "published": "2026-10-01T11:39:53Z",
       "description": "Vancouver, British Columbia, Oct. 01, 2026 (GLOBE NEWSWIRE) — Deep Sea Minerals Corp. (CSE: SEAS) (OTCQB: DSEAF) (FSE: X450) (“Deep Sea Minerals” or the “Company“), welcomes the continued expansion of"
-    },
-    {
-      "title": "Sensex today | Stock Market Highlights: Sensex falls 571 points, Nifty slips 0.88% as auto stocks drag markets",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-stock-market-highlights-1-october-2026/article71528461.ece",
-      "published": "2026-10-01T10:36:25Z",
-      "description": "Sensex Today, Nifty 50 | Stock Market Highlights:  Indian equities ended lower on Thursday, weighed by losses in auto stocks, while the rupee weakened to a two-month low against the dollar."
-    },
-    {
-      "title": "Waste Heat Recovery Market worth $135.33 billion by 2031 - Exclusive Report by MarketsandMarkets™",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/waste-heat-recovery-market-worth-135-33-billion-by-2031---exclusive-report-by-marketsandmarkets-302895605.html",
-      "published": "2026-10-01T10:15:00Z",
-      "description": "DELRAY BEACH, Fla., Oct. 1, 2026 /PRNewswire/ -- According to MarketsandMarkets™, the Waste Heat Recovery Market is projected to reach USD 135.33 billion in 2031 from USD 92.99 billion in 2026, at a C"
-    },
-    {
-      "title": "Holy Cross Cemetery Unveils New Mosaic Collection at Open House Weekend, October 10 and 11",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/holy-cross-cemetery-unveils-new-mosaic-collection-at-open-house-weekend-october-10-and-11-302895430.html",
-      "published": "2026-10-01T10:10:00Z",
-      "description": "Visitors can tour the Open-Air Mausoleum of the Holy Spirit, preview the Chapel Mausoleum of Our Lady, and take advantage of 0% interest financing for 48 months through October 11. NORTH ARLINGTON, N."
-    },
-    {
-      "title": "MAYFAIR GOLD ENTERS INTO C$310 MILLION ENGAGEMENT LETTER AND NON-BINDING PROJECT FINANCING AND EQUITY INVESTMENT TERM SHEET WITH MACQUARIE FOR FENN-GIB",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/mayfair-gold-enters-into-c310-million-engagement-letter-and-non-binding-project-financing-and-equity-investment-term-sheet-with-macquarie-for-fenn-gib-302895271.html",
-      "published": "2026-10-01T10:00:00Z",
-      "description": "TORONTO, Oct. 1, 2026 /PRNewswire/ -- Mayfair Gold Corp. (\"Mayfair\" or the \"Company\") (TSXV: MFG) (NYSE American: MINE) is pleased to announce that it has entered into a subscription agreement in conn"
-    },
-    {
-      "title": "Gold and silver price today, Oct 1: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/gold-and-silver-price-today-oct-1-check-retail-rates-of-24k-22k-gold-and-999-silver-in-mumbai-delhi-other-cities-11790821117747.html",
-      "published": "2026-10-01T03:41:43Z",
-      "description": "Gold and silver prices in India witnessed a xx during early trading hours on Thursday. Check retail rates of the precious metals in top metro cities of the country."
-    },
-    {
-      "title": "American Lithium Minerals, Inc. Announces Completion of PCAOB Audit and Planned Uplisting to OTCQB in Fourth Quarter 2026",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/american-lithium-minerals-inc-announces-completion-of-pcaob-audit-and-planned-uplisting-to-otcqb-in-fourth-quarter-2026",
-      "published": "2026-09-30T12:11:51Z",
-      "description": "CARSON CITY, Nev., Sept. 30, 2026 (GLOBE NEWSWIRE) — American Lithium Minerals, Inc. (OTC: AMLM) today announced that it has successfully completed its PCAOB-standard financial audit, marking a major "
-    },
-    {
-      "title": "Aris Mining Announces Major Developments at Soto Norte",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/aris-mining-announces-major-developments-at-soto-norte",
-      "published": "2026-09-30T12:08:48Z",
-      "description": "ESIA preparation complete and community engagement to be launched; recent government actions remove key regulatory constraints VANCOUVER, British Columbia — Aris Mining Corporation (Aris Mining or the"
-    },
-    {
-      "title": "三天四千万，一周破亿：琳朝现象的背后，是一场文化品牌的静默崛起",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4005786829312136?f=rss",
-      "published": "2026-09-30T11:38:45Z",
-      "description": "未来真正的奢侈，是文化、价值观的输出，是中国特有的文化叙事。 \n 9月25日，琳朝南京德基店正式开业。但真正的震动，发生在更早之前。\n 试营业三天，仅对德基广场少量VIP会员开放，单日营业额连续突破千万，三天累计四千万多万。正式开业后，热度不减反增。每天店外都在排队，平均等待进店时间超过3小时。在德基广场，这条队伍成了一道独特的景观——有人早上商场刚开门就在排队，有人下午排到晚上才进得去，还有人自"
-    },
-    {
-      "title": "Generation Mining Announces Acquisition of Shares of Elton Resources Corp.",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/generation-mining-announces-acquisition-of-shares-of-elton-resources-corp",
-      "published": "2026-09-30T11:00:27Z",
-      "description": "TORONTO — Generation Mining Limited (TSX: GENM) (OTCQB: GENMF) (the “Acquiror”) announces that it has acquired 39,268,426 common shares (each, a “Common Share“) of Elton Resources Corp. (“Elton“) in c"
     }
   ],
   "tweets": []
