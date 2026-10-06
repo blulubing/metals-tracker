@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-10-05 13:15:01 UTC",
+  "updated_at": "2026-10-06 12:32:33 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4151.68,
+      "price_usd": 4174.15,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 61.58,
+      "price_usd": 61.4,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1729.23,
+      "price_usd": 1708.5,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1181.9,
+      "price_usd": 1164.12,
       "unit": "USD/盎司 oz"
     },
     {
@@ -76,11 +76,46 @@
   ],
   "news": [
     {
-      "title": "From a nation of savers to a nation of investors: NSE bets on technology, financialisation and market depth",
+      "title": "Cambria Gold Mines Announces Development and Construction Update at Red Mountain and Premier Gold Projects, Additions to Engineering Team and Warrants Exercised To-date",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/cambria-gold-mines-announces-development-and-construction-update-at-red-mountain-and-premier-gold-projects-additions-to-engineering-team-and-warrants-exercised-to-date",
+      "published": "2026-10-05T11:34:27Z",
+      "description": "VANCOUVER, British Columbia, Oct. 05, 2026 (GLOBE NEWSWIRE) — Cambria Gold Mines Inc. (TSXV: CAMB; OTCQX: CAMVF) (“Cambria” or the “Company”) is pleased to provide a status update of ongoing construct"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Sensex rises 472 pts to end at 72,382, Nifty settles at 22,555; ITC, Eternal lead gainers",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/from-a-nation-of-savers-to-a-nation-of-investors-nse-bets-on-technology-financialisation-and-market-depth/article71543414.ece",
-      "published": "2026-10-04T11:08:26Z",
-      "description": "Data and technology have significant long-term potential because they can scale across markets and geographies without depending solely on trading volumes, says NSE MD & CEO"
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-5th-october-2026/article71544056.ece",
+      "published": "2026-10-05T11:18:35Z",
+      "description": "Sensex Today, Nifty 50 | Stock Market Highlights: Find here all the highlights related to Sensex, Nifty, BSE, NSE, share prices and Indian stock markets for 5 October 2026"
+    },
+    {
+      "title": "Gold prices fall Rs 1,400/10 grams, but silver rises Rs 1,025/kg despite easing Fed hike bets. Check key levels to track",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-1400/10-grams-but-silver-rises-rs-1025/kg-despite-easing-fed-hike-bets-check-key-levels-to-track/articleshow/134686044.cms",
+      "published": "2026-10-05T04:40:23Z",
+      "description": "Gold and silver prices opened mixed on the MCX, with silver gaining while gold declined. Weak US economic data reduced expectations of a Federal Reserve rate hike in October, supporting precious metal"
+    },
+    {
+      "title": "Gold and silver price today, Oct 5: Check retail rates of 24K, 22K gold and 999 silver in Mumbai, Delhi, other cities",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/gold-and-silver-price-today-oct-5-check-retail-rates-of-24k-22k-gold-and-999-silver-in-mumbai-delhi-other-cities-11791167507380.html",
+      "published": "2026-10-05T03:40:45Z",
+      "description": "Gold and silver prices in India witnessed a rise during early trading hours on Monday. Check retail rates of the precious metals in top metro cities of the country."
+    },
+    {
+      "title": "Gold inches up as October Fed rate hike prospects fade",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-inches-up-as-october-fed-rate-hike-prospects-fade/articleshow/134683767.cms",
+      "published": "2026-10-05T01:56:32Z",
+      "description": "During early Monday trading in Asia, gold prices surged due to lackluster US job growth figures. This disappointing employment data notably diminished the Federal Reserve's likelihood of raising inter"
+    },
+    {
+      "title": "RBI MPC: beginning of a short and calibrated hike cycle",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/opinion/columns/rbi-mpc-monetary-policy-committee-interest-rate-hike-cycle-11791104199543.html",
+      "published": "2026-10-04T14:15:22Z",
+      "description": "One expects the monetary policy committee to deliver a rate hike in October, but a calibrated 25 basis points, along with a change in the hitherto ‘neutral’ stance and guidance for a data-dependent po"
     },
     {
       "title": "Gold, silver lose lustre in September",
@@ -109,41 +144,6 @@
       "url": "https://www.prnewswire.com/news-releases/nasdaq-hits-fresh-ground-on-chip-and-software-strength-as-dow-small-caps-lag-for-the-week-302897635.html",
       "published": "2026-10-03T11:00:00Z",
       "description": "VANCOUVER, BC, Oct. 3, 2026 /PRNewswire/ -- Stock Preachers News Commentary - Big technology names pulled the Nasdaq Composite to a weekly gain while the Dow Jones Industrial Average and Russell 2000 "
-    },
-    {
-      "title": "From gold consumer to global powerhouse: How India refines, designs, and dominates",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/from-gold-consumer-to-global-powerhouse-how-india-refines-designs-and-dominates/article71539575.ece",
-      "published": "2026-10-03T03:52:32Z",
-      "description": "India’s true global influence stems not from pulling ore out of the ground, but from what happens after imported bullion arrives at its ports"
-    },
-    {
-      "title": "ORVANA ANNOUNCES AMENDMENT TO OSP PREPAYMENT FACILITY",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/orvana-announces-amendment-to-osp-prepayment-facility-302897569.html",
-      "published": "2026-10-03T00:00:00Z",
-      "description": "TSX: ORV OTCQX: ORVMF TORONTO, Oct. 2, 2026 /PRNewswire/ -- Orvana Minerals Corp. (TSX: ORV) (OTCQX: ORVMF) (the \"Company\" or \"Orvana\") announces that its Bolivian subsidiary, Empresa Minera Paitití, "
-    },
-    {
-      "title": "Global equity funds draw inflows for second week as AI optimism holds",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/news/global-equity-funds-draw-inflows-for-second-week-as-ai-optimism-holds/articleshow/134638303.cms",
-      "published": "2026-10-02T11:36:13Z",
-      "description": "Global equity funds attracted $34.76 billion in the week through September 30, marking a second straight week of inflows as optimism around AI investment and softer US inflation pushed up investor dem"
-    },
-    {
-      "title": "Trilogy Metals Reports Third Quarter Fiscal 2026 Financial Results",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/trilogy-metals-reports-third-quarter-fiscal-2026-financial-results-302896962.html",
-      "published": "2026-10-02T10:30:00Z",
-      "description": "NYSE American / TSX Symbol: TMQ VANCOUVER, BC, Oct. 2, 2026 /PRNewswire/ -- Trilogy Metals Inc. (NYSE American: TMQ) (TSX: TMQ) (\"Trilogy Metals\", \"Trilogy\" or the \"Company\") announces its financial r"
-    },
-    {
-      "title": "Nifty valuations near post-Covid lows. Alchemy Capital’s Alok Agarwal explains what investors should buy now",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/expert-view/nifty-valuations-near-post-covid-lows-alchemy-capitals-alok-agarwal-explains-what-investors-should-buy-now/articleshow/134631194.cms",
-      "published": "2026-10-02T03:38:25Z",
-      "description": "Nifty valuations have reset sharply from 2024 levels and are now near post-Covid lows, says Alchemy Capital’s Alok Agarwal. He sees the next phase of market growth broadening beyond large caps. Mid- a"
     }
   ],
   "tweets": []
