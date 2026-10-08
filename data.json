@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-10-07 12:25:44 UTC",
+  "updated_at": "2026-10-08 12:35:18 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4112.85,
+      "price_usd": 4124.48,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 60.11,
+      "price_usd": 58.91,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1629.8,
+      "price_usd": 1651.6,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1131.21,
+      "price_usd": 1129.95,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.49,
+      "price_usd": 0.48,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Altius Minerals Corporation Files Early Warning Report",
+      "title": "OR Royalties Announces Preliminary Q3 2026 GEO Deliveries",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/altius-minerals-corporation-files-early-warning-report",
-      "published": "2026-10-06T11:57:02Z",
-      "description": "NOT FOR DISSEMINATION IN THE UNITED STATES OR TO UNITED STATES NEWSWIRE SERVICES ST. JOHN’S, Newfoundland and Labrador — Altius Minerals Corporation (ALS:TSX) (ATUSF: OTCQX) (“Altius” or the “Corporat"
+      "url": "https://financialpost.com/globe-newswire/or-royalties-announces-preliminary-q3-2026-geo-deliveries",
+      "published": "2026-10-07T11:07:07Z",
+      "description": "MONTRÉAL, Oct. 07, 2026 (GLOBE NEWSWIRE) — OR Royalties Inc. (“OR Royalties” or the “Company”) (OR: TSX & NYSE) is pleased to announce its third quarter 2026 preliminary deliveries, revenues and cash "
     },
     {
-      "title": "Aventis Energy Announces Fall Surface Exploration Program at the Corvo Uranium Project",
+      "title": "Triple Flag Announces Strong Revenue in Q3 2026 and First Deliveries from Ravenswood",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/aventis-energy-announces-fall-surface-exploration-program-at-the-corvo-uranium-project",
-      "published": "2026-10-06T11:50:43Z",
-      "description": "Highlights High-Grade** Uranium at Surface: A prospecting, mapping, and geochemical sampling program is planned for October 2026 to expand on newly identified and historical uranium-bearing outcrops i"
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/triple-flag-announces-strong-revenue-in-q3-2026-and-first-deliveries-from-ravenswood",
+      "published": "2026-10-07T10:03:21Z",
+      "description": "TORONTO — Triple Flag Precious Metals Corp. (with its subsidiaries, “Triple Flag” or the “Company”) (TSX: TFPM, NYSE: TFPM) announced revenue of US$106.7 million for the third quarter of 2026 from qua"
     },
     {
-      "title": "Land broker arrested for murder of elderly woman in Salem",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/salem/land-broker-arrested-for-murder-of-elderly-woman-in-salem/articleshow/134738467.cms",
-      "published": "2026-10-06T11:18:13Z",
-      "description": "SALEM: The Salem city police arrested a land broker on Tuesday in connection with the murder of an elderly woman and the theft of her gold jewellery."
-    },
-    {
-      "title": "No bridge, pregnant woman carried on cot for 1km to road in Chatra",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/no-bridge-pregnant-woman-carried-on-cot-for-1km-to-road-in-chatra/articleshow/134738199.cms",
-      "published": "2026-10-06T10:59:44Z",
-      "description": "Pregnant woman in labour in Chatra’s Butkuiya carried 1km on cot as no bridge over Domuhan river blocked ambulance; villagers demand bridge, road repairs."
-    },
-    {
-      "title": "Woman's decomposed body found in rented house in Malwani, police Examine CCTV footage for clues",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/womans-decomposed-body-found-in-rented-house-in-malwani-police-examine-cctv-footage-for-clues/articleshow/134737949.cms",
-      "published": "2026-10-06T10:57:40Z",
-      "description": "A decomposed body of a woman was found in a Malwani house on Monday evening after a smell was reported. The police were alerted by neighbors who complained about the foul odor coming from the residenc"
-    },
-    {
-      "title": "GTC Prime Partners with Centroid Solutions to Deliver Multi-Asset Liquidity via CS 360 Bridge",
+      "title": "Fortuna reports third quarter 2026 production of 69,665 gold equivalent ounces and advances key growth initiatives",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/gtc-prime-partners-with-centroid-solutions-to-deliver-multi-asset-liquidity-via-cs-360-bridge",
-      "published": "2026-10-06T10:37:25Z",
-      "description": "DUBAI, United Arab Emirates, Oct. 06, 2026 (GLOBE NEWSWIRE) — GTC Prime, a provider of institutional liquidity solutions, has announced a strategic partnership with Centroid Solutions, a global fintec"
+      "url": "https://financialpost.com/globe-newswire/fortuna-reports-third-quarter-2026-production-of-69665-gold-equivalent-ounces-and-advances-key-growth-initiatives",
+      "published": "2026-10-07T09:03:46Z",
+      "description": "VANCOUVER, British Columbia, Oct. 07, 2026 (GLOBE NEWSWIRE) — Fortuna Mining Corp. (NYSE: FSM | TSX: FVI) reports production results for the third quarter and first nine months of 2026 from its three "
     },
     {
-      "title": "GoldMining Intersects 400 Metres of Continuous Gold-Copper Mineralization at the Yarumalito Project, Colombia",
+      "title": "Tata Motors PV, Maruti Suzuki, Ashok Leyland, auto stocks drop up to 3% as RBI signals rate cuts are ‘off the table’",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-maruti-suzuki-ashok-leyland-auto-stocks-drop-up-to-3-as-rbi-signals-rate-cuts-are-off-the-table/articleshow/134760101.cms",
+      "published": "2026-10-07T08:00:04Z",
+      "description": "Auto stocks including Tata Motors PV, Maruti Suzuki, M&M and Ashok Leyland dropped on Wednesday after the RBI raised the repo rate and shifted to calibrated tightening. Analysts expect Q2 revenue grow"
+    },
+    {
+      "title": "Gold prices dip Rs 1,500/10 grams; silver down Rs 1,600/kg ahead of Fed minutes. Key levels to track",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-1500/10-grams-silver-down-rs-1600/kg-ahead-of-fed-minutes-key-levels-to-track/articleshow/134755973.cms",
+      "published": "2026-10-07T04:35:41Z",
+      "description": "Gold and silver prices fell on the Multi Commodity Exchange as traders anticipated crucial insights from the US Federal Reserve's September meeting minutes. While optimism for an October rate hike has"
+    },
+    {
+      "title": "Nifty 50 companies likely to log strong double-digit growth in Q2",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/nifty-50-companies-likely-to-log-strong-double-digit-growth-in-q2/articleshow/134753164.cms",
+      "published": "2026-10-07T00:52:55Z",
+      "description": "Revenue and net profit of Nifty 50 companies are projected to grow by nearly 20% year-on-year. Analysts note that performance is driven by sectors like automobiles, banking, and oil. Operating margins"
+    },
+    {
+      "title": "Wheaton Precious Metals to Release 2026 Third Quarter Results on November 5, 2026",
       "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/goldmining-intersects-400-metres-of-continuous-gold-copper-mineralization-at-the-yarumalito-project-colombia-302899144.html",
-      "published": "2026-10-06T10:30:00Z",
-      "description": "VANCOUVER, BC, Oct. 6, 2026 /PRNewswire/ -- GoldMining Inc. (the \"Company\" or \"GoldMining\") (TSX: GOLD) (NYSE American: GLDG) is pleased to report initial assay results from the 2026 diamond core dril"
+      "url": "https://www.prnewswire.com/news-releases/wheaton-precious-metals-to-release-2026-third-quarter-results-on-november-5-2026-302900320.html",
+      "published": "2026-10-06T21:00:00Z",
+      "description": "VANCOUVER, BC, Oct. 6, 2026 /PRNewswire/ -- Wheaton Precious Metals™ Corp. will release its 2026 third quarter results on Thursday, November 5, 2026, after market close. A conference call will be held"
     },
     {
-      "title": "EBC Financial Group at iFX EXPO Asia 2026 covering Markets, Technology, and Industry Dialogue",
+      "title": "The World’s Gold Producers Are Starting to Hoard Their Own Gold",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Metals/Gold/The-Worlds-Gold-Producers-Are-Starting-to-Hoard-Their-Own-Gold.html",
+      "published": "2026-10-06T18:00:00Z",
+      "description": "For most of modern history, the gold trade worked one way: emerging-market mines dug it up, shipped it out (often as cheap ore, more often through the back door), and London and New York did the rest."
+    },
+    {
+      "title": "Energy Shock Wipes $264 Billion Off the World's Top Mining Stocks",
+      "source": "OilPrice.com",
+      "url": "https://oilprice.com/Metals/Commodities/Energy-Shock-Wipes-264-Billion-Off-the-Worlds-Top-Mining-Stocks.html",
+      "published": "2026-10-06T14:00:00Z",
+      "description": "The world's 50 most valuable mining companies lost $264 billion in market value in September as oil-driven inflation fears pushed bond yields to their highest since 2008 and the Federal Reserve into i"
+    },
+    {
+      "title": "Greenland Mines Authorizes $20 Million Share Repurchase Program and Announces Capital Allocation Priorities",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/ebc-financial-group-at-ifx-expo-asia-2026-covering-markets-technology-and-industry-dialogue",
-      "published": "2026-10-06T10:05:56Z",
-      "description": "EBC will offer a closer look at some of its newest developments and share news of the EBC Group Foundation HONG KONG, Oct. 06, 2026 (GLOBE NEWSWIRE) — Asia’s trading landscape is evolving rapidly. Tec"
-    },
-    {
-      "title": "Smart Payment Association Warns of Growing Supply Chain Pressures on Payment Card Industry",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/smart-payment-association-warns-of-growing-supply-chain-pressures-on-payment-card-industry-302898271.html",
-      "published": "2026-10-06T06:15:00Z",
-      "description": "AI-driven semiconductor demand, geopolitical instability and rising raw material costs threaten chip availability for the global payment card sector MUNICH, Oct. 6, 2026 /PRNewswire/ -- The Smart Paym"
-    },
-    {
-      "title": "CNBC Daily Open: 'Red' diesel to hit U.S. highways",
-      "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/10/06/daily-open-red-diesel-trump-midterms.html",
-      "published": "2026-10-06T06:06:35Z",
-      "description": "U.S. President Donald Trump signed an executive order allowing diesel normally reserved for off-road use to hit U.S. public roads and highways."
+      "url": "https://financialpost.com/globe-newswire/greenland-mines-authorizes-20-million-share-repurchase-program-and-announces-capital-allocation-priorities",
+      "published": "2026-10-06T13:38:59Z",
+      "description": "Authorization follows more than $59 million of recent capital raised, with planned programs funded through targeted 2027 milestones CHARLOTTE, N.C., Oct. 06, 2026 (GLOBE NEWSWIRE) — via IBN — Greenlan"
     }
   ],
   "tweets": []
