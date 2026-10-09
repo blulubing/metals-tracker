@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-10-08 12:35:18 UTC",
+  "updated_at": "2026-10-09 12:22:58 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4124.48,
+      "price_usd": 4185.16,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 58.91,
+      "price_usd": 60.41,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1651.6,
+      "price_usd": 1687,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1129.95,
+      "price_usd": 1157.55,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.48,
+      "price_usd": 0.49,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "OR Royalties Announces Preliminary Q3 2026 GEO Deliveries",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/or-royalties-announces-preliminary-q3-2026-geo-deliveries",
-      "published": "2026-10-07T11:07:07Z",
-      "description": "MONTRÉAL, Oct. 07, 2026 (GLOBE NEWSWIRE) — OR Royalties Inc. (“OR Royalties” or the “Company”) (OR: TSX & NYSE) is pleased to announce its third quarter 2026 preliminary deliveries, revenues and cash "
+      "title": "Gold ETFs: After a 5% fall in 2026, what price level offers a buying opportunity? Mutual fund investors take note",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-etfs-after-a-5-fall-in-2026-what-price-level-offers-a-buying-opportunity-mutual-fund-investors-take-note-11791456614101.html",
+      "published": "2026-10-08T12:06:57Z",
+      "description": "Gold prices have corrected sharply, but the fall may be creating an opportunity for investors. Here’s the key price level to watch for those considering investing in gold ETFs, along with the factors "
     },
     {
-      "title": "Triple Flag Announces Strong Revenue in Q3 2026 and First Deliveries from Ravenswood",
+      "title": "DPM Metals Reports Third Quarter Gold Equivalent Production Results; On Track to Achieve High-End of 2026 Guidance",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/triple-flag-announces-strong-revenue-in-q3-2026-and-first-deliveries-from-ravenswood",
-      "published": "2026-10-07T10:03:21Z",
-      "description": "TORONTO — Triple Flag Precious Metals Corp. (with its subsidiaries, “Triple Flag” or the “Company”) (TSX: TFPM, NYSE: TFPM) announced revenue of US$106.7 million for the third quarter of 2026 from qua"
+      "url": "https://financialpost.com/globe-newswire/dpm-metals-reports-third-quarter-gold-equivalent-production-results-on-track-to-achieve-high-end-of-2026-guidance",
+      "published": "2026-10-08T11:49:19Z",
+      "description": "TORONTO, Oct. 08, 2026 (GLOBE NEWSWIRE) — DPM Metals Inc. (TSX: DPM, ASX: DPM) (ARBN: 689370894) (“DPM” or “the Company”) today announced preliminary production results for the three and nine months e"
     },
     {
-      "title": "Fortuna reports third quarter 2026 production of 69,665 gold equivalent ounces and advances key growth initiatives",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/fortuna-reports-third-quarter-2026-production-of-69665-gold-equivalent-ounces-and-advances-key-growth-initiatives",
-      "published": "2026-10-07T09:03:46Z",
-      "description": "VANCOUVER, British Columbia, Oct. 07, 2026 (GLOBE NEWSWIRE) — Fortuna Mining Corp. (NYSE: FSM | TSX: FVI) reports production results for the third quarter and first nine months of 2026 from its three "
+      "title": "The second coming: From credit roots, Shriram Group now eyes an equities empire",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/companies/news/shriram-group-capital-markets-wealth-management-strategy-11791450226425.html",
+      "published": "2026-10-08T11:31:18Z",
+      "description": "Beyond truck loans and balance sheets, Shriram Group is chasing India’s retail investing boom. Can an 89-year-old founder's legacy and a high-touch ground network beat Silicon Valley-style discount ap"
     },
     {
-      "title": "Tata Motors PV, Maruti Suzuki, Ashok Leyland, auto stocks drop up to 3% as RBI signals rate cuts are ‘off the table’",
+      "title": "Xali Gold Completes Public Workshop, Advancing Exploration Permitting at Pico Machay in Peru",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/xali-gold-completes-public-workshop-advancing-exploration-permitting-at-pico-machay-in-peru",
+      "published": "2026-10-08T11:07:17Z",
+      "description": "VANCOUVER, British Columbia, Oct. 08, 2026 (GLOBE NEWSWIRE) — Xali Gold Corp. (TSXV:XGC) (“Xali Gold” or the “Company”) is pleased to announce that a public information workshop was successfully compl"
+    },
+    {
+      "title": "Magna Mining Reports Results of Levack Mine Preliminary Economic Assessment and Approves Restart of Production",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/magna-mining-reports-results-of-levack-mine-preliminary-economic-assessment-and-approves-restart-of-production",
+      "published": "2026-10-08T10:50:08Z",
+      "description": "SUDBURY, Ontario, Oct. 08, 2026 (GLOBE NEWSWIRE) — Magna Mining Inc. (TSX: NICU) (OTCQX: MGMNF) (FSE: 8YD) (“Magna” or the “Company”) is pleased to announce the results of a Preliminary Economic Asses"
+    },
+    {
+      "title": "K92 Mining Announces Strong Q3 Production of 49,776 oz AuEq, Multiple Operational Records and 1 moz AuEq Production Milestone",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/k92-mining-announces-strong-q3-production-of-49776-oz-aueq-multiple-operational-records-and-1-moz-aueq-production-milestone",
+      "published": "2026-10-08T10:04:00Z",
+      "description": "VANCOUVER, British Columbia, Oct. 08, 2026 (GLOBE NEWSWIRE) — K92 Mining Inc. (“K92” or the “Company”) (TSX: KNT; OTCQX: KNTNF) is pleased to announce production results for the third quarter (“Q3”) o"
+    },
+    {
+      "title": "ET Alpha Wealth Summit 2.0: Equities aren’t enough? Praveena Rai makes a case for commodities",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/tata-motors-pv-maruti-suzuki-ashok-leyland-auto-stocks-drop-up-to-3-as-rbi-signals-rate-cuts-are-off-the-table/articleshow/134760101.cms",
-      "published": "2026-10-07T08:00:04Z",
-      "description": "Auto stocks including Tata Motors PV, Maruti Suzuki, M&M and Ashok Leyland dropped on Wednesday after the RBI raised the repo rate and shifted to calibrated tightening. Analysts expect Q2 revenue grow"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-equities-arent-enough-praveena-rai-makes-a-case-for-commodities/articleshow/134785142.cms",
+      "published": "2026-10-08T09:12:37Z",
+      "description": "In India, commodities are steadily gaining traction as a crucial component of investment strategies. As investors diversify beyond conventional assets, they are discovering opportunities in gold, copp"
     },
     {
-      "title": "Gold prices dip Rs 1,500/10 grams; silver down Rs 1,600/kg ahead of Fed minutes. Key levels to track",
+      "title": "中冶置业收购五矿地产有限100%股权",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/4016996199075969?f=rss",
+      "published": "2026-10-08T08:59:59Z",
+      "description": "10月8日，中冶置业集团有限公司公告，为落实中国五矿房地产板块专业化整合战略部署，实现地产业务的集中管理和专业化经营，公司实施两笔关联交易。\n 交易1为下属子公司中冶置业香港有限公司拟收购爱邦企业有限公司所持有的五矿地产有限公司100%股权，以经备案的评估值转让，采用现金交易方式完成，完成后公司将五矿地产有限纳入合并范围。\n 交易2为交易1完成后，五矿地产有限境内全资子公司五矿建设投资管理（北京）"
+    },
+    {
+      "title": "Vedanta dividend alert! Anil Agarwal-led firm announces Rs 5/share interim dividend for FY27. Check record date",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-dip-rs-1500/10-grams-silver-down-rs-1600/kg-ahead-of-fed-minutes-key-levels-to-track/articleshow/134755973.cms",
-      "published": "2026-10-07T04:35:41Z",
-      "description": "Gold and silver prices fell on the Multi Commodity Exchange as traders anticipated crucial insights from the US Federal Reserve's September meeting minutes. While optimism for an October rate hike has"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-dividend-alert-anil-agarwal-led-firm-announces-rs-5/share-interim-dividend-for-fy27-check-record-date/articleshow/134785319.cms",
+      "published": "2026-10-08T08:59:52Z",
+      "description": "Vedanta has announced its first interim dividend of Rs 5 per share for FY27, with a total payout of Rs 1,955 crore. The dividend comes after the company’s mega demerger earlier this year. Investors wi"
     },
     {
-      "title": "Nifty 50 companies likely to log strong double-digit growth in Q2",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/nifty-50-companies-likely-to-log-strong-double-digit-growth-in-q2/articleshow/134753164.cms",
-      "published": "2026-10-07T00:52:55Z",
-      "description": "Revenue and net profit of Nifty 50 companies are projected to grow by nearly 20% year-on-year. Analysts note that performance is driven by sectors like automobiles, banking, and oil. Operating margins"
-    },
-    {
-      "title": "Wheaton Precious Metals to Release 2026 Third Quarter Results on November 5, 2026",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/wheaton-precious-metals-to-release-2026-third-quarter-results-on-november-5-2026-302900320.html",
-      "published": "2026-10-06T21:00:00Z",
-      "description": "VANCOUVER, BC, Oct. 6, 2026 /PRNewswire/ -- Wheaton Precious Metals™ Corp. will release its 2026 third quarter results on Thursday, November 5, 2026, after market close. A conference call will be held"
-    },
-    {
-      "title": "The World’s Gold Producers Are Starting to Hoard Their Own Gold",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Metals/Gold/The-Worlds-Gold-Producers-Are-Starting-to-Hoard-Their-Own-Gold.html",
-      "published": "2026-10-06T18:00:00Z",
-      "description": "For most of modern history, the gold trade worked one way: emerging-market mines dug it up, shipped it out (often as cheap ore, more often through the back door), and London and New York did the rest."
-    },
-    {
-      "title": "Energy Shock Wipes $264 Billion Off the World's Top Mining Stocks",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Metals/Commodities/Energy-Shock-Wipes-264-Billion-Off-the-Worlds-Top-Mining-Stocks.html",
-      "published": "2026-10-06T14:00:00Z",
-      "description": "The world's 50 most valuable mining companies lost $264 billion in market value in September as oil-driven inflation fears pushed bond yields to their highest since 2008 and the Federal Reserve into i"
-    },
-    {
-      "title": "Greenland Mines Authorizes $20 Million Share Repurchase Program and Announces Capital Allocation Priorities",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/greenland-mines-authorizes-20-million-share-repurchase-program-and-announces-capital-allocation-priorities",
-      "published": "2026-10-06T13:38:59Z",
-      "description": "Authorization follows more than $59 million of recent capital raised, with planned programs funded through targeted 2027 milestones CHARLOTTE, N.C., Oct. 06, 2026 (GLOBE NEWSWIRE) — via IBN — Greenlan"
+      "title": "游戏公司最想要的社区，被小红书做成了“一座岛”",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/4016849977364614?f=rss",
+      "published": "2026-10-08T06:54:02Z",
+      "description": "文丨二几\n 10月6日，假期倒数第二天，RED LAND在凉爽的夜里落幕了。\n 去年RED LAND初次亮相，大家感叹二次元终于有了自己的“迪士尼”，每个观众都是这块“开放世界冒险岛”的“主角”。今年，这场嘉年华迎来了首个大版本更新：场地从8万平方米扩展至15万平方米，登岛的游戏及动漫IP数量从50个增长到超过160个，活动时长也从3天变为5天，还首创游戏二次元花车巡游，把氛围推向最高潮。\n \n "
     }
   ],
   "tweets": []
