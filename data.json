@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-10-09 12:22:58 UTC",
+  "updated_at": "2026-10-10 11:41:51 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4185.16,
+      "price_usd": 4194.35,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 60.41,
+      "price_usd": 60.82,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1687,
+      "price_usd": 1686.9,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1157.55,
+      "price_usd": 1148.01,
       "unit": "USD/盎司 oz"
     },
     {
@@ -34,7 +34,7 @@
     {
       "code": "aluminum",
       "name": "铝 Aluminum",
-      "price_usd": 0.1,
+      "price_usd": 0.09,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Gold ETFs: After a 5% fall in 2026, what price level offers a buying opportunity? Mutual fund investors take note",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-etfs-after-a-5-fall-in-2026-what-price-level-offers-a-buying-opportunity-mutual-fund-investors-take-note-11791456614101.html",
-      "published": "2026-10-08T12:06:57Z",
-      "description": "Gold prices have corrected sharply, but the fall may be creating an opportunity for investors. Here’s the key price level to watch for those considering investing in gold ETFs, along with the factors "
-    },
-    {
-      "title": "DPM Metals Reports Third Quarter Gold Equivalent Production Results; On Track to Achieve High-End of 2026 Guidance",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/dpm-metals-reports-third-quarter-gold-equivalent-production-results-on-track-to-achieve-high-end-of-2026-guidance",
-      "published": "2026-10-08T11:49:19Z",
-      "description": "TORONTO, Oct. 08, 2026 (GLOBE NEWSWIRE) — DPM Metals Inc. (TSX: DPM, ASX: DPM) (ARBN: 689370894) (“DPM” or “the Company”) today announced preliminary production results for the three and nine months e"
-    },
-    {
-      "title": "The second coming: From credit roots, Shriram Group now eyes an equities empire",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/companies/news/shriram-group-capital-markets-wealth-management-strategy-11791450226425.html",
-      "published": "2026-10-08T11:31:18Z",
-      "description": "Beyond truck loans and balance sheets, Shriram Group is chasing India’s retail investing boom. Can an 89-year-old founder's legacy and a high-touch ground network beat Silicon Valley-style discount ap"
-    },
-    {
-      "title": "Xali Gold Completes Public Workshop, Advancing Exploration Permitting at Pico Machay in Peru",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/xali-gold-completes-public-workshop-advancing-exploration-permitting-at-pico-machay-in-peru",
-      "published": "2026-10-08T11:07:17Z",
-      "description": "VANCOUVER, British Columbia, Oct. 08, 2026 (GLOBE NEWSWIRE) — Xali Gold Corp. (TSXV:XGC) (“Xali Gold” or the “Company”) is pleased to announce that a public information workshop was successfully compl"
-    },
-    {
-      "title": "Magna Mining Reports Results of Levack Mine Preliminary Economic Assessment and Approves Restart of Production",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/magna-mining-reports-results-of-levack-mine-preliminary-economic-assessment-and-approves-restart-of-production",
-      "published": "2026-10-08T10:50:08Z",
-      "description": "SUDBURY, Ontario, Oct. 08, 2026 (GLOBE NEWSWIRE) — Magna Mining Inc. (TSX: NICU) (OTCQX: MGMNF) (FSE: 8YD) (“Magna” or the “Company”) is pleased to announce the results of a Preliminary Economic Asses"
-    },
-    {
-      "title": "K92 Mining Announces Strong Q3 Production of 49,776 oz AuEq, Multiple Operational Records and 1 moz AuEq Production Milestone",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/k92-mining-announces-strong-q3-production-of-49776-oz-aueq-multiple-operational-records-and-1-moz-aueq-production-milestone",
-      "published": "2026-10-08T10:04:00Z",
-      "description": "VANCOUVER, British Columbia, Oct. 08, 2026 (GLOBE NEWSWIRE) — K92 Mining Inc. (“K92” or the “Company”) (TSX: KNT; OTCQX: KNTNF) is pleased to announce production results for the third quarter (“Q3”) o"
-    },
-    {
-      "title": "ET Alpha Wealth Summit 2.0: Equities aren’t enough? Praveena Rai makes a case for commodities",
+      "title": "Ishan fever grips Ranchi ahead of T20I",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-alpha-wealth-summit-2-0-equities-arent-enough-praveena-rai-makes-a-case-for-commodities/articleshow/134785142.cms",
-      "published": "2026-10-08T09:12:37Z",
-      "description": "In India, commodities are steadily gaining traction as a crucial component of investment strategies. As investors diversify beyond conventional assets, they are discovering opportunities in gold, copp"
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/ishan-fever-grips-ranchi-ahead-of-t20i/articleshow/134831538.cms",
+      "published": "2026-10-09T11:02:03Z",
+      "description": "Ranchi gears up for Friday’s India vs West Indies T20I as Ishan Kishan returns home in form; ticket demand soars and fans await a big cricket night."
     },
     {
-      "title": "中冶置业收购五矿地产有限100%股权",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4016996199075969?f=rss",
-      "published": "2026-10-08T08:59:59Z",
-      "description": "10月8日，中冶置业集团有限公司公告，为落实中国五矿房地产板块专业化整合战略部署，实现地产业务的集中管理和专业化经营，公司实施两笔关联交易。\n 交易1为下属子公司中冶置业香港有限公司拟收购爱邦企业有限公司所持有的五矿地产有限公司100%股权，以经备案的评估值转让，采用现金交易方式完成，完成后公司将五矿地产有限纳入合并范围。\n 交易2为交易1完成后，五矿地产有限境内全资子公司五矿建设投资管理（北京）"
-    },
-    {
-      "title": "Vedanta dividend alert! Anil Agarwal-led firm announces Rs 5/share interim dividend for FY27. Check record date",
+      "title": "Oxygen cylinder explodes inside ambulance in Mayurbhanj; patient killed, two injured",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/vedanta-dividend-alert-anil-agarwal-led-firm-announces-rs-5/share-interim-dividend-for-fy27-check-record-date/articleshow/134785319.cms",
-      "published": "2026-10-08T08:59:52Z",
-      "description": "Vedanta has announced its first interim dividend of Rs 5 per share for FY27, with a total payout of Rs 1,955 crore. The dividend comes after the company’s mega demerger earlier this year. Investors wi"
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/oxygen-cylinder-explodes-inside-ambulance-in-mayurbhanj-patient-killed-two-injured/articleshow/134831503.cms",
+      "published": "2026-10-09T11:00:45Z",
+      "description": "Oxygen cylinder explosion in a private ambulance outside Udala hospital in Mayurbhanj killed a 35-year-old patient and injured two; police investigating."
     },
     {
-      "title": "游戏公司最想要的社区，被小红书做成了“一座岛”",
+      "title": "Hurricane Simon intensifies rapidly as it moves across Pacific",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/hurricane-simon-intensifies-rapidly-as-it-moves-across-pacific/articleshow/134830003.cms",
+      "published": "2026-10-09T10:56:01Z",
+      "description": "Hurricane Simon is intensifying and is on track to achieve Category 4 classification this weekend. This powerful storm is expected to bring significant rainfall and pose threats to popular tourist are"
+    },
+    {
+      "title": "TVK’s P Sathyabama wins Dharapuram byelection",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/chennai/tvks-p-sathyabama-wins-dharapuram-byelection/articleshow/134831134.cms",
+      "published": "2026-10-09T10:50:39Z",
+      "description": "COIMBATORE: TVK candidate P Sathyabama won the Dharapuram byelection by a margin of 9,471 votes, securing 66,841 votes."
+    },
+    {
+      "title": "Delta Air Lines Announces September Quarter 2026 Financial Results",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/delta-air-lines-announces-september-quarter-2026-financial-results-302903456.html",
+      "published": "2026-10-09T10:30:00Z",
+      "description": "Strength of results and outlook demonstrate Delta's structural durability in high fuel cost environment Record September quarter revenue on broad demand strength and healthy yield growth Expect contin"
+    },
+    {
+      "title": "K92 Mining Announces 2026 Third Quarter Financial Results Conference Call Details",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/globe-newswire/k92-mining-announces-2026-third-quarter-financial-results-conference-call-details",
+      "published": "2026-10-09T10:00:10Z",
+      "description": "VANCOUVER, British Columbia, Oct. 09, 2026 (GLOBE NEWSWIRE) — K92 Mining Inc. (“K92” or the “Company”) (TSX: KNT; OTCQX: KNTNF) announces that it will release its 2026 third quarter financial results "
+    },
+    {
+      "title": "Nifty rebounds past 22,490 as IT, Consumption stocks lead rally",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/markets-stage-sharp-rebound-it-and-consumption-stocks-lead-nifty-past-22490/article71563154.ece",
+      "published": "2026-10-09T07:57:06Z",
+      "description": "Markets rebound with IT and consumption leading Nifty past 22,490 amid broad gains and mixed gains across sectors."
+    },
+    {
+      "title": "印度取消黄金进口关键税收优惠，推高主要进口渠道成本",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/4016849977364614?f=rss",
-      "published": "2026-10-08T06:54:02Z",
-      "description": "文丨二几\n 10月6日，假期倒数第二天，RED LAND在凉爽的夜里落幕了。\n 去年RED LAND初次亮相，大家感叹二次元终于有了自己的“迪士尼”，每个观众都是这块“开放世界冒险岛”的“主角”。今年，这场嘉年华迎来了首个大版本更新：场地从8万平方米扩展至15万平方米，登岛的游戏及动漫IP数量从50个增长到超过160个，活动时长也从3天变为5天，还首创游戏二次元花车巡游，把氛围推向最高潮。\n \n "
+      "url": "https://36kr.com/newsflashes/4018338986659713?f=rss",
+      "published": "2026-10-09T07:45:47Z",
+      "description": "印度取消了针对银行和政府指定机构进口黄金、白银及铂金的税收优惠，对相关进口货物征收3%的税款，从而提高了向全球最大贵金属市场之一供货的主要渠道的成本。税务秘书周四表示，政府未将通过银行进口贵金属免缴综合商品与服务税（IGST）的待遇延长至今年3月31日之后。此举使所有黄金和白银进口渠道在税收待遇上处于同等地位。（财联社）"
+    },
+    {
+      "title": "A股三大指数集体收涨，传媒股走强",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4018295970484356?f=rss",
+      "published": "2026-10-09T07:02:02Z",
+      "description": "36氪获悉，A股三大指数集体收涨，沪指涨0.05%，深成指涨0.17%，创业板指涨0.22%。文化传媒、贵金属、软件板块领涨，中文在线、上海电影、西部黄金、绿盟科技涨停；能源设备、电子元器件、发电设备板块跌幅居前，金安国纪、大金重工跌停，洪田股份跌超5%。"
+    },
+    {
+      "title": "Gold prices rise Rs 1,500/10g; silver up Rs 3,100/kg ahead of US economic data, softer yields. Buy, sell or hold?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-rs-1500/10g-silver-up-rs-3100/kg-ahead-of-us-economic-data-softer-yields-buy-sell-or-hold/articleshow/134807815.cms",
+      "published": "2026-10-09T04:44:12Z",
+      "description": "Gold and silver prices gain on MCX as a weaker US dollar and easing Treasury yields support bullion. Investors assess inflation risks and the Federal Reserve’s rate outlook, while traders track key su"
     }
   ],
   "tweets": []
