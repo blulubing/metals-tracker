@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-10-12 14:04:45 UTC",
+  "updated_at": "2026-10-13 13:17:42 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4170.44,
+      "price_usd": 4177.7,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 60.54,
+      "price_usd": 59.95,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1686.77,
+      "price_usd": 1685.16,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1152.63,
+      "price_usd": 1132.83,
       "unit": "USD/盎司 oz"
     },
     {
@@ -34,7 +34,7 @@
     {
       "code": "aluminum",
       "name": "铝 Aluminum",
-      "price_usd": 0.1,
+      "price_usd": 0.09,
       "unit": "USD/吨 mt"
     },
     {
@@ -70,11 +70,67 @@
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.45,
+      "price_usd": 0.46,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
+    {
+      "title": "Positive inflows into gold ETFs continue for the 12th week in a row",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/agri-business/positive-inflows-into-gold-etfs-continue-for-the-12th-week-in-a-row/article71575148.ece",
+      "published": "2026-10-12T13:00:36Z",
+      "description": "Gold ETFs see 12th straight week of net inflows despite US redemptions, driven by Chinese buying amid fluctuating prices and macro factors."
+    },
+    {
+      "title": "36氪首发 | 获数千万融资，ModCraft想让AI通过Mod理解游戏设计",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/4022737676259464?f=rss",
+      "published": "2026-10-12T11:04:50Z",
+      "description": "文丨二几\n 36氪获悉，AI游戏Mod创作与内容平台ModCraft已完成数千万人民币种子轮融资，投资方包括商汤国香资本、L2F光源创业者基金。融资资金将主要用于AI模型训练以及平台增长。\n 从产品来看，ModCraft目前提供两大服务：一是让用户通过AI，用自然语言制作游戏Mod；二是在平台上发现、游玩和分享其他玩家创作的Mod。截至目前，平台已经上架28款游戏，都是在Steam具有较高知名度的"
+    },
+    {
+      "title": "Sensex today | Stock Market Highlights: Stock markets tumble on oil price spike, foreign fund outflows; Sensex drops 548 points",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-12-october-2026/article71571162.ece",
+      "published": "2026-10-12T10:45:20Z",
+      "description": "Sensex, Nifty, Share Prices Highlights: Benchmark stock index Sensex dropped by nearly 548 points on Monday as a fresh spike in crude oil prices, unabated foreign fund outflows and rising bond yields "
+    },
+    {
+      "title": "Gold prices fall Rs 1,450/10g; silver down Rs 1,400/kg despite a soft dollar ahead of US economic data. Time to sell?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-fall-rs-1450/10g-silver-down-rs-1400/kg-despite-a-soft-dollar-ahead-of-us-economic-data-time-to-sell/articleshow/134885210.cms",
+      "published": "2026-10-12T06:48:15Z",
+      "description": "Gold and silver prices opened lower on MCX despite a weaker US dollar and falling oil prices, as investors awaited US inflation data for clues on the Federal Reserve’s next policy move. Analysts recom"
+    },
+    {
+      "title": "Gold rate today (October 12, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers, Tanishq & IBJA in Delhi, Mumbai, Hyderabad & more cities",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-silver-rate-today-october-12-2026-18k-20k-24k-chennai-delhi-hyderabad-bengaluru-citywise-ibja-gold-price-malabar-gold-kalyan-jewelers-joyalukkas/articleshow/134884876.cms",
+      "published": "2026-10-12T06:39:18Z",
+      "description": "Gold rate today: On October 12, 2026, Joyalukkas, Malabar Gold & Diamonds, and Kalyan Jewellers reported a marginal rise in gold prices, reflecting evolving market dynamics. Conversely, Tanishq saw a "
+    },
+    {
+      "title": "8点1氪丨尊界公布踏板升级时间；大闸蟹全线崩盘？中小规格跌至5元一只；世卫组织：俄不明原因肺炎事件，无持续传播证据",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/4022129475948680?f=rss",
+      "published": "2026-10-12T00:04:23Z",
+      "description": "今日热点导览\n <ul>\n <li>月之暗面增资至约1437万</li>\n <li>MLCC全球龙头子公司计划扩产</li>\n <li>经销商联谊会“批量”解散？茅台方面回应</li>\n <li>欧亚经济联盟继续对华油井管征收反倾销税</li>\n <li>苹果正研发不“录像”的摄像头</li>\n </ul>\n TOP 3 大新闻\n 尊界公布踏板升级时间\n 10月11日下午，尊界客服向记者确认，尊界"
+    },
+    {
+      "title": "Gold price prediction for Monday, October 12: Check latest gold rate predictions",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-for-monday-october-12-check-latest-gold-rate-predictions/articleshow/134873337.cms",
+      "published": "2026-10-11T16:13:06Z",
+      "description": "Gold rate prediction: Gold tends to lose its appeal compared to yield-bearing assets in a high interest-rate environment."
+    },
+    {
+      "title": "何不解一道“世界永久和平”难题？",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001111073",
+      "published": "2026-10-11T16:00:00Z",
+      "description": "更新于2026年10月12日 08:16\n盛洪为FT中文网撰稿\n\r\n\n\n\n自2022年底ChatGPT发布以来，科技界就开始担心AI的安全风险。2023年3月，马斯克等科技大佬发表声明，提出要暂缓AI研发，先想好AI安全的对策。5月，AI安全中心以辛顿牵头签署的声明提出，要把降低AI灭绝人类风险作为优先事项（Center for AI Safety, 2023）。9月，生命未来研究所以AI教父Yo"
+    },
     {
       "title": "AI运动硬件公司获数亿B轮融资，用体育大模型重构网球自主训练体验｜硬氪首发",
       "source": "36kr.com",
@@ -88,62 +144,6 @@
       "url": "https://www.ftchinese.com/story/001111060",
       "published": "2026-10-10T16:00:00Z",
       "description": "更新于2026年10月11日 20:19\n许纳为环境网站“对话地球”撰稿\n\r\n\n\n\n镍是制造动力电池以及风能、太阳能设施的重要转型金属。过去十年，中国在全球镍储量最大的印度尼西亚投资超过140亿美元，雇佣超过10万人，在镍产业链占据重要位置。烈火烹油之下也有隐忧。\r\n\n国际可持续发展研究所（International Institute for Sustainable Development，简称"
-    },
-    {
-      "title": "成年人要的「安心」，有时是一支笔给的",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4019731047731078?f=rss",
-      "published": "2026-10-10T07:30:18Z",
-      "description": "在快节奏、高强度的现代都市里，我们每天都在被推着向前，生活似乎随时处于一种微小的失控与无序之中。\n 当一切都可以被屏幕与算法快速替代，我们反而开始怀念那些看得见、摸得着的实感。重新拿起一支笔，在纸页间划掉一项任务、记下一个灵感，这种极为具体的书写，正在成为成年人的“精神兜底”：不管今天多乱，至少这一笔，是自己说了算。\n 很多时候，这种让人安心的感觉，就来自于桌边那支握感舒适、落笔顺畅的好笔。\n 地"
-    },
-    {
-      "title": "国内金饰价格集体上涨",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4019453528772483?f=rss",
-      "published": "2026-10-10T02:49:23Z",
-      "description": "国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所上调，周生生足金饰品报1262元/克，较昨日涨了8元；周大福足金饰品报1265元/克，较昨日涨了10元；老庙黄金足金饰品报1258元/克，较昨日涨了9元；老凤祥足金饰品报1262元/克，较昨日涨了12元。（财联社）"
-    },
-    {
-      "title": "8点1氪丨特朗普买入Meta股票；山姆宣布拟限制亲友卡绑定；豆包开通水、电、燃气等生活缴费功能",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4019297973735560?f=rss",
-      "published": "2026-10-10T00:04:26Z",
-      "description": "今日热点导览\n <ul>\n <li>Anthropic据悉组建专门团队对接2028年总统候选人</li>\n <li>中国手机迎来新一轮涨价潮，部分机型涨幅达1000元</li>\n <li>B站申请JILIJILI等商标</li>\n <li>广东汕头在全国率先推出“词元出海贷”</li>\n <li>英国大学生申领贷款将需达到最低标准</li>\n </ul>\n TOP 3大新闻\n 特朗普买入Meta股"
-    },
-    {
-      "title": "Gold, silver boom puts US bank trading revenues on track for record $5 billion",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/gold-silver-boom-puts-us-bank-trading-revenues-on-track-for-record-5-billion/articleshow/134841433.cms",
-      "published": "2026-10-09T18:48:08Z",
-      "description": "In the first half of 2026, the precious metals desks at major banks achieved significant earnings due to high demand. JPMorgan Chase reported approximately $700 million in profits from trading gold, s"
-    },
-    {
-      "title": "百度怎么了？",
-      "source": "Ftchinese.com",
-      "url": "https://www.ftchinese.com/story/001111038",
-      "published": "2026-10-09T16:00:00Z",
-      "description": "更新于2026年10月10日 07:02\nFT中文网专栏作家陆媛\n\r\n\n\n\n在生成式AI重塑全球科技版图的第四个年头，一个残酷却无法忽视的行业图景已然确立：老一代搜索引擎并未如早先预言的那样全军覆没，但掉队的名单里，写着曾经在中国搜索市场上拥有垄断地位的名字——百度。\r\n\n大洋彼岸的谷歌，是Transformer经典论文的源头，虽然在OpenAI的雷霆攻势下经历过短暂焦虑，但随后凭借全栈自研算力（"
-    },
-    {
-      "title": "Monetary tightening likely to keep industrial metal prices on leash",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/commodities/monetary-tightening-likely-to-keep-industrial-metal-prices-on-leash/article71564463.ece",
-      "published": "2026-10-09T14:00:11Z",
-      "description": "Industrial metals face pressure from tightening policy and geopolitical risks, with mixed prospects and tin-led gains amid AI and energy-transition demand."
-    },
-    {
-      "title": "McEwen Signs US$55 Million Agreement to Sell Fuller and Paymaster",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/mcewen-signs-us55-million-agreement-to-sell-fuller-and-paymaster",
-      "published": "2026-10-09T13:12:04Z",
-      "description": "Divests US$13.5M McEwen Copper Debt to Further Enhance Liquidity TORONTO, Oct. 09, 2026 (GLOBE NEWSWIRE) — McEwen Inc. (NYSE/TSX: MUX) (“McEwen” or the “Company”) announces that it and its wholly-owne"
-    },
-    {
-      "title": "Greenland Mines President Invited to Join Global Business and Policy Leaders at 2026 Arctic Circle Assembly and Mining Roundtable",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/greenland-mines-president-invited-to-join-global-business-and-policy-leaders-at-2026-arctic-circle-assembly-and-mining-roundtable",
-      "published": "2026-10-09T12:48:30Z",
-      "description": "Invitation follows $2.05 billion Sarfartoq Initial Assessment and comes as U.S., Greenland, and Denmark deepen cooperation on minerals and Arctic security CHARLOTTE, N.C., Oct. 09, 2026 (GLOBE NEWSWIR"
     }
   ],
   "tweets": []
