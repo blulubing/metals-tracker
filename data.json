@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-10-14 10:57:43 UTC",
+  "updated_at": "2026-10-15 10:39:15 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4140.59,
+      "price_usd": 4154.91,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 58.52,
+      "price_usd": 56.71,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1656.7,
+      "price_usd": 1618.44,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1134.89,
+      "price_usd": 1130.23,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.47,
+      "price_usd": 0.45,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,13 +40,13 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.49,
+      "price_usd": 0.47,
       "unit": "USD/吨 mt"
     },
     {
       "code": "zinc",
       "name": "锌 Zinc",
-      "price_usd": 0.12,
+      "price_usd": 0.11,
       "unit": "USD/吨 mt"
     },
     {
@@ -70,80 +70,80 @@
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.45,
+      "price_usd": 0.46,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Sensex today | Stock Market Highlights: Sensex jumps 1,109 points, Nifty rises 1.6% as IT stocks rally",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-stock-market-highlights-13-october-2026/article71574859.ece",
-      "published": "2026-10-13T10:41:29Z",
-      "description": "Sensex, Nifty 50 | Stock Market Highlights: 13th October 2026 -  Indian stock markets staged a strong recovery on Tuesday, with the Sensex surging 1,109.10 points, or 1.54 per cent, to 73,033.78 and t"
-    },
-    {
-      "title": "Integra Provides DeLamar Project Update: Detailed Engineering, Permitting, Procurement and State of Good Repairs Work Advancing in Line with Plan, Appoints GenCap as Project Financing Advisor",
+      "title": "GoldMining Appoints Project Director to Lead Next Phase of Advancement of the São Jorge Gold Project, Brazil",
       "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/integra-provides-delamar-project-update-detailed-engineering-permitting-procurement-and-state-of-good-repairs-work-advancing-in-line-with-plan-appoints-gencap-as-project-financing-advisor-302906126.html",
-      "published": "2026-10-13T10:30:00Z",
-      "description": "VANCOUVER, BC, Oct. 13, 2026 /PRNewswire/ -- Integra Resources Corp. (\"Integra\" or the \"Company\") (TSXV: ITR) (NYSE American: ITRG) is pleased to provide an update on activities at the DeLamar Gold-Si"
+      "url": "https://www.prnewswire.com/news-releases/goldmining-appoints-project-director-to-lead-next-phase-of-advancement-of-the-sao-jorge-gold-project-brazil-302907776.html",
+      "published": "2026-10-14T10:30:00Z",
+      "description": "VANCOUVER, BC, Oct. 14, 2026 /PRNewswire/ -- GoldMining Inc. (the \"Company\" or \"GoldMining\") (TSX: GOLD) (NYSE American: GLDG) is pleased to announce the appointment of Alexandre Soares Pimenta as Pro"
     },
     {
-      "title": "宝鼎科技：预计2026年前三季度净利润同比增长536.88%-614.07%",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4024104093012103?f=rss",
-      "published": "2026-10-13T09:30:22Z",
-      "description": "36氪获悉，宝鼎科技公告，预计2026年前三季度归属于上市公司股东的净利润为3.30亿元-3.70亿元，同比增长536.88%-614.07%。业绩变动主要系覆铜板行业高景气，子公司金宝电子业务扭亏为盈，以及黄金价格高位运行带动子公司河西金矿收入增长。"
-    },
-    {
-      "title": "科氪 | 一加 16 产品力全面升级，打造史上最强「全能旗舰」",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4024086738047106?f=rss",
-      "published": "2026-10-13T09:13:17Z",
-      "description": "2026 年 10 月 12 日，一加正式发布年度数字旗舰一加 16。新机秉持「性能之上，解锁更强」的产品主张，在持续领跑性能赛道的基础上，实现影像、屏幕、续航等产品力全面升级，打造史上最强「巅峰性能旗舰」。一加 16 首批搭载第六代骁龙 8 超级至尊版，配合全新一代风驰游戏内核，带来史无前例的「185FPS 极速枪神」体验；全球首发 185Hz 第四代东方屏，还配备 LUMO 2 亿风光影像系统"
-    },
-    {
-      "title": "Fortuna intersects 7.8 g/t gold over 12.8 meters at Southern Arc, Diamba Sud, and advances exploration at Bambadji, Senegal",
+      "title": "Dryden Gold Corp. Presenting at the OTC Precious Metals & Critical Minerals Virtual Investor Conference",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/fortuna-intersects-7-8-g-t-gold-over-12-8-meters-at-southern-arc-diamba-sud-and-advances-exploration-at-bambadji-senegal",
-      "published": "2026-10-13T09:04:53Z",
-      "description": "VANCOUVER, British Columbia, Oct. 13, 2026 (GLOBE NEWSWIRE) — Fortuna Mining Corp. (NYSE: FSM | TSX: FVI) is pleased to report updated results from exploration drilling at the Southern Arc and Kassaso"
+      "url": "https://financialpost.com/globe-newswire/dryden-gold-corp-presenting-at-the-otc-precious-metals-critical-minerals-virtual-investor-conference",
+      "published": "2026-10-14T10:04:45Z",
+      "description": "VANCOUVER, British Columbia, Oct. 14, 2026 (GLOBE NEWSWIRE) — Dryden Gold Corp. (TSXV: DRY, OTCQX: DRYGF) (“Dryden Gold” or the “Company”) is pleased to announce that it will present at the OTC Precio"
     },
     {
-      "title": "Gold ticks up as oil eases; spotlight on US inflation data",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-ticks-up-as-oil-eases-spotlight-on-us-inflation-data/article71578314.ece",
-      "published": "2026-10-13T07:42:45Z",
-      "description": "Gold edges higher as oil dips ahead of US inflation data, shaping Fed-rate expectations and precious metals’ near-term moves."
+      "title": "i-80 Gold Provides a Development Update; Archimedes Underground and Lone Tree Plant Refurbishment Remain on Track and Mineral Point Open Pit Prioritized in Updated Development Plan",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/i-80-gold-provides-a-development-update-archimedes-underground-and-lone-tree-plant-refurbishment-remain-on-track-and-mineral-point-open-pit-prioritized-in-updated-development-plan-302908319.html",
+      "published": "2026-10-14T10:00:00Z",
+      "description": "All amounts are expressed in United States dollars unless otherwise stated. TORONTO, Oct. 14, 2026 /PRNewswire/ -- i-80 GOLD CORP. (NYSE: IAUX) (TSX: IAU) (\"i-80 Gold\", or the \"Company\") is pleased to"
     },
     {
-      "title": "Gold prices rise to Rs 1.50 lakh/10g; silver gains ahead of US economic data. Key levels to track",
+      "title": "HONOR Introduces HONOR X9e Pro, Breaking the Limits of Its Category",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/honor-introduces-honor-x9e-pro-breaking-the-limits-of-its-category-302908262.html",
+      "published": "2026-10-14T08:12:00Z",
+      "description": "With an industry-largest 11,000mAh battery, 3-metre drop resistance, IP69K protection, a 10,000-nit display and powerful AI features DUBAI, UAE, Oct. 14, 2026 /PRNewswire/ -- Global AI device ecosyste"
+    },
+    {
+      "title": "WPI inflation quickens to 11.39% in September from 9.9% in August",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-rise-to-rs-1-50-lakh/10g-silver-gains-ahead-of-us-economic-data-key-levels-to-track/articleshow/134908879.cms",
-      "published": "2026-10-13T05:19:41Z",
-      "description": "Gold and silver prices opened higher on MCX as investors awaited US inflation data for clues on the Federal Reserve’s rate outlook, while a firm dollar and geopolitical tensions kept precious metals v"
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/wpi-inflation-rises-to-11-39-in-september-from-9-9-in-august/articleshow/134910312.cms",
+      "published": "2026-10-14T06:33:29Z",
+      "description": "Wholesale prices in India rose significantly to 11.39% in September, driven by rising fuel and food costs. Retail inflation also increased to 5.54%, attributed largely to higher vegetable prices. Conc"
     },
     {
-      "title": "深度云海完成千万级天使轮融资，前百度搜索团队创办｜36氪首发",
+      "title": "Gold prices flat as markets await US CPI data",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-flat-as-markets-await-us-cpi-data/articleshow/134929941.cms",
+      "published": "2026-10-14T02:00:13Z",
+      "description": "In early Asian trading, gold prices held steady as investors awaited crucial US consumer price data, which could affect future Federal Reserve decisions. New York Fed President John Williams spoke abo"
+    },
+    {
+      "title": "A股三大指数集体低开，文化传媒板块领跌",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/4023041152585603?f=rss",
-      "published": "2026-10-13T03:10:57Z",
-      "description": "文｜王欣逸\n 36氪获悉，近日，专注做GEO的AI营销公司深度云海智能科技（上海）有限公司（以下简称“深度云海”）已完成千万级天使轮融资，华工科技（000988.SZ）领投，本轮资金主要用于自研技术底座迭代、海外市场拓展、产品升级以及AI人才的扩充。\n 深度云海创立于2025年6月，团队规模为70余人，核心团队来自前百度搜索部门，CEO钱程曾任百度上海总经理，他也是一位连续创业者，离开百度后，他相"
+      "url": "https://36kr.com/newsflashes/4025045185040265?f=rss",
+      "published": "2026-10-14T01:27:41Z",
+      "description": "36氪获悉，A股三大指数集体低开，沪指跌0.27%，深成指跌0.36%，创业板指跌0.52%；贵金属、文化传媒板块领跌，龙版传媒跌停，盛达资源跌超2%；石油化工、化纤行业板块涨幅居前，恒逸石化涨超1%，中国海油涨0.76%。"
     },
     {
-      "title": "复旦师生Pre-A轮融资超10亿，想让AI懂人的情绪与处境",
+      "title": "8点1氪丨茶百道涉IPO欺诈，被暂停交易；苹果连夜发布3款智能家居新品，总市值再创历史新高；DeepSeek将完成1000亿元融资",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/4017114276368260?f=rss",
-      "published": "2026-10-13T01:15:49Z",
-      "description": "文 | 孙小雯 海若镜编辑 | 海若镜\n 人的喜怒哀乐忧惧，对AI来说，重要吗？\n 与人交谈时，我们会留意他的语气、停顿、表情，边听边想对方的真实所思。但当交流被整理成提示词文本，很多情绪信息会被过滤掉。\n 模思智能，这家由邱锡鹏教授（复旦大学特聘教授、上海创智学院副院长）创办的模型公司，一直在意AI的情绪感知能力。\n 在模思智能CEO李世民看来：AI要理解用户的意图，需要把用户说了什么、周围发生"
+      "url": "https://36kr.com/p/4025027267580036?f=rss",
+      "published": "2026-10-14T01:11:48Z",
+      "description": "今日热点导览\n 字节跳动Seed单独设立大模型安全与对齐部门\n 爆火促销被指加盟商买单，霸王茶姬回应\n 拒签《暗影蜘蛛侠》AI授权协议，美知名演员尼古拉斯·凯奇“硬刚”亚马逊\n 梁文锋或再投一家机器人公司\n 峰学蔚来武亮回应财产转移相关质疑\n 腾讯启动50亿美元债券发行，为AI支出募资\n TOP3大新闻\n 茶百道涉IPO欺诈，被暂停交易\n 36氪获悉，香港证监会公告，已对两个集团采取行动，因它们涉"
     },
     {
-      "title": "Indian auto firms set up China bases as raw material costs and trade barriers mount",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/industry/china-sourcing-auto-industry-auto-components-ather-energy-ceat-lumax-auto-technologies-chinese-suppliers-11791819367890.html",
-      "published": "2026-10-13T01:05:26Z",
-      "description": "Companies like Ather Energy, Ceat, and Lumax Auto Technologies are establishing local offices, hiring Chinese executives, and setting up offshore units to optimize procurement costs, secure rare-earth"
+      "title": "银行零售黄金业务再布局",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4024933823795332?f=rss",
+      "published": "2026-10-13T23:42:16Z",
+      "description": "随着国际金价在4200美元/盎司附近盘整，南京银行、中信银行近日相继打出“让利”牌，推出或延续积存金手续费优惠；工商银行、中国银行、江苏银行此前已通过按克减免、“老带新”奖励等形式促销该业务。一边是积存金业务持续扩容，另一边则是贵金属通道业务退场。业内人士认为，这本质上是银行零售黄金业务的风控手段，其更加注重长期客户经营与黄金配置需求的承接。（上证报）"
+    },
+    {
+      "title": "从硅谷的算力到古路的霓虹：探究前沿AI的未来",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001111045",
+      "published": "2026-10-13T16:00:00Z",
+      "description": "更新于2026年10月14日 06:59\nFT中文网撰稿人黄凡\n\r\n\n\n\n近年来，AI浪潮方兴未艾，不断的硬件与模型的升级迭代令人目不暇给。最近新闻又报道了美国白宫颁布行政命令推动SI 代替 AI，要求联邦政府机构及行政部门在官方通讯中，将“Artificial Intelligence（人工智能 AI）”这一传统术语统一替换为 “Super Intelligence（超级智能 SI）”。AI未来"
     }
   ],
   "tweets": []
