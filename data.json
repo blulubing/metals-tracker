@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-10-15 10:39:15 UTC",
+  "updated_at": "2026-10-16 10:26:07 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4154.91,
+      "price_usd": 4183.43,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 56.71,
+      "price_usd": 57.77,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1618.44,
+      "price_usd": 1639.55,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1130.23,
+      "price_usd": 1132.68,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.45,
+      "price_usd": 0.46,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.47,
+      "price_usd": 0.48,
       "unit": "USD/吨 mt"
     },
     {
@@ -58,92 +58,92 @@
     {
       "code": "lme_zinc",
       "name": "LME锌 Zinc 3M",
-      "price_usd": 0.12,
+      "price_usd": 0.11,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.49,
+      "price_usd": 0.47,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.46,
+      "price_usd": 0.45,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "GoldMining Appoints Project Director to Lead Next Phase of Advancement of the São Jorge Gold Project, Brazil",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/goldmining-appoints-project-director-to-lead-next-phase-of-advancement-of-the-sao-jorge-gold-project-brazil-302907776.html",
-      "published": "2026-10-14T10:30:00Z",
-      "description": "VANCOUVER, BC, Oct. 14, 2026 /PRNewswire/ -- GoldMining Inc. (the \"Company\" or \"GoldMining\") (TSX: GOLD) (NYSE American: GLDG) is pleased to announce the appointment of Alexandre Soares Pimenta as Pro"
+      "title": "'Where anti-Indian hatred can lead': US lawmaker Raja Krishnamoorthi's warning after plot targeting Aurora Hindu temple",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/us/where-anti-indian-hatred-can-lead-us-lawmaker-raja-krishnamoorthis-warning-after-plot-targeting-aurora-hindu-temple/articleshow/134963436.cms",
+      "published": "2026-10-15T09:39:53Z",
+      "description": "US lawmaker Raja Krishnamoorthi condemns a white supremacist's plot to attack a Hindu temple in Aurora, Illinois, highlighting the rise of anti-Indian hatred and its potential for violence."
     },
     {
-      "title": "Dryden Gold Corp. Presenting at the OTC Precious Metals & Critical Minerals Virtual Investor Conference",
+      "title": "Actor Imran Khan to move Bombay HC against order to leave India",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/actor-imran-khan-to-move-bombay-hc-against-order-to-leave-india/articleshow/134962879.cms",
+      "published": "2026-10-15T09:38:11Z",
+      "description": "Actor Imran Khan has approached the Bombay High Court against an order for his deportation from India. The order was issued after his participation in a protest supporting the Cockroach Janata Party. "
+    },
+    {
+      "title": "中金黄金：预计前三季度归母净利润55.2亿元到58亿元，同比增长50.05%-57.66%",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4026911208428169?f=rss",
+      "published": "2026-10-15T09:05:54Z",
+      "description": "36氪获悉，中金黄金公告，预计前三季度归母净利润55.2亿元到58亿元，同比增长50.05%-57.66%；扣非净利润55亿元到58亿元，同比增长30.53%-37.65%。业绩增长主要因金铜等主要金属价格同比上涨显著、硫酸等副产品增收及矿产金等核心业务毛利率同比大幅提升。"
+    },
+    {
+      "title": "294% return on SGB premature redemption date: Gold bond turns Rs 1 lakh investment into Rs 3.94 lakh",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/294-return-on-sgb-premature-redemption-date-gold-bond-turns-rs-1-lakh-investment-into-rs-3-94-lakh/articleshow/134962123.cms",
+      "published": "2026-10-15T08:33:55Z",
+      "description": "Sovereign Gold Bond: The Reserve Bank of India has announced that the premature redemption price for Sovereign Gold Bonds will be set for October 2026. These bonds can be redeemed five years after the"
+    },
+    {
+      "title": "SGB 2019-20 Series V: Investors to pocket 294% gains on premature redemption — key dates and tax rules explained",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/sgb-2019-20-series-v-investors-to-pocket-294-gains-on-premature-redemption-key-dates-and-tax-rules-explained-11792048191124.html",
+      "published": "2026-10-15T08:11:33Z",
+      "description": "SGB 2019-20 Series V investors can redeem their bonds at  ₹14,725 per gram on October 15, 2026. Price gains range from 289% to 294%, excluding interest and taxes. Budget 2026 changes mean premature re"
+    },
+    {
+      "title": "Wholesale inflation may remain elevated through FY27 on high energy, food prices: Report",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/economy/wholesale-inflation-may-remain-elevated-through-fy27-on-high-energy-food-prices-report/article71586688.ece",
+      "published": "2026-10-15T07:06:39Z",
+      "description": "Fuel and power inflation climbs to 26% in September from 23% August, led by higher mineral oil prices. Inflation in mineral oils rises to 40%, compared with 38.5% in the previous month"
+    },
+    {
+      "title": "Sectoral mutual funds: Why investors should explore banking, auto, power and healthcare funds now",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/sectoral-mutual-funds-why-investors-should-explore-banking-auto-power-and-healthcare-funds-now-11792028583621.html",
+      "published": "2026-10-15T05:22:47Z",
+      "description": "Sectoral mutual funds: Banking, automobiles, power and healthcare are among the sectors offering opportunities amid diverging performance between large-cap and small-cap indices in H1FY27. Here is wha"
+    },
+    {
+      "title": "8点1氪丨微信、淘宝、美团等应用，拒绝接入豆包手机助手；苹果成为全球第二家市值破5万亿美元企业；美国9月CPI同比增长3.7%，高于预期",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/4026385299165321?f=rss",
+      "published": "2026-10-15T00:13:46Z",
+      "description": "今日热点导览\n 绿泡泡短剧可查看朋友在看剧目\n A股三大指数集体收跌，全市场近4500股下跌\n OpenAI办公室发现隐藏录音设备，涉事员工被捕\n 德国拟2027年开征含糖饮料税\n 华尔街大空头警示美股：现40年未见极端市场失衡\n TOP3大新闻\n 微信、淘宝、美团等151款应用拒绝豆包手机助手GUI自动化操作\n 10月14日，豆包手机助手SAEP协议公示期结束，共有151款应用声明拒绝其GUI屏"
+    },
+    {
+      "title": "Wholesale inflation hits series high of 11.4% in September as fuel, food prices surge",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/news/economy/indicators/wholesale-inflation-hits-series-high-of-11-4-in-september-as-fuel-food-prices-surge/articleshow/134950409.cms",
+      "published": "2026-10-14T19:11:21Z",
+      "description": "India's wholesale inflation reached 11.4% in September, significantly increasing from 9.9% in August. Rising prices of fuel, food, and manufactured goods contributed to this surge. Food inflation clim"
+    },
+    {
+      "title": "Silver Near $61 Puts Canada’s Northern Polymetallic Belts Back in Focus",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/dryden-gold-corp-presenting-at-the-otc-precious-metals-critical-minerals-virtual-investor-conference",
-      "published": "2026-10-14T10:04:45Z",
-      "description": "VANCOUVER, British Columbia, Oct. 14, 2026 (GLOBE NEWSWIRE) — Dryden Gold Corp. (TSXV: DRY, OTCQX: DRYGF) (“Dryden Gold” or the “Company”) is pleased to announce that it will present at the OTC Precio"
-    },
-    {
-      "title": "i-80 Gold Provides a Development Update; Archimedes Underground and Lone Tree Plant Refurbishment Remain on Track and Mineral Point Open Pit Prioritized in Updated Development Plan",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/i-80-gold-provides-a-development-update-archimedes-underground-and-lone-tree-plant-refurbishment-remain-on-track-and-mineral-point-open-pit-prioritized-in-updated-development-plan-302908319.html",
-      "published": "2026-10-14T10:00:00Z",
-      "description": "All amounts are expressed in United States dollars unless otherwise stated. TORONTO, Oct. 14, 2026 /PRNewswire/ -- i-80 GOLD CORP. (NYSE: IAUX) (TSX: IAU) (\"i-80 Gold\", or the \"Company\") is pleased to"
-    },
-    {
-      "title": "HONOR Introduces HONOR X9e Pro, Breaking the Limits of Its Category",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/honor-introduces-honor-x9e-pro-breaking-the-limits-of-its-category-302908262.html",
-      "published": "2026-10-14T08:12:00Z",
-      "description": "With an industry-largest 11,000mAh battery, 3-metre drop resistance, IP69K protection, a 10,000-nit display and powerful AI features DUBAI, UAE, Oct. 14, 2026 /PRNewswire/ -- Global AI device ecosyste"
-    },
-    {
-      "title": "WPI inflation quickens to 11.39% in September from 9.9% in August",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/economy/indicators/wpi-inflation-rises-to-11-39-in-september-from-9-9-in-august/articleshow/134910312.cms",
-      "published": "2026-10-14T06:33:29Z",
-      "description": "Wholesale prices in India rose significantly to 11.39% in September, driven by rising fuel and food costs. Retail inflation also increased to 5.54%, attributed largely to higher vegetable prices. Conc"
-    },
-    {
-      "title": "Gold prices flat as markets await US CPI data",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-prices-flat-as-markets-await-us-cpi-data/articleshow/134929941.cms",
-      "published": "2026-10-14T02:00:13Z",
-      "description": "In early Asian trading, gold prices held steady as investors awaited crucial US consumer price data, which could affect future Federal Reserve decisions. New York Fed President John Williams spoke abo"
-    },
-    {
-      "title": "A股三大指数集体低开，文化传媒板块领跌",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4025045185040265?f=rss",
-      "published": "2026-10-14T01:27:41Z",
-      "description": "36氪获悉，A股三大指数集体低开，沪指跌0.27%，深成指跌0.36%，创业板指跌0.52%；贵金属、文化传媒板块领跌，龙版传媒跌停，盛达资源跌超2%；石油化工、化纤行业板块涨幅居前，恒逸石化涨超1%，中国海油涨0.76%。"
-    },
-    {
-      "title": "8点1氪丨茶百道涉IPO欺诈，被暂停交易；苹果连夜发布3款智能家居新品，总市值再创历史新高；DeepSeek将完成1000亿元融资",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4025027267580036?f=rss",
-      "published": "2026-10-14T01:11:48Z",
-      "description": "今日热点导览\n 字节跳动Seed单独设立大模型安全与对齐部门\n 爆火促销被指加盟商买单，霸王茶姬回应\n 拒签《暗影蜘蛛侠》AI授权协议，美知名演员尼古拉斯·凯奇“硬刚”亚马逊\n 梁文锋或再投一家机器人公司\n 峰学蔚来武亮回应财产转移相关质疑\n 腾讯启动50亿美元债券发行，为AI支出募资\n TOP3大新闻\n 茶百道涉IPO欺诈，被暂停交易\n 36氪获悉，香港证监会公告，已对两个集团采取行动，因它们涉"
-    },
-    {
-      "title": "银行零售黄金业务再布局",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4024933823795332?f=rss",
-      "published": "2026-10-13T23:42:16Z",
-      "description": "随着国际金价在4200美元/盎司附近盘整，南京银行、中信银行近日相继打出“让利”牌，推出或延续积存金手续费优惠；工商银行、中国银行、江苏银行此前已通过按克减免、“老带新”奖励等形式促销该业务。一边是积存金业务持续扩容，另一边则是贵金属通道业务退场。业内人士认为，这本质上是银行零售黄金业务的风控手段，其更加注重长期客户经营与黄金配置需求的承接。（上证报）"
-    },
-    {
-      "title": "从硅谷的算力到古路的霓虹：探究前沿AI的未来",
-      "source": "Ftchinese.com",
-      "url": "https://www.ftchinese.com/story/001111045",
-      "published": "2026-10-13T16:00:00Z",
-      "description": "更新于2026年10月14日 06:59\nFT中文网撰稿人黄凡\n\r\n\n\n\n近年来，AI浪潮方兴未艾，不断的硬件与模型的升级迭代令人目不暇给。最近新闻又报道了美国白宫颁布行政命令推动SI 代替 AI，要求联邦政府机构及行政部门在官方通讯中，将“Artificial Intelligence（人工智能 AI）”这一传统术语统一替换为 “Super Intelligence（超级智能 SI）”。AI未来"
+      "url": "https://financialpost.com/globe-newswire/silver-near-61-puts-canadas-northern-polymetallic-belts-back-in-focus",
+      "published": "2026-10-14T19:00:59Z",
+      "description": "News Provided by Mining Stocks on behalf of Honey Badger Silver Inc. TORONTO, Oct. 14, 2026 (GLOBE NEWSWIRE) — Mining Stocks News Commentary – Silver was trading at about $60.73 an ounce on the mornin"
     }
   ],
   "tweets": []
