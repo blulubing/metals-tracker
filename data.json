@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-10-20 10:45:33 UTC",
+  "updated_at": "2026-10-21 10:57:33 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4121.12,
+      "price_usd": 4127.2,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 57.14,
+      "price_usd": 57.57,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1643.25,
+      "price_usd": 1638.1,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1111.74,
+      "price_usd": 1094.6,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,13 +40,13 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.48,
+      "price_usd": 0.5,
       "unit": "USD/吨 mt"
     },
     {
       "code": "zinc",
       "name": "锌 Zinc",
-      "price_usd": 0.11,
+      "price_usd": 0.12,
       "unit": "USD/吨 mt"
     },
     {
@@ -58,7 +58,7 @@
     {
       "code": "lme_zinc",
       "name": "LME锌 Zinc 3M",
-      "price_usd": 0.12,
+      "price_usd": 0.11,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "A.I.S. Resources Sponsors PhD Research to Advance Geological Exploration at St. John Project",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/a-i-s-resources-sponsors-phd-research-to-advance-geological-exploration-at-st-john-project",
-      "published": "2026-10-19T10:31:54Z",
-      "description": "VANCOUVER, British Columbia, Oct. 19, 2026 (GLOBE NEWSWIRE) — A.I.S. Resources Limited (TSX-V: AIS ● OTC PINK: AISSF ● FRA: 5YH) (the “Company or “A.I.S) is pleased to announce its sponsorship of a Do"
-    },
-    {
-      "title": "How a once high-flying mineral explorer wound up embroiled in legal battles over a lithium project",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/commodities/once-high-flying-mineral-explorer-embroiled-in-fights-over-prospective-lithium-property",
-      "published": "2026-10-19T10:00:41Z",
-      "description": "The suit concerns who owns a property in Brazil's 'lithium valley.\" Emerita claims its former top executives misappropriated it. Read here now"
-    },
-    {
-      "title": "CME Group to Launch Tungsten Futures to Meet Rising Demand for Critical Minerals",
-      "source": "PRNewswire",
-      "url": "https://www.prnewswire.com/news-releases/cme-group-to-launch-tungsten-futures-to-meet-rising-demand-for-critical-minerals-302912428.html",
-      "published": "2026-10-19T10:00:00Z",
-      "description": "CHICAGO, Oct. 19, 2026 /PRNewswire/ -- CME Group, the world's leading derivatives marketplace, today announced that it will launch Tungsten futures to meet rising demand for its metals complex, which "
-    },
-    {
-      "title": "Australian woman lawmaker critically injured in vehicle attack; driver arrested",
+      "title": "Giant 'heat storms' are scorching the Earth. This is the story of the biggest one on record",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/australian-woman-lawmaker-critically-injured-in-vehicle-attack-driver-arrested/articleshow/135045242.cms",
-      "published": "2026-10-19T09:44:13Z",
-      "description": "Australian independent lawmaker Helen Haines was critically injured after being hit by a car outside her electoral office in Wangaratta, Victoria, on"
+      "url": "https://economictimes.indiatimes.com/news/international/world-news/giant-heat-storms-are-scorching-the-earth-this-is-the-story-of-the-biggest-one-on-record/articleshow/135067718.cms",
+      "published": "2026-10-20T10:26:07Z",
+      "description": "Heat storms have increased dramatically, causing severe global consequences including excess deaths and environmental catastrophes. Recent heat storms have been identified as a new classification, rep"
     },
     {
-      "title": "盛达资源：预计2026年前三季度净利润同比增长104.57%-116.96%",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4032607534502533?f=rss",
-      "published": "2026-10-19T09:40:30Z",
-      "description": "36氪获悉，盛达资源公告，预计2026年前三季度归属于上市公司股东的净利润为6.60亿元-7.00亿元，同比增长104.57%-116.96%。业绩变动主要系子公司金山矿业技改后产能释放，产品产销量增加，叠加贵金属价格上涨，销售均价同比上涨所致。"
-    },
-    {
-      "title": "IIT JAM 2027 registration ends today at jam.iitkgp.ac.in; direct link to apply here",
+      "title": "Pete Davidson sold his Staten Island condo at a $400,000 loss; the comedian had owned the property before putting it on the market in 2026",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/iit-jam-2027-registration-ends-today-at-jam-iitkgp-ac-in-direct-link-to-apply-here/articleshow/135043459.cms",
-      "published": "2026-10-19T08:06:07Z",
-      "description": "IIT Kharagpur is concluding the registration process for the Joint Admission Test for Masters on October 19. Candidates can apply through the official website before the deadline expires today. The en"
+      "url": "https://timesofindia.indiatimes.com/real-estate/news/pete-davidson-sold-his-staten-island-condo-at-a-400000-loss-the-comedian-had-owned-the-property-before-putting-it-on-the-market-in-2026/articleshow/135067532.cms",
+      "published": "2026-10-20T10:21:17Z",
+      "description": "Pete Davidson has sold his Staten Island condominium for $800,000, taking a $400,000 loss on the property he purchased for $1.2 million in December 2020."
     },
     {
-      "title": "UPSC Principal, Vice-Principal CRT 2026 postponed; revised exam date announced for January 9, 2027: Check complete details here",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/education/news/upsc-principal-vice-principal-crt-2026-postponed-revised-exam-date-announced-for-january-9-2027-check-complete-details-here/articleshow/135043538.cms",
-      "published": "2026-10-19T08:01:24Z",
-      "description": "The UPSC has rescheduled the Common Recruitment Test for Principal and Vice-Principal posts in the Education Department to January 9, 2027. The examination, earlier scheduled for December 1, 2026, wil"
-    },
-    {
-      "title": "中国巨石：巨石成都年产20万吨高性能玻璃纤维生产线项目总投资增至27.48亿元",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4032508175700354?f=rss",
-      "published": "2026-10-19T07:59:26Z",
-      "description": "36氪获悉，中国巨石公告，公司全资子公司巨石成都拟实施年产20万吨高性能玻璃纤维生产线建设项目，因贵金属价格大幅上涨及提升厂区智能化水平需要，项目总投资由23.48亿元变更为27.48亿元，增加4亿元，建设期由3年缩短为2年。本投资项目全部建成后，预计可实现总投资收益率为7.06%。"
-    },
-    {
-      "title": "私募后市策略瞄准“结构优化”",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4032013722669704?f=rss",
-      "published": "2026-10-18T23:36:27Z",
-      "description": "近期A股市场持续震荡，市场情绪有所波动。AI等科技成长主线调整较为明显，通信、电子等泛AI行业出现回撤，而低拥挤度、低估值的部分公用事业板块以及具有较强避险属性的银行、煤炭等板块表现相对占优。一线私募普遍认为本轮市场调整并非中期趋势逆转，而是外部扰动、筹码结构变化与资金再平衡共同作用的结果。机构人士表示，短期市场仍处震荡分化阶段，目前的策略重心正从赛道贝塔转向个股阿尔法，从仓位择时转向组合的结构优"
-    },
-    {
-      "title": "Cambria Gold Mines Intersects 98.56 g/t Gold over 8.2 Metres at the Silver Coin Deposit, Premier Gold Project",
+      "title": "Fortuna intersects 0.96 g/t gold over 350 meters at the Lindero Mine, Argentina",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/cambria-gold-mines-intersects-98-56-g-t-gold-over-8-2-metres-at-the-silver-coin-deposit-premier-gold-project",
-      "published": "2026-10-18T21:02:43Z",
-      "description": "VANCOUVER, British Columbia, Oct. 18, 2026 (GLOBE NEWSWIRE) — Cambria Gold Mines Inc. (TSXV: CAMB; OTCQX: CAMVF) (“Cambria” or the “Company”) is pleased to announce new assay results from the ongoing "
+      "url": "https://financialpost.com/globe-newswire/fortuna-intersects-0-96-g-t-gold-over-350-meters-at-the-lindero-mine-argentina",
+      "published": "2026-10-20T09:08:08Z",
+      "description": "VANCOUVER, British Columbia, Oct. 20, 2026 (GLOBE NEWSWIRE) — Fortuna Mining Corp. (NYSE: FSM | TSX: FVI) is pleased to report results from infill drilling designed to test open mineralization at dept"
+    },
+    {
+      "title": "工信部：将修订铜、铝等行业规范条例，坚决遏制低水平重复建设",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4033906415965317?f=rss",
+      "published": "2026-10-20T07:41:48Z",
+      "description": "10月20日，国务院新闻办公室举行新闻发布会介绍2026年前三季度工业和信息化发展情况。工业和信息化部新闻发言人、运行监测协调局局长陶青表示，1—8月有色金属行业营收、利润保持高速增长，行业创新能力不断增强。下一步，工信部将持续在稳增长、促转型上下功夫，推动有色金属行业高质量发展，重点抓好三方面工作。一是强化政策引领，落实原材料领域“十五五”规划，加强部门政策协同，推动优质产品在新能源、高端装备、"
+    },
+    {
+      "title": "A股三大指数收盘涨跌不一，机器人概念走强",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4033867209200514?f=rss",
+      "published": "2026-10-20T07:01:55Z",
+      "description": "36氪获悉，A股三大指数收盘涨跌不一，沪指涨0.12%，深成指跌0.14%，创业板指跌0.26%；机器人、医疗、AI办公概念走强，长盈精密、迪安诊断涨停，合合信息涨超8%，宇树科技涨超6%；大金融、贵金属、煤炭板块跌幅居前，大有能源跌超9%，国泰海通跌超4%，中国人保跌超3%，紫金矿业跌超2%。"
+    },
+    {
+      "title": "前苹果工程师、Jackery联创做宠物健康硬件，年营收超10亿，获红杉投资｜硬氪专访",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/4026637554963074?f=rss",
+      "published": "2026-10-20T06:48:37Z",
+      "description": "摘要：从自动化工具进化为能感知、判断、通知、行动的智能终端。\n 作者｜黄楠\n 编辑｜袁斯来\n Petlibro的创始人伍昱某种程度上是个幸运的人。他在20多岁的时候，赶上了中国消费硬件出海的黄金时代。\n 他2007年加入苹果做工程师，参与过早期iPod、初代iPhone的产研工作。2012年开始创业、联合成立储能品牌Jackery，瞄准用户的用电焦虑与充电安全痛点，希望补上苹果产品没能覆盖的空白需"
+    },
+    {
+      "title": "Gold and silver rates today (October 20, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers, Tanishq & IBJA in Delhi, Mumbai, Hyderabad & more cities",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-silver-rate-today-18k-20k-24k-delhi-hyderabad-bengaluru-citywise-ibja-gold-price-malabar-gold-kalyan-jewelers-joyalukkas/articleshow/135062725.cms",
+      "published": "2026-10-20T06:36:09Z",
+      "description": "GoldAs the Dussehra festivities unfolded across India on October 20, 2026, the prices of 22k gold jewellery saw a dip.Gold prices are one of the important considerations for those planning to buy jewe"
+    },
+    {
+      "title": "Inflows in gold ETFs continue to be net positive for the 13th week in a row",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/inflows-in-gold-etfs-continue-to-be-net-positive-for-the-13th-week-in-a-row/article71603284.ece",
+      "published": "2026-10-20T04:52:38Z",
+      "description": "Gold ETFs see 13th straight weekly net inflows as prices hover near $4,200, with $2.3B inflows and $479M redemptions amid market volatility."
+    },
+    {
+      "title": "A股三大指数午间休盘涨跌不一，工业机械板块领涨",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4033661294039944?f=rss",
+      "published": "2026-10-20T03:32:27Z",
+      "description": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指跌0.08%，深成指涨0.18%，创业板指涨0.27%；工业机械、汽车零部件、互联网板块领涨，凡拓数创、田中精机涨停，斯菱智驱涨超13%；贵金属、保险、银行板块跌幅居前，山金国际、中国人保、农业银行跌超2%。"
+    },
+    {
+      "title": "创业板指跌超1%，下跌个股近3200只",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4033545677460613?f=rss",
+      "published": "2026-10-20T01:34:50Z",
+      "description": "36氪获悉，创业板指跌超1%，沪指跌0.36%，深成指跌0.72%。贵金属、军工、煤炭、PCB等方向跌幅居前，沪深京三市下跌个股近3200只。"
     }
   ],
   "tweets": []
