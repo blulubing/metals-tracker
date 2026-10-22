@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-10-21 10:57:33 UTC",
+  "updated_at": "2026-10-22 10:56:34 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4127.2,
+      "price_usd": 4081.39,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 57.57,
+      "price_usd": 55.91,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1638.1,
+      "price_usd": 1588.78,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1094.6,
+      "price_usd": 1062.75,
       "unit": "USD/盎司 oz"
     },
     {
@@ -58,13 +58,13 @@
     {
       "code": "lme_zinc",
       "name": "LME锌 Zinc 3M",
-      "price_usd": 0.11,
+      "price_usd": 0.12,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.48,
+      "price_usd": 0.5,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Giant 'heat storms' are scorching the Earth. This is the story of the biggest one on record",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/world-news/giant-heat-storms-are-scorching-the-earth-this-is-the-story-of-the-biggest-one-on-record/articleshow/135067718.cms",
-      "published": "2026-10-20T10:26:07Z",
-      "description": "Heat storms have increased dramatically, causing severe global consequences including excess deaths and environmental catastrophes. Recent heat storms have been identified as a new classification, rep"
-    },
-    {
-      "title": "Pete Davidson sold his Staten Island condo at a $400,000 loss; the comedian had owned the property before putting it on the market in 2026",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/real-estate/news/pete-davidson-sold-his-staten-island-condo-at-a-400000-loss-the-comedian-had-owned-the-property-before-putting-it-on-the-market-in-2026/articleshow/135067532.cms",
-      "published": "2026-10-20T10:21:17Z",
-      "description": "Pete Davidson has sold his Staten Island condominium for $800,000, taking a $400,000 loss on the property he purchased for $1.2 million in December 2020."
-    },
-    {
-      "title": "Fortuna intersects 0.96 g/t gold over 350 meters at the Lindero Mine, Argentina",
+      "title": "Magna Mining Reports Results of Crean Hill Pre-Feasibility Study With Construction to Begin in 2027",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/fortuna-intersects-0-96-g-t-gold-over-350-meters-at-the-lindero-mine-argentina",
-      "published": "2026-10-20T09:08:08Z",
-      "description": "VANCOUVER, British Columbia, Oct. 20, 2026 (GLOBE NEWSWIRE) — Fortuna Mining Corp. (NYSE: FSM | TSX: FVI) is pleased to report results from infill drilling designed to test open mineralization at dept"
+      "url": "https://financialpost.com/globe-newswire/magna-mining-reports-results-of-crean-hill-pre-feasibility-study-with-construction-to-begin-in-2027",
+      "published": "2026-10-21T10:50:03Z",
+      "description": "SUDBURY, Ontario, Oct. 21, 2026 (GLOBE NEWSWIRE) — Magna Mining Inc. (TSX: NICU) (OTCQX: MGMNF) (FSE: 8YD) (“Magna” or the “Company”) is pleased to announce the results of a Pre-Feasibility Study (“PF"
     },
     {
-      "title": "工信部：将修订铜、铝等行业规范条例，坚决遏制低水平重复建设",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4033906415965317?f=rss",
-      "published": "2026-10-20T07:41:48Z",
-      "description": "10月20日，国务院新闻办公室举行新闻发布会介绍2026年前三季度工业和信息化发展情况。工业和信息化部新闻发言人、运行监测协调局局长陶青表示，1—8月有色金属行业营收、利润保持高速增长，行业创新能力不断增强。下一步，工信部将持续在稳增长、促转型上下功夫，推动有色金属行业高质量发展，重点抓好三方面工作。一是强化政策引领，落实原材料领域“十五五”规划，加强部门政策协同，推动优质产品在新能源、高端装备、"
+      "title": "Hemlo Mining Corp. Reports Third Quarter 2026 Operating Results",
+      "source": "PRNewswire",
+      "url": "https://www.prnewswire.com/news-releases/hemlo-mining-corp-reports-third-quarter-2026-operating-results-302915154.html",
+      "published": "2026-10-21T10:30:00Z",
+      "description": "TORONTO, Oct. 21, 2026 /PRNewswire/ -- Hemlo Mining Corp. (TSX: HMMC) (OTCQX: HMMCF) (\"Hemlo Mining\" or the \"Company\") is pleased to report operating results for the third quarter ended September 30, "
     },
     {
-      "title": "A股三大指数收盘涨跌不一，机器人概念走强",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4033867209200514?f=rss",
-      "published": "2026-10-20T07:01:55Z",
-      "description": "36氪获悉，A股三大指数收盘涨跌不一，沪指涨0.12%，深成指跌0.14%，创业板指跌0.26%；机器人、医疗、AI办公概念走强，长盈精密、迪安诊断涨停，合合信息涨超8%，宇树科技涨超6%；大金融、贵金属、煤炭板块跌幅居前，大有能源跌超9%，国泰海通跌超4%，中国人保跌超3%，紫金矿业跌超2%。"
+      "title": "End of the road for Canada's world famous ice highway",
+      "source": "Financial Post",
+      "url": "https://financialpost.com/feature/canada-ice-highway-reaches-end-road",
+      "published": "2026-10-21T10:00:58Z",
+      "description": "For the first time in nearly 50 years, the 400-kilometre Tibbitt-to-Contwoyto winter road that connects the Far North to the rest of Canada will not be built — and climate change is not to blame"
     },
     {
-      "title": "前苹果工程师、Jackery联创做宠物健康硬件，年营收超10亿，获红杉投资｜硬氪专访",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4026637554963074?f=rss",
-      "published": "2026-10-20T06:48:37Z",
-      "description": "摘要：从自动化工具进化为能感知、判断、通知、行动的智能终端。\n 作者｜黄楠\n 编辑｜袁斯来\n Petlibro的创始人伍昱某种程度上是个幸运的人。他在20多岁的时候，赶上了中国消费硬件出海的黄金时代。\n 他2007年加入苹果做工程师，参与过早期iPod、初代iPhone的产研工作。2012年开始创业、联合成立储能品牌Jackery，瞄准用户的用电焦虑与充电安全痛点，希望补上苹果产品没能覆盖的空白需"
+      "title": "Wedding Season 2026: Gold prices crashed over 5% in a month — Should you buy jewellery now or wait? Experts suggest",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/wedding-season-2026-gold-prices-crashed-over-5-in-a-month-should-you-buy-jewellery-now-or-wait-experts-suggest-11792571511976.html",
+      "published": "2026-10-21T09:31:15Z",
+      "description": "Gold prices in India have fallen nearly 5% in a month, offering potential relief to wedding shoppers. Should you buy jewellery now or wait for further price cuts? Experts explain the key factors to wa"
     },
     {
-      "title": "Gold and silver rates today (October 20, 2026): Check 24k, 22k, 20k and 18k gold jewellery prices from Malabar Gold & Diamonds, Joyalukkas, Kalyan Jewellers, Tanishq & IBJA in Delhi, Mumbai, Hyderabad & more cities",
+      "title": "From Dhirubhai to Akash Ambani, Reliance made stocks popular with Indians",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-silver-rate-today-18k-20k-24k-delhi-hyderabad-bengaluru-citywise-ibja-gold-price-malabar-gold-kalyan-jewelers-joyalukkas/articleshow/135062725.cms",
-      "published": "2026-10-20T06:36:09Z",
-      "description": "GoldAs the Dussehra festivities unfolded across India on October 20, 2026, the prices of 22k gold jewellery saw a dip.Gold prices are one of the important considerations for those planning to buy jewe"
+      "url": "https://economictimes.indiatimes.com/markets/ipos/fpos/from-dhirubhai-to-akash-ambani-reliance-made-stocks-popular-with-indians/articleshow/135087652.cms",
+      "published": "2026-10-21T09:23:56Z",
+      "description": "Jio Platforms’ IPO is putting the Ambani family’s relationship with India’s retail investors on a new footing, almost five decades after Dhirubhai Ambani took Reliance Textile Industries public in 197"
     },
     {
-      "title": "Inflows in gold ETFs continue to be net positive for the 13th week in a row",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/inflows-in-gold-etfs-continue-to-be-net-positive-for-the-13th-week-in-a-row/article71603284.ece",
-      "published": "2026-10-20T04:52:38Z",
-      "description": "Gold ETFs see 13th straight weekly net inflows as prices hover near $4,200, with $2.3B inflows and $479M redemptions amid market volatility."
+      "title": "Brent crude could hit $140 in early 2027 if Gulf supply disruptions persist: Goldman Sachs",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/business/india-business/brent-crude-could-hit-140-in-early-2027-if-gulf-supply-disruptions-persist-goldman-sachs/articleshow/135087496.cms",
+      "published": "2026-10-21T09:21:20Z",
+      "description": "Commodity prices are expected to experience volatility due to geopolitical conflicts and supply chain disruptions. Energy prices may rise sharply if Middle Eastern supplies remain constrained or degra"
     },
     {
-      "title": "A股三大指数午间休盘涨跌不一，工业机械板块领涨",
+      "title": "Government securities tax rules: How are interest income and capital gains taxed for resident and foreign investors?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/government-securities-tax-rules-how-are-interest-income-and-capital-gains-taxed-for-resident-and-foreign-investors-11792567659202.html",
+      "published": "2026-10-21T08:22:14Z",
+      "description": "How are government securities taxed in India? From interest income and capital gains on G-Secs, SDLs, SGBs and T-bills to the tax exemption available to foreign portfolio investors, here's what reside"
+    },
+    {
+      "title": "Gold, silver prices today, 21 October: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-21-october-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11792555396066.html",
+      "published": "2026-10-21T04:26:52Z",
+      "description": "Gold and silver prices today, 21 October: Check the latest 24K and 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities. Also, track MCX gold and silver fut"
+    },
+    {
+      "title": "Hindustan Zinc shares in focus after Q2 net profit more than doubles. Why did Jefferies cut target price?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/hindustan-zinc-shares-in-focus-after-q2-net-profit-more-than-doubles-why-did-jefferies-cut-target-price/articleshow/135081741.cms",
+      "published": "2026-10-21T04:08:59Z",
+      "description": "Hindustan Zinc reported a 142% year-on-year jump in Q2FY27 net profit to Rs 6,412 crore, while revenue rose 77% to Rs 15,093 crore. Despite strong earnings, Jefferies cut its target price to Rs 650 fr"
+    },
+    {
+      "title": "8点1氪丨将实施“消费才可入座”？星巴克中国回应；Anthropic上半年净亏807亿美元；日本优衣库宣布涨价",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4033661294039944?f=rss",
-      "published": "2026-10-20T03:32:27Z",
-      "description": "36氪获悉，A股三大指数午间休盘涨跌不一，沪指跌0.08%，深成指涨0.18%，创业板指涨0.27%；工业机械、汽车零部件、互联网板块领涨，凡拓数创、田中精机涨停，斯菱智驱涨超13%；贵金属、保险、银行板块跌幅居前，山金国际、中国人保、农业银行跌超2%。"
-    },
-    {
-      "title": "创业板指跌超1%，下跌个股近3200只",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4033545677460613?f=rss",
-      "published": "2026-10-20T01:34:50Z",
-      "description": "36氪获悉，创业板指跌超1%，沪指跌0.36%，深成指跌0.72%。贵金属、军工、煤炭、PCB等方向跌幅居前，沪深京三市下跌个股近3200只。"
+      "url": "https://36kr.com/p/4034867385537670?f=rss",
+      "published": "2026-10-21T00:02:13Z",
+      "description": "今日热点导览\n <ul>\n <li>官方定调L2禁用智驾“小蓝灯”</li>\n <li>10月LPR报价出炉</li>\n <li>特斯拉与支付宝达成合作</li>\n <li>谷歌前CEO施密特据悉持有Anthropic约1%股份</li>\n <li>马斯克去年薪酬超1万亿，但到手为零</li>\n </ul>\n TOP 3 大新闻\n “强制消费入座”？星巴克中国回应 \n 星巴克门店要求消费后才能入座"
     }
   ],
   "tweets": []
