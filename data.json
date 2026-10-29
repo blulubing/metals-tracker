@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-10-28 11:55:11 UTC",
+  "updated_at": "2026-10-29 12:03:16 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4046.25,
+      "price_usd": 4019.49,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 53.85,
+      "price_usd": 52.41,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1544.1,
+      "price_usd": 1482.58,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1023.5,
+      "price_usd": 996.46,
       "unit": "USD/盎司 oz"
     },
     {
@@ -34,13 +34,13 @@
     {
       "code": "aluminum",
       "name": "铝 Aluminum",
-      "price_usd": 0.1,
+      "price_usd": 0.09,
       "unit": "USD/吨 mt"
     },
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.49,
+      "price_usd": 0.48,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Lahontan Gold Provides Corporate Update on Santa Fe and West Santa Fe Drill Programs",
+      "title": "Spanish Mountain Gold Acquires 28 Mineral Claims, Expands Exploration Opportunities to Grow Mineralization",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/lahontan-gold-provides-corporate-update-on-santa-fe-and-west-santa-fe-drill-programs",
-      "published": "2026-10-27T11:48:48Z",
-      "description": "TORONTO, Oct. 27, 2026 (GLOBE NEWSWIRE) — Lahontan Gold Corp. (TSXV:LG, OTCQB:LGCXF) (the “Company” or “Lahontan“) is pleased to provide an update on its drilling programs at its Flagship Santa Fe Min"
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/spanish-mountain-gold-acquires-28-mineral-claims-expands-exploration-opportunities-to-grow-mineralization",
+      "published": "2026-10-28T11:46:35Z",
+      "description": "VANCOUVER, British Columbia — Spanish Mountain Gold Ltd. (the “Company” or “Spanish Mountain Gold“) (TSXV: SPA; FSE: S3Y; OTCQB: SPAUF) is pleased to announce that it has entered into a purchase agree"
     },
     {
-      "title": "Spanish Mountain Gold Signs Facilities Study Interconnection Agreement with BC Hydro and Strengthens Development Team",
+      "title": "Brixton Metals Announces Non-Brokered Private Placement Of Up To $6 Million",
       "source": "Financial Post",
-      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/spanish-mountain-gold-signs-facilities-study-interconnection-agreement-with-bc-hydro-and-strengthens-development-team",
-      "published": "2026-10-27T11:42:01Z",
-      "description": "VANCOUVER, British Columbia — Spanish Mountain Gold Ltd. (the “Company” or “Spanish Mountain Gold“) (TSXV: SPA; FSE: S3Y; OTCQB: SPAUF) is pleased to announce that it has signed a Facilities Study Agr"
+      "url": "https://financialpost.com/globe-newswire/brixton-metals-announces-non-brokered-private-placement-of-up-to-6-million",
+      "published": "2026-10-28T11:39:00Z",
+      "description": "Not for distribution to United States Newswire Services or for dissemination in the United States VANCOUVER, British Columbia, Oct. 28, 2026 (GLOBE NEWSWIRE) — Brixton Metals Corporation (TSX-V: BBB, "
     },
     {
-      "title": "NexGold Reports Progress on Development Activities at the Goldboro Gold Project in Nova Scotia",
+      "title": "Dundee Reports High-Grade Shovelnose Results as Exploration and Pre-Feasibility Study Work Advances",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/nexgold-reports-progress-on-development-activities-at-the-goldboro-gold-project-in-nova-scotia",
-      "published": "2026-10-27T11:17:12Z",
-      "description": "TORONTO, Oct. 27, 2026 (GLOBE NEWSWIRE) — NexGold Mining Corp. (TSXV: NEXG; OTCQX: NXGCF) (“NexGold” or the “Company”) is pleased to provide an update on the advancement of key development activities "
+      "url": "https://financialpost.com/globe-newswire/dundee-reports-high-grade-shovelnose-results-as-exploration-and-pre-feasibility-study-work-advances",
+      "published": "2026-10-28T11:17:59Z",
+      "description": "TORONTO, Oct. 28, 2026 (GLOBE NEWSWIRE) — Dundee Corporation (TSX: DC.A) (“Dundee” or the “Corporation”) is pleased to report additional high-grade infill results from the South Zone at the Shovelnose"
     },
     {
-      "title": "Sensex today | Stock Market Highlights: Stock markets end largely unchanged amid elevated crude oil prices, selling in bank stocks",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-nifty50-today-stock-market-highlights-27-october-2026/article71626702.ece",
-      "published": "2026-10-27T10:47:20Z",
-      "description": "Sensex, Nifty, Share Prices Highlgihts: Market benchmark indices Sensex and Nifty ended largely unchanged in a highly volatile trade on Tuesday amid persistently elevated crude oil prices, selling in "
-    },
-    {
-      "title": "Karva Chauth shopping 2026: Planning to buy lab-grown diamond jewellery? GST, making charges, tax rules, resale details",
+      "title": "India gold price today, October 28, 2026: Check 24K, 22K and 18K gold rates per 10 grams before buying jewellery",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/karva-chauth-shopping-2026-planning-to-buy-lab-grown-diamond-jewellery-gst-making-charges-tax-rules-resale-details-11793095031430.html",
-      "published": "2026-10-27T10:45:21Z",
-      "description": "Karva Chauth is an occasion when many couples shop for jewellery, and lab-grown diamonds are gaining popularity as an alternative to natural diamonds. Experts explain GST, making charges, capital gain"
+      "url": "https://www.livemint.com/money/personal-finance/india-gold-price-today-october-28-2026-check-24k-22k-and-18k-gold-rates-per-10-grams-before-buying-jewellery-11793185193292.html",
+      "published": "2026-10-28T11:07:33Z",
+      "description": "Gold prices in India rose on October 28, 2026, with 24K gold at  ₹1,42,300 per 10 grams and 22K gold at  ₹1,30,347, according to IBJA. Check the latest gold rates and what buyers should know before pu"
     },
     {
-      "title": "A股三大指数午间休盘集体下跌，医药股领跌",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4043571805099143?f=rss",
-      "published": "2026-10-27T03:33:56Z",
-      "description": "36氪获悉，A股三大指数午间休盘集体下跌，沪指跌0.13%，深成指跌0.33%，创业板跌0.45%；医药、食品饮料板块领跌，艾迪药业跌超10%，凯莱英跌超4%，东鹏饮料跌超3%；海运、贵金属板块涨幅居前，中谷物流涨停，招商轮船涨超4%。"
+      "title": "Rupee falls 21 paise to close at 95.28 against US dollar",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/forex/rupee-falls-21-paise-to-close-at-9528-against-us-dollar/article71635467.ece",
+      "published": "2026-10-28T10:52:27Z",
+      "description": "The rupee opened at 95.01 against the dollar, then lost ground to touch an intra-day low of 95.29 and finally settled for the day at 95.28 (provisional), registering a decline of 21 paise over its pre"
     },
     {
-      "title": "中信证券：黄金买盘韧性支撑价格，铜价关注低库存与年底关税节点",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4043435696804743?f=rss",
-      "published": "2026-10-27T01:15:29Z",
-      "description": "36氪获悉，中信证券发布Q4大宗商品展望报告。报告称，尽管美联储加息及紧缩预期对金价形成扰动，9月全球黄金ETF仍净流入67吨，投资需求呈现韧性；全球“去美元化”趋势及央行购金需求延续有望为金价形成有效托底。铜方面，矿端增量预期持续下修，极端天气及硫酸等辅料供应扰动或进一步约束生产，国内精炼铜供给收缩与低库存支撑价格高位运行。美国精炼铜关税延后尚未取消，年底预期节点前的补库需求或带来额外价格弹性。"
+      "title": "Metals thrust, strong growth engines power Vedanta's stellar July-September",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/indl-goods/svs/metals-mining/metals-thrust-strong-growth-engines-power-vedantas-stellar-july-september/articleshow/135260476.cms",
+      "published": "2026-10-28T10:07:23Z",
+      "description": "The metals-to-oil conglomerate's profit in Q2 was boosted by higher base metal prices. Vedanta attributed its robust Q2 show to higher commodity prices and favourable foreign exchange movements, among"
     },
     {
-      "title": "中信证券：供给约束延续，原油、煤炭及橡胶价格仍有支撑",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4043406554305672?f=rss",
-      "published": "2026-10-27T00:58:50Z",
-      "description": "36氪获悉，中信证券研报表示，展望2026年第四季度，紧缩预期扰动仍存，供给约束与低库存继续支撑部分商品价格。铜价有望高位运行，煤价旺季或上行，原油预计高位震荡，橡胶有望偏强运行，黄金ETF及央行购金需求有望为金价托底。电解铝成本支撑仍存，中期供给压力上升。碳酸锂关注供应恢复与需求放缓带来的压力，钢铁、铁矿石预计低位筑底，硅产品等待库存与政策指引。"
+      "title": "Indian miner Vedanta posts quarterly profit rise on surge in base metal prices",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/companies/indian-miner-vedanta-posts-quarterly-profit-rise-on-surge-in-base-metal-prices/article71635183.ece",
+      "published": "2026-10-28T10:01:51Z",
+      "description": "Higher average zinc prices in the ‌July-September quarter had been expected to boost revenue growth at Vedanta's ‌India zinc business"
     },
     {
-      "title": "首饰金大幅回落，投资金条重返“8”字头",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4043365800694658?f=rss",
-      "published": "2026-10-27T00:12:23Z",
-      "description": "近期，国际金价大幅震荡。COMEX黄金上周跌幅达到4%。记者多方走访发现，受国际金价近期回调影响，国内首饰金、金条、金章等价格相应回落。其中，投资金条每克价格重回“8”字头，首饰金每克价格则回落至千元左右。从线下成交看，金市关注度较高。（中证报）"
+      "title": "IT stocks, Reliance drag markets lower at midday; Pharma outperforms as Fed decision looms",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/it-stocks-reliance-drag-markets-lower-at-midday-pharma-outperforms-as-fed-decision-looms/article71634792.ece",
+      "published": "2026-10-28T07:26:14Z",
+      "description": "Nifty Pharma is the best-performing sectoral index of the session, while Nifty IT remains the worst"
     },
     {
-      "title": "8点1氪丨Anthropic正式提交IPO申请；寿司郎传送带被曝窜出活老鼠；苹果客服称很多客户取消iPhone Duo订单",
+      "title": "36氪首发丨服务长征、蓝箭、C919，这家特种运输车企业完成数千万元融资",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/4043364384707456?f=rss",
-      "published": "2026-10-27T00:08:10Z",
-      "description": "今日热点导览\n <ul>\n <li>Kimi致歉：将为会员提供重置机会</li>\n <li>马斯克宣布X长按点赞可向对方转账1美元</li>\n <li>微软向约6万名员工开放自愿离职方案，AI巨额投入挤压人力预算</li>\n <li>中国石油午后涨近4%，创2008年5月以来新高</li>\n <li>科学家展示全球首款织进衣服的触摸屏</li>\n </ul>\n TOP 3大新闻\n Anthropi"
+      "url": "https://36kr.com/p/4045129016382339?f=rss",
+      "published": "2026-10-28T05:58:42Z",
+      "description": "作者 | 乔钰杰\n 编辑 | 袁斯来\n \n 本文约2100字，建议阅读5分钟\r\n\n \n 硬氪获悉，扬州伏尔坎机械制造有限公司（以下简称“伏尔坎”）近日完成数千万元融资，由深投控直投基金投控东海投资。\n 伏尔坎成立于2016年，是一家专注于多功能特种运输车辆研发与制造的企业，产品主要面向航空航天、军工、大型工程设备、化工罐体、精密仪器及风电设备等超限大件运输场景。公司同时布局日本市场，是国内唯一可实"
+    },
+    {
+      "title": "India jewellers hold off gold buying, betting prices will drop",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/india-jewellers-hold-off-gold-buying-betting-prices-will-drop/articleshow/135249545.cms",
+      "published": "2026-10-28T02:28:20Z",
+      "description": "Indian jewellers are delaying gold purchases ahead of the festive season, betting that prices will fall further after dropping below $4,000 an ounce. MMTC-PAMP India says large jewellery chains remain"
     }
   ],
   "tweets": []
