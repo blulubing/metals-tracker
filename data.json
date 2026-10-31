@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-10-30 11:56:37 UTC",
+  "updated_at": "2026-10-31 11:29:57 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 3967.34,
+      "price_usd": 3875.65,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 50.18,
+      "price_usd": 49.13,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1435.1,
+      "price_usd": 1433.4,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 973.94,
+      "price_usd": 975.59,
       "unit": "USD/盎司 oz"
     },
     {
@@ -34,13 +34,13 @@
     {
       "code": "aluminum",
       "name": "铝 Aluminum",
-      "price_usd": 0.1,
+      "price_usd": 0.09,
       "unit": "USD/吨 mt"
     },
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.48,
+      "price_usd": 0.47,
       "unit": "USD/吨 mt"
     },
     {
@@ -70,80 +70,80 @@
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.45,
+      "price_usd": 0.44,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Nifty surges past 22,900, Sensex jumps 905 points as Fed pause, crude dip lift sentiment",
+      "title": "NSE's electronic gold receipts could generate ₹1,260 crore revenue by FY30, says Jefferies",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/nifty-surges-past-22900-sensex-jumps-905-points-as-fed-pause-crude-dip-lift-sentiment/article71640301.ece",
-      "published": "2026-10-29T11:44:08Z",
-      "description": "Markets jump with Nifty above 22,936 and Sensex at 74,151 as Fed hold, easing oil, and domestic growth optimism fuel broad rally."
+      "url": "https://www.thehindubusinessline.com/markets/nses-electronic-gold-receipts-could-generate-1260-crore-revenue-by-fy30-says-jefferies/article71644103.ece",
+      "published": "2026-10-30T08:58:25Z",
+      "description": "Brokerage sees gold trading volumes reaching 25 times India's annual consumption; estimates three new businesses could add ₹2,242 crore in revenue"
     },
     {
-      "title": "Aventis Energy Confirms Strong Radioactivity up to 48,000 cps at Surface and Discovers New Showings at Saskatchewan’s Corvo Uranium Project",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/aventis-energy-confirms-strong-radioactivity-up-to-48000-cps-at-surface-and-discovers-new-showings-at-saskatchewans-corvo-uranium-project",
-      "published": "2026-10-29T11:37:56Z",
-      "description": "VANCOUVER, British Columbia, Oct. 29, 2026 (GLOBE NEWSWIRE) — Aventis Energy Inc. (CSE: AVE | FRA: C0O0 | OTC: VBAMF) (“Aventis” or the “Company”) is pleased to report preliminary results from the fal"
+      "title": "Diwali 2026, Samvat 2083 investment guide: Gold ETFs vs NSE Gold EGRs — Where should you invest your money? Experts view",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/diwali-2026-samvat-2083-investment-guide-gold-etfs-vs-nse-gold-egrs-where-should-you-invest-your-money-experts-view-11793347054365.html",
+      "published": "2026-10-30T08:51:32Z",
+      "description": "Gold ETFs and EGRs offer two ways to invest in gold without storing it yourself. But how do they differ in ownership, liquidity, costs, and physical redemption? Experts explain which factors investors"
     },
     {
-      "title": "Apollo Silver Delivers Positive PEA for Calico",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/apollo-silver-delivers-positive-pea-for-calico",
-      "published": "2026-10-29T11:09:54Z",
-      "description": "After-tax NPV5% of US$737 million and 25% IRR at US$55/oz silver; average annual production of 5 Moz silver as on-site doré over a 15-year mine life; initial capital of US$633 million VANCOUVER, Briti"
+      "title": "Gold slips as higher oil, US inflation data bolster Fed hike bets",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-slips-as-higher-oil-us-inflation-data-bolster-fed-hike-bets/article71644215.ece",
+      "published": "2026-10-30T08:08:12Z",
+      "description": "Spot gold was down 0.9% at $3,982.85 per ounce by 0740 GMT, while US gold futures ‌for December delivery dropped 1% to $3,992.50"
     },
     {
-      "title": "Mid-game strategy: Short-term volatility leaves long-term trend of great power competition unchanged",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/mid-game-strategy-short-term-volatility-leaves-long-term-trend-of-great-power-competition-unchanged",
-      "published": "2026-10-29T10:16:26Z",
-      "description": "Industrial Securities FUZHOU, China, Oct. 29, 2026 (GLOBE NEWSWIRE) — A recent report by Wang Han, Chief Global Economist at Industrial Securities, points out that despite mounting market volatility s"
-    },
-    {
-      "title": "“对不起，我们不投具身智能了”",
+      "title": "AI进入细胞工厂，资本等的「大结果」快到了？",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/4046281658307456?f=rss",
-      "published": "2026-10-29T01:32:34Z",
-      "description": "作者 | 邱晓芬\n 编辑 | 袁斯来\n 具身赛道里，那个有些疯狂的投资人，开始收手了。\n 很少有人会质疑他的地位。他出现在某机器人上市公司早期投资人名单中、又是另一家具身智能头部企业的幕后人。在很多年中，他和公众视野保持着谨慎的距离。但在一级市场，他以风格凌厉和激进著名。\n “他的判断很疯狂，没有前面那堆乱七八糟的（调研），就是我要投你，就投了，一个礼拜钱到账。”一位熟悉的投资人告诉硬氪。\n 如今"
+      "url": "https://36kr.com/p/4046754792543106?f=rss",
+      "published": "2026-10-30T01:31:17Z",
+      "description": "文 | 刘凌果\n 编辑 | 海若镜\n 10月14日，诺贝尔化学奖得主David Baker团队连发两篇《Nature》，宣布AI能从头设计蛋白酶；9月以来，Claude、Gemini 4接连宣称具备发现、设计新酶的能力。\n AI4S水温沸腾，以酶为关键工具的昔日顶流“合成生物”，能否复制AI制药的升温路径，借由AI证明自己，重获资本青睐？\n “直至今年，大多数企业都没从坑里爬出来。包括当年顶尖VC"
     },
     {
-      "title": "A股三大指数集体低开，宇树科技跌超6%",
+      "title": "36氪首发丨固态电池“卖铲人”获红榕、明势等押注，已完成数十吨交付",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4046278754980741?f=rss",
-      "published": "2026-10-29T01:27:36Z",
-      "description": "36氪获悉，A股三大指数集体低开，沪指低开0.13%，深成指低开0.82%，创业板指低开1.46%；物理AI、先进封装、GPU概念跌幅居前，宇树科技跌超6%，精智达、摩尔线程跌超3%，沐曦股份跌近2%；海运、贵金属、工程机械领涨，中远海特涨超7%，上海沪工涨超6%，山金国际涨超1%。"
+      "url": "https://36kr.com/p/4047672620611844?f=rss",
+      "published": "2026-10-30T01:05:49Z",
+      "description": "图源/企业\n \n 本文约3500字，建议阅读9分钟\r\n\n \n 作者丨欧雪\n 编辑丨袁斯来\n 硬氪获悉，全固态电池关键原材料硫化锂生产商——四川全固态新材料有限公司（下称“四川全固态”）已完成数千万元A轮融资。本轮融资由红榕资本、明势创投领投，天泓投资、兴湘科创及老股东英诺天使跟投。拓深资本、启辰资本担任财务顾问，北京卓晖律师事务所担任法律顾问。资金将主要用于百吨级产线的设备升级与产能扩充、长沙研发"
     },
     {
-      "title": "8点1氪丨姆巴佩中国代言收入近2200万欧元；长鑫科技已被纳入上证指数；宇树科技：前三季度净利润3.87亿元，同比增长270.54%",
+      "title": "8点1氪丨外交部回应三丽鸥取消Vivant联名；科创50指数创新低；上海一宜家餐厅开始实行“消费入座”，周二、周四有保安劝离",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/4046203581289345?f=rss",
-      "published": "2026-10-29T00:13:55Z",
-      "description": "今日热点导览\n 特朗普将“正式禁用”AI一词\n 泡泡玛特回应业绩大跌，管理层称高基数叠加“炒娃降温”\n iPhone Duo首次支持Apple Pencil，仅限USB-C款且需有线配对\n 海力士DRAM到2029年产能已售罄\n 小鹏机器人固态电池小批量量产\n TOP3大新闻\n 姆巴佩中国代言收入近2200万欧元，占商业总收入38%\n 姆巴佩涉华不当言论事件爆发后，中国市场在不到24小时内完成品牌"
+      "url": "https://36kr.com/p/4047618190883331?f=rss",
+      "published": "2026-10-30T00:12:47Z",
+      "description": "今日热点导览\n 宇树回应净利润下滑：系算力、大模型方向研发投入增加所致\n 美国司法部调查英伟达收购HuggingFace\n 美国知名投资人质疑美联储利率决议\n 机器人也有KPI考核标准了，智元发布首个“工时KPI”Worken\n 成都国星宇航科技股份有限公司通过港交所上市聆讯\n TOP3大新闻\n 外交部回应三丽鸥取消Vivant联名\n 10月29日，外交部例行记者会上，有记者问：日本三丽鸥公司取消"
     },
     {
-      "title": "Study confirms FireFly on track to be a significant copper producer",
+      "title": "Capstone Copper Reports Third Quarter 2026 Results",
       "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/study-confirms-firefly-on-track-to-be-a-significant-copper-producer",
-      "published": "2026-10-29T00:03:46Z",
-      "description": "Green Bay also has potential for further growth in the Mineral Resource and forecast production rates, as shown by the latest VMS discovery 35km from Ming Mine QUARTERLY HIGHLIGHTS A Preliminary Econo"
+      "url": "https://financialpost.com/pmn/business-wire-news-releases-pmn/capstone-copper-reports-third-quarter-2026-results",
+      "published": "2026-10-29T20:16:54Z",
+      "description": "Record adjusted EBITDA1 of $358 million Revenue up 19% year-over-year Successful Mantoverde Optimized Project tie-in VANCOUVER, British Columbia — Capstone Copper Corp. (“Capstone” or the “Company”) ("
     },
     {
-      "title": "First Quantum Minerals Reports Third Quarter 2026 Results",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/first-quantum-minerals-reports-third-quarter-2026-results",
-      "published": "2026-10-28T21:13:38Z",
-      "description": "(In United States (“US”) dollars, except where noted otherwise) TORONTO, Oct. 28, 2026 (GLOBE NEWSWIRE) — First Quantum Minerals Ltd. (“First Quantum” or the “Company”) (TSX: FM) today reports results"
+      "title": "卢拉：政坛常青 励志传奇",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001111245",
+      "published": "2026-10-29T16:00:00Z",
+      "description": "叶胜舟：卢拉也有争议和缺陷，但不回避自己的问题，勇于承认、果断应变，能够倾听人民的呼声，尊重人民的意愿，满足人民的正当需求。\r\n\n\r\n\n\r\n\n\n\n\n\n\n\n更新于2026年10月30日 18:22\n叶胜舟为FT中文网撰稿\n\r\n\n\n\n10月27日是巴西现任左翼总统卢拉81周岁生日，最好的生日礼物是25日在总统大选第二轮投票实现惊天大逆转，击败前右翼总统博索纳罗的儿子、联邦参议员弗拉维奥•博索纳罗，如愿"
     },
     {
-      "title": "Eldorado Gold Reports Q3 2026 Financial and Operational Results and Updates 2026 Guidance; Skouries and McIlvenna Bay Advancing Toward Commercial Production",
-      "source": "Financial Post",
-      "url": "https://financialpost.com/globe-newswire/eldorado-gold-reports-q3-2026-financial-and-operational-results-and-updates-2026-guidance-skouries-and-mcilvenna-bay-advancing-toward-commercial-production",
-      "published": "2026-10-28T21:09:44Z",
-      "description": "(All amounts expressed in U.S. dollars unless otherwise noted) VANCOUVER, British Columbia, Oct. 28, 2026 (GLOBE NEWSWIRE) — Eldorado Gold Corporation (“Eldorado”, “Eldorado Gold” or “the Company”) to"
+      "title": "草间弥生：走过折磨与抗争，留下慰藉",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001111233",
+      "published": "2026-10-29T16:00:00Z",
+      "description": "更新于2026年10月30日 08:07\n宋佩芬为FT中文网撰稿\n\r\n\n\n\n“SOLD OUT。”\r\n\n在十月一个秋阳明媚的午後，阿姆斯特丹市立博物馆（Stedelijk Museum）门口立着这块醒目的告示牌。托馆方安排，我得以避开博物馆广场外绵延等待入场的人龙。\r\n\n这场由瑞士巴塞尔贝耶勒基金会美术馆（Fondation Beyeler）、德国科隆路德维希博物馆（Museum Ludwig）与"
+    },
+    {
+      "title": "“洋流”兴起：搅动台北选局——兼比较“洋流”与“韩流”",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001111244",
+      "published": "2026-10-29T16:00:00Z",
+      "description": "更新于2026年10月30日 18:28\n林原为FT中文网撰稿\n\r\n\n\n\n10月下旬，关于台北市长选举，台湾有三份不同的民调公布：依据《联合报》于28日公布的民调，民进党候选人沈伯洋支持度领先国民党候选人蒋万安4个百分点；依据ETtoday在27日公布的民调，蒋万安领先沈伯洋7.5个百分点；而依据震传媒22日公布的民调，沈伯洋领先蒋万安3.8个百分点。这些民调都在台湾舆论场引发热议，人们又将其与对"
     }
   ],
   "tweets": []
