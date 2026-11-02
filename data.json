@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-11-01 12:27:46 UTC",
+  "updated_at": "2026-11-02 14:25:30 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 3875.65,
+      "price_usd": 3936.41,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 49.13,
+      "price_usd": 50.64,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1433.4,
+      "price_usd": 1443.6,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 975.59,
+      "price_usd": 967.09,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.47,
+      "price_usd": 0.48,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,18 +76,32 @@
   ],
   "news": [
     {
-      "title": "Scientists tested 27 people against one trained dog in New Mexico's desert; the dog detected bird carcasses 87% of the time, while people averaged just 49%",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/science/scientists-tested-27-people-against-one-trained-dog-in-new-mexicos-desert-the-dog-found-bird-remains-87-of-the-time-while-people-averaged-just-49/articleshow/135397725.cms",
-      "published": "2026-10-31T12:27:24Z",
-      "description": "A groundbreaking study in Southern New Mexico has shed light on the comparative efficiency of humans and dogs in locating bird carcasses. Over two years, 27 surveyors and one detection dog participate"
+      "title": "Gold, silver lose sheen",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/gold-silver-lose-sheen/article71652176.ece",
+      "published": "2026-11-01T05:18:38Z",
+      "description": "Gold and silver have clocked negative returns. Even the outlook for both gold and silver have turned negative. Precious metal prices are likely to drift lower until resistance level is breached."
     },
     {
-      "title": "ET Wealth Expo | Only 6 of 1990's Sensex stocks survive: S Naren's case for smarter asset allocation",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-only-6-of-1990s-sensex-stocks-survive-s-narens-case-for-smarter-asset-allocation/articleshow/135397428.cms",
-      "published": "2026-10-31T10:10:24Z",
-      "description": "S Naren of ICICI Prudential Mutual Fund highlights how only six companies from the 1990 Sensex remain in the benchmark today. At ET Wealth Expo, he explained why beaten-down stocks may never recover a"
+      "title": "Why gold has become a strategic asset for Indian investors",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/why-gold-has-become-a-strategic-asset-for-indian-investors/article71650132.ece",
+      "published": "2026-11-01T05:05:53Z",
+      "description": "Investors are asking harder questions about purity, transparency and physical backing, and the industry itself is calling for oversight to match the scale of participation"
+    },
+    {
+      "title": "Gold, Silver rates crash: What happened with precious metal rates? What didn't go in favour and brought them down?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/gold-silver-rates-crash-what-happened-with-precious-metal-rates-what-didnt-go-in-favour-and-brought-them-down-11793465441981.html",
+      "published": "2026-10-31T17:37:08Z",
+      "description": "Gold and silver prices plunged on Friday, with MCX gold falling ₹4,347 per 10 grams and silver dropping ₹10,577 per kg. Here are the factors responsible for this deep plunge.&nbsp;"
+    },
+    {
+      "title": "Bullion Cues: Supports face a test",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-supports-face-a-test/article71648724.ece",
+      "published": "2026-10-31T16:18:19Z",
+      "description": "Bears deepen as gold and silver slide; key supports tested with potential further declines and limited recovery signals."
     },
     {
       "title": "In 1907, gold and silver turned Rawhide, Nevada, into a town of 7,000; by 1910, only 500 remained after stock fraud, a major fire, and a flood wrecked the boom",
@@ -130,20 +144,6 @@
       "url": "https://economictimes.indiatimes.com/markets/commodities/news/tech-rout-drives-gold-to-one-year-low-white-metals-sink-deep-into-oversold-zone/articleshow/135386768.cms",
       "published": "2026-10-31T03:46:29Z",
       "description": "Gold prices have plummeted to a year-long low, driven by anxiety over AI expenditure trends and declining tech shares. Other precious metals such as silver, platinum, and palladium have similarly seen"
-    },
-    {
-      "title": "避险资金转投美债，金价短期或难改颓势",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4049144072845825?f=rss",
-      "published": "2026-10-31T02:02:21Z",
-      "description": "经过短暂反弹后，国际金价重返弱势，再度跌破4000美元/盎司。10月30日，伦敦现货黄金一度跌至3970美元/盎司下方，较8月25日盘中高点累计跌超15%。与此同时，国内沪金期货主力合约也延续弱势，盘中创下2026年以来最低价854.72元/克。业内人士表示，部分避险资金流向美债而非黄金、高油价推升通胀预期以及美联储货币政策维持偏鹰立场，共同构成当前黄金市场的主要压力。此外，黄金ETF资金流向变化"
-    },
-    {
-      "title": "金价跌至一年来新低",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4049132282149380?f=rss",
-      "published": "2026-10-31T01:50:21Z",
-      "description": "受国际原油价格上涨、美国通胀压力加剧以及市场对美联储进一步加息的预期升温等因素影响，国际金价30日跌至一年来新低。截至收盘，纽商所12月交割的黄金期货价格报每盎司3898.9美元，跌幅为3.29%；12月交割的白银期价收于每盎司49.276美元，跌幅为5.93%。这是白银期货价格自2025年11月以来首次跌破每盎司50美元关口。当地时间30日，霍尔木兹海峡油轮遇袭，原油供应风险升温，推动国际油价走"
     }
   ],
   "tweets": []
