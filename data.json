@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-11-02 14:25:30 UTC",
+  "updated_at": "2026-11-03 13:24:05 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 3936.41,
+      "price_usd": 3930.93,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 50.64,
+      "price_usd": 49.55,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1443.6,
+      "price_usd": 1433.92,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 967.09,
+      "price_usd": 946.59,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.45,
+      "price_usd": 0.44,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Gold, silver lose sheen",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/gold-silver-lose-sheen/article71652176.ece",
-      "published": "2026-11-01T05:18:38Z",
-      "description": "Gold and silver have clocked negative returns. Even the outlook for both gold and silver have turned negative. Precious metal prices are likely to drift lower until resistance level is breached."
+      "title": "A £100 Japanese chest became a London engineer’s TV stand for 16 years; linked to Cardinal Mazarin, it resurfaced and sold for €7.31 million",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-100-japanese-chest-became-a-london-engineers-tv-stand-for-16-years-linked-to-cardinal-mazarin-it-resurfaced-and-sold-for-7-31-million/articleshow/135454459.cms",
+      "published": "2026-11-02T12:32:05Z",
+      "description": "A remarkable 17th-century Japanese lacquer chest was unearthed in a South Kensington residence after many years of obscurity. Initially appraised at €200,000, this stunning artifact created quite a st"
     },
     {
-      "title": "Why gold has become a strategic asset for Indian investors",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/why-gold-has-become-a-strategic-asset-for-indian-investors/article71650132.ece",
-      "published": "2026-11-01T05:05:53Z",
-      "description": "Investors are asking harder questions about purity, transparency and physical backing, and the industry itself is calling for oversight to match the scale of participation"
-    },
-    {
-      "title": "Gold, Silver rates crash: What happened with precious metal rates? What didn't go in favour and brought them down?",
+      "title": "Planning to buy gold on Dhanteras? Jewellery vs coins vs gold ETFs vs sovereign gold bonds comparison before you invest",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/gold-silver-rates-crash-what-happened-with-precious-metal-rates-what-didnt-go-in-favour-and-brought-them-down-11793465441981.html",
-      "published": "2026-10-31T17:37:08Z",
-      "description": "Gold and silver prices plunged on Friday, with MCX gold falling ₹4,347 per 10 grams and silver dropping ₹10,577 per kg. Here are the factors responsible for this deep plunge.&nbsp;"
+      "url": "https://www.livemint.com/money/personal-finance/planning-to-buy-gold-on-dhanteras-jewellery-vs-coins-vs-gold-etfs-vs-sovereign-gold-bonds-comparison-before-you-invest-11793621225367.html",
+      "published": "2026-11-02T12:14:40Z",
+      "description": "Planning to buy gold this Dhanteras? Compare jewellery, coins, gold ETFs and Sovereign Gold Bonds on making charges, GST, liquidity, resale costs and taxation to understand which option is more cost-e"
     },
     {
-      "title": "Bullion Cues: Supports face a test",
+      "title": "MCX Gold vs MCX Silver rates today, 2 Nov: Check how precious metals are performing on Monday amid Sensex, Nifty surge",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/mcx-gold-vs-mcx-silver-rates-today-2-nov-check-how-precious-metals-are-performing-on-monday-amid-sensex-nifty-surge-11793601809697.html",
+      "published": "2026-11-02T07:36:14Z",
+      "description": "Gold and silver futures rise on 2 November ahead of US midterms. MCX gold at  ₹1,39,112, silver at  ₹1,81,999, while Nifty tops 23,300."
+    },
+    {
+      "title": "Gold rises on softer oil; markets parse Fed signals",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-supports-face-a-test/article71648724.ece",
-      "published": "2026-10-31T16:18:19Z",
-      "description": "Bears deepen as gold and silver slide; key supports tested with potential further declines and limited recovery signals."
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-rises-on-softer-oil-markets-parse-fed-signals/article71655715.ece",
+      "published": "2026-11-02T07:34:54Z",
+      "description": "Spot gold rose 0.9% to $3,907.94 per ounce ‌by 0633 GMT, after hitting a one-year low in the previous session"
     },
     {
-      "title": "In 1907, gold and silver turned Rawhide, Nevada, into a town of 7,000; by 1910, only 500 remained after stock fraud, a major fire, and a flood wrecked the boom",
+      "title": "Explained: Why gold investors should tone down expectations as yellow metal plunges to a 1-year low",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/in-1907-gold-and-silver-turned-rawhide-nevada-into-a-town-of-7000-by-1910-only-500-remained-after-stock-fraud-a-major-fire-and-a-flood-wrecked-the-boom/articleshow/135345629.cms",
-      "published": "2026-10-31T09:30:00Z",
-      "description": "In 1906, Rawhide, Nevada saw a surge in population, swelling to 7,000 residents after gold was discovered. However, by 1910, it faced a steep decline to about 500 inhabitants, driven by disasters like"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/explained-why-gold-investors-should-tone-down-expectations-as-yellow-metal-plunges-to-a-1-year-low/articleshow/135449976.cms",
+      "published": "2026-11-02T07:31:09Z",
+      "description": "Gold has fallen more than 30% from its January record high, with rising oil prices, inflation concerns and expectations of further Fed rate hikes adding to pressure. Analysts remain cautious about a n"
     },
     {
-      "title": "Silver loses more than half its value from record high: What went wrong and will it recover?",
+      "title": "Nasdaq Outlook: Is the worst over for AI-fuelled tech stocks?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-loses-more-than-half-its-value-from-record-high-what-went-wrong-and-will-it-recover/articleshow/135395608.cms",
-      "published": "2026-10-31T09:03:45Z",
-      "description": "Silver has plunged more than 58% from its February record high of nearly $120 an ounce to around $50, as profit-booking, weaker industrial demand and shifting macroeconomic conditions weigh on prices."
+      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-outlook-is-the-worst-over-for-ai-fuelled-tech-stocks/articleshow/135450038.cms",
+      "published": "2026-11-02T07:30:25Z",
+      "description": "Wall Street’s AI-led rally faced a sharp setback as the Nasdaq recorded its biggest single-day fall since June. Heavy losses in technology stocks reflected growing investor concerns over hyperscaler s"
     },
     {
-      "title": "金饰克价较年内高点跌了近550元",
+      "title": "A股三大指数集体收涨，AI漫剧概念爆发",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4049520122877059?f=rss",
-      "published": "2026-10-31T08:24:53Z",
-      "description": "国际金价大幅下跌。截至最新收盘，COMEX黄金期货下跌3.63%，报3884.90美元/盎司。受国际金价走低影响，国内品牌金饰价格同步下调，部分品牌较年内高点已回落近550元/克。（央视财经）"
+      "url": "https://36kr.com/newsflashes/4052269066900353?f=rss",
+      "published": "2026-11-02T07:01:15Z",
+      "description": "36氪获悉，A股三大指数集体收涨，沪指涨1.08%，深成指涨1.63%，创业板指涨1.87%；AI漫剧概念爆发，芒果超媒、海看股份等多股涨停，教育、券商股走强，国金证券涨停，竞业达涨超7%；贵金属、煤炭、银行板块跌幅居前，上海银行跌超8%，赤峰黄金、山煤国际跌超5%。"
     },
     {
-      "title": "ET Wealth Expo: Why market veteran S Naren thinks investors are getting gold, silver and asset allocation all wrong",
+      "title": "MCX gold prices rise Rs 600/10 grams; silver jumps Rs 3,000/kg ahead of Diwali, but rate hike bets linger. What should you do?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/et-wealth-expo-why-market-veteran-s-naren-thinks-investors-are-getting-gold-silver-and-asset-allocation-all-wrong/articleshow/135391370.cms",
-      "published": "2026-10-31T06:35:25Z",
-      "description": "ICICI Prudential MF's S Naren warns investors against chasing assets after spectacular rallies, highlighting how silver's 216% surge drew record ETF inflows before a 27% correction. At the ET Wealth E"
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-prices-rise-rs-600/10-grams-silver-jumps-rs-3000/kg-ahead-of-diwali-but-rate-hike-bets-linger-what-should-you-do/articleshow/135446161.cms",
+      "published": "2026-11-02T05:10:43Z",
+      "description": "Gold and silver futures opened higher on the MCX ahead of Diwali. December silver futures rose Rs 2,800 to Rs 1,81,925 per kg, while gold futures gained Rs 613 to Rs 1,39,098 per 10 grams. However, pe"
     },
     {
-      "title": "Silver hits 11-month low at ₹1.9 lakh per kg in Delhi; crashes to $49/ounce globally",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/silver-hits-11-month-low-at-19-lakh-per-kg-in-delhi-crashes-to-49ounce-globally/article71648219.ece",
-      "published": "2026-10-31T05:31:44Z",
-      "description": "Silver sinks to 11-month low around ₹1.90 lakh/kg as global prices tumble, gold dips, and sentiment dampens by weaker markets and rate-hike expectations."
-    },
-    {
-      "title": "Tech rout drives gold to one-year low, white metals sink deep into oversold zone",
+      "title": "Why is market rallying today? Sensex soars 900 pts, Nifty tops 23,300. 7 factors driving Rs 6 lakh crore D-Street gains",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/tech-rout-drives-gold-to-one-year-low-white-metals-sink-deep-into-oversold-zone/articleshow/135386768.cms",
-      "published": "2026-10-31T03:46:29Z",
-      "description": "Gold prices have plummeted to a year-long low, driven by anxiety over AI expenditure trends and declining tech shares. Other precious metals such as silver, platinum, and palladium have similarly seen"
+      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rallying-today-sensex-soars-950-points-nifty-above-23300-7-factors-driving-rs-4-lakh-crore-d-street-gains/articleshow/135444466.cms",
+      "published": "2026-11-02T04:13:11Z",
+      "description": "The Indian stock market saw a robust performance on Monday, with Sensex and Nifty climbing over 1%. This was largely driven by Reliance Industries' strong earnings report, which propelled its shares u"
+    },
+    {
+      "title": "A股三大指数午间休盘集体上涨，全市场近4800股飘红",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4052064689116035?f=rss",
+      "published": "2026-11-02T03:33:21Z",
+      "description": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨1.16%，深成指涨2.39%，创业板涨3.28%；大金融领涨，指南针涨超15%，国金证券涨停，同花顺涨超9%；文化传媒板块走强，掌阅科技、芒果超媒涨停，中信出版、果麦文化涨超15%；白酒股走高，皇台酒业2连板，水井坊、金种子酒涨停；贵金属板块跌幅居前，山金国际跌超6%，赤峰黄金跌近5%；全市场近4800股飘红。"
     }
   ],
   "tweets": []
