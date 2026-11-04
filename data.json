@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-11-03 13:24:05 UTC",
+  "updated_at": "2026-11-04 13:35:14 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 3930.93,
+      "price_usd": 4032.07,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 49.55,
+      "price_usd": 51.79,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1433.92,
+      "price_usd": 1459.5,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 946.59,
+      "price_usd": 987.79,
       "unit": "USD/盎司 oz"
     },
     {
@@ -34,13 +34,13 @@
     {
       "code": "aluminum",
       "name": "铝 Aluminum",
-      "price_usd": 0.09,
+      "price_usd": 0.1,
       "unit": "USD/吨 mt"
     },
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.48,
+      "price_usd": 0.49,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "A £100 Japanese chest became a London engineer’s TV stand for 16 years; linked to Cardinal Mazarin, it resurfaced and sold for €7.31 million",
+      "title": "Apple India’s record sales; Giva’s $100 million fundraise",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/world/rest-of-world/a-100-japanese-chest-became-a-london-engineers-tv-stand-for-16-years-linked-to-cardinal-mazarin-it-resurfaced-and-sold-for-7-31-million/articleshow/135454459.cms",
-      "published": "2026-11-02T12:32:05Z",
-      "description": "A remarkable 17th-century Japanese lacquer chest was unearthed in a South Kensington residence after many years of obscurity. Initially appraised at €200,000, this stunning artifact created quite a st"
+      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/apple-indias-record-sales-givas-100-million-fundraise/articleshow/135500613.cms",
+      "published": "2026-11-03T13:26:19Z",
+      "description": "Apple reported strong September quarter results driven by early demand for its iPhone 18 Pro lineup and price hikes. This and more in today’s ETtech Top 5."
     },
     {
-      "title": "Planning to buy gold on Dhanteras? Jewellery vs coins vs gold ETFs vs sovereign gold bonds comparison before you invest",
+      "title": "India’s illegal gold imports surge 1,500% after tax hike",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/indias-illegal-gold-imports-surge-1500-after-tax-hike-world-gold-council/articleshow/135500540.cms",
+      "published": "2026-11-03T13:16:33Z",
+      "description": "India's illegal gold imports surged dramatically in the third quarter of 2023, reaching 50 metric tons. This rise is attributed to the government's recent duty hike on gold and silver imports. The inc"
+    },
+    {
+      "title": "Anjali wins Jharkhand’s first gold at SGFI Games",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/anjali-wins-jharkhands-first-gold-at-sgfi-games/articleshow/135500191.cms",
+      "published": "2026-11-03T12:46:43Z",
+      "description": "Anjali Kumari wins Jharkhand’s first gold at the 70th SGFI National School Games in Delhi, taking U-19 girls’ 63kg weightlifting with 166kg total."
+    },
+    {
+      "title": "Gold, silver rates crash today: What's behind plunging precious metals prices ahead of Dhanteras, Diwali 2026? Details",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/planning-to-buy-gold-on-dhanteras-jewellery-vs-coins-vs-gold-etfs-vs-sovereign-gold-bonds-comparison-before-you-invest-11793621225367.html",
-      "published": "2026-11-02T12:14:40Z",
-      "description": "Planning to buy gold this Dhanteras? Compare jewellery, coins, gold ETFs and Sovereign Gold Bonds on making charges, GST, liquidity, resale costs and taxation to understand which option is more cost-e"
+      "url": "https://www.livemint.com/money/personal-finance/gold-silver-rates-crash-today-whats-behind-plunging-precious-metals-prices-ahead-of-dhanteras-diwali-2026-details-11793708983830.html",
+      "published": "2026-11-03T12:37:57Z",
+      "description": "Gold fell  ₹542 per 10 grams and silver  ₹875 per kg from AM to PM on November 3, according to IBJA. Ahead of Dhanteras and Diwali, here's what's driving the precious metals correction and what buyers"
     },
     {
-      "title": "MCX Gold vs MCX Silver rates today, 2 Nov: Check how precious metals are performing on Monday amid Sensex, Nifty surge",
+      "title": "Govt employee’s house burgled in Hazaribag",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/ranchi/govt-employees-house-burgled-in-hazaribag/articleshow/135499808.cms",
+      "published": "2026-11-03T12:36:51Z",
+      "description": "Govt employee Mayank Pandey’s locked house in Hazaribag burgled; cash and gold-silver ornaments worth Rs 10–12 lakh stolen, CCTV being checked."
+    },
+    {
+      "title": "Dhanteras 2026: Buying gold and silver coins on Blinkit, Zepto or Instamart? 5 things to check before placing an order",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/mcx-gold-vs-mcx-silver-rates-today-2-nov-check-how-precious-metals-are-performing-on-monday-amid-sensex-nifty-surge-11793601809697.html",
-      "published": "2026-11-02T07:36:14Z",
-      "description": "Gold and silver futures rise on 2 November ahead of US midterms. MCX gold at  ₹1,39,112, silver at  ₹1,81,999, while Nifty tops 23,300."
+      "url": "https://www.livemint.com/money/personal-finance/dhanteras-2026-buying-gold-and-silver-coins-on-blinkit-zepto-or-instamart-5-things-to-check-before-placing-an-order-11793705064434.html",
+      "published": "2026-11-03T11:30:24Z",
+      "description": "Buying gold and silver coins on Blinkit, Zepto and Instamart can be convenient this Dhanteras. But before ordering, check the seller, purity, weight, certification, final price and refund policy. Here"
     },
     {
-      "title": "Gold rises on softer oil; markets parse Fed signals",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-rises-on-softer-oil-markets-parse-fed-signals/article71655715.ece",
-      "published": "2026-11-02T07:34:54Z",
-      "description": "Spot gold rose 0.9% to $3,907.94 per ounce ‌by 0633 GMT, after hitting a one-year low in the previous session"
-    },
-    {
-      "title": "Explained: Why gold investors should tone down expectations as yellow metal plunges to a 1-year low",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/explained-why-gold-investors-should-tone-down-expectations-as-yellow-metal-plunges-to-a-1-year-low/articleshow/135449976.cms",
-      "published": "2026-11-02T07:31:09Z",
-      "description": "Gold has fallen more than 30% from its January record high, with rising oil prices, inflation concerns and expectations of further Fed rate hikes adding to pressure. Analysts remain cautious about a n"
-    },
-    {
-      "title": "Nasdaq Outlook: Is the worst over for AI-fuelled tech stocks?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/us-stocks/wall-street-guide/nasdaq-outlook-is-the-worst-over-for-ai-fuelled-tech-stocks/articleshow/135450038.cms",
-      "published": "2026-11-02T07:30:25Z",
-      "description": "Wall Street’s AI-led rally faced a sharp setback as the Nasdaq recorded its biggest single-day fall since June. Heavy losses in technology stocks reflected growing investor concerns over hyperscaler s"
-    },
-    {
-      "title": "A股三大指数集体收涨，AI漫剧概念爆发",
+      "title": "2026年了，为什么还没有APP帮我找厕所？",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4052269066900353?f=rss",
-      "published": "2026-11-02T07:01:15Z",
-      "description": "36氪获悉，A股三大指数集体收涨，沪指涨1.08%，深成指涨1.63%，创业板指涨1.87%；AI漫剧概念爆发，芒果超媒、海看股份等多股涨停，教育、券商股走强，国金证券涨停，竞业达涨超7%；贵金属、煤炭、银行板块跌幅居前，上海银行跌超8%，赤峰黄金、山煤国际跌超5%。"
+      "url": "https://36kr.com/p/4053753398989703?f=rss",
+      "published": "2026-11-03T08:23:05Z",
+      "description": "140年前，世界上第一台实用洗碗机诞生。\n 发明它的是约瑟芬·科克伦，一位经常需要在家中清洗珍贵瓷具的女性。将生活经验和生活观察变成发明或专利——这件事情，女性一直在做：雨刮器、咖啡过滤器、修正液……它们都是这么来的。\n 占据近一半世界人口，女性别具一格的观察视角创造着造福人类的产品。\n 在AI时代，这一幕再次出现：女性拿起技术，解决生活中困扰着她们的问题。\n 这个问题可以不是那么宏大，技术工具可"
     },
     {
-      "title": "MCX gold prices rise Rs 600/10 grams; silver jumps Rs 3,000/kg ahead of Diwali, but rate hike bets linger. What should you do?",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/mcx-gold-prices-rise-rs-600/10-grams-silver-jumps-rs-3000/kg-ahead-of-diwali-but-rate-hike-bets-linger-what-should-you-do/articleshow/135446161.cms",
-      "published": "2026-11-02T05:10:43Z",
-      "description": "Gold and silver futures opened higher on the MCX ahead of Diwali. December silver futures rose Rs 2,800 to Rs 1,81,925 per kg, while gold futures gained Rs 613 to Rs 1,39,098 per 10 grams. However, pe"
+      "title": "Silver fall: what drove the crash, what's next and what should investors do?",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/silver-prices-silver-etfs-silver-correction-precious-metals-us-bond-yields-federal-reserve-industrial-demand-11793684111226.html",
+      "published": "2026-11-03T07:55:34Z",
+      "description": "Silver ETFs have corrected sharply as speculative positions unwind and bond yields rise. Here's what drove the fall, what could shape the outlook and how investors should approach the metal."
     },
     {
-      "title": "Why is market rallying today? Sensex soars 900 pts, Nifty tops 23,300. 7 factors driving Rs 6 lakh crore D-Street gains",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/news/why-is-market-rallying-today-sensex-soars-950-points-nifty-above-23300-7-factors-driving-rs-4-lakh-crore-d-street-gains/articleshow/135444466.cms",
-      "published": "2026-11-02T04:13:11Z",
-      "description": "The Indian stock market saw a robust performance on Monday, with Sensex and Nifty climbing over 1%. This was largely driven by Reliance Industries' strong earnings report, which propelled its shares u"
+      "title": "Gold, silver rate Coimbatore 3 Nov: Latest price movement today for investors ahead of Dhanteras, Diwali in Isha city",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-24k-22k-18k-999-silver-rate-coimbatore-3-nov-latest-price-movement-today-investors-ahead-dhanteras-diwali-isha-city-11793683692658.html",
+      "published": "2026-11-03T07:21:39Z",
+      "description": "Gold, silver prices today, 3 November Coimbatore: Latest price movement today for investors ahead of Dhanteras, Diwali in Isha city. We also bring retail prices of 18K, 22K and 24K gold and 999 Fine s"
     },
     {
-      "title": "A股三大指数午间休盘集体上涨，全市场近4800股飘红",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4052064689116035?f=rss",
-      "published": "2026-11-02T03:33:21Z",
-      "description": "36氪获悉，A股三大指数午间休盘集体上涨，沪指涨1.16%，深成指涨2.39%，创业板涨3.28%；大金融领涨，指南针涨超15%，国金证券涨停，同花顺涨超9%；文化传媒板块走强，掌阅科技、芒果超媒涨停，中信出版、果麦文化涨超15%；白酒股走高，皇台酒业2连板，水井坊、金种子酒涨停；贵金属板块跌幅居前，山金国际跌超6%，赤峰黄金跌近5%；全市场近4800股飘红。"
+      "title": "Gold, silver rate Chennai 3 Nov: Latest price movement, details for investors today ahead of Dhanteras, Diwali",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/gold-24k-22k-18k-999-silver-rate-chennai-3-november-latest-price-movement-details-investors-today-ahead-dhanteras-diwali-11793687578628.html",
+      "published": "2026-11-03T07:15:05Z",
+      "description": "Gold, silver prices today, 3 November: Latest price movement today for investors ahead of Dhanteras, Diwali in Chennai. We also bring retail prices of 18K, 22K and 24K gold and 999 Fine silver across "
     }
   ],
   "tweets": []
