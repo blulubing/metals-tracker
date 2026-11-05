@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-11-04 13:35:14 UTC",
+  "updated_at": "2026-11-05 13:48:38 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4032.07,
+      "price_usd": 4124.54,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 51.79,
+      "price_usd": 52.89,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1459.5,
+      "price_usd": 1531.96,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 987.79,
+      "price_usd": 1050.37,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.44,
+      "price_usd": 0.45,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.49,
+      "price_usd": 0.51,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.48,
+      "price_usd": 0.49,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Apple India’s record sales; Giva’s $100 million fundraise",
+      "title": "Gold price correction to lift Dhanteras sentiment, but sales volumes likely to remain flat: Jewellers",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/tech/newsletters/tech-top-5/apple-indias-record-sales-givas-100-million-fundraise/articleshow/135500613.cms",
-      "published": "2026-11-03T13:26:19Z",
-      "description": "Apple reported strong September quarter results driven by early demand for its iPhone 18 Pro lineup and price hikes. This and more in today’s ETtech Top 5."
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-price-correction-to-lift-dhanteras-sentiment-but-sales-volumes-likely-to-remain-flat-jewellers/articleshow/135540492.cms",
+      "published": "2026-11-04T13:17:25Z",
+      "description": "The decline in gold prices is expected to boost demand this Dhanteras, All India Gem and Jewellery Domestic Council (GJC) Chairman Rajesh Rokde told."
     },
     {
-      "title": "India’s illegal gold imports surge 1,500% after tax hike",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/indias-illegal-gold-imports-surge-1500-after-tax-hike-world-gold-council/articleshow/135500540.cms",
-      "published": "2026-11-03T13:16:33Z",
-      "description": "India's illegal gold imports surged dramatically in the third quarter of 2023, reaching 50 metric tons. This rise is attributed to the government's recent duty hike on gold and silver imports. The inc"
+      "title": "China expands overseas mining stakes, tightening grip on critical minerals",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/china-critical-minerals-rare-earths-trump-japan-export-control-.html",
+      "published": "2026-11-04T13:00:01Z",
+      "description": "Beijing is building a system of agencies and state-backed vehicles to own more of the metals it depends on, while keeping its edge in processing skills."
     },
     {
-      "title": "Anjali wins Jharkhand’s first gold at SGFI Games",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/anjali-wins-jharkhands-first-gold-at-sgfi-games/articleshow/135500191.cms",
-      "published": "2026-11-03T12:46:43Z",
-      "description": "Anjali Kumari wins Jharkhand’s first gold at the 70th SGFI National School Games in Delhi, taking U-19 girls’ 63kg weightlifting with 166kg total."
-    },
-    {
-      "title": "Gold, silver rates crash today: What's behind plunging precious metals prices ahead of Dhanteras, Diwali 2026? Details",
+      "title": "Gold and silver prices today: Bought on Dhanteras 2025? Check what your ₹1 lakh investment is worth now",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-rates-crash-today-whats-behind-plunging-precious-metals-prices-ahead-of-dhanteras-diwali-2026-details-11793708983830.html",
-      "published": "2026-11-03T12:37:57Z",
-      "description": "Gold fell  ₹542 per 10 grams and silver  ₹875 per kg from AM to PM on November 3, according to IBJA. Ahead of Dhanteras and Diwali, here's what's driving the precious metals correction and what buyers"
+      "url": "https://www.livemint.com/money/personal-finance/gold-and-silver-prices-today-bought-on-dhanteras-2025-check-what-your-1-lakh-investment-is-worth-now-11793795164740.html",
+      "published": "2026-11-04T12:32:52Z",
+      "description": "Gold and silver prices have risen since Dhanteras 2025, with silver marginally outperforming gold. Find out what  ₹1 lakh invested in either metal last year would be worth on 4 November 2026, using th"
     },
     {
-      "title": "Govt employee’s house burgled in Hazaribag",
+      "title": "Gold vs silver investment return: Know value of Rs 5 lakh investment in 1, 3 and 5 years",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/ranchi/govt-employees-house-burgled-in-hazaribag/articleshow/135499808.cms",
-      "published": "2026-11-03T12:36:51Z",
-      "description": "Govt employee Mayank Pandey’s locked house in Hazaribag burgled; cash and gold-silver ornaments worth Rs 10–12 lakh stolen, CCTV being checked."
+      "url": "https://economictimes.indiatimes.com/wealth/invest/gold-vs-silver-investment-return-calculator-on-dhanteras-diwali-which-precious-metal-gave-higher-returns-in-1-3-and-5-years/articleshow/135539142.cms",
+      "published": "2026-11-04T12:26:36Z",
+      "description": "Investing in gold and silver has shown different returns over various periods. Gold delivered approximately 190% returns over five years, while silver reached 178%. Silver has outperformed gold in the"
     },
     {
-      "title": "Dhanteras 2026: Buying gold and silver coins on Blinkit, Zepto or Instamart? 5 things to check before placing an order",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/dhanteras-2026-buying-gold-and-silver-coins-on-blinkit-zepto-or-instamart-5-things-to-check-before-placing-an-order-11793705064434.html",
-      "published": "2026-11-03T11:30:24Z",
-      "description": "Buying gold and silver coins on Blinkit, Zepto and Instamart can be convenient this Dhanteras. But before ordering, check the seller, purity, weight, certification, final price and refund policy. Here"
+      "title": "A blue wave sends futures into the green",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/04/a-blue-wave-sends-futures-into-the-green.html",
+      "published": "2026-11-04T11:29:29Z",
+      "description": "Democrats flip the Senate after winning the House in rebuke to President Trump"
     },
     {
-      "title": "2026年了，为什么还没有APP帮我找厕所？",
+      "title": "五部门：加快布局一批稀贵金属资源循环利用项目，推进有价组分回收和高值化利用",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/4053753398989703?f=rss",
-      "published": "2026-11-03T08:23:05Z",
-      "description": "140年前，世界上第一台实用洗碗机诞生。\n 发明它的是约瑟芬·科克伦，一位经常需要在家中清洗珍贵瓷具的女性。将生活经验和生活观察变成发明或专利——这件事情，女性一直在做：雨刮器、咖啡过滤器、修正液……它们都是这么来的。\n 占据近一半世界人口，女性别具一格的观察视角创造着造福人类的产品。\n 在AI时代，这一幕再次出现：女性拿起技术，解决生活中困扰着她们的问题。\n 这个问题可以不是那么宏大，技术工具可"
+      "url": "https://36kr.com/newsflashes/4055317386613636?f=rss",
+      "published": "2026-11-04T10:42:10Z",
+      "description": "36氪获悉，五部门印发《实施全面节约战略行动方案》。其中提到，加快提升资源化利用水平。深入推进工业、城镇、农林等领域大宗固体废弃物综合利用提质增效，加强尾矿回收利用，完善大宗固体废弃物分类分级管理体系。完善产业侧和社会源废弃物精细化、规范化回收网络。加强废钢铁、报废机动车、废弃电器电子产品等“城市矿产”回收利用。大力推动“新三样”等固体废弃物回收利用，构建新能源汽车动力电池全生命周期管理体系，完善"
     },
     {
-      "title": "Silver fall: what drove the crash, what's next and what should investors do?",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/silver-prices-silver-etfs-silver-correction-precious-metals-us-bond-yields-federal-reserve-industrial-demand-11793684111226.html",
-      "published": "2026-11-03T07:55:34Z",
-      "description": "Silver ETFs have corrected sharply as speculative positions unwind and bond yields rise. Here's what drove the fall, what could shape the outlook and how investors should approach the metal."
+      "title": "培育钻石毛坯涨价？ 黄河旋风回应：属实",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4055277249500297?f=rss",
+      "published": "2026-11-04T10:10:16Z",
+      "description": "有市场消息称，近期，黄河旋风全资子公司莲熠钻石（河南）有限公司发布关于大单晶产品的价格调整函。受近期生产成本上涨、汇率持续升值等因素影响，公司运营成本大幅增加。自2026年11月1日起，大单晶产品（培育钻石毛坯）在原有价格基础上上调10%。对此，黄河旋风方面回应称，涨价消息属实，公司大单晶产品只有子公司莲熠钻石（河南）有限公司在售，涨价函也是子公司发布的。价格是根据市场行情来定的，本次涨价是年内第"
     },
     {
-      "title": "Gold, silver rate Coimbatore 3 Nov: Latest price movement today for investors ahead of Dhanteras, Diwali in Isha city",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-24k-22k-18k-999-silver-rate-coimbatore-3-nov-latest-price-movement-today-investors-ahead-dhanteras-diwali-isha-city-11793683692658.html",
-      "published": "2026-11-03T07:21:39Z",
-      "description": "Gold, silver prices today, 3 November Coimbatore: Latest price movement today for investors ahead of Dhanteras, Diwali in Isha city. We also bring retail prices of 18K, 22K and 24K gold and 999 Fine s"
+      "title": "Trump's loss in US midterms hands Indian gold buyers new setup before Dhanteras",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-buyers-in-india-get-a-new-setup-before-dhanteras-after-trumps-loss-in-us-midterms/articleshow/135533706.cms",
+      "published": "2026-11-04T09:39:22Z",
+      "description": "Gold prices surged over 2% on Wednesday, with a weaker US dollar and lower Treasury yields supporting the rally after Democrats made gains in the US midterm elections. In India, 24-karat gold rose 2.2"
     },
     {
-      "title": "Gold, silver rate Chennai 3 Nov: Latest price movement, details for investors today ahead of Dhanteras, Diwali",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/gold-24k-22k-18k-999-silver-rate-chennai-3-november-latest-price-movement-details-investors-today-ahead-dhanteras-diwali-11793687578628.html",
-      "published": "2026-11-03T07:15:05Z",
-      "description": "Gold, silver prices today, 3 November: Latest price movement today for investors ahead of Dhanteras, Diwali in Chennai. We also bring retail prices of 18K, 22K and 24K gold and 999 Fine silver across "
+      "title": "Silver prices jump over 4% to reclaim $51/oz as Democrats secure US midterm victory. What’s happening?",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/silver-prices-jump-over-4-to-reclaim-51/oz-as-democrats-secure-us-midterm-victory-whats-happening/articleshow/135531935.cms",
+      "published": "2026-11-04T08:39:18Z",
+      "description": "Silver prices surged over 4% to reclaim the $51/oz mark after Democrats secured a victory in the US midterm elections, weakening the dollar and Treasury yields. However, HSBC expects further gains to "
+    },
+    {
+      "title": "IT stocks bleed as defence, consumer names rally; Nifty holds above 23,800",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/it-stocks-bleed-as-defence-consumer-names-rally-nifty-holds-above-23800/article71664628.ece",
+      "published": "2026-11-04T07:58:56Z",
+      "description": "On the BSE, 4,379 stocks were traded, with advances at 2,813 outnumbering declines at 1,323, while 243 stocks remained unchanged"
     }
   ],
   "tweets": []
