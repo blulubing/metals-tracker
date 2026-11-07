@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-11-06 13:32:45 UTC",
+  "updated_at": "2026-11-07 12:13:33 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4036.34,
+      "price_usd": 4071.67,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 51.66,
+      "price_usd": 51.94,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1517.43,
+      "price_usd": 1535.7,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1012.5,
+      "price_usd": 1023.09,
       "unit": "USD/盎司 oz"
     },
     {
@@ -70,80 +70,80 @@
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.44,
+      "price_usd": 0.43,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "M&M Q2 consolidated PAT surges on strong SUV demand, beats Maruti and Hyundai",
+      "title": "Silver price in Chennai today, Nov 6, 2026: Up or down on Dhanteras? Check latest rate in ‘Gateway to South India'",
       "source": "Livemint",
-      "url": "https://www.livemint.com/companies/company-results/mm-strong-suv-demand-maruti-hyundai-11793878483326.html",
-      "published": "2026-11-05T12:48:28Z",
-      "description": "Company’s cost controls and pricing actions offset commodity inflation and rural demand weakness from an El Niño-hit monsoon."
+      "url": "https://www.livemint.com/money/silver-price-in-chennai-today-nov-6-2026-up-or-down-on-dhanteras-check-latest-rate-in-gateway-to-south-india-11793963705701.html",
+      "published": "2026-11-06T12:10:05Z",
+      "description": "Silver prices reversed their recent upward trend on Dhanteras. Check how much silver costs in Chennai today."
     },
     {
-      "title": "2 from Bihar arrested with arms, ammo in Agartala",
+      "title": "US stock market today: Dow futures fall 475 points as S&P 500 and Nasdaq futures rebound, Nvidia, Micron and AMD lead chip recovery after $3 trillion AI-driven Wall Street selloff",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/guwahati/2-from-bihar-arrested-with-arms-ammo-in-agartala/articleshow/135571389.cms",
-      "published": "2026-11-05T11:26:37Z",
-      "description": "Agartala police arrested two Bihar men in Battala and seized three Italian pistols, six magazines and 50 rounds of 7.65mm ammo; probe on network."
+      "url": "https://economictimes.indiatimes.com/news/international/us/us-stock-market-today-dow-futures-fall-475-points-as-sp-500-and-nasdaq-futures-rebound-nvidia-micron-and-amd-lead-chip-recovery-after-3-trillion-ai-driven-wall-street-selloff/articleshow/135605601.cms",
+      "published": "2026-11-06T11:42:42Z",
+      "description": "US stock market futures are mixed today, Friday, Nov. 6, after Thursday’s nearly $3 trillion AI-led selloff, as chip shares attempt a rebound. Dow futures are down 475 points, while S&P 500 futures ga"
     },
     {
-      "title": "Wedding & festive season skincare: When should you start preparing your skin for the Big Day?",
+      "title": "After strangers raised more than $787,000 for him on GoFundMe, the Red Baron worker asked them to stop donating to his campaign and help other people in need",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/women/wellness-beauty/wedding-festive-season-skincare-when-should-you-start-preparing-your-skin-for-the-big-day/articleshow/135571158.cms",
-      "published": "2026-11-05T11:23:16Z",
-      "description": "To achieve radiant skin for a wedding, start preparing three to six months ahead. Consulting a dermatologist is essential to identify treatments suitable for any skin issues. Schedule treatment sessio"
+      "url": "https://timesofindia.indiatimes.com/world/us/after-strangers-raised-more-than-787000-for-him-on-gofundme-the-red-baron-worker-asked-them-to-stop-donating-to-his-campaign-and-help-other-people-in-need/articleshow/135604853.cms",
+      "published": "2026-11-06T11:16:15Z",
+      "description": "After strangers raised more than $787,000 for him on GoFundMe, the Red Baron worker asked them to stop donating to his campaign and help other people in need"
     },
     {
-      "title": "US midterms impact on gold, silver ETFs: Why bullion is rallying after Trump's setback",
+      "title": "Dhanteras 2026: How much gold and silver should you buy? Experts reveal the right portfolio allocation for investors",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/us-midterm-elections-impact-on-gold-silver-etfs-why-trumps-loss-is-lifting-bullion-prices-boosting-investor-dema-11793872984943.html",
-      "published": "2026-11-05T11:05:51Z",
-      "description": "Gold and silver ETFs rallied after the Democrats' US midterm election victory weakened Trump's political position. A softer US dollar, falling bond yields and geopolitical uncertainty supported bullio"
+      "url": "https://www.livemint.com/money/personal-finance/dhanteras-2026-how-much-gold-and-silver-should-you-buy-experts-reveal-the-right-portfolio-allocation-for-investors-11793952443911.html",
+      "published": "2026-11-06T09:04:03Z",
+      "description": "Planning to invest in gold and silver this Dhanteras 2026? Experts explain how much of your investment portfolio should go into precious metals, why gold should form the core allocation and how stagge"
     },
     {
-      "title": "Gold 10 gm or Silver 1 kg? What to buy on Dhanteras 2026? Which shopping will offer best returns over next 1, 3, 5 years",
+      "title": "Gold may glitter at Rs 1.68 lakh as global uncertainties bolster outlook: Report",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-may-glitter-at-rs-1-68-lakh-as-global-uncertainties-bolster-outlook-report/articleshow/135600374.cms",
+      "published": "2026-11-06T08:51:37Z",
+      "description": "Gold prices in India could rise to ₹1.60-1.68 lakh per 10 grams over the next 6-12 months, according to Motilal Oswal Financial Services (MOFSL), which sees price corrections as buying opportunities a"
+    },
+    {
+      "title": "Sensex reclaims 80,000 after March; Nifty tops 24,700 despite global tech rout",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/sensex-reclaims-80000-after-march-nifty-tops-24700-despite-global-tech-rout/article71673442.ece",
+      "published": "2026-11-06T08:03:18Z",
+      "description": "India’s relative resilience underpinned by firmer rupee, moderating crude oil prices and sustained foreign institutional investor buying"
+    },
+    {
+      "title": "A股三大指数集体收跌，算力硬件股下挫",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4057932551378056?f=rss",
+      "published": "2026-11-06T07:02:27Z",
+      "description": "36氪获悉，A股三大指数集体收跌，沪指跌1.1%，深成指跌2.57%，创业板指跌3.96%；算力硬件、生物科技、贵金属板块领跌，剑桥科技跌停，康龙化成跌超8%，紫金矿业跌超4%；电信、电力、银行股涨幅居前，立新能源涨停，中国电信涨超4%，建设银行涨超2%。"
+    },
+    {
+      "title": "Dhanteras 2026 date and time today for gold, silver purchase: Shubh muhurat for buying precious metals on auspicious day",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-10-gm-or-silver-1-kg-what-to-buy-on-dhanteras-2026-which-shopping-will-offer-best-returns-over-next-1-3-5-years-11793871118995.html",
-      "published": "2026-11-05T10:30:41Z",
-      "description": "Gold 10 grams or silver 1 kg prices over the next 1, 3 and 5 years? Experts share their price outlook for both precious metals and explain what investors should consider before buying and investing in"
+      "url": "https://www.livemint.com/money/dhanteras-2026-date-and-time-today-for-gold-silver-purchase-shubh-muhurat-for-buying-precious-metals-on-auspicious-day-11793944049222.html",
+      "published": "2026-11-06T05:52:33Z",
+      "description": "Dhanteras 2026 falls on November 6, with the gold-buying muhurat in New Delhi beginning at 10.30 am and continuing until 6.37 am on November 7. Here are the auspicious timings and key checks for buyin"
     },
     {
-      "title": "山东黄金：拟斥3亿元-4亿元回购股份用于注销",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4056713348502400?f=rss",
-      "published": "2026-11-05T10:29:07Z",
-      "description": "36氪获悉，山东黄金公告，公司拟以集中竞价交易方式回购A股股份，回购资金总额为3亿元（含）-4亿元（含），回购价格不超过48.57元/股，按上限测算拟回购617.67万股-823.55万股，占总股本0.13%-0.18%。回购股份将全部用于注销并减少注册资本，资金来源为自有及自筹资金，已获工行济南分行不超过3.6亿元回购专项贷款承诺。回购期限为相关股东会审议通过之日起12个月内，本次回购方案尚需公"
-    },
-    {
-      "title": "品牌驱动下的全球扩张，出海企业如何守住「数字资产」？｜超级会氪厅活动回顾",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4056300575298688?f=rss",
-      "published": "2026-11-05T10:02:24Z",
-      "description": "2026年，中国品牌全球化正从“规模出海”转向“资产出海”。出海体量持续增长，但品牌溢价能力、渠道话语权以及商标域名的持有状况仍然滞后于整体规模。关税调整、平台规则收紧、各地合规要求细化，也使以订单和成本为核心的出海方式难以为继。\n 在这种背景下，出海企业正在从三个方向重新配置资源：一是产能的地理再布局，生产基地向离客户更近、贸易规则更稳定的地区转移；二是市场决策的数据化，把预算从经验判断转为可验"
-    },
-    {
-      "title": "吹哥老了，独立游戏的黄金时代也是 | 玩点好的",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4056654258393992?f=rss",
-      "published": "2026-11-05T09:53:05Z",
-      "description": "文丨二几\n 吹哥老了。\n 两个多月前《沉星之序》线下见面会上，我第一次见到他本人。除了追星的兴奋，我脑子里还自动冒出了上面四个字。\n 《沉星之序》已经在10月8日上线。这是一款以推箱子为基础、靠不同机制的组合不断拓展谜题可能性的解谜游戏，开发超过十年，包含上千个手工谜题，提供数百小时的游戏内容。\n \n 《沉星之序》游戏截图\n 再过一个月，吹哥就要满55岁。在国内游戏行业，“35岁被优化”是从业者常"
-    },
-    {
-      "title": "Dhanteras 2026: Bought gold last year? See how much your 10-gram investment is worth today despite recent dips",
+      "title": "Dhanteras 2026: Best time to buy gold, silver in Coimbatore; latest today — Shopping Shubh Muhurat, purchase timings",
       "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/dhanteras-2026-bought-gold-last-year-see-how-much-your-10-gram-investment-is-worth-today-despite-recent-dips-11793856543601.html",
-      "published": "2026-11-05T06:26:56Z",
-      "description": "Gold prices have risen by nearly 14-15% since Dhanteras 2025. Here are the latest 24-carat gold rates, your one-year investment returns, India's gold demand trends and factors buyers should consider b"
+      "url": "https://www.livemint.com/money/dhanteras-2026-best-time-to-buy-gold-silver-in-coimbatore-latest-today-shopping-shubh-muhurat-purchase-timings-11793940540975.html",
+      "published": "2026-11-06T04:59:07Z",
+      "description": "According to Dripkpanchang, Dhanteras Puja Muhurat is between 06:02 PM to 07:57 PM (Duration - 01 Hour 56 Mins)."
     },
     {
-      "title": "国内金饰价格集体上涨",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4056437013779337?f=rss",
-      "published": "2026-11-05T05:41:06Z",
-      "description": "国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所上调，周生生足金饰品报1233元/克，较昨日涨了45元；周大福足金饰品报1229元/克，较昨日涨了44元；老庙黄金足金饰品报1225元/克，较昨日涨了42元；老凤祥足金饰品报1232元/克，较昨日涨了49元。（界面）"
+      "title": "Gold, silver prices today, 6 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-6-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11793740268451.html",
+      "published": "2026-11-06T04:03:59Z",
+      "description": "Gold and silver prices today, 6 November: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates."
     }
   ],
   "tweets": []
