@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-08 12:33:36 UTC",
+  "updated_at": "2026-11-09 14:51:06 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4071.67,
+      "price_usd": 4119.8,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 51.94,
+      "price_usd": 52.73,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1535.7,
+      "price_usd": 1564.2,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1023.09,
+      "price_usd": 1033.3,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.43,
+      "price_usd": 0.44,
       "unit": "USD/吨 mt"
     },
     {
       "code": "aluminum",
       "name": "铝 Aluminum",
-      "price_usd": 0.1,
+      "price_usd": 0.09,
       "unit": "USD/吨 mt"
     },
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.51,
+      "price_usd": 0.5,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,6 +76,41 @@
   ],
   "news": [
     {
+      "title": "央行连续24月增持黄金，创近两年最大加仓手笔",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4060768862983045?f=rss",
+      "published": "2026-11-08T09:01:34Z",
+      "description": "黄金储备延续增持态势，并再度刷新阶段性月度增持规模。11月7日，央行数据显示，中国10月末黄金储备为7830万盎司，环比增加83万盎司，为连续24个月增持黄金，且增持量创下2024年11月重启购金以来新高。 中国首席经济学家论坛成员庞溟认为，央行连续24个月增持黄金储备，体现出持续优化国际储备资产结构的政策取向。当前国际经济金融环境仍存在较大不确定性，黄金兼具避险属性和储备资产属性，与外汇储备中的"
+    },
+    {
+      "title": "Gold, silver outlook hinges on US-Iran tensions, global inflation data next week",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold-silver-outlook-hinges-on-us-iran-tensions-global-inflation-data-next-week/article71680614.ece",
+      "published": "2026-11-08T06:31:26Z",
+      "description": "Inflation readings from the US, China, Germany, Japan and India, along with employment data, will be key triggers for precious metals."
+    },
+    {
+      "title": "Bullion Cues: Supports fuel a rebound",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-supports-fuel-a-rebound/article71677769.ece",
+      "published": "2026-11-07T16:42:06Z",
+      "description": "Gold and silver rebound with positive outlook, but dollar strength remains a key risk to watch."
+    },
+    {
+      "title": "4 hybrid funds to buy this Deepavali",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/big-story/4-hybrid-funds-to-buy-this-deepavali/article71670075.ece",
+      "published": "2026-11-07T16:38:21Z",
+      "description": "Four hybrid funds across aggressive, balanced, equity-savings, and multi-asset categories offer diversified paths to cushion volatility and ride future equity rallies."
+    },
+    {
+      "title": "Base metals: More precious in Samvat 2082",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/portfolio/personal-finance/base-metals-more-precious-in-samvat-2082/article71674916.ece",
+      "published": "2026-11-07T16:37:38Z",
+      "description": "Base metals outshined precious metals in Samvat 2082; forecasts for base metals in Samvat 2083 with price targets and risks."
+    },
+    {
       "title": "NSE EGR trading hits record 2.27 lakh units on Dhanteras",
       "source": "BusinessLine",
       "url": "https://www.thehindubusinessline.com/markets/gold/nse-egr-trading-hits-record-227-lakh-units-on-dhanteras/article71677643.ece",
@@ -97,27 +132,6 @@
       "description": "Silver prices reversed their recent upward trend on Dhanteras. Check how much silver costs in Chennai today."
     },
     {
-      "title": "Dhanteras 2026: How much gold and silver should you buy? Experts reveal the right portfolio allocation for investors",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/dhanteras-2026-how-much-gold-and-silver-should-you-buy-experts-reveal-the-right-portfolio-allocation-for-investors-11793952443911.html",
-      "published": "2026-11-06T09:04:03Z",
-      "description": "Planning to invest in gold and silver this Dhanteras 2026? Experts explain how much of your investment portfolio should go into precious metals, why gold should form the core allocation and how stagge"
-    },
-    {
-      "title": "Gold may glitter at Rs 1.68 lakh as global uncertainties bolster outlook: Report",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/industry/cons-products/fashion-/-cosmetics-/-jewellery/gold-may-glitter-at-rs-1-68-lakh-as-global-uncertainties-bolster-outlook-report/articleshow/135600374.cms",
-      "published": "2026-11-06T08:51:37Z",
-      "description": "Gold prices in India could rise to ₹1.60-1.68 lakh per 10 grams over the next 6-12 months, according to Motilal Oswal Financial Services (MOFSL), which sees price corrections as buying opportunities a"
-    },
-    {
-      "title": "Sensex reclaims 80,000 after March; Nifty tops 24,700 despite global tech rout",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/sensex-reclaims-80000-after-march-nifty-tops-24700-despite-global-tech-rout/article71673442.ece",
-      "published": "2026-11-06T08:03:18Z",
-      "description": "India’s relative resilience underpinned by firmer rupee, moderating crude oil prices and sustained foreign institutional investor buying"
-    },
-    {
       "title": "A股三大指数集体收跌，算力硬件股下挫",
       "source": "36kr.com",
       "url": "https://36kr.com/newsflashes/4057932551378056?f=rss",
@@ -130,20 +144,6 @@
       "url": "https://www.livemint.com/money/dhanteras-2026-date-and-time-today-for-gold-silver-purchase-shubh-muhurat-for-buying-precious-metals-on-auspicious-day-11793944049222.html",
       "published": "2026-11-06T05:52:33Z",
       "description": "Dhanteras 2026 falls on November 6, with the gold-buying muhurat in New Delhi beginning at 10.30 am and continuing until 6.37 am on November 7. Here are the auspicious timings and key checks for buyin"
-    },
-    {
-      "title": "Dhanteras 2026: Best time to buy gold, silver in Coimbatore; latest today — Shopping Shubh Muhurat, purchase timings",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/dhanteras-2026-best-time-to-buy-gold-silver-in-coimbatore-latest-today-shopping-shubh-muhurat-purchase-timings-11793940540975.html",
-      "published": "2026-11-06T04:59:07Z",
-      "description": "According to Dripkpanchang, Dhanteras Puja Muhurat is between 06:02 PM to 07:57 PM (Duration - 01 Hour 56 Mins)."
-    },
-    {
-      "title": "西部黄金更换法定代表人完成工商变更",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4057680436499335?f=rss",
-      "published": "2026-11-06T02:54:52Z",
-      "description": "36氪获悉，天眼查App显示，近日，西部黄金股份有限公司发生工商变更，法定代表人由朱凌霄变更为李远，同时多名主要人员发生变更。该公司成立于2002年5月，注册资本约9.11亿元人民币，经营范围含非煤矿山矿产资源开采、金属与非金属矿产资源地质勘探、选矿、金银制品销售、贵金属冶炼等。据公司此前公告，朱凌霄因工作调整申请辞去董事、法定代表人及董事会战略委员会委员职务，辞任后不再担任公司及控股子公司任何职"
     }
   ],
   "tweets": []
