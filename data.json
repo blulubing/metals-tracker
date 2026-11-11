@@ -1,40 +1,40 @@
 {
-  "updated_at": "2026-11-10 14:03:21 UTC",
+  "updated_at": "2026-11-11 13:20:31 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4058.2,
+      "price_usd": 4042.89,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 51.86,
+      "price_usd": 52.7,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1554.24,
+      "price_usd": 1571.7,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1034.95,
+      "price_usd": 1082.46,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.43,
+      "price_usd": 0.44,
       "unit": "USD/吨 mt"
     },
     {
       "code": "aluminum",
       "name": "铝 Aluminum",
-      "price_usd": 0.09,
+      "price_usd": 0.1,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,7 +64,7 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.51,
+      "price_usd": 0.5,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "金价波动加大催生更灵活交易工具，多家银行上线积存金“挂单”功能",
+      "title": "IIFL Finance’s Board okays ₹6,414 cr capital raise from Blackstone PE, Co-promoters, Anchorage Capital",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/money-and-banking/iifl-financesboard-okays-6414-crcapital-raise-from-blackstone-pe-co-promoters-anchorage-capital/article71686148.ece",
+      "published": "2026-11-10T12:48:01Z",
+      "description": "IIFL Finance said funds managed by Blackstone Private Equity, which is the world’s largest alternative asset manager, will invest ₹5,000 crores ($535 million) through a preferential allotment of compu"
+    },
+    {
+      "title": "普通人也能搞硬件开发了？这很「何同学」",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4062517611647878?f=rss",
-      "published": "2026-11-09T12:46:37Z",
-      "description": "11月9日，中信银行发布公告称，预计将于11月16日上线积存金挂单功能，支持买入、赎回委托挂单。客户可根据自身交易需求预设价格，待黄金价格达到设定条件后自动成交。今年以来随着黄金价格波动幅度逐步放大，兴业银行、南京银行等多家银行已陆续上线积存金挂单功能。与此同时，部分银行还通过延长交易时段、推出手续费优惠等方式提升相关产品竞争力。（财联社）"
+      "url": "https://36kr.com/p/4063781243884679?f=rss",
+      "published": "2026-11-10T10:22:05Z",
+      "description": "如何在专业性和用户友好度之间把握平衡，是AI硬件平台不得不跨过的一道门槛。\n \n  \n 文 | 李嘉星\n 编辑 | 张薇\n 封面来源 | Unsplash\n  \n 你有没有想过，亲手做个市面上买不到的电子小玩意儿？ \n 每次看何同学、稚晖君的视频，我都忍不住想：要是我也能做一个就好了。\n  \n \n 图源：老师好我叫何同学《我们做了台魔法钢琴…》\n  \n 我脑子里也时常冒出些稀奇古怪的点子，只是一想"
     },
     {
-      "title": "前歌尔、华为团队做全彩3D拼装DIY创作平台，拿下元禾、梅花等天使系列融资｜硬氪首发",
+      "title": "顺为、高瓴等投资亿元，做“神经蠕虫”的脑机公司来了",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/4053486898418569?f=rss",
-      "published": "2026-11-09T05:04:53Z",
-      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，全彩3D拼装DIY软硬件创作平台「睿岭智能」近日连续完成两轮数千万元融资，天使轮由元禾原点领投、天使+轮梅花创投领投，高秉强教授及旗下Brizan Venture基金、麟阁创投、某全球头部IP企业创始人跟投。资金将重点用于首款产品的量产落地与工艺迭代，加快内容生态体系搭建，拓展线下渠道布局，以实现商业化规模起量。\n 睿岭智能成立于2024年，公司定位拼装DI"
+      "url": "https://36kr.com/p/4047901632543240?f=rss",
+      "published": "2026-11-10T07:58:59Z",
+      "description": "文 | 刘凌果\n 编辑 | 海若镜\n 颅骨上开一个小孔，多根纤维电极在磁场引导下“爬”向多脑区。这项被称为“神经蠕虫”（NeuroWorm）的动态电极技术，2025年9月登上《Nature》正刊，它来自中科院深圳先进院刘志远团队。\n 同年，刘志远成立了脑机接口公司，君柔科技。「暗涌」独家获悉，成立一年内，君柔科技完成三轮融资，累计金额达亿元。上一轮融资由上海九合领投，国家高性能医疗器械创新中心跟投"
     },
     {
-      "title": "Gold, silver prices today, 9 November: Check retail rates of 24K, 22K gold, 999 silver in Delhi, Mumbai and Kolkata",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-prices-today-9-november-check-retail-rates-of-24k-22k-gold-999-silver-in-delhi-mumbai-and-kolkata-11794188827441.html",
-      "published": "2026-11-09T04:17:29Z",
-      "description": "Gold and silver prices today, 9 November: Check the latest 24K, 22K gold and 999 silver retail rates across Delhi, Mumbai, Kolkata and other major Indian cities, along with MCX market updates."
-    },
-    {
-      "title": "「国家队」的作业不好抄",
+      "title": "贵金属价格波动，中国金币集团发布风险提示",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/4061923101660041?f=rss",
-      "published": "2026-11-09T02:44:37Z",
-      "description": "作者 | 黄绎达\n 编辑 | 张帆\n 时隔两年，A股投资者又听到了一个熟悉的声音：“924又来了？”\n 11月2日，央行、金融监管总局和证监会再度联手，推出了一系列稳定资本市场的政策举措：包括开展新一轮证券、基金、保险公司互换便利操作，将股票回购增持再贷款转为长期制度性安排，并将再贷款利率由1.25%降至1%。\n 与此同时，证监会宣布拟优化上市公司股份回购规则，进一步放宽回购条件，并推动新募集的1"
+      "url": "https://36kr.com/newsflashes/4063502864208771?f=rss",
+      "published": "2026-11-10T05:42:40Z",
+      "description": "36氪获悉，中国金币集团发布关于贵金属价格波动的风险提示，文章表示，近期，受国内外多重宏观因素叠加影响，贵金属价格震荡加剧。广大集藏投资者需树立理性稳健的配置理念，客观认知贵金属市场运行规律，高度重视市场价格波动风险。理性参与、审慎操作，避免盲目追涨杀跌，科学管控投资集藏风险。"
     },
     {
-      "title": "122天、团队不止翻倍，耐克首批本土源创系列幕后｜专访",
+      "title": "新加坡推出面向海外央行及官方机构的黄金托管服务",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/4059160873046920?f=rss",
-      "published": "2026-11-09T02:39:59Z",
-      "description": "很长时间，耐克在中国最为人称道的“本土化”，几乎都在广告里。\n 2008年8月18日，刘翔在鸟巢因伤退赛，次日耐克在报纸上登出新广告：“爱运动，即使它伤了你的心。”2020年春节，W+K上海为耐克拍了一支短片：姑姑和侄女为一个红包你推我让，从客厅一路较劲成一场体能对决。人们记住了广告里的中国式人情，却很少有人记得那几年耐克在中国卖的是哪件衣服。\n 上个月，这家运动巨头在中国推出首批由本土团队设计的"
+      "url": "https://36kr.com/newsflashes/4063453405910150?f=rss",
+      "published": "2026-11-10T05:26:15Z",
+      "description": "新加坡已面向海外央行及官方机构推出黄金托管服务，旨在把握全球对黄金储备多元化存储日益增长的需求。新加坡金融管理局（MAS）周二在一份声明中表示，这些贵金属将存放在该城邦的国家货币金库内。该金库目前容量高达500吨，并可根据需求增长进行扩容。新加坡副总理兼新加坡金管局主席颜金勇（Gan Kim Yong）在金管局办公室对记者表示：“新加坡无意取代其他黄金中心或黄金托管服务。随着各国将黄金作为储备资产"
     },
     {
-      "title": "36万「中女」，一年买走52亿江南布衣",
+      "title": "让eVTOL从产品成为商品，交易与运力服务商「零界航空」完成千万元天使轮融资｜36氪首发",
       "source": "36kr.com",
-      "url": "https://36kr.com/p/4061858250773385?f=rss",
-      "published": "2026-11-09T02:39:33Z",
-      "description": "作者 | 谢芸子\n 编辑 | 张帆\n 消费行业集体过冬的2026年，江南布衣反而迎来了巅峰。\n 10月20日，江南布衣报收23.2港元，当天达到上市以来的最高价23.66港元，年初至今累计涨幅超过29%。\n 支撑股价的，是公司发布的最新财报。\n 在截至6月30日的2026财年，江南布衣营收60.46亿元，同比增长9.0%；归母净利润9.97亿元，同比增长11.7%；毛利率66.6%，净利率16.5"
+      "url": "https://36kr.com/p/4063336242549893?f=rss",
+      "published": "2026-11-10T02:40:42Z",
+      "description": "36氪获悉，eVTOL交易与运力服务商安徽天泽零界航空有限公司（以下简称“零界航空”）近日完成千万元天使轮融资，由上海互翔投资管理有限公司独家投资。本轮资金将主要用于推进验证基地的建设与运营、完善OC运行体系、拓展主机厂合作网络、建设数字化平台与专业团队等。\n 今年5月，民航局披露过一组数据：国内已有19个无人驾驶航空器完成型号审定，在审型号超过70个。航空器下线指日可待，但属于它们的航线却还没有"
     },
     {
-      "title": "8点1氪丨黄仁勋发布全员信承认婚外情；比亚迪高管回应收购玛莎拉蒂传闻；Anthropic估值被砍至1.2万亿至1.3万亿美元",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4061760472585347?f=rss",
-      "published": "2026-11-09T00:01:11Z",
-      "description": "今日热点导览\n <ul>\n <li>Meta首席战略官离职转投AI推理初创公司Fireworks</li>\n <li>Anthropic拟于本周启动IPO路演</li>\n <li>特斯拉将逐步停产Cybertruck，销量仅达预期一成</li>\n <li>央行连续24月增持黄金，创近两年最大加仓手笔</li>\n <li>欧洲多国爆发抗议，要求暂停数据中心建设</li>\n <li>iPhone Du"
-    },
-    {
-      "title": "Gold price prediction: Gold rate to undergo volatile mode, claim experts, cite a few factors that will impact bullion movement",
+      "title": "Q2 Earnings Scorecard: Which sectors outperformed and which fell behind?",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/news/international/us/gold-price-prediction-gold-rate-to-undergo-volatile-mode-claim-experts-cite-a-few-factors-that-will-impact-bullion-movement/articleshow/135665960.cms",
-      "published": "2026-11-08T22:17:22Z",
-      "description": "Gold rate prediction: Geopolitical developments in the Middle East, US-Iran war are expected to remain a major driver of precious metal prices."
+      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/corporate-india-keeps-bottom-line-strong-with-price-hikes-and-premiumisation-as-costs-rise/articleshow/135696251.cms",
+      "published": "2026-11-10T01:15:16Z",
+      "description": "The September quarter results indicate strong revenue and profit growth in sectors like automobiles and banking. In contrast, sectors such as IT and pharmaceuticals showed weakness amid inflationary p"
     },
     {
-      "title": "全球经济尚未失速，但增长可能成为少数国家的特权",
-      "source": "Ftchinese.com",
-      "url": "https://www.ftchinese.com/story/001111312",
-      "published": "2026-11-08T16:00:00Z",
-      "description": "殷岳：下一场全球经济危机未必是“大萧条2.0”，它也可能始于一种终局：世界经济仍在增长，但越来越多的国家发现，繁荣已与自己无关。\r\n\n\r\n\n\r\n\n\n\n\n\n\n\n更新于2026年11月9日 11:38\nFT中文网专栏作家殷岳\n\r\n\n\n\n虽然最近的国际新闻很少令人振奋，但世界经济似乎不算太糟。\r\n\n国际货币基金组织（IMF）10月发布的《世界经济展望》预计，2026年全球经济增长3.1%，2027年回升"
-    },
-    {
-      "title": "央行连续24月增持黄金，创近两年最大加仓手笔",
+      "title": "8点1氪丨外媒称黄仁勋或被英伟达免职，尚未指定接班人；突然大规模封号，ChatGPT回应；买烟可优先结账？零食有鸣回应",
       "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4060768862983045?f=rss",
-      "published": "2026-11-08T09:01:34Z",
-      "description": "黄金储备延续增持态势，并再度刷新阶段性月度增持规模。11月7日，央行数据显示，中国10月末黄金储备为7830万盎司，环比增加83万盎司，为连续24个月增持黄金，且增持量创下2024年11月重启购金以来新高。 中国首席经济学家论坛成员庞溟认为，央行连续24个月增持黄金储备，体现出持续优化国际储备资产结构的政策取向。当前国际经济金融环境仍存在较大不确定性，黄金兼具避险属性和储备资产属性，与外汇储备中的"
+      "url": "https://36kr.com/p/4063180322526336?f=rss",
+      "published": "2026-11-10T00:01:00Z",
+      "description": "今日热点导览\n <ul>\n <li>王健林任万达商管董事长</li>\n <li>董宇辉自有品牌回应“首款蛋糕9个月保质期”</li>\n <li>玛莎拉蒂将与尊界合作，推动本地化生产</li>\n <li>美民主党拟对马斯克等发起调查</li>\n <li>SpaceX拟在得州建设240亿美元超级计算设施</li>\n </ul>\n TOP 3大新闻\n 外媒：黄仁勋或被英伟达免职，尚未指定接班人\n 美东时"
+    },
+    {
+      "title": "AI正在经历痛苦的再定价",
+      "source": "Ftchinese.com",
+      "url": "https://www.ftchinese.com/story/001111315",
+      "published": "2026-11-09T16:00:00Z",
+      "description": "更新于2026年11月10日 07:54\n国泰海通旗下GTJAI首席经济学家周浩\n\r\n\n\n\n如果仅从过去一周的市场表现来看，投资者完全有理由相信AI牛市已经走到了终点。11月5日，纳斯达克100指数单日暴跌6.4%，创下2020年3月疫情冲击以来最差表现；费城半导体指数当日重挫12%；仅一天时间，科技股蒸发约2.3万亿美元市值。对于一个两年来几乎被AI叙事所主导的市场而言，这无疑是一次剧烈的信心打"
+    },
+    {
+      "title": "Investments in gold ETFs turn mixed as the precious metal turns volatile",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/investments-in-gold-etfs-turn-mixed-as-the-precious-metal-turns-volatile/article71683169.ece",
+      "published": "2026-11-09T14:32:50Z",
+      "description": "Gold ETF inflows turned negative amid volatility, with mixed investor redemptions in China, the UK, and other markets."
     }
   ],
   "tweets": []
