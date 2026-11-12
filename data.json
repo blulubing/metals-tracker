@@ -1,46 +1,46 @@
 {
-  "updated_at": "2026-11-11 13:20:31 UTC",
+  "updated_at": "2026-11-12 14:25:13 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 4042.89,
+      "price_usd": 3902.57,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 52.7,
+      "price_usd": 50.34,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1571.7,
+      "price_usd": 1523.63,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 1082.46,
+      "price_usd": 1005.42,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.44,
+      "price_usd": 0.43,
       "unit": "USD/吨 mt"
     },
     {
       "code": "aluminum",
       "name": "铝 Aluminum",
-      "price_usd": 0.1,
+      "price_usd": 0.09,
       "unit": "USD/吨 mt"
     },
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.5,
+      "price_usd": 0.51,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "IIFL Finance’s Board okays ₹6,414 cr capital raise from Blackstone PE, Co-promoters, Anchorage Capital",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/money-and-banking/iifl-financesboard-okays-6414-crcapital-raise-from-blackstone-pe-co-promoters-anchorage-capital/article71686148.ece",
-      "published": "2026-11-10T12:48:01Z",
-      "description": "IIFL Finance said funds managed by Blackstone Private Equity, which is the world’s largest alternative asset manager, will invest ₹5,000 crores ($535 million) through a preferential allotment of compu"
-    },
-    {
-      "title": "普通人也能搞硬件开发了？这很「何同学」",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4063781243884679?f=rss",
-      "published": "2026-11-10T10:22:05Z",
-      "description": "如何在专业性和用户友好度之间把握平衡，是AI硬件平台不得不跨过的一道门槛。\n \n  \n 文 | 李嘉星\n 编辑 | 张薇\n 封面来源 | Unsplash\n  \n 你有没有想过，亲手做个市面上买不到的电子小玩意儿？ \n 每次看何同学、稚晖君的视频，我都忍不住想：要是我也能做一个就好了。\n  \n \n 图源：老师好我叫何同学《我们做了台魔法钢琴…》\n  \n 我脑子里也时常冒出些稀奇古怪的点子，只是一想"
-    },
-    {
-      "title": "顺为、高瓴等投资亿元，做“神经蠕虫”的脑机公司来了",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4047901632543240?f=rss",
-      "published": "2026-11-10T07:58:59Z",
-      "description": "文 | 刘凌果\n 编辑 | 海若镜\n 颅骨上开一个小孔，多根纤维电极在磁场引导下“爬”向多脑区。这项被称为“神经蠕虫”（NeuroWorm）的动态电极技术，2025年9月登上《Nature》正刊，它来自中科院深圳先进院刘志远团队。\n 同年，刘志远成立了脑机接口公司，君柔科技。「暗涌」独家获悉，成立一年内，君柔科技完成三轮融资，累计金额达亿元。上一轮融资由上海九合领投，国家高性能医疗器械创新中心跟投"
-    },
-    {
-      "title": "贵金属价格波动，中国金币集团发布风险提示",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4063502864208771?f=rss",
-      "published": "2026-11-10T05:42:40Z",
-      "description": "36氪获悉，中国金币集团发布关于贵金属价格波动的风险提示，文章表示，近期，受国内外多重宏观因素叠加影响，贵金属价格震荡加剧。广大集藏投资者需树立理性稳健的配置理念，客观认知贵金属市场运行规律，高度重视市场价格波动风险。理性参与、审慎操作，避免盲目追涨杀跌，科学管控投资集藏风险。"
-    },
-    {
-      "title": "新加坡推出面向海外央行及官方机构的黄金托管服务",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4063453405910150?f=rss",
-      "published": "2026-11-10T05:26:15Z",
-      "description": "新加坡已面向海外央行及官方机构推出黄金托管服务，旨在把握全球对黄金储备多元化存储日益增长的需求。新加坡金融管理局（MAS）周二在一份声明中表示，这些贵金属将存放在该城邦的国家货币金库内。该金库目前容量高达500吨，并可根据需求增长进行扩容。新加坡副总理兼新加坡金管局主席颜金勇（Gan Kim Yong）在金管局办公室对记者表示：“新加坡无意取代其他黄金中心或黄金托管服务。随着各国将黄金作为储备资产"
-    },
-    {
-      "title": "让eVTOL从产品成为商品，交易与运力服务商「零界航空」完成千万元天使轮融资｜36氪首发",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4063336242549893?f=rss",
-      "published": "2026-11-10T02:40:42Z",
-      "description": "36氪获悉，eVTOL交易与运力服务商安徽天泽零界航空有限公司（以下简称“零界航空”）近日完成千万元天使轮融资，由上海互翔投资管理有限公司独家投资。本轮资金将主要用于推进验证基地的建设与运营、完善OC运行体系、拓展主机厂合作网络、建设数字化平台与专业团队等。\n 今年5月，民航局披露过一组数据：国内已有19个无人驾驶航空器完成型号审定，在审型号超过70个。航空器下线指日可待，但属于它们的航线却还没有"
-    },
-    {
-      "title": "Q2 Earnings Scorecard: Which sectors outperformed and which fell behind?",
+      "title": "LaGuardia’s 1934–36 crackdown drove nearly all New York slot machines from the city; a 1937 photo showed confiscated machines, pinball games and guns being taken out to sea",
       "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/stocks/earnings/corporate-india-keeps-bottom-line-strong-with-price-hikes-and-premiumisation-as-costs-rise/articleshow/135696251.cms",
-      "published": "2026-11-10T01:15:16Z",
-      "description": "The September quarter results indicate strong revenue and profit growth in sectors like automobiles and banking. In contrast, sectors such as IT and pharmaceuticals showed weakness amid inflationary p"
+      "url": "https://timesofindia.indiatimes.com/world/us/laguardias-193436-crackdown-drove-nearly-all-new-york-slot-machines-from-the-city-a-1937-photo-showed-confiscated-machines-pinball-games-and-guns-being-taken-out-to-sea/articleshow/135632747.cms",
+      "published": "2026-11-11T14:05:47Z",
+      "description": "In January 1934, New York City Mayor Fiorello LaGuardia launched a vigorous campaign against slot machines, denouncing them as 'mechanical pickpockets.' He seized and ultimately destroyed over a thous"
     },
     {
-      "title": "8点1氪丨外媒称黄仁勋或被英伟达免职，尚未指定接班人；突然大规模封号，ChatGPT回应；买烟可优先结账？零食有鸣回应",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4063180322526336?f=rss",
-      "published": "2026-11-10T00:01:00Z",
-      "description": "今日热点导览\n <ul>\n <li>王健林任万达商管董事长</li>\n <li>董宇辉自有品牌回应“首款蛋糕9个月保质期”</li>\n <li>玛莎拉蒂将与尊界合作，推动本地化生产</li>\n <li>美民主党拟对马斯克等发起调查</li>\n <li>SpaceX拟在得州建设240亿美元超级计算设施</li>\n </ul>\n TOP 3大新闻\n 外媒：黄仁勋或被英伟达免职，尚未指定接班人\n 美东时"
+      "title": "BJP misleading people over price rise: Congress",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/mangaluru/bjp-misleading-people-over-price-rise-congress/articleshow/135739702.cms",
+      "published": "2026-11-11T13:39:39Z",
+      "description": "Congress in Dakshina Kannada accuses BJP of misleading people on Karnataka milk and KSRTC fare hikes, saying revisions aid farmers and offset fuel costs."
     },
     {
-      "title": "AI正在经历痛苦的再定价",
-      "source": "Ftchinese.com",
-      "url": "https://www.ftchinese.com/story/001111315",
-      "published": "2026-11-09T16:00:00Z",
-      "description": "更新于2026年11月10日 07:54\n国泰海通旗下GTJAI首席经济学家周浩\n\r\n\n\n\n如果仅从过去一周的市场表现来看，投资者完全有理由相信AI牛市已经走到了终点。11月5日，纳斯达克100指数单日暴跌6.4%，创下2020年3月疫情冲击以来最差表现；费城半导体指数当日重挫12%；仅一天时间，科技股蒸发约2.3万亿美元市值。对于一个两年来几乎被AI叙事所主导的市场而言，这无疑是一次剧烈的信心打"
+      "title": "Woman arrested for stealing 15 sovereigns of gold jewellery from cousin’s house near Coimbatore",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/coimbatore/woman-arrested-for-stealing-15-sovereigns-of-gold-jewellery-from-cousins-house-near-coimbatore/articleshow/135738499.cms",
+      "published": "2026-11-11T13:03:46Z",
+      "description": "COIMBATORE: A 40-year-old woman has been arrested on charges of stealing 15 sovereigns of gold jewellery from her cousin’s house in Jothipuram near"
     },
     {
-      "title": "Investments in gold ETFs turn mixed as the precious metal turns volatile",
+      "title": "Indices hold gains at noon; M&M, IndiGo top Nifty charts as IT stocks drag",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/investments-in-gold-etfs-turn-mixed-as-the-precious-metal-turns-volatile/article71683169.ece",
-      "published": "2026-11-09T14:32:50Z",
-      "description": "Gold ETF inflows turned negative amid volatility, with mixed investor redemptions in China, the UK, and other markets."
+      "url": "https://www.thehindubusinessline.com/markets/indices-hold-gains-at-noon-mm-indigo-top-nifty-charts-as-it-stocks-drag/article71688800.ece",
+      "published": "2026-11-11T08:07:24Z",
+      "description": "Sensex was trading at 81,961.89, up 855.24 points or 1.05%, and the Nifty 50 was at 25,270.25, up 225.60 points or 0.90%, as of 1.11 PM"
+    },
+    {
+      "title": "国内金饰报价集体下调",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4065030797776009?f=rss",
+      "published": "2026-11-11T07:23:09Z",
+      "description": "11月11日，国内黄金饰品价格对比显示，多家黄金珠宝品牌公布的境内足金首饰价格较昨日有所下调。其中，老庙黄金报价1208元/克，较昨日跌25元；周生生报价1212元/克，较昨日跌31元；周大福报价1215元/克，较昨日跌24元；老凤祥报价1211元/克，较昨日跌25元。（界面）"
+    },
+    {
+      "title": "Singapore wants a bigger slice of the global gold market. Is it too late to the party?",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/11/singapore-gold-market-vault-storage.html",
+      "published": "2026-11-11T02:46:56Z",
+      "description": "Singapore is stepping up efforts to become a key player in the global gold market, betting that vaulting service and tax incentives will help it attract flows."
+    },
+    {
+      "title": "36氪首发丨交大团队获中网投与清华系资本领投亿元级融资，以“原子+光子芯片”切入量子计算",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/4064699766068101?f=rss",
+      "published": "2026-11-11T02:00:00Z",
+      "description": "图源/企业\n \n 本文约3400字，建议阅读8分钟\r\n\n \n 作者丨欧雪\n 编辑丨袁斯来\n 硬氪获悉，中性原子量子计算企业原基量子（Atomology）近期已完成亿元级天使轮融资。本轮融资由中国互联网投资基金（中网投）与清华系资本慕华科创联合领投，另有近10家机构参与跟投。资金将主要用于核心技术研发、工程化平台建设及核心团队扩充，加速推动中性原子量子计算系统从实验室原型向工程化、规模化和工业级产品"
+    },
+    {
+      "title": "Gold holds near one-week low as hot US inflation boosts Fed hike bets",
+      "source": "The Times of India",
+      "url": "https://economictimes.indiatimes.com/markets/commodities/news/gold-holds-near-one-week-low-as-hot-us-inflation-boosts-fed-hike-bets/articleshow/135722357.cms",
+      "published": "2026-11-11T01:31:41Z",
+      "description": "Gold prices rose 0.2% to $4,039.07 per ounce in early Asian trade on Wednesday. This increase followed a nearly 3% decline in the previous session due to US inflation data. The data indicated stronger"
+    },
+    {
+      "title": "A股三大指数集体低开，贵金属板块领跌",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4064680542278533?f=rss",
+      "published": "2026-11-11T01:26:52Z",
+      "description": "36氪获悉，A股三大指数集体低开，沪指低开0.22%，深成指低开0.32%，创业板指低开0.17%；贵金属、文化传媒领跌，赤峰黄金、西部黄金、中文在线跌超3%，博纳影业跌超2%；白酒、通信设备板块涨幅居前，日海智能涨近6%，中际旭创涨2%，贵州茅台涨0.42%。"
+    },
+    {
+      "title": "8点1氪丨英伟达及黄仁勋遭股东集体诉讼，市值两天蒸发2.85万亿；Anthropic正式启动IPO路演；阿里拟分拆平头哥独立上市",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/4064610635781257?f=rss",
+      "published": "2026-11-11T00:15:52Z",
+      "description": "今日热点导览\n 外交部：中美双方就两国元首年内互动安排保持着沟通\n 全球芯片LOF于11月10日下午开市起停牌至收市\n 董明珠回应格力电器业绩下滑 \n 宝马选定LG新能源、三星SDI供应下一代动力电池\n 百事公司北美业务陷入困境，裁员1000人\n TOP3大新闻\n 黄仁勋及英伟达，被指控涉嫌欺诈股东\n 当地时间9日，美股收盘五分钟后，英伟达及黄仁勋便遭到股东集体诉讼，指控其涉嫌欺诈股东。分析师认为"
     }
   ],
   "tweets": []
