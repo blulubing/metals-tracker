@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-11-16 14:27:12 UTC",
+  "updated_at": "2026-11-17 15:18:24 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 3863.34,
+      "price_usd": 3856.48,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 47.15,
+      "price_usd": 47.59,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1454.2,
+      "price_usd": 1429.37,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 984.88,
+      "price_usd": 980.27,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,13 +40,13 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.49,
+      "price_usd": 0.51,
       "unit": "USD/吨 mt"
     },
     {
       "code": "zinc",
       "name": "锌 Zinc",
-      "price_usd": 0.12,
+      "price_usd": 0.11,
       "unit": "USD/吨 mt"
     },
     {
@@ -70,24 +70,52 @@
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.42,
+      "price_usd": 0.41,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Titan shifts focus to buyer growth as gold-price gains become less reliable",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/companies/titan-shifts-focus-to-buyer-growth-as-gold-price-gains-become-less-reliable/article71705027.ece",
-      "published": "2026-11-15T13:46:22Z",
-      "description": "Sub-₹1 lakh products and lighter carat options targeted as Q2 buyer growth flattens; jewellery revenue rises 24% to ₹17,495 crore"
+      "title": "Gold, silver rates today, 16 November: Check 24K, 22K gold and 999 silver PM rates in Delhi",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/personal-finance/gold-silver-rates-today-16-november-check-24k-22k-gold-and-999-silver-pm-rates-in-delhi-11794837422736.html",
+      "published": "2026-11-16T14:02:55Z",
+      "description": "Gold and silver rates declined on 16 November. IBJA's PM rates put 24K gold at  ₹1,34,971 per 10 grams, 22K gold at  ₹1,23,633 and 999 silver at  ₹1,70,251 per kg."
     },
     {
-      "title": "Gold falls to Rs 1.36 lakh, silver down 5% on MCX this week; what’s the outlook?",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/business/india-business/gold-prices-drop-4-1-to-rs-1-36-lakh-silver-slides-nearly-5-to-rs-1-76-lakh-on-mcx-inflation-data-fed-signals-and-us-iran-tensions-could-keep-bullion-prices-volatile/articleshow/135857019.cms",
-      "published": "2026-11-15T13:34:21Z",
-      "description": "Gold price outlook: Market participants will watch inflation data from India, the US, the UK, the Eurozone and Japan. The minutes of the Federal Open Market Committee meeting, remarks by Federal Reser"
+      "title": "Gold below $4,000/oz attracts ETF inflows, led by US",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-below-4000oz-attracts-etf-inflows-led-by-us/article71708410.ece",
+      "published": "2026-11-16T14:00:17Z",
+      "description": "Gold ETFs net inflows of $672.8M as price dips below $4,000/oz, led by US purchases amid mixed global investor activity."
+    },
+    {
+      "title": "瑞银预测金价将在2027年第四季度触及每盎司5000美元",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4072013261853825?f=rss",
+      "published": "2026-11-16T05:46:05Z",
+      "description": "瑞银集团预计金价将在2027年第四季度触及每盎司5000美元，主要受贬值交易支撑；并维持对澳大利亚上市黄金矿业公司的买入评级。分析师表示，瑞银仍然“看好长期贬值交易”，但已“推迟”其黄金价格预测的轨迹。瑞银已将本季度金价预测下调10%至每盎司4500美元。（新浪财经）"
+    },
+    {
+      "title": "科技股重挫叠加需求前景蒙阴，铜价跌至四个月低点",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4071920730543232?f=rss",
+      "published": "2026-11-16T04:17:21Z",
+      "description": "随着科技股遭遇抛售以及需求前景蒙阴并削弱了市场风险偏好，铜价连续第三个交易日下跌，跌至逾四个月以来的最低水平。伦敦金属交易所（LME）的铜期货价格一度下跌1.4%，创下7月8日以来的最低水平，延续了连续五周的周线下跌走势。英伟达危机引发的人工智能行业动荡对整体市场情绪造成了打压。此外，美联储官员发表鹰派言论后，市场对进一步加息的预期也给这种广泛用于电力基础设施和数据中心的工业金属带来了额外压力。（"
+    },
+    {
+      "title": "哈工大团队创立、李泽湘出手，AR潜水面镜公司融资数千万｜硬氪首发",
+      "source": "36kr.com",
+      "url": "https://36kr.com/p/4070604926850185?f=rss",
+      "published": "2026-11-16T03:00:00Z",
+      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，星域蔚蓝（深圳）科技有限公司（以下简称「星域蔚蓝」）近日完成数千万元天使+轮融资，本轮投资方为湖南财信。此前种子轮及天使轮投资方为初心资本、华山资本、香港X科技基金。资金将重点投向核心光学模组与水下可靠性体系的技术迭代，完善AR潜水互联系统的配套硬件生态，并加速全球渠道布局与规模化量产交付。\n 星域蔚蓝成立于2025年，聚焦水下智能AR装备赛道，专注极端水环"
+    },
+    {
+      "title": "英伟达风波冲击全球算力格局，基金研判AI投资新变量",
+      "source": "36kr.com",
+      "url": "https://36kr.com/newsflashes/4071598054822784?f=rss",
+      "published": "2026-11-15T23:28:30Z",
+      "description": "从一封道歉信到官宣辞任，短短数日，英伟达创始人黄仁勋的个人风波已经演变为一场席卷全球AI产业链的巨震。多家基金及相关机构认为，此次风波冲击的并非全球AI产业的长期需求，而是英伟达作为全球AI芯片龙头的确定性溢价。随着全球算力竞争格局加速重塑，产业链有望从“一枝独秀”走向“百花齐放”，国产算力也有望迎来重估契机。（证券时报）"
     },
     {
       "title": "36氪首发丨具身智能建筑机器人企业完成超亿级融资，连续三年订单复合增长率超100%",
@@ -116,34 +144,6 @@
       "url": "https://www.ftchinese.com/story/001111370",
       "published": "2026-11-14T16:00:00Z",
       "description": "更新于2026年11月15日 20:18\nFT中文网专栏作家曹辛\n\r\n\n\n\n上周，黄仁勋的陨落和即将召开的APEC峰会上中美俄会晤的核心议题及峰会前景，引发世界舆论关注，成为被聚焦的核心。\r\n\n黄仁勋被拉下神坛，本质上涉及政治、私生活和公司治理的关系。本周APEC会议上中美俄会晤的核心议题和峰会前景，则将牵动世界的走向。\r\n\n黄仁勋事件的本质\r\n\n黄仁勋事件涉及私生活和公司治理的关系问题，也可能会"
-    },
-    {
-      "title": "美股大跌，AI盛宴落幕？",
-      "source": "Ftchinese.com",
-      "url": "https://www.ftchinese.com/story/001111368",
-      "published": "2026-11-14T16:00:00Z",
-      "description": "更新于2026年11月15日 18:31\nFT中文网撰稿人黄凡\n\r\n\n\n\n近期，美股一度显著下跌。先是在2026年10月底，美股纳斯达克市场的一些AI巨头股价轮番大跌，其中，谷歌日前在公布的最新财报显示的云业务（Google Cloud）营收增速依然强劲之后，其股价在财报发布后依然单日重挫近13%，创下多项历史性跌幅记录。而英特尔在财报公布后则更是单日重挫28.58%，创下数十年来的最大单日跌幅，"
-    },
-    {
-      "title": "Base metals lose momentum amid strong dollar and demand concerns",
-      "source": "The Times of India",
-      "url": "https://economictimes.indiatimes.com/markets/commodities/news/base-metals-lose-momentum-amid-strong-dollar-and-demand-concerns/articleshow/135827655.cms",
-      "published": "2026-11-14T08:50:56Z",
-      "description": "One of the key reasons behind the weakness in base metals is the strength of the US dollar. The Dollar Index (DXY) has climbed to the 103-104 range, supported by resilient US economic data, elevated T"
-    },
-    {
-      "title": "金价一周跌去4.6%",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4069040028537731?f=rss",
-      "published": "2026-11-14T04:33:22Z",
-      "description": "截至周五收盘，纽约商品交易所12月交割的黄金期价收于每盎司3886.30美元，较前一交易日上涨0.03%，本周金价累计跌幅超4.6%。国际金价持续走弱，主要是市场担忧美国通胀具备黏性，同时预期美联储可能进一步收紧货币政策，推动美元走强、美债收益率走高，压制以美元计价的贵金属价格。本周国际油价累计下行，纽约油价下跌2.5%，布伦特油价下跌2.5%。市场重新评估美伊冲突风险，预期外交谈判可能取得突破，"
-    },
-    {
-      "title": "9点1氪丨马斯克在X平台公开表态，将参与要求黄仁勋重返英伟达的请愿活动",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4068905666859912?f=rss",
-      "published": "2026-11-14T01:15:03Z",
-      "description": "整理丨宋清瑜 \n 今日热点导览\n 微软：初步迹象显示系统已趋于稳定，复原工作仍在进行中\n Anthropic与OpenAI被控抄袭神经网络专利\n 金价再迎暴跌专家劝别抄底，国际金价失守3900美元\n 段永平：目前不会卖出英伟达，当天卖出不少看跌期权\n 华硕前三季度营收7424亿元新台币，归母净利润505亿元新台币\n TOP3大新闻\n 英伟达市值重返美股第二，马斯克宣布将签名支持黄仁勋职\n 据《连线"
     }
   ],
   "tweets": []
