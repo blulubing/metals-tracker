@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-11-17 15:18:24 UTC",
+  "updated_at": "2026-11-18 14:54:12 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 3856.48,
+      "price_usd": 3767.97,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 47.59,
+      "price_usd": 45.31,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1429.37,
+      "price_usd": 1369.22,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 980.27,
+      "price_usd": 953.19,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.42,
+      "price_usd": 0.39,
       "unit": "USD/吨 mt"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.51,
+      "price_usd": 0.5,
       "unit": "USD/吨 mt"
     },
     {
@@ -58,7 +58,7 @@
     {
       "code": "lme_zinc",
       "name": "LME锌 Zinc 3M",
-      "price_usd": 0.12,
+      "price_usd": 0.11,
       "unit": "USD/吨 mt"
     },
     {
@@ -76,74 +76,74 @@
   ],
   "news": [
     {
-      "title": "Gold, silver rates today, 16 November: Check 24K, 22K gold and 999 silver PM rates in Delhi",
-      "source": "Livemint",
-      "url": "https://www.livemint.com/money/personal-finance/gold-silver-rates-today-16-november-check-24k-22k-gold-and-999-silver-pm-rates-in-delhi-11794837422736.html",
-      "published": "2026-11-16T14:02:55Z",
-      "description": "Gold and silver rates declined on 16 November. IBJA's PM rates put 24K gold at  ₹1,34,971 per 10 grams, 22K gold at  ₹1,23,633 and 999 silver at  ₹1,70,251 per kg."
+      "title": "Man held for spiking woman’s drink, sexually assaulting her",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/man-held-for-spiking-womans-drink-sexually-assaulting-her/articleshow/135930288.cms",
+      "published": "2026-11-17T14:52:50Z",
+      "description": "Bhubaneswar man arrested for allegedly spiking friend’s drink, sexually assaulting her, and sharing photos online; case transferred from Nayagarh after zero FIR."
     },
     {
-      "title": "Gold below $4,000/oz attracts ETF inflows, led by US",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-below-4000oz-attracts-etf-inflows-led-by-us/article71708410.ece",
-      "published": "2026-11-16T14:00:17Z",
-      "description": "Gold ETFs net inflows of $672.8M as price dips below $4,000/oz, led by US purchases amid mixed global investor activity."
+      "title": "Make PM’s Vaishali rally historic: Dy CM",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/patna/make-pms-vaishali-rally-historic-dy-cm/articleshow/135930251.cms",
+      "published": "2026-11-17T14:50:50Z",
+      "description": "Deputy CM Vijay Kumar Choudhary urges massive turnout for PM Modi’s Nov 21 Vaishali rally, where he will inaugurate the Kachchi Dargah-Bidupur ‘Nitish Setu’ bridge."
     },
     {
-      "title": "瑞银预测金价将在2027年第四季度触及每盎司5000美元",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4072013261853825?f=rss",
-      "published": "2026-11-16T05:46:05Z",
-      "description": "瑞银集团预计金价将在2027年第四季度触及每盎司5000美元，主要受贬值交易支撑；并维持对澳大利亚上市黄金矿业公司的买入评级。分析师表示，瑞银仍然“看好长期贬值交易”，但已“推迟”其黄金价格预测的轨迹。瑞银已将本季度金价预测下调10%至每盎司4500美元。（新浪财经）"
+      "title": "Gold price in Keralam drops below Rs 1 lakh after record highs",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/kochi/gold-price-in-keralam-drops-below-rs-1-lakh-after-record-highs/articleshow/135929979.cms",
+      "published": "2026-11-17T14:43:43Z",
+      "description": "Gold prices in Kerala fell below Rs 1 lakh to Rs 99,760 per sovereign after a 31% global correction; weak rupee limited the drop, impacting buyers, jewellers and gold loans."
     },
     {
-      "title": "科技股重挫叠加需求前景蒙阴，铜价跌至四个月低点",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4071920730543232?f=rss",
-      "published": "2026-11-16T04:17:21Z",
-      "description": "随着科技股遭遇抛售以及需求前景蒙阴并削弱了市场风险偏好，铜价连续第三个交易日下跌，跌至逾四个月以来的最低水平。伦敦金属交易所（LME）的铜期货价格一度下跌1.4%，创下7月8日以来的最低水平，延续了连续五周的周线下跌走势。英伟达危机引发的人工智能行业动荡对整体市场情绪造成了打压。此外，美联储官员发表鹰派言论后，市场对进一步加息的预期也给这种广泛用于电力基础设施和数据中心的工业金属带来了额外压力。（"
+      "title": "Comments misconstrued, says Abhishek Banerjee after HC slaps show-cause notice, goes on to highlight alleged inequality before judiciary on political lines",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/comments-misconstrued-says-abhishek-banerjee-after-hc-slaps-show-cause-notice-goes-on-to-highlight-alleged-inequality-before-judiciary-on-political-lines/articleshow/135929761.cms",
+      "published": "2026-11-17T14:38:24Z",
+      "description": "Comments misconstrued, says Abhishek Banerjee after HC slaps show-cause notice, goes on to highlight alleged inequality before judiciary on political lines"
     },
     {
-      "title": "哈工大团队创立、李泽湘出手，AR潜水面镜公司融资数千万｜硬氪首发",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4070604926850185?f=rss",
-      "published": "2026-11-16T03:00:00Z",
-      "description": "作者｜黄楠\n 编辑｜袁斯来\n 硬氪获悉，星域蔚蓝（深圳）科技有限公司（以下简称「星域蔚蓝」）近日完成数千万元天使+轮融资，本轮投资方为湖南财信。此前种子轮及天使轮投资方为初心资本、华山资本、香港X科技基金。资金将重点投向核心光学模组与水下可靠性体系的技术迭代，完善AR潜水互联系统的配套硬件生态，并加速全球渠道布局与规模化量产交付。\n 星域蔚蓝成立于2025年，聚焦水下智能AR装备赛道，专注极端水环"
+      "title": "New James Bond star Robert Pattinson's watch collection: Cartier Tank Must to a Rolex Day-Date, 11 luxury timepieces linked to the actor",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/new-james-bond-star-robert-pattinsons-watch-collection-cartier-tank-must-to-a-rolex-day-date-11-luxury-timepieces-linked-to-the-actor/articleshow/135929657.cms",
+      "published": "2026-11-17T14:37:27Z",
+      "description": "Robert Pattinson is known for his distinctive style, which is beautifully complemented by his collection of luxury watches. This article delves into eleven outstanding pieces from his portfolio, featu"
     },
     {
-      "title": "英伟达风波冲击全球算力格局，基金研判AI投资新变量",
-      "source": "36kr.com",
-      "url": "https://36kr.com/newsflashes/4071598054822784?f=rss",
-      "published": "2026-11-15T23:28:30Z",
-      "description": "从一封道歉信到官宣辞任，短短数日，英伟达创始人黄仁勋的个人风波已经演变为一场席卷全球AI产业链的巨震。多家基金及相关机构认为，此次风波冲击的并非全球AI产业的长期需求，而是英伟达作为全球AI芯片龙头的确定性溢价。随着全球算力竞争格局加速重塑，产业链有望从“一枝独秀”走向“百花齐放”，国产算力也有望迎来重估契机。（证券时报）"
+      "title": "Suvendu slams TMC, CPM from ‘Hanuman Chalisa’ dais",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/suvendu-slams-tmc-cpm-from-hanuman-chalisa-dais/articleshow/135929502.cms",
+      "published": "2026-11-17T14:28:01Z",
+      "description": "Bengal CM Suvendu Adhikari slams Left and TMC at Kolkata Hanuman Chalisa event, urges youth pushback, and announces Dec 29 mass Gita recital."
     },
     {
-      "title": "36氪首发丨具身智能建筑机器人企业完成超亿级融资，连续三年订单复合增长率超100%",
-      "source": "36kr.com",
-      "url": "https://36kr.com/p/4070571639067782?f=rss",
-      "published": "2026-11-15T05:19:51Z",
-      "description": "图源/企业\n \n 本文约2700字，建议阅读7分钟\r\n\n \n 作者丨欧雪\n 编辑丨原斯来\n 硬氪获悉，建筑机器人公司上海蔚建科技有限公司（下称“蔚建科技”）已于近期完成第五轮融资，融资金额超亿元人民币，投资方为财通资本。本轮资金将主要用于生产制造、海外市场开拓、产品和具身智能技术持续研发投入。\n 蔚建科技成立于2020年6月，是全球建筑机器人领域少数实现规模化商业落地的企业之一。\n 蔚建科技创始人"
+      "title": "IISER Bhopal team develops carbon killer for cutting edge in pollution fight",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/bhopal/iiser-bhopal-team-develops-carbon-killer-for-cutting-edge-in-pollution-fight/articleshow/135929459.cms",
+      "published": "2026-11-17T14:26:13Z",
+      "description": "IISER Bhopal develops PAN-graphene hollow-fibre membrane to capture CO2 from industrial flue gas, showing stable 60-day performance and scale-up potential."
     },
     {
-      "title": "Singapore Makes a $65 Billion Bet on the Future of Gold",
-      "source": "OilPrice.com",
-      "url": "https://oilprice.com/Metals/Gold/Singapore-Makes-a-65-Billion-Bet-on-the-Future-of-Gold.html",
-      "published": "2026-11-14T18:00:00Z",
-      "description": "For three years, the gold story was about who was buying. In 2026, it has become a story about where the metal sleeps at night. On Tuesday, the Monetary Authority of Singapore opened its national curr"
+      "title": "Akal Takht panel warns of Sikh resentment, seeks immediate stay on Punjab's amended sacrilege law",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/amritsar/akal-takht-panel-warns-of-sikh-resentment-seeks-immediate-stay-on-punjabs-amended-sacrilege-law/articleshow/135929307.cms",
+      "published": "2026-11-17T14:25:51Z",
+      "description": "The expert committee from Akal Takht has expressed discontent with the Punjab government's amendment on Guru Granth Sahib. They warned that the law deepens resentment within the Sikh community and req"
     },
     {
-      "title": "Bullion Cues: Bears hold sway",
-      "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/portfolio/commodity-analysis/bullion-cues-bears-hold-sway/article71701377.ece",
-      "published": "2026-11-14T16:25:23Z",
-      "description": "Gold and silver face further declines amid a strong dollar, with key domestic supports tested and potential rebounds blocked by resistance."
+      "title": "Why you should invest in gold for 2027",
+      "source": "CBS News",
+      "url": "https://www.cbsnews.com/news/why-invest-in-gold-2027/",
+      "published": "2026-11-17T14:21:44Z",
+      "description": "A gold investment heading into the new year makes a lot of sense. Here's what investors should consider now."
     },
     {
-      "title": "一周世界舆论聚焦：黄仁勋的陨落与APEC峰会",
-      "source": "Ftchinese.com",
-      "url": "https://www.ftchinese.com/story/001111370",
-      "published": "2026-11-14T16:00:00Z",
-      "description": "更新于2026年11月15日 20:18\nFT中文网专栏作家曹辛\n\r\n\n\n\n上周，黄仁勋的陨落和即将召开的APEC峰会上中美俄会晤的核心议题及峰会前景，引发世界舆论关注，成为被聚焦的核心。\r\n\n黄仁勋被拉下神坛，本质上涉及政治、私生活和公司治理的关系。本周APEC会议上中美俄会晤的核心议题和峰会前景，则将牵动世界的走向。\r\n\n黄仁勋事件的本质\r\n\n黄仁勋事件涉及私生活和公司治理的关系问题，也可能会"
+      "title": "What's taking the shine off gold and silver?",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/toi-plus/wealth/whats-taking-the-shine-off-gold-and-silver/articleshow/135927266.cms",
+      "published": "2026-11-17T13:26:30Z",
+      "description": "Gold prices are down nearly 25% while silver prices have plummeted further. None of the factors driving demand for the metals have changed, so why did prices fall?"
     }
   ],
   "tweets": []
