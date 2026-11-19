@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-11-18 14:54:12 UTC",
+  "updated_at": "2026-11-19 14:59:57 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 3767.97,
+      "price_usd": 3705.93,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 45.31,
+      "price_usd": 45.33,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1369.22,
+      "price_usd": 1375.78,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 953.19,
+      "price_usd": 934.64,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.5,
+      "price_usd": 0.49,
       "unit": "USD/吨 mt"
     },
     {
@@ -70,80 +70,80 @@
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.41,
+      "price_usd": 0.4,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Man held for spiking woman’s drink, sexually assaulting her",
+      "title": "Install CCTV cameras at critical points, Christian bodies urge Bengal churches",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/man-held-for-spiking-womans-drink-sexually-assaulting-her/articleshow/135930288.cms",
-      "published": "2026-11-17T14:52:50Z",
-      "description": "Bhubaneswar man arrested for allegedly spiking friend’s drink, sexually assaulting her, and sharing photos online; case transferred from Nayagarh after zero FIR."
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/install-cctv-cameras-at-critical-points-christian-bodies-urge-bengal-churches/articleshow/135966325.cms",
+      "published": "2026-11-18T14:58:29Z",
+      "description": "Bengal Christian groups urge churches to install CCTV amid alleged attacks; ask state action, cite 50 incidents, and urge BJP to stop conversion accusations."
     },
     {
-      "title": "Make PM’s Vaishali rally historic: Dy CM",
+      "title": "CM presents Rs 24,150 crore supplementary budget",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/patna/make-pms-vaishali-rally-historic-dy-cm/articleshow/135930251.cms",
-      "published": "2026-11-17T14:50:50Z",
-      "description": "Deputy CM Vijay Kumar Choudhary urges massive turnout for PM Modi’s Nov 21 Vaishali rally, where he will inaugurate the Kachchi Dargah-Bidupur ‘Nitish Setu’ bridge."
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/cm-presents-rs-24150-crore-supplementary-budget/articleshow/135966289.cms",
+      "published": "2026-11-18T14:55:18Z",
+      "description": "Odisha CM Mohan Charan Majhi tables Rs 24,150-crore 2026-27 supplementary budget, prioritising food subsidy, free education, women’s aid, farmers’ subsidy."
     },
     {
-      "title": "Gold price in Keralam drops below Rs 1 lakh after record highs",
+      "title": "Bengaluru-based Shikshagraha’s #TumBolo 1 million voices on education debate",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kochi/gold-price-in-keralam-drops-below-rs-1-lakh-after-record-highs/articleshow/135929979.cms",
-      "published": "2026-11-17T14:43:43Z",
-      "description": "Gold prices in Kerala fell below Rs 1 lakh to Rs 99,760 per sovereign after a 31% global correction; weak rupee limited the drop, impacting buyers, jewellers and gold loans."
+      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-based-shikshagrahas-tumbolo-1-million-voices-on-education-debate/articleshow/135966265.cms",
+      "published": "2026-11-18T14:54:10Z",
+      "description": "Shikshagraha launches #TumBolo campaign to gather 1 million multilingual responses on skills youth need, via website, IVR and AI bot, supporting NEP 2020 goals."
     },
     {
-      "title": "Comments misconstrued, says Abhishek Banerjee after HC slaps show-cause notice, goes on to highlight alleged inequality before judiciary on political lines",
+      "title": "Madras HC directs TN govt not to open any new Tasmac shops",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/comments-misconstrued-says-abhishek-banerjee-after-hc-slaps-show-cause-notice-goes-on-to-highlight-alleged-inequality-before-judiciary-on-political-lines/articleshow/135929761.cms",
-      "published": "2026-11-17T14:38:24Z",
-      "description": "Comments misconstrued, says Abhishek Banerjee after HC slaps show-cause notice, goes on to highlight alleged inequality before judiciary on political lines"
+      "url": "https://timesofindia.indiatimes.com/city/madurai/madras-hc-directs-tn-govt-not-to-open-any-new-tasmac-shops/articleshow/135966209.cms",
+      "published": "2026-11-18T14:50:24Z",
+      "description": "Madras High Court directs Tamil Nadu govt not to open new Tasmac shops, citing public interest, after PIL opposing a proposed outlet in Trichy village."
     },
     {
-      "title": "New James Bond star Robert Pattinson's watch collection: Cartier Tank Must to a Rolex Day-Date, 11 luxury timepieces linked to the actor",
+      "title": "Census to begin in Bihar on Jan 25: Minister",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/entertainment/english/hollywood/news/new-james-bond-star-robert-pattinsons-watch-collection-cartier-tank-must-to-a-rolex-day-date-11-luxury-timepieces-linked-to-the-actor/articleshow/135929657.cms",
-      "published": "2026-11-17T14:37:27Z",
-      "description": "Robert Pattinson is known for his distinctive style, which is beautifully complemented by his collection of luxury watches. This article delves into eleven outstanding pieces from his portfolio, featu"
+      "url": "https://timesofindia.indiatimes.com/city/patna/census-to-begin-in-bihar-on-jan-25-minister/articleshow/135966194.cms",
+      "published": "2026-11-18T14:48:47Z",
+      "description": "Bihar to begin 2027 Census door-to-door enumeration Jan 25–Feb 28, with self-enumeration available online Jan 10–24, says minister Dilip Kumar Jaiswal."
     },
     {
-      "title": "Suvendu slams TMC, CPM from ‘Hanuman Chalisa’ dais",
+      "title": "Lynched constable’s family wants probe handed over to CBI",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/suvendu-slams-tmc-cpm-from-hanuman-chalisa-dais/articleshow/135929502.cms",
-      "published": "2026-11-17T14:28:01Z",
-      "description": "Bengal CM Suvendu Adhikari slams Left and TMC at Kolkata Hanuman Chalisa event, urges youth pushback, and announces Dec 29 mass Gita recital."
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/lynched-constables-family-wants-probe-handed-over-to-cbi/articleshow/135966171.cms",
+      "published": "2026-11-18T14:47:31Z",
+      "description": "Family of lynched railway constable Soumya Ranjan Swain in Bhubaneswar demands CBI probe, alleging conspiracy; crime branch says investigation is on track."
     },
     {
-      "title": "IISER Bhopal team develops carbon killer for cutting edge in pollution fight",
+      "title": "Bengal brings back central agencies for state projects",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bhopal/iiser-bhopal-team-develops-carbon-killer-for-cutting-edge-in-pollution-fight/articleshow/135929459.cms",
-      "published": "2026-11-17T14:26:13Z",
-      "description": "IISER Bhopal develops PAN-graphene hollow-fibre membrane to capture CO2 from industrial flue gas, showing stable 60-day performance and scale-up potential."
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/bengal-brings-back-central-agencies-for-state-projects/articleshow/135966114.cms",
+      "published": "2026-11-18T14:43:21Z",
+      "description": "Bengal govt restores CPWD, NBCC, RITES and EIL eligibility to execute state infrastructure projects, mandating e-tendering/GeM use and CVC guidelines."
     },
     {
-      "title": "Akal Takht panel warns of Sikh resentment, seeks immediate stay on Punjab's amended sacrilege law",
+      "title": "Vigilance seizes illegal collections from temple barbers",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/amritsar/akal-takht-panel-warns-of-sikh-resentment-seeks-immediate-stay-on-punjabs-amended-sacrilege-law/articleshow/135929307.cms",
-      "published": "2026-11-17T14:25:51Z",
-      "description": "The expert committee from Akal Takht has expressed discontent with the Punjab government's amendment on Guru Granth Sahib. They warned that the law deepens resentment within the Sikh community and req"
+      "url": "https://timesofindia.indiatimes.com/city/madurai/vigilance-seizes-illegal-collections-from-temple-barbers/articleshow/135966113.cms",
+      "published": "2026-11-18T14:43:07Z",
+      "description": "DVAC raid at Irukkankudi Mariamman temple tonsure hall seizes ₹59,600 from barbers allegedly collecting fees despite free tonsure scheme; ₹60 crore works probed."
     },
     {
-      "title": "Why you should invest in gold for 2027",
-      "source": "CBS News",
-      "url": "https://www.cbsnews.com/news/why-invest-in-gold-2027/",
-      "published": "2026-11-17T14:21:44Z",
-      "description": "A gold investment heading into the new year makes a lot of sense. Here's what investors should consider now."
+      "title": "Uttam Criticises BRS Over Water Crisis, Says State Has Already Flagged AP’s 1.8 TMC Drinking Water Scheme",
+      "source": "The Times of India",
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/uttam-criticises-brs-over-water-crisis-says-state-has-already-flagged-aps-1-8-tmc-drinking-water-scheme/articleshow/135966092.cms",
+      "published": "2026-11-18T14:40:33Z",
+      "description": "Telangana irrigation minister Uttam Kumar Reddy slams BRS on water crisis, objects to AP plan to draw 1.8 TMC from Nagarjuna Sagar; seeks 555 TMC share."
     },
     {
-      "title": "What's taking the shine off gold and silver?",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/toi-plus/wealth/whats-taking-the-shine-off-gold-and-silver/articleshow/135927266.cms",
-      "published": "2026-11-17T13:26:30Z",
-      "description": "Gold prices are down nearly 25% while silver prices have plummeted further. None of the factors driving demand for the metals have changed, so why did prices fall?"
+      "title": "Gold, silver prices in Indian markets crash to nearly a year’s low",
+      "source": "BusinessLine",
+      "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-prices-in-indian-markets-crash-to-nearly-a-years-low/article71714989.ece",
+      "published": "2026-11-18T08:01:59Z",
+      "description": "Rates drop in line with global trend, where the precious metals have dropped to a 14-month low on strengthening dollar, hopes of US Fed rate hike"
     }
   ],
   "tweets": []
