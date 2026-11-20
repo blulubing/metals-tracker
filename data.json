@@ -1,28 +1,28 @@
 {
-  "updated_at": "2026-11-19 14:59:57 UTC",
+  "updated_at": "2026-11-20 14:42:28 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 3705.93,
+      "price_usd": 3570.6,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 45.33,
+      "price_usd": 42.04,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1375.78,
+      "price_usd": 1320.11,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 934.64,
+      "price_usd": 895.69,
       "unit": "USD/盎司 oz"
     },
     {
@@ -40,7 +40,7 @@
     {
       "code": "nickel",
       "name": "镍 Nickel",
-      "price_usd": 0.49,
+      "price_usd": 0.48,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.5,
+      "price_usd": 0.49,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.4,
+      "price_usd": 0.39,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Install CCTV cameras at critical points, Christian bodies urge Bengal churches",
+      "title": "Skyroot partners With Exolaunch, HEX20, OhmSpace for 3-nation mission on second Vikram-1 test flight",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/install-cctv-cameras-at-critical-points-christian-bodies-urge-bengal-churches/articleshow/135966325.cms",
-      "published": "2026-11-18T14:58:29Z",
-      "description": "Bengal Christian groups urge churches to install CCTV amid alleged attacks; ask state action, cite 50 incidents, and urge BJP to stop conversion accusations."
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/skyroot-partners-exolaunch-hex20-ohmspace-in-4-way-collaboration-for-second-vikram-1-test-flight/articleshow/135996079.cms",
+      "published": "2026-11-19T14:41:22Z",
+      "description": "Skyroot’s Vikram-1 second test flight to carry HEX20 NILA III and Skyroot SCOPE via Exolaunch deployer, with OhmSpace resistojet demo; date/orbit unlisted."
     },
     {
-      "title": "CM presents Rs 24,150 crore supplementary budget",
+      "title": "Mahua alleges BJP supporters attacked car, accuses cops of inaction",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/cm-presents-rs-24150-crore-supplementary-budget/articleshow/135966289.cms",
-      "published": "2026-11-18T14:55:18Z",
-      "description": "Odisha CM Mohan Charan Majhi tables Rs 24,150-crore 2026-27 supplementary budget, prioritising food subsidy, free education, women’s aid, farmers’ subsidy."
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/mahua-alleges-bjp-supporters-attacked-car-accuses-cops-of-inaction/articleshow/135995896.cms",
+      "published": "2026-11-19T14:39:56Z",
+      "description": "Mahua Moitra alleges BJP supporters attacked her convoy in Nadia’s Kaliganj; claims police failed to provide court-mandated security. Complaint filed, no arrests."
     },
     {
-      "title": "Bengaluru-based Shikshagraha’s #TumBolo 1 million voices on education debate",
+      "title": "Railways cancels 39 trains, rejigs timings of 28",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bengaluru/bengaluru-based-shikshagrahas-tumbolo-1-million-voices-on-education-debate/articleshow/135966265.cms",
-      "published": "2026-11-18T14:54:10Z",
-      "description": "Shikshagraha launches #TumBolo campaign to gather 1 million multilingual responses on skills youth need, via website, IVR and AI bot, supporting NEP 2020 goals."
+      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/railways-cancels-39-trains-rejigs-timings-of-28/articleshow/135995920.cms",
+      "published": "2026-11-19T14:37:59Z",
+      "description": "Indian Railways cancels 39 trains, reschedules 28 due to Cyclone Akvan landfall; Vande Bharat, express and MEMU services hit across Odisha routes."
     },
     {
-      "title": "Madras HC directs TN govt not to open any new Tasmac shops",
+      "title": "HC clarifies no stay on ban on service charge",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/madurai/madras-hc-directs-tn-govt-not-to-open-any-new-tasmac-shops/articleshow/135966209.cms",
-      "published": "2026-11-18T14:50:24Z",
-      "description": "Madras High Court directs Tamil Nadu govt not to open new Tasmac shops, citing public interest, after PIL opposing a proposed outlet in Trichy village."
+      "url": "https://timesofindia.indiatimes.com/city/delhi/hc-clarifies-no-stay-on-ban-on-service-charge/articleshow/135995902.cms",
+      "published": "2026-11-19T14:37:01Z",
+      "description": "Delhi HC says there’s no interim stay on the ban on mandatory restaurant service charges; Centre can act against violators as appeals are admitted."
     },
     {
-      "title": "Census to begin in Bihar on Jan 25: Minister",
+      "title": "HC refuses interim relief to Sumit",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/patna/census-to-begin-in-bihar-on-jan-25-minister/articleshow/135966194.cms",
-      "published": "2026-11-18T14:48:47Z",
-      "description": "Bihar to begin 2027 Census door-to-door enumeration Jan 25–Feb 28, with self-enumeration available online Jan 10–24, says minister Dilip Kumar Jaiswal."
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/hc-refuses-interim-relief-to-sumit/articleshow/135995892.cms",
+      "published": "2026-11-19T14:36:35Z",
+      "description": "Calcutta High Court denies interim relief to Sumit Roy, aide of TMC MP Abhishek Banerjee, in four cases; cites BNSS remedy as he is already in custody."
     },
     {
-      "title": "Lynched constable’s family wants probe handed over to CBI",
+      "title": "Sundarbans to Buxa, conservation lessons emerge at wildlife lecture in Kolkata",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/lynched-constables-family-wants-probe-handed-over-to-cbi/articleshow/135966171.cms",
-      "published": "2026-11-18T14:47:31Z",
-      "description": "Family of lynched railway constable Soumya Ranjan Swain in Bhubaneswar demands CBI probe, alleging conspiracy; crime branch says investigation is on track."
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/sundarbans-to-buxa-conservation-lessons-emerge-at-wildlife-lecture-in-kolkata/articleshow/135995819.cms",
+      "published": "2026-11-19T14:34:42Z",
+      "description": "Kolkata lecture highlights Project Tiger origins, Indira Gandhi’s role in adding Sundarbans, Buxa reintroduction lapses, Ranthambhore revival, and need to protect other species."
     },
     {
-      "title": "Bengal brings back central agencies for state projects",
+      "title": "HP min’s remark on Op Sindoor leads to furore at HP Assembly",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/bengal-brings-back-central-agencies-for-state-projects/articleshow/135966114.cms",
-      "published": "2026-11-18T14:43:21Z",
-      "description": "Bengal govt restores CPWD, NBCC, RITES and EIL eligibility to execute state infrastructure projects, mandating e-tendering/GeM use and CVC guidelines."
+      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hp-mins-remark-on-op-sindoor-leads-to-furore-at-hp-assembly/articleshow/135995681.cms",
+      "published": "2026-11-19T14:31:17Z",
+      "description": "HP Assembly saw clashes after BJP accused minister Jagat Singh Negi of derogatory Op Sindoor remarks; CM ordered senior-cop probe into Bilaspur girls’ deaths."
     },
     {
-      "title": "Vigilance seizes illegal collections from temple barbers",
+      "title": "Instagram removes another World Hindu Congress video: Organisers allege bias, seek Maharashtra govt intervention",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/madurai/vigilance-seizes-illegal-collections-from-temple-barbers/articleshow/135966113.cms",
-      "published": "2026-11-18T14:43:07Z",
-      "description": "DVAC raid at Irukkankudi Mariamman temple tonsure hall seizes ₹59,600 from barbers allegedly collecting fees despite free tonsure scheme; ₹60 crore works probed."
+      "url": "https://timesofindia.indiatimes.com/city/mumbai/instagram-removes-another-world-hindu-congress-video-organisers-allege-bias-seek-maharashtra-govt-intervention/articleshow/135995035.cms",
+      "published": "2026-11-19T14:27:41Z",
+      "description": "A dispute has arisen regarding Instagram's removal of promotional content for the World Hindu Congress. Organisers claim that their outreach to young Hindus has been undermined by repeated content tak"
     },
     {
-      "title": "Uttam Criticises BRS Over Water Crisis, Says State Has Already Flagged AP’s 1.8 TMC Drinking Water Scheme",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/uttam-criticises-brs-over-water-crisis-says-state-has-already-flagged-aps-1-8-tmc-drinking-water-scheme/articleshow/135966092.cms",
-      "published": "2026-11-18T14:40:33Z",
-      "description": "Telangana irrigation minister Uttam Kumar Reddy slams BRS on water crisis, objects to AP plan to draw 1.8 TMC from Nagarjuna Sagar; seeks 555 TMC share."
+      "title": "Gold's bad year is getting worse. Why its price keeps falling",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
+      "published": "2026-11-19T13:37:52Z",
+      "description": "Gold has fallen sharply from its January record as higher interest rates and a stronger dollar change the investment case for the precious metal."
     },
     {
-      "title": "Gold, silver prices in Indian markets crash to nearly a year’s low",
+      "title": "Nifty claws back 286 points; Bank Nifty scales fresh all-time high on Auto, Banking surge",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/gold/gold-silver-prices-in-indian-markets-crash-to-nearly-a-years-low/article71714989.ece",
-      "published": "2026-11-18T08:01:59Z",
-      "description": "Rates drop in line with global trend, where the precious metals have dropped to a 14-month low on strengthening dollar, hopes of US Fed rate hike"
+      "url": "https://www.thehindubusinessline.com/markets/nifty-claws-back-286-points-bank-nifty-scales-fresh-all-time-high-on-auto-banking-surge/article71719944.ece",
+      "published": "2026-11-19T11:30:42Z",
+      "description": "Nifty climbs 286 points, Bank Nifty hits new high amid auto/banking rally; IT slips as markets rebound on sector strength and macro cues."
     }
   ],
   "tweets": []
