@@ -1,34 +1,34 @@
 {
-  "updated_at": "2026-11-20 14:42:28 UTC",
+  "updated_at": "2026-11-21 13:58:37 UTC",
   "prices": [
     {
       "code": "gold",
       "name": "黄金 Gold",
-      "price_usd": 3570.6,
+      "price_usd": 3539.64,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "silver",
       "name": "白银 Silver",
-      "price_usd": 42.04,
+      "price_usd": 41.25,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "platinum",
       "name": "铂 Platinum",
-      "price_usd": 1320.11,
+      "price_usd": 1296.6,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "palladium",
       "name": "钯 Palladium",
-      "price_usd": 895.69,
+      "price_usd": 887.47,
       "unit": "USD/盎司 oz"
     },
     {
       "code": "copper",
       "name": "铜 Copper",
-      "price_usd": 0.39,
+      "price_usd": 0.38,
       "unit": "USD/吨 mt"
     },
     {
@@ -64,86 +64,86 @@
     {
       "code": "lme_nickel",
       "name": "LME镍 Nickel 3M",
-      "price_usd": 0.49,
+      "price_usd": 0.48,
       "unit": "USD/吨 mt"
     },
     {
       "code": "lme_copper",
       "name": "LME铜 Copper 3M",
-      "price_usd": 0.39,
+      "price_usd": 0.38,
       "unit": "USD/吨 mt"
     }
   ],
   "news": [
     {
-      "title": "Skyroot partners With Exolaunch, HEX20, OhmSpace for 3-nation mission on second Vikram-1 test flight",
+      "title": "Bengal can emerge as eastern India’s manufacturing hub: Report",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/hyderabad/skyroot-partners-exolaunch-hex20-ohmspace-in-4-way-collaboration-for-second-vikram-1-test-flight/articleshow/135996079.cms",
-      "published": "2026-11-19T14:41:22Z",
-      "description": "Skyroot’s Vikram-1 second test flight to carry HEX20 NILA III and Skyroot SCOPE via Exolaunch deployer, with OhmSpace resistojet demo; date/orbit unlisted."
+      "url": "https://timesofindia.indiatimes.com/city/kolkata/bengal-can-emerge-as-eastern-indias-manufacturing-hub-report/articleshow/136029726.cms",
+      "published": "2026-11-20T13:51:53Z",
+      "description": "Primus Partners-ASSOCHAM report says West Bengal can become an eastern manufacturing and export hub, urging tech-led value addition and 10 reforms to boost competitiveness."
     },
     {
-      "title": "Mahua alleges BJP supporters attacked car, accuses cops of inaction",
+      "title": "Trump's tariff advantage for India is no favour: Why US cannot afford to lose New Delhi",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/mahua-alleges-bjp-supporters-attacked-car-accuses-cops-of-inaction/articleshow/135995896.cms",
-      "published": "2026-11-19T14:39:56Z",
-      "description": "Mahua Moitra alleges BJP supporters attacked her convoy in Nadia’s Kaliganj; claims police failed to provide court-mandated security. Complaint filed, no arrests."
+      "url": "https://timesofindia.indiatimes.com/business/india-business/trumps-tariff-advantage-for-india-is-no-favour-why-us-cannot-afford-to-lose-new-delhi/articleshow/136028739.cms",
+      "published": "2026-11-20T13:44:18Z",
+      "description": "India is in active talks with the US regarding a new trade agreement that promises tariff benefits for Indian exports. These discussions, which began in February 2025, highlight India's rising signifi"
     },
     {
-      "title": "Railways cancels 39 trains, rejigs timings of 28",
+      "title": "Lawrence Bishnoi, Goldy Brar gang links emerge after UP encounter kills alleged arms supplier Wahid Ansari",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/bhubaneswar/railways-cancels-39-trains-rejigs-timings-of-28/articleshow/135995920.cms",
-      "published": "2026-11-19T14:37:59Z",
-      "description": "Indian Railways cancels 39 trains, reschedules 28 due to Cyclone Akvan landfall; Vande Bharat, express and MEMU services hit across Odisha routes."
+      "url": "https://timesofindia.indiatimes.com/city/lucknow/lawrence-bishnoi-goldy-brar-gang-links-emerge-after-up-encounter-kills-alleged-arms-supplier-wahid-ansari/articleshow/136028451.cms",
+      "published": "2026-11-20T13:42:06Z",
+      "description": "Wahid Ansari, a contract killer and illegal arms supplier, was involved with organized crime networks. After returning from Muscat, he participated in criminal activities for nearly a decade. He was k"
     },
     {
-      "title": "HC clarifies no stay on ban on service charge",
+      "title": "Fresh FIR against ex-U'khand minister Harak Singh Rawat over sexual assault case; woman seeks DNA test to establish paternity of 23-year-old son",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/delhi/hc-clarifies-no-stay-on-ban-on-service-charge/articleshow/135995902.cms",
-      "published": "2026-11-19T14:37:01Z",
-      "description": "Delhi HC says there’s no interim stay on the ban on mandatory restaurant service charges; Centre can act against violators as appeals are admitted."
+      "url": "https://timesofindia.indiatimes.com/city/guwahati/fresh-fir-against-ex-ukhand-minister-harak-singh-rawat-over-sexual-assault-case-woman-seeks-dna-test-to-establish-paternity-of-23-year-old-son/articleshow/136028581.cms",
+      "published": "2026-11-20T13:39:36Z",
+      "description": "After a staggering 23 years of silence, a woman has come forward to file a complaint against former minister Harak Singh Rawat, seeking a new DNA test to ascertain the paternity of her son. The seriou"
     },
     {
-      "title": "HC refuses interim relief to Sumit",
+      "title": "Law Students Should Reach Out to Villages, Support Farmers: Bhoomi Sunil",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/hc-refuses-interim-relief-to-sumit/articleshow/135995892.cms",
-      "published": "2026-11-19T14:36:35Z",
-      "description": "Calcutta High Court denies interim relief to Sumit Roy, aide of TMC MP Abhishek Banerjee, in four cases; cites BNSS remedy as he is already in custody."
+      "url": "https://timesofindia.indiatimes.com/city/hyderabad/law-students-should-reach-out-to-villages-support-farmers-bhoomi-sunil/articleshow/136029325.cms",
+      "published": "2026-11-20T13:39:00Z",
+      "description": "LEAFS founder M Sunil Kumar urges Telangana law students to visit villages and offer free legal aid to farmers on land and agricultural law issues."
     },
     {
-      "title": "Sundarbans to Buxa, conservation lessons emerge at wildlife lecture in Kolkata",
+      "title": "‘Rural voters have sent BJP a clear message’: Congress wins 14 of 22 Panchayat Samitis in Jaipur",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/kolkata/sundarbans-to-buxa-conservation-lessons-emerge-at-wildlife-lecture-in-kolkata/articleshow/135995819.cms",
-      "published": "2026-11-19T14:34:42Z",
-      "description": "Kolkata lecture highlights Project Tiger origins, Indira Gandhi’s role in adding Sundarbans, Buxa reintroduction lapses, Ranthambhore revival, and need to protect other species."
+      "url": "https://timesofindia.indiatimes.com/city/jaipur/rural-voters-have-sent-bjp-a-clear-message-congress-wins-14-of-22-panchayat-samitis-in-jaipur/articleshow/136027735.cms",
+      "published": "2026-11-20T13:30:11Z",
+      "description": "In the recent Rajasthan Panchayati Raj elections, the Congress secured a majority in 14 Panchayat Samitis. The BJP managed to win only two Samitis, Chomu and Sambhar, while RLP won Sanganer. Ashok Geh"
     },
     {
-      "title": "HP min’s remark on Op Sindoor leads to furore at HP Assembly",
+      "title": "Texas appeals court restores $630,603 award in family dispute over mother's gold and silver coins",
       "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/chandigarh/hp-mins-remark-on-op-sindoor-leads-to-furore-at-hp-assembly/articleshow/135995681.cms",
-      "published": "2026-11-19T14:31:17Z",
-      "description": "HP Assembly saw clashes after BJP accused minister Jagat Singh Negi of derogatory Op Sindoor remarks; CM ordered senior-cop probe into Bilaspur girls’ deaths."
+      "url": "https://timesofindia.indiatimes.com/world/us/a-texas-woman-alleged-her-three-brothers-divided-gold-and-silver-coins-from-their-mothers-safe-while-she-was-in-hospice-a-jury-valued-the-coins-at-630603-and-a-november-19-appeals-court-restored-its-damages-finding/articleshow/136024993.cms",
+      "published": "2026-11-20T11:58:41Z",
+      "description": "In a surprising turn of events, a Texas appeals court has reinstated a jury's decision in a contentious family dispute over valuable gold and silver coins. These coins were allegedly removed from thei"
     },
     {
-      "title": "Instagram removes another World Hindu Congress video: Organisers allege bias, seek Maharashtra govt intervention",
-      "source": "The Times of India",
-      "url": "https://timesofindia.indiatimes.com/city/mumbai/instagram-removes-another-world-hindu-congress-video-organisers-allege-bias-seek-maharashtra-govt-intervention/articleshow/135995035.cms",
-      "published": "2026-11-19T14:27:41Z",
-      "description": "A dispute has arisen regarding Instagram's removal of promotional content for the World Hindu Congress. Organisers claim that their outreach to young Hindus has been undermined by repeated content tak"
-    },
-    {
-      "title": "Gold's bad year is getting worse. Why its price keeps falling",
+      "title": "Tech wreck drags Anthropic into the red on its second day of trading",
       "source": "CNBC",
-      "url": "https://www.cnbc.com/2026/11/19/gold-prices-fall-fed-rates-dollar.html",
-      "published": "2026-11-19T13:37:52Z",
-      "description": "Gold has fallen sharply from its January record as higher interest rates and a stronger dollar change the investment case for the precious metal."
+      "url": "https://www.cnbc.com/2026/11/20/tech-wreck-drags-anthropic-into-the-red-on-its-second-day-of-trading.html",
+      "published": "2026-11-20T11:26:37Z",
+      "description": "Nasdaq futures trade lower after steep declines extend across global tech stocks"
     },
     {
-      "title": "Nifty claws back 286 points; Bank Nifty scales fresh all-time high on Auto, Banking surge",
+      "title": "Gold and silver allocation: DSP Mutual Fund announces change in stance for DSP Multi Asset Omni Fund of Funds — Details",
+      "source": "Livemint",
+      "url": "https://www.livemint.com/money/gold-silver-allocation-dsp-mutual-fund-change-stance-dsp-multi-asset-omni-fund-of-funds-details-11795162151674.html",
+      "published": "2026-11-20T09:10:13Z",
+      "description": "DSP Mutual Fund plans to gradually raise gold and silver holdings in its Multi Asset Omni Fund of Funds, which has been underweight on precious metals. It will use a rules-based strategy, here's how…&"
+    },
+    {
+      "title": "Nifty hits 10-month high at midday; Apollo Hospitals, Axis Bank lead rally",
       "source": "BusinessLine",
-      "url": "https://www.thehindubusinessline.com/markets/nifty-claws-back-286-points-bank-nifty-scales-fresh-all-time-high-on-auto-banking-surge/article71719944.ece",
-      "published": "2026-11-19T11:30:42Z",
-      "description": "Nifty climbs 286 points, Bank Nifty hits new high amid auto/banking rally; IT slips as markets rebound on sector strength and macro cues."
+      "url": "https://www.thehindubusinessline.com/markets/nifty-hits-10-month-high-at-midday-apollo-hospitals-axis-bank-lead-rally/article71723518.ece",
+      "published": "2026-11-20T07:30:11Z",
+      "description": "Sensex jumps 759 points and Nifty hits a 10-month high after reversing opening losses, as banking and IT stocks lead gains while metals remain under pressure."
     }
   ],
   "tweets": []
